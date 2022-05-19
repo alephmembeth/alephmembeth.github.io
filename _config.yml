@@ -1,6 +1,6 @@
 title: Minimal theme
-logo: /assets/img/amb_spiceestew_2.png
+logo: /assets/img/amb_4se4gull
 description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
