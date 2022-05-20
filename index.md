@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy and a research associate at the research group »Need-Based Justice and Distribution Procedures« (FOR 2104) of the German Research Foundation (DFG), where I am concerned with questions of distributive justice between normative theory and empirical social research, focussing especially on need-based distributive justice.
+Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy and a research associate at the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG), where I am concerned with questions of distributive justice between normative theory and empirical social research, focussing especially on need-based distributive justice.
 
 <dl>
    <dt>Areas of Specialisation:</dt>
@@ -21,7 +21,7 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
    <summary>Journals</summary>
    <br>
    <ol reversed>
-      <li>Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): »Verschwörungserzählungen«. Special issue of _Zeitschrift für Praktische Philosophie_. [Link](https://www.praktische-philosophie.org/zfpp/index)</li>
+      <li>Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_. [Link](https://www.praktische-philosophie.org/zfpp/index)</li>
    </ol>
 </details>
 
