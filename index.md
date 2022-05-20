@@ -15,14 +15,8 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 ---
 
+[Publications](./publications.md).
 
-[Link to another page](./publications.md).
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
