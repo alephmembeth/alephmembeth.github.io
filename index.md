@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<dl>
+   <dt>Areas of Specialisation:</dt>
+      <dd>Experimental Philosophy, Need-Based Distributive Justice</dd>
+   <dt>Areas of Competence:</dt>
+      <dd>Distributive Justice, Philosophy of Need</dd>
+   <dt>Areas of Interest:</dt>
+      <dd>Philosophy of Science, Philosophy of Language</dd>
+</dl>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
