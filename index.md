@@ -86,11 +86,15 @@ end
 * * *
 
 ### Here is an unordered list:
+<details>
+
+<summary>Heading</summary>
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
+</details>
 
 ### And an ordered list:
 
