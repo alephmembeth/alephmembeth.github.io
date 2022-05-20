@@ -72,7 +72,7 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 ---
 
-[Link to another page](./another-page.html).
+[Link to another page](./publications.md).
 
 ## Header 2
 
