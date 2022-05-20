@@ -20,6 +20,7 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 <details open>
    <summary>Journals</summary>
    <br>
+   
    + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_. [Link](https://www.praktische-philosophie.org/zfpp/index)
 </details>
 
