@@ -13,7 +13,17 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
       <dd>Philosophy of Science, Philosophy of Language</dd>
 </dl>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+---
+
+# Publications
+
+<details open>
+   <summary>Journals</summary>
+   <br>
+   <ol reversed>
+      <li>Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): »Verschwörungserzählungen«. Special issue of _Zeitschrift für Praktische Philosophie_. [Link](https://www.praktische-philosophie.org/zfpp/index)</li>
+   </ol>
+</details>
 
 [Link to another page](./another-page.html).
 
