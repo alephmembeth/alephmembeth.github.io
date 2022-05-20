@@ -48,6 +48,17 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 + Bauer, Alexander Max (2019): “‘Wahrheit ist, was uns verbindet’. Den Absolventinnen und Absolventen der Fakultät IV zum Geleit”. In: Alexander Max Bauer and Nils Baratella (eds.): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag, pp. 353-357. ([Link](http://oops.uni-oldenburg.de/4574/))
 + Bauer, Alexander Max (2019): “Gerechtigkeit und Bedürfnis. Perspektiven auf den Begriff des ‘Bedürfnisses’ vor dem Hintergrund der Bedarfsgerechtigkeit”. In: Alexander Max Bauer and Nils Baratella (eds.): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag, pp. 285-327. ([Link](http://oops.uni-oldenburg.de/4571/))
 
+## Prefaces, Introductions, and Epilogues
++ Bauer, Alexander Max, and Nils Baratella (2021): “Vorwort”. In: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag, p. 5. ([Link](http://oops.uni-oldenburg.de/5115/))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Epilogue. On Doxa and Aletheia”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter, pp. 337-342. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-017/))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Introduction”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter, pp. 1-10. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-004/))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Preface”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter, pp. VII-VIII. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-002/))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (2019): “Epilog. Zwischen doxa und aletheia”. In: id. (eds.): _Philosophie zwischen Sein und Sollen. Normative Theorie und empirische Forschung im Spannungsfeld_. Berlin and Boston: Walter de Gruyter, pp. 221-225. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613773-014/))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (2019): “Einleitung”. In: id. (eds.): _Philosophie zwischen Sein und Sollen. Normative Theorie und empirische Forschung im Spannungsfeld_. Berlin and Boston: Walter de Gruyter, pp. 1-11. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613773-003/))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (2019): “Vorwort”. In: id. (eds.): _Philosophie zwischen Sein und Sollen. Normative Theorie und empirische Forschung im Spannungsfeld_. Berlin and Boston: Walter de Gruyter, pp. XI-XII. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613773-002/))
++ Bauer, Alexander Max, and Nils Baratella (2019): “Vorwort”. In: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag, p. 5. ([Link](http://oops.uni-oldenburg.de/4557/))
+
+
 [Link to another page](./another-page.html).
 
 ## Header 2
