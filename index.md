@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy and a research associate at the research group »Need-Based Justice and Distribution Procedures« (FOR 2104) of the German Research Foundation (DFG), where I am concerned with questions of distributive justice between normative theory and empirical social research, focussing especially on need-based distributive justice.
+
 <dl>
    <dt>Areas of Specialisation:</dt>
       <dd>Experimental Philosophy, Need-Based Distributive Justice</dd>
@@ -108,20 +110,6 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
