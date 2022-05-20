@@ -15,7 +15,11 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 ---
 
-[Publications](./publications.md).
+[Publications](./publications.md)
+
+[Presentations](./publications.md)
+
+[Events](./events.md)
 
 
 ### Header 3
