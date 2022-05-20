@@ -20,7 +20,13 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 <details open>
    <summary>Journals</summary>
    
-   + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_. [Link](https://www.praktische-philosophie.org/zfpp/index)
+   + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_. ([Link](https://www.praktische-philosophie.org/zfpp/index))
+</details>
+
+<details open>
+   <summary>Contributions to Journals</summary>
+   
+   + Bauer, Alexander Max, Frauke Meyer, Jan Romann, Mark Siebel, and Stefan Traub (2022): “Need, Equity, and Accountability. Evidence on Third-Party Distribution Decisions from a Vignette Study”. _Social Choice and Welfare_. (peer reviewed) ([Link](https://link.springer.com/article/10.1007/s00355-022-01410-w))
 </details>
 
 [Link to another page](./another-page.html).
