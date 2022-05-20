@@ -21,6 +21,16 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 [Events](./events.md)
 
+---
+
+# News
+
++ 20/04/2022: [Lernen, mit der Freiheit umzugehen](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
++ 27/04/2020: [Sammelband “Empirical Research and Normative Theory” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
++ 25/09/2019: [Neuer Sammelband “Philosophie zwischen Sein und Sollen” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
++ 18/04/2019: [Besser schreiben im Tandem](https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250) (University of Oldenburg)
++ 08/12/2017: [Mind the gap. Zur Vermittlung normativer Theorie und empirischer Forschung](https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/) (Karl-Jaspers-Gesellschaft)
++ 02/07/2015: [Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über “Zeitbewusstsein und Sinn-Horizonte”](https://www.presse.uni-oldenburg.de/mit/2015/280.html) (University of Oldenburg)
 
 ### Header 3
 
