@@ -17,11 +17,11 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 # Publications
 
-### Journals
+## Journals
 
 + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_. ([Link](https://www.praktische-philosophie.org/zfpp/index))   
 
-### Contributions to Journals
+## Contributions to Journals
 
 + Bauer, Alexander Max, Frauke Meyer, Jan Romann, Mark Siebel, and Stefan Traub (2022): “Need, Equity, and Accountability. Evidence on Third-Party Distribution Decisions from a Vignette Study”. _Social Choice and Welfare_. (peer reviewed) ([Link](https://link.springer.com/article/10.1007/s00355-022-01410-w))
 + Bauer, Alexander Max, and Jan Romann (2022): “Answers at Gunpoint. On Livengood and Sytsma’s Revolver Case“. _Philosophy of Science_ 89 (1), pp. 180-192. (peer reviewed) ([Link](https://www.cambridge.org/core/journals/philosophy-of-science/article/answers-at-gunpoint-on-livengood-and-sytsmas-revolver-case/A02B16770F20B1321ACDFEAD44010589))
@@ -32,7 +32,13 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 + Bauer, Alexander Max (2017): “Axiomatische Überlegungen zu Grundlagen für Maße der Verteilungsgerechtigkeit am Beispiel von Bedarfsgerechtigkeit”. _“forsch!”, Studentisches Online-Journal der Universität Oldenburg_ 3 (1), pp. 23–42. (peer reviewed) ([Link](https://openjournal.uni-oldenburg.de/index.php/forsch/article/view/157/)
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2016): “Über die Frage, ob wir uns dazu entscheiden können, etwas zu glauben. Wider eines idealisierten Verständnisses des doxastischen Voluntarismus”. _“forsch!”, Studentisches Online-Journal der Universität Oldenburg_ 2 (2), pp. 10–21. (peer reviewed) ([Link](https://openjournal.uni-oldenburg.de/index.php/forsch/article/view/104/)
 
+## Edited Volumes
 
++ Bauer, Alexander Max, Gregor Damschen, and Mark Siebel (eds.) (forthcoming): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. ([Link](https://brill.com/view/title/59384))
++ Bauer, Alexander Max, and Nils Baratella (eds.) (2021): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (eds.) (2020) (paperback edition 2021): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797/))
++ Bauer, Alexander Max and Malte Ingo Meyerhuber (eds.) (2019) (paperback edition 2021): _Philosophie zwischen Sein und Sollen. Normative Theorie und empirische Forschung im Spannungsfeld_. Berlin and Boston: Walter de Gruyter. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613773/))
++ Bauer, Alexander Max, and Nils Baratella (eds.) (2019): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
 
 [Link to another page](./another-page.html).
 
