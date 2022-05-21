@@ -28,6 +28,7 @@ layout: default
 + Bauer, Alexander Max, and Nils Baratella (eds.) (2019): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
 
 ## Contributions to Edited Volumes
+
 + Bauer, Alexander Max (2021): “Babylonische Befindlichkeiten. Hans-Helmuth Bruns’ ‘Babel in Deutschland’”. In: Alexander Max Bauer and Nils Baratella (eds.): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag, pp. 283-290. ([Link](http://oops.uni-oldenburg.de/5127/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Two Worlds on the Brink of Colliding. On the Relationship Between Empirical Research and Normative Theory”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter, pp. 11-33. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-005/))
 + Bauer, Alexander Max (2019): “Zur Grundlegung empirisch informierter Maße der Bedarfsgerechtigkeit. Zwei Desiderata zwischen normativer Theorie, formaler Modellierung und empirischer Sozialforschung”. In: Alexander Max Bauer and Malte Ingo Meyerhuber (eds.): _Philosophie zwischen Sein und Sollen. Normative Theorie und empirische Forschung im Spannungsfeld_. Berlin and Boston: Walter de Gruyter, pp. 179-220. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613773-013/))
@@ -36,6 +37,7 @@ layout: default
 + Bauer, Alexander Max (2019): “Gerechtigkeit und Bedürfnis. Perspektiven auf den Begriff des ‘Bedürfnisses’ vor dem Hintergrund der Bedarfsgerechtigkeit”. In: Alexander Max Bauer and Nils Baratella (eds.): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag, pp. 285-327. ([Link](http://oops.uni-oldenburg.de/4571/))
 
 ## Prefaces, Introductions, and Epilogues
+
 + Bauer, Alexander Max, and Nils Baratella (2021): “Vorwort”. In: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag, p. 5. ([Link](http://oops.uni-oldenburg.de/5115/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Epilogue. On Doxa and Aletheia”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter, pp. 337-342. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-017/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Introduction”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter, pp. 1-10. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-004/))
@@ -46,6 +48,7 @@ layout: default
 + Bauer, Alexander Max, and Nils Baratella (2019): “Vorwort”. In: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag, p. 5. ([Link](http://oops.uni-oldenburg.de/4557/))
 
 ## Working Papers
+
 + Wyszynski, Marc, and Alexander Max Bauer (2022): “Give What You Can, Take What You Need. The Effect of Framing on Rule-Breaking Behavior in Social Dilemmas”. _FOR 2104 Working Paper_ 2022-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2022/01/2022-01.pdf))
 + Bauer, Alexander Max, Frauke Meyer, Jan Romann, Mark Siebel, and Stefan Traub (2020): “Need, Equity, and Accountability. Evidence on Third-Party Distributive Decisions from an Online Experiment”. _FOR 2104 Working Paper_ 2020-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2020-01.pdf))
 + Bauer, Alexander Max (2018): “Sated but Thirsty. Towards a Multidimensional Measure of Need-Based Justice”. _FOR 2104 Working Paper_ 2018-03. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2018-03.pdf))
@@ -54,5 +57,6 @@ layout: default
 + Traub, Stefan, Alexander Max Bauer, Mark Siebel, Nils Springhorn, and Arne Robert Weiß (2017): “On the Measurement of Need-Based Justice”. _FOR 2104 Working Paper_ 2017-12. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-12.pdf))
 
 ## Public Writing
+
 + Bauer, Alexander Max (2021): “The Revolver Case Revisited”. _xphiblog.com_. ([Link](https://xphiblog.com/revolver/))
 + Bauer, Alexander Max (2020): “‘Was mache ich hier überhaupt?’. Experimentelle Philosophie zwischen Lehnstuhl und Labor”. _philosophie.ch_ and _praefaktisch.de_. ([Link](https://www.philosophie.ch/beitraege/highlights/was-mache-ich-hier-ueberhaupt)) ([Link](https://www.praefaktisch.de/experimentelle-philosophie/was-mache-ich-hier-ueberhaupt-experimentelle-philosophie-zwischen-lehnstuhl-und-labor/))
