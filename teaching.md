@@ -4,6 +4,20 @@ layout: default
 
 # Teaching
 
+## Courses
+
++ Einführung in die Experimentelle Philosophie (winter term 2020/2021 at the University of Oldenburg; course on bachelor’s level; moved online due to coronavirus pandemic)
++ Reichtum als moralisches Problem (summer term 2020 at the University of Oldenburg; course on bachelor’s level; moved online due to coronavirus pandemic)
++ Ein Gestirn, auf dem kluge Tiere das Erkennen erfanden. Sprache und Erkenntnis in den frühen Schriften Nietzsches (winter term 2019/2020 at the University of Oldenburg; course on bachelor’s level)
++ Suffizientarismus. Zu einer Kritik der Unersättlichkeit (summer term 2019 at the University of Oldenburg; course on master’s level)
++ Sein und Sollen. Abgründe und Brücken zwischen empirischer Forschung und normativer Theorie (winter term 2018/2019 at the University of Oldenburg; course on bachelor’s level)
++ Eduard Beaucamp und die Leipziger Schule. Ästhetik zwischen Kontinuität und Bruch (winter term 2017/2018 at the University of Oldenburg; course on master’s level)
++ Operationalisierung von Verteilungsgerechtigkeit. Zur Grundlegung der Messbarkeit von Gerechtigkeit zwischen normativer Theorie und formaler Modellierung (summer term 2017 at the University of Oldenburg; course on master’s level)
++ Nietzsche. Frühe Schriften (winter term 2015/2016 at the University of Oldenburg; course on master’s level; jointly with Nils Baratella)
++ Einführung in die Praktische Philosophie (summer terms 2014 and 2015 at the University of Oldenburg; tutorial course on bachelor’s level accompanying the lectures of Martin Louis Vialon (summer term 2014) and Michael Städtler (summer term 2015))
++ Einführung in das wissenschaftliche Arbeiten (winter terms 2013/2014, 2014/2015, 2015/2016, 2016/2017, 2017/2018, and 2018/2019 at the University of Oldenburg; exercise for first year students; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019))
++ Einführung in die Theoretische Philosophie (winter terms 2012/2013, 2013/2014, 2014/2015, 2015/2016, and 2016/2017 at the University of Oldenburg; tutorial course on bachelor’s level accompanying the lecture of Mark Siebel)
+
 ## Thesis Supervisions and Thesis Reviews
 
 + Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis at the University of Oldenburg; second reviewer: Susanne Möbuß)
