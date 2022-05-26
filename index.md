@@ -25,6 +25,7 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 # News
 
++ 24/05/2022:[Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
 + 20/04/2022: [Lernen, mit der Freiheit umzugehen](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
 + 27/04/2020: [Sammelband “Empirical Research and Normative Theory” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
 + 28/10/2019: [Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg](https://www.presse.uni-oldenburg.de/mit/2019/362.html) (University of Oldenburg)
