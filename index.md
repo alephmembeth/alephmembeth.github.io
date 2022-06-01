@@ -33,3 +33,5 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 + 18/04/2019: [Besser schreiben im Tandem](https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250) (University of Oldenburg)
 + 08/12/2017: [Mind the gap. Zur Vermittlung normativer Theorie und empirischer Forschung](https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/) (Karl-Jaspers-Gesellschaft)
 + 02/07/2015: [Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über “Zeitbewusstsein und Sinn-Horizonte”](https://www.presse.uni-oldenburg.de/mit/2015/280.html) (University of Oldenburg)
+
+* * *
