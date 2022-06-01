@@ -38,9 +38,9 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 # Get in Touch
 
-You can reach me at any time via alexander.max.bauer@uni-oldenburg.de. With a little luck, you might also be able to catch me at the office on +49 (0)441 798-2034.
+You can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
 
-There are also some other places on the internet where you can find me, including:
+On the internet, there are also some other places where you can find me, including:
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
 + [Google Scholar](https://scholar.google.de/citations?user=EFeokZUAAAAJ)
 + [ORCID](https://orcid.org/0000-0003-0923-6864)
