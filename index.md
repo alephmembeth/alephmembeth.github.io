@@ -35,3 +35,7 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 + 02/07/2015: [Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über “Zeitbewusstsein und Sinn-Horizonte”](https://www.presse.uni-oldenburg.de/mit/2015/280.html) (University of Oldenburg)
 
 * * *
+
+# Get in Touch
+
+You can reach me at any time via alexander.max.bauer@uni-oldenburg.de. With a little luck, you might also be able to catch me at the office on +49 (0)441 798-2034.
