@@ -8,10 +8,24 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
    <dt>Areas of Specialisation:</dt>
       <dd>Experimental Philosophy, Need-Based Distributive Justice</dd>
    <dt>Areas of Competence:</dt>
-      <dd>Distributive Justice, Philosophy of Need</dd>
+      <dd>Causation, Distributive Justice</dd>
    <dt>Areas of Interest:</dt>
       <dd>Philosophy of Science, Philosophy of Language</dd>
 </dl>
+
+The great people with whom I had the pleasure to work or with whom I'm currently working include:
++ [Dr. Nils Baratella](https://uol.de/philosophie/dr-nils-baratella) (Hochschule Düsseldorf, University of Applied Sciences)
++ [Dr. Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
++ [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Jacobs University Bremen)
++ [Dr. Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
++ [Dr. Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
++ [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
++ [Jan Romann](https://github.com/JKRhb) (University of Bremen)
++ [Prof. Dr. Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
++ [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
++ [Prof. Dr. Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
++ [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
++ [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Jacobs University Bremen)
 
 * * *
 
