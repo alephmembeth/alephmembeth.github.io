@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy and a research associate at the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG), where I am concerned with questions of distributive justice between normative theory and empirical social research, focussing especially on need-based distributive justice.
+Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./emplyment.md), [the things I've written](./publications.md), [the presentations I've held](./presentations.md), [the events I've organised](./events.md), or [the courses I've taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants, honors, and funding I've received](./financials.md).
 
 <dl>
    <dt>Areas of Specialisation:</dt>
@@ -12,6 +12,10 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
    <dt>Areas of Interest:</dt>
       <dd>Philosophy of Science, Philosophy of Language</dd>
 </dl>
+
+* * *
+
+# Collaborators
 
 The great people with whom I had the pleasure to work or with whom I'm currently working include:
 + [Dr. Nils Baratella](https://uol.de/philosophie/dr-nils-baratella) (Hochschule Düsseldorf, University of Applied Sciences)
@@ -26,14 +30,6 @@ The great people with whom I had the pleasure to work or with whom I'm currently
 + [Prof. Dr. Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
 + [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
 + [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Jacobs University Bremen)
-
-* * *
-
-[Publications](./publications.md)
-
-[Presentations](./publications.md)
-
-[Events](./events.md)
 
 * * *
 
@@ -52,7 +48,7 @@ The great people with whom I had the pleasure to work or with whom I'm currently
 
 # Get in Touch
 
-You can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
+If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
 
 On the internet, there are also some other places where you can find me, including:
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
