@@ -15,6 +15,19 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 * * *
 
+# News
+
++ 24/05/2022: [Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
++ 20/04/2022: [Lernen, mit der Freiheit umzugehen](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
++ 27/04/2020: [Sammelband “Empirical Research and Normative Theory” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
++ 28/10/2019: [Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg](https://www.presse.uni-oldenburg.de/mit/2019/362.html) (University of Oldenburg)
++ 25/09/2019: [Neuer Sammelband “Philosophie zwischen Sein und Sollen” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
++ 18/04/2019: [Besser schreiben im Tandem](https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250) (University of Oldenburg)
++ 08/12/2017: [Mind the gap. Zur Vermittlung normativer Theorie und empirischer Forschung](https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/) (Karl-Jaspers-Gesellschaft)
++ 02/07/2015: [Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über “Zeitbewusstsein und Sinn-Horizonte”](https://www.presse.uni-oldenburg.de/mit/2015/280.html) (University of Oldenburg)
+
+* * *
+
 # Collaborators
 
 The great people with whom I had the pleasure to work or with whom I'm currently working include:
@@ -30,19 +43,6 @@ The great people with whom I had the pleasure to work or with whom I'm currently
 + [Prof. Dr. Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
 + [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
 + [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Jacobs University Bremen)
-
-* * *
-
-# News
-
-+ 24/05/2022: [Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
-+ 20/04/2022: [Lernen, mit der Freiheit umzugehen](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
-+ 27/04/2020: [Sammelband “Empirical Research and Normative Theory” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
-+ 28/10/2019: [Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg](https://www.presse.uni-oldenburg.de/mit/2019/362.html) (University of Oldenburg)
-+ 25/09/2019: [Neuer Sammelband “Philosophie zwischen Sein und Sollen” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
-+ 18/04/2019: [Besser schreiben im Tandem](https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250) (University of Oldenburg)
-+ 08/12/2017: [Mind the gap. Zur Vermittlung normativer Theorie und empirischer Forschung](https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/) (Karl-Jaspers-Gesellschaft)
-+ 02/07/2015: [Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über “Zeitbewusstsein und Sinn-Horizonte”](https://www.presse.uni-oldenburg.de/mit/2015/280.html) (University of Oldenburg)
 
 * * *
 
