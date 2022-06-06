@@ -34,6 +34,7 @@ The great people with whom I had the pleasure to work or with whom I'm currently
 + [Dr. Nils Baratella](https://uol.de/philosophie/dr-nils-baratella) (Hochschule Düsseldorf, University of Applied Sciences)
 + [Dr. Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
 + [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Jacobs University Bremen)
++ [Helena Esther Grass](https://uol.de/philosophie/helena-grass)
 + [Dr. Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Dr. Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
