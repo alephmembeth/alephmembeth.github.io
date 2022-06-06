@@ -58,4 +58,5 @@ On the internet, there are also some other places where you can find me, includi
 + [OSF](https://osf.io/e7hpd/)
 + [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer)
 + [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2)
++ [Twitter](https://twitter.com/alephmembeth)
 + [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer)
