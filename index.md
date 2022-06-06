@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./emplyment.md), [the things I've written](./publications.md), [the presentations I've held](./presentations.md), [the events I've organised](./events.md), or [the courses I've taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants, honors, and funding I've received](./financials.md).
+Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants, honors, and funding I’ve received](./financials.md).
 
 <dl>
-   <dt>Areas of Specialisation:</dt>
+   <dt>Areas of Specialization:</dt>
       <dd>Experimental Philosophy, Need-Based Distributive Justice</dd>
    <dt>Areas of Competence:</dt>
       <dd>Causation, Distributive Justice</dd>
@@ -17,24 +17,24 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 # News
 
-+ 24/05/2022: [Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
-+ 20/04/2022: [Lernen, mit der Freiheit umzugehen](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
-+ 27/04/2020: [Sammelband “Empirical Research and Normative Theory” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
-+ 28/10/2019: [Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg](https://www.presse.uni-oldenburg.de/mit/2019/362.html) (University of Oldenburg)
-+ 25/09/2019: [Neuer Sammelband “Philosophie zwischen Sein und Sollen” erschienen](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
-+ 18/04/2019: [Besser schreiben im Tandem](https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250) (University of Oldenburg)
-+ 08/12/2017: [Mind the gap. Zur Vermittlung normativer Theorie und empirischer Forschung](https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/) (Karl-Jaspers-Gesellschaft)
-+ 02/07/2015: [Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über “Zeitbewusstsein und Sinn-Horizonte”](https://www.presse.uni-oldenburg.de/mit/2015/280.html) (University of Oldenburg)
++ 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
++ 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
++ 27/04/2020: [“Sammelband ‘Empirical Research and Normative Theory’ erschienen”](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
++ 28/10/2019: [“Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg”](https://www.presse.uni-oldenburg.de/mit/2019/362.html) (University of Oldenburg)
++ 25/09/2019: [“Neuer Sammelband ‘Philosophie zwischen Sein und Sollen’ erschienen”](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
++ 18/04/2019: [“Besser schreiben im Tandem”](https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250) (University of Oldenburg)
++ 08/12/2017: [“Mind the Gap. Zur Vermittlung normativer Theorie und empirischer Forschung”](https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/) (Karl-Jaspers-Gesellschaft)
++ 02/07/2015: [“Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über ‘Zeitbewusstsein und Sinn-Horizonte’”](https://www.presse.uni-oldenburg.de/mit/2015/280.html) (University of Oldenburg)
 
 * * *
 
 # Collaborators
 
-The great people with whom I had the pleasure to work or with whom I'm currently working include:
+The great people with whom I had the pleasure to work or with whom I’m currently working include:
 + [Dr. Nils Baratella](https://uol.de/philosophie/dr-nils-baratella) (Hochschule Düsseldorf, University of Applied Sciences)
 + [Dr. Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
 + [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Jacobs University Bremen)
-+ [Helena Esther Grass](https://uol.de/philosophie/helena-grass)
++ [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
 + [Dr. Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Dr. Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
