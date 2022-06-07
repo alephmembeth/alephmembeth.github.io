@@ -23,8 +23,7 @@ The portrait to the left was made by the talented [Spiceestew](https://spiceeste
 + 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
 
 <details>
-<summary>Old news</summary>
-<br>
+<summary>Old news...</summary>
 
 + 27/04/2020: [“Sammelband ‘Empirical Research and Normative Theory’ erschienen”](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
 + 28/10/2019: [“Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg”](https://www.presse.uni-oldenburg.de/mit/2019/362.html) (University of Oldenburg)
