@@ -18,3 +18,9 @@ layout: default
    <dt>Vice Representative of Students</dt>
       <dd>April 2017 – March 2018; University of Oldenburg, Faculty IV</dd>
 </dl>
+
+## Peer Review
+
++ Axiomathes (2020, 2021)
++ “forsch!”, Studentisches Online-Journal der Universität Oldenburg (2018)
++ Zeitschrift für Praktische Philosophie (2021)
