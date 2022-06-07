@@ -24,7 +24,7 @@ The portrait to the left was made by the talented [Spiceestew](https://spiceeste
 
 <details>
 <summary>Old news</summary>
-</br>
+<br>
 <ul>
    <li>27/04/2020: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Sammelband ‘Empirical Research and Normative Theory’ erschienen”</a> (DFG Research Group FOR 2104)</li>
    <li>28/10/2019: <a href="https://www.presse.uni-oldenburg.de/mit/2019/362.html">“Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg”</a> (University of Oldenburg)</li>
