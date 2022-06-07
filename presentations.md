@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Presentations and Talks
+# Presentations
 
 ## Invited
 
