@@ -1,6 +1,8 @@
 @import "fonts";
 @import "rouge-github";
 
+@use "sass:color";
+
 body {
   background-color: #fff;
   padding:50px;
@@ -40,8 +42,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  color: color.scale(#069, $lightness: 20%);
 }
 
 a small {
