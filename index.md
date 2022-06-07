@@ -21,12 +21,32 @@ The portrait to the left was made by the talented [Spiceestew](https://spiceeste
 
 + 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
 + 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
+
+<details>
+<summary>Old news</summary>
+<br>
+
 + 27/04/2020: [“Sammelband ‘Empirical Research and Normative Theory’ erschienen”](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
 + 28/10/2019: [“Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg”](https://www.presse.uni-oldenburg.de/mit/2019/362.html) (University of Oldenburg)
 + 25/09/2019: [“Neuer Sammelband ‘Philosophie zwischen Sein und Sollen’ erschienen”](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
 + 18/04/2019: [“Besser schreiben im Tandem”](https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250) (University of Oldenburg)
 + 08/12/2017: [“Mind the Gap. Zur Vermittlung normativer Theorie und empirischer Forschung”](https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/) (Karl-Jaspers-Gesellschaft)
 + 02/07/2015: [“Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über ‘Zeitbewusstsein und Sinn-Horizonte’”](https://www.presse.uni-oldenburg.de/mit/2015/280.html) (University of Oldenburg)
+</details>
+
+* * *
+
+# Projects
+
+The projects I’m currently working on include:
++ my cumulative dissertation on need-based distributive justice
++ an empirical study on need-based distributive justice (jointly with Jan Romann, Mark Siebel, and Stefan Traub)
++ an empirical study on causality (jointly with Stephan Kornmesser)
++ an empirical study on speech acts (jointly with Stephan Kornmesser)
++ an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
++ an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
++ an introduction to experimental philosophy (to be published with Springer and J. B. Metzler; jointly with Stephan Kornmesser)
++ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with BIS-Verlag)
 
 * * *
 
