@@ -4,6 +4,8 @@ layout: default
 
 Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants, honors, and funding I’ve received](./financials.md).
 
+You can find a German version of my cv [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf).
+
 The portrait to the left was made by the talented [Spiceestew](https://spiceestew.carrd.co/).
 
 <dl>
