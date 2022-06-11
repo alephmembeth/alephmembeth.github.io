@@ -8,7 +8,7 @@ layout: default
 
 <dl>
    <dt>Representative of Doctoral Candidates</dt>
-      <dd>April 2019 - April 2020; University of Oldenburg</dd>
+      <dd>April 2019 – April 2020; University of Oldenburg</dd>
    <dt>Vice Representative of Academic Junior Faculty</dt>
       <dd>since April 2019; University of Oldenburg, Department of Philosophy</dd>
    <dt>Representative of Doctoral Candidates</dt>
