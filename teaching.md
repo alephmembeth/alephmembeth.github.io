@@ -18,7 +18,7 @@ layout: default
 + “Einführung in das wissenschaftliche Arbeiten” (winter terms 2013/2014, 2014/2015, 2015/2016, 2016/2017, 2017/2018, and 2018/2019; University of Oldenburg; exercise for first year students; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019))
 + “Einführung in die Theoretische Philosophie” (winter terms 2012/2013, 2013/2014, 2014/2015, 2015/2016, and 2016/2017; University of Oldenburg; tutorial course on bachelor’s level accompanying the lecture of Mark Siebel)
 
-## Thesis Supervisions and Thesis Reviews
+## Theses
 
 + Berndt, Juliane (2022): _Reichtum verpflichtet. Inwiefern können Mieths Kriterien für positive Pflichten eine Stütze für Neuhäusers Reform- und Änderungsvorschläge hinsichtlich moralisch problematischen Reichtums sein?_ (bachelor’s thesis; University of Oldenburg; second reviewer: Mark Siebel)
 + Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis; University of Oldenburg; second reviewer: Susanne Möbuß)
