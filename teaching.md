@@ -6,8 +6,8 @@ layout: default
 
 ## Courses
 
-+ “Einführung in die Experimentelle Philosophie” (winter term 2020/2021; University of Oldenburg; course on bachelor’s level; moved online due to coronavirus pandemic)
-+ “Reichtum als moralisches Problem” (summer term 2020; University of Oldenburg; course on bachelor’s level; moved online due to coronavirus pandemic)
++ “Einführung in die Experimentelle Philosophie” (winter term 2020/2021; University of Oldenburg; course on bachelor’s level; moved online due to pandemic)
++ “Reichtum als moralisches Problem” (summer term 2020; University of Oldenburg; course on bachelor’s level; moved online due to pandemic)
 + “Ein Gestirn, auf dem kluge Tiere das Erkennen erfanden – Sprache und Erkenntnis in den frühen Schriften Nietzsches” (winter term 2019/2020; University of Oldenburg; course on bachelor’s level)
 + “Suffizientarismus – Zu einer Kritik der Unersättlichkeit” (summer term 2019; University of Oldenburg; course on master’s level)
 + “Sein und Sollen – Abgründe und Brücken zwischen empirischer Forschung und normativer Theorie” (winter term 2018/2019; University of Oldenburg; course on bachelor’s level)
