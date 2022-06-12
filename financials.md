@@ -20,7 +20,7 @@ layout: default
 + Travel grant for the promotion of young researchers (2019; University of Oldenburg, Faculty IV; 750,00 euro)
 + Financial support for the edited volume “Oldenburger Jahrbuch für Philosophie 2017/2018” (2018; University of Oldenburg, Department of Philosophy; 1.052,00 euro; jointly with Nils Baratella)
 
-# Honors
+## Honors
 
 + Master of Arts, awarded with distinction (2017; University of Oldenburg)
 + Deutschlandstipendium (2015/2016; University of Oldenburg; 3.600,00 euro)
