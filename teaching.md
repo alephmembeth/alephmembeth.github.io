@@ -6,6 +6,7 @@ layout: default
 
 ## Courses
 
++ “Gedankenexperimente in der Philosophie” (winter term 2022/2023; course on bachelor’s level; University of Oldenburg)
 + “Einführung in die Experimentelle Philosophie” (winter term 2020/2021; course on bachelor’s level; University of Oldenburg; moved online due to pandemic)
 + “Reichtum als moralisches Problem” (summer term 2020; course on bachelor’s level; University of Oldenburg; moved online due to pandemic)
 + “Ein Gestirn, auf dem kluge Tiere das Erkennen erfanden – Sprache und Erkenntnis in den frühen Schriften Nietzsches” (winter term 2019/2020; course on bachelor’s level; University of Oldenburg)
