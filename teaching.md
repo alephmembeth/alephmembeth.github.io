@@ -21,6 +21,7 @@ layout: default
 
 ## Theses
 
++ de Vries, Peter (2022): _Quantitative und qualitative Perspektiven auf bedarfsgerechte Verteilung_ (bachelor’s thesis; University of Oldenburg; examiner: Mark Siebel)
 + Berndt, Juliane (2022): _Reichtum verpflichtet. Inwiefern können Mieths Kriterien für positive Pflichten eine Stütze für Neuhäusers Reform- und Änderungsvorschläge hinsichtlich moralisch problematischen Reichtums sein?_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Steinmetz, Esther Mareike (2021): _Zur unterrichtlichen Implementation sozialer Medien im Themenkomplex “Wahrheit und Wirklichkeit”_ (bachelor’s thesis; University of Oldenburg; examiner: Susanne Möbuß)
