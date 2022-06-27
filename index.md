@@ -21,6 +21,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 
 # News
 
++ 23/06/2022: [When heating in winter becomes a luxury](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327)
 + 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
 + 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
 
