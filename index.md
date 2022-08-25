@@ -12,11 +12,11 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 
 <dl>
    <dt>Areas of Specialization:</dt>
-      <dd>Experimental Philosophy, Need-Based Distributive Justice</dd>
+      <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
    <dt>Areas of Competence:</dt>
-      <dd>Causation, Distributive Justice</dd>
+      <dd>Distributive Justice, Philosophy of Science</dd>
    <dt>Areas of Interest:</dt>
-      <dd>Philosophy of Science, Philosophy of Language</dd>
+      <dd>Philosophy of Language</dd>
 </dl>
 
 * * *
