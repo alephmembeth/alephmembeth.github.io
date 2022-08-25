@@ -8,6 +8,8 @@ You can find the latest PDF of my English cv [here](https://github.com/alephmemb
 
 The portrait to the left (or above, if you’re on a mobile device), by the way, was made by the talented [Spiceestew](https://spiceestew.carrd.co/).
 
+* * *
+
 <dl>
    <dt>Areas of Specialization:</dt>
       <dd>Experimental Philosophy, Need-Based Distributive Justice</dd>
