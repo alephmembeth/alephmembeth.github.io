@@ -63,7 +63,7 @@ The projects I’m currently working on include:
 + an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
 + an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
 + an introduction to methods of experimental philosophy (to be published with Springer and J. B. Metzler; jointly with Stephan Kornmesser)
-+ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with BIS-Verlag)
++ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with BIS-Verlag; jointly with Helena Esther Grass)
 
 * * *
 
