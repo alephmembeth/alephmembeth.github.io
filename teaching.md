@@ -6,7 +6,7 @@ layout: default
 
 ## Courses
 
-+ “Aristoteles’ ‘Metaphysik’” (winter term 2022/2023; course on bachelor’s level; University of Oldenburg)
++ “Aristoteles’ ‘Metaphysik’” (winter term 2022/2023 – summer term 2023; course on bachelor’s level; University of Oldenburg)
 + “Gedankenexperimente in der Philosophie” (winter term 2022/2023; course on bachelor’s level; University of Oldenburg)
 + “Einführung in die Experimentelle Philosophie” (winter term 2020/2021; course on bachelor’s level; University of Oldenburg; moved online due to pandemic)
 + “Reichtum als moralisches Problem” (summer term 2020; course on bachelor’s level; University of Oldenburg; moved online due to pandemic)
