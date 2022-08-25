@@ -59,7 +59,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 The projects I’m currently working on include:
 + my cumulative dissertation on need-based distributive justice
 + an empirical study on need-based distributive justice (jointly with Jan Romann, Mark Siebel, and Stefan Traub)
-+ an empirical study on causality (jointly with Stephan Kornmesser)
++ an empirical study on causation (jointly with Stephan Kornmesser)
 + an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
 + an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
 + an introduction to experimental philosophy (to be published with Springer and J. B. Metzler; jointly with Stephan Kornmesser)
