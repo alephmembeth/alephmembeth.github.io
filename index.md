@@ -6,7 +6,7 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 You can find the latest PDF of my English CV [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and of my German CV [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf).
 
-The portrait to the left (or above, if you’re on a mobile device), by the way, was made by the talented [Spiceestew](https://spiceestew.carrd.co/).
+The portrait to the left (or above, if you’re on a mobile device), by the way, was painted by the talented [Spiceestew](https://spiceestew.carrd.co/).
 
 * * *
 
