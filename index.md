@@ -16,7 +16,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
    <dt>Areas of Competence:</dt>
       <dd>Distributive Justice, Philosophy of Science</dd>
    <dt>Areas of Interest:</dt>
-      <dd>Philosophy of Language</dd>
+      <dd>Metaphilosophy, Philosophy of Language</dd>
 </dl>
 
 * * *
