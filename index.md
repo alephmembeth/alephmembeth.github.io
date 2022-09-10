@@ -22,6 +22,14 @@ Publications: I've become a bit lazy to make a separate list so most upto date s
 
 * * *
 
+<dl>
+   <dt>Workshops:</dt>
+      <dd>I've been fortunate to have wonderful collaborators to organize the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://gem-benchmark.com/nl_augmenter">NL-Augmenter</a> </dd>
+   <dt>Mentoring:</dt>
+         <dd>Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/people/mentor22/kaustubh">London Geometry & Machine Learning Summer School, 2022</dd>
+</dl>
+
+* * *
 
 If you want to get in touch or interested to collaborate, you can reach me at firstname.lastname@emory.edu
 
