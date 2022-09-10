@@ -17,14 +17,14 @@ My name’s Kaustubh Dhole! I’m a researcher at Emory University's Department 
 
 * * *
 
-Publications: I've become a bit lazy to make a separate list so most upto date stuff may be found on <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
+Publications: I plan to make a separate list sometime but most upto date stuff may be found on <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
 
 
 * * *
 
 <dl>
    <dt>Workshops:</dt>
-      <dd>I've been fortunate to have wonderful collaborators to organize the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://gem-benchmark.com/nl_augmenter">NL-Augmenter</a> </dd>
+      <dd>I've been fortunate to have wonderful collaborators to organize the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://arxiv.org/pdf/2112.02721.pdf">NL-Augmenter</a> </dd>
    <dt>Mentoring:</dt>
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/people/mentor22/kaustubh">London Geometry & Machine Learning Summer School, 2022</a> </dd>
 </dl>
@@ -32,6 +32,6 @@ Publications: I've become a bit lazy to make a separate list so most upto date s
 
 * * *
 
-If you want to get in touch or interested to collaborate, you can reach me at firstname.lastname@emory.edu
+If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu
 
 I am pretty irregular in updating my personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on Wordpress where you can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/">backpacking</a>!
