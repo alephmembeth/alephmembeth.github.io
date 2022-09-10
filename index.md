@@ -12,6 +12,7 @@ My name’s Kaustubh Dhole! I’m a researcher at Emory University's Department 
       <dd>Natural Language Generation, Multi-Task Learning, Information Retreival </dd>
    <dt>Other Areas I'm happy to collaborate on:</dt>
          <dd>Graph Neural Networks, Data Augmentation, Efficient Transformers, ML Privacy</dd>
+</dl>
 
 
 * * *
