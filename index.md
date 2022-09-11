@@ -17,7 +17,7 @@ I’m a researcher at Emory University's Department of Computer Science working 
 
 * * *
 
-Publications: Most upto date stuff can be found on <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
+Publications: Most upto date stuff can be found on <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
 
 
 * * *
