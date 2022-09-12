@@ -27,7 +27,7 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
       <dd>Organizing the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://arxiv.org/pdf/2112.02721.pdf">NL-Augmenter</a> </dd>
    <dt>Mentoring/Speaking:</dt>
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/people/mentor22/kaustubh">London Geometry & Machine Learning Summer School, 2022</a> </dd>
-      <dd> Was speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
+      <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
    <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
 </dl>
 
@@ -36,4 +36,4 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
 
 If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu (or <a href="https://www.linkedin.com/in/kaustubh-dhol%C3%A9-3929b32a/">LinkedIN</a> or <a href="https://twitter.com/kaustubhdhole">Twitter</a> where I'm sometimes active.)
 
-I am pretty irregular in updating my personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on Wordpress where you can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/">backpacking</a>!
+I've a personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on WordPress where I mostly write non-NLP stuff on rare occasions! You can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/">backpacking</a>!
