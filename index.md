@@ -2,14 +2,14 @@
 layout: default
 ---
 
-I’m a researcher at Emory University's Department of Computer Science working with [Prof. Eugene Agichtein](https://scholar.google.com/citations?hl=en&user=3BX3vWcAAAAJ&view_op=list_works&sortby=pubdate). I'm interested a wide variety of problems which generally fall under Natural Language Processing & Information Retrieval. I graduated from <a href="https://www.youtube.com/watch?v=0QMVS7AQ6ho">BITS Pilani, India</a> and worked for 6 years in the domain of Conversational AI at <a href="https://amelia.ai/">Amelia (IPsoft)</a> in the wonderful cities of <a href="https://www.youtube.com/watch?v=_ICcaaFNX2o">Bangalore</a> & <a href="https://www.youtube.com/watch?v=h3fUgOKFMNU">New York</a>.
+I’m a researcher at Emory University's Department of Computer Science working with [Prof. Eugene Agichtein](https://scholar.google.com/citations?hl=en&user=3BX3vWcAAAAJ&view_op=list_works&sortby=pubdate). I'm interested a wide variety of problems which generally fall under Natural Language Processing & Information Retrieval. I graduated from <a href="https://www.youtube.com/watch?v=0QMVS7AQ6ho">BITS Pilani, India</a> after which I worked for 6 years in the domain of Conversational AI at <a href="https://amelia.ai/">Amelia (IPsoft)</a> in the wonderful cities of <a href="https://www.youtube.com/watch?v=_ICcaaFNX2o">Bangalore</a> & <a href="https://www.youtube.com/watch?v=h3fUgOKFMNU">New York</a>. I got the opportunity to lead the R&D team of around 10-20 enthusiasts working on diverse NLP topics viz., intent classification, slot tagging, VerbNet & PropBank parsing, KB-based QA, paraphrasing, semantic parsing, relation extraction & dialog retrieval & ranking and other conversational AI problems. 
 
 
 * * *
 
 <dl>
-   <dt>Specific Areas of Interest:</dt>
-      <dd>Natural Language Generation, Multi-Task Learning, Information Retreival </dd>
+   <dt>Areas of Interest:</dt>
+      <dd>Natural Language Generation, Multi-Task Learning, Information Retreival, Dialogue Modelling </dd>
    <dt>Other Areas I'm happy to collaborate on:</dt>
          <dd>Dialog Systems, Graph Neural Networks, Data Augmentation, Efficient Transformers, ML Privacy</dd>
 </dl>
@@ -24,14 +24,16 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
 
 <dl>
    <dt>Workshops:</dt>
-      <dd>I've been fortunate to have wonderful collaborators to organize the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://arxiv.org/pdf/2112.02721.pdf">NL-Augmenter</a> </dd>
-   <dt>Mentoring:</dt>
+      <dd>Organizing the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://arxiv.org/pdf/2112.02721.pdf">NL-Augmenter</a> </dd>
+   <dt>Mentoring/Speaking:</dt>
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/people/mentor22/kaustubh">London Geometry & Machine Learning Summer School, 2022</a> </dd>
+      <dd> Was speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
+   <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
 </dl>
 
 
 * * *
 
-If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu
+If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu (or <a href="https://www.linkedin.com/in/kaustubh-dhol%C3%A9-3929b32a/">LinkedIN</a> or <a href="https://twitter.com/kaustubhdhole">Twitter</a> where I'm seldom active.)
 
 I am pretty irregular in updating my personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on Wordpress where you can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/">backpacking</a>!
