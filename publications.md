@@ -58,6 +58,10 @@ layout: default
 + Weiß, Arne Robert, Alexander Max Bauer, and Stefan Traub (2017): “Needs as Reference Points. When Marginal Gains to the Poor do not Matter”. _FOR 2104 Working Paper_ 2017-13. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-13.pdf))
 + Traub, Stefan, Alexander Max Bauer, Mark Siebel, Nils Springhorn, and Arne Robert Weiß (2017): “On the Measurement of Need-Based Justice”. _FOR 2104 Working Paper_ 2017-12. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-12.pdf))
 
+## Translations
+
++ Priest, Graham (forthcoming): “Parakonsistenz”. Transl. by Alexander Max Bauer, Gregor Damschen, and Mark Siebel. In: Alexander Max Bauer, Gregor Damschen, and Mark Siebel (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis.
+
 ## Public Writing
 
 + Bauer, Alexander Max (2021): “The Revolver Case Revisited”. _xphiblog.com_. ([Link](https://xphiblog.com/revolver/))
