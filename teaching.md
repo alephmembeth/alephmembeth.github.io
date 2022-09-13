@@ -6,7 +6,7 @@ layout: default
 
 ## Courses
 
-+ “Aristoteles’ ‘Metaphysik’” (winter term 2022/2023 – summer term 2023; course on bachelor’s level; University of Oldenburg)
++ “Aristoteles’ ‘Metaphysik’” (winter term 2022/2023 – summer term 2023; two-semester course on bachelor’s level; University of Oldenburg)
 + “Gedankenexperimente in der Philosophie” (winter term 2022/2023; course on bachelor’s level; University of Oldenburg)
 + “Einführung in die Experimentelle Philosophie” (winter term 2020/2021; course on bachelor’s level; University of Oldenburg; moved online due to pandemic)
 + “Reichtum als moralisches Problem” (summer term 2020; course on bachelor’s level; University of Oldenburg; moved online due to pandemic)
@@ -22,9 +22,9 @@ layout: default
 
 ## Theses
 
++ Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + de Vries, Peter (2022): _Quantitative und qualitative Perspektiven auf bedarfsgerechte Verteilung_ (bachelor’s thesis; University of Oldenburg; first examiner: Mark Siebel)
 + Berndt, Juliane (2022): _Reichtum verpflichtet. Inwiefern können Mieths Kriterien für positive Pflichten eine Stütze für Neuhäusers Reform- und Änderungsvorschläge hinsichtlich moralisch problematischen Reichtums sein?_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
-+ Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Steinmetz, Esther Mareike (2021): _Zur unterrichtlichen Implementation sozialer Medien im Themenkomplex “Wahrheit und Wirklichkeit”_ (bachelor’s thesis; University of Oldenburg; first examiner: Susanne Möbuß)
 + Ostrop, Gero (2021): _Eine Kritik der Kritik Karl Poppers an Platon im Werk “Die offene Gesellschaft und ihre Feinde”_ (master’s thesis; University of Oldenburg; first examiner: Susanne Möbuß)
 + Gründemann, Jonas (2021): _Kompetenzorientierung im Werte-und-Normen-Unterricht an beruflichen Gymnasien in Niedersachsen_ (master’s thesis; University of Oldenburg; first examiner: Christa Runtenberg)
