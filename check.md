@@ -8,7 +8,7 @@ We do all make mistakes. Sometimes, this happens unnoticed. And sometimes, this 
 
 ## Check My Work
 
-Inspired by Gilad Feldman,[^1]: I offer to pay you a bounty for every minor or major error you find in my preprinted and published work. Definitions and rules are taken from the websites of Gilad Feldman and Stuart Ritchie.
+Inspired by Gilad Feldman,[^1] I offer to pay you a bounty for every minor or major error you find in my preprinted and published work. Definitions and rules are taken from the websites of Gilad Feldman and Stuart Ritchie.
 
 + I understand a minor error to be, for example, the incorrect reporting of a numerical result. On the other hand, typos or grammatical errors do not count unless they significantly change the meaning of what is being said. __If you find a minor error in my work, I offer to pay you USD 5.__
 + I understand a major error to be, for example, a flaw in my method, an error in my code that significantly changes the results, or an erroneously drawn conclusion that is not supported by the data. __If you find a major error in my work, I offer to pay you USD 50.__
