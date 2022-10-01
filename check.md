@@ -4,7 +4,7 @@ layout: default
 
 # Check Me, Replicate Me
 
-We do all make mistakes. Sometimes, this happens unnoticed. And sometimes, this doesn’t even matter. But there are some areas where it’s particularly troublesome when we make mistakes. And science, I think, is one such area. Luckily for us, science (and philosophy, I might add) is a collaborative enterprise. And uncovering mistakes is an integral part of it. In this spirit, I invite you to both check and replicate my work.
+We all do mistakes. Sometimes, this happens unnoticed. And sometimes, this doesn’t even matter. But there are some areas where it’s particularly troublesome when we make mistakes. And science, I think, is one such area. Luckily for us, science (and philosophy, I might add) is a collaborative enterprise. And uncovering mistakes is an integral part of it. In this spirit, I invite you to both check and replicate my work.
 
 ## Check My Work
 
