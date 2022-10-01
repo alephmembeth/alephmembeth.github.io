@@ -15,7 +15,7 @@ Inspired by Gilad Feldman,[^1] I offer to pay you a bounty for every minor or ma
 
 All errors found in my preprinted and published work will be collected in a separate section of this website. As both Gilad Feldman and Stuart Ritchie note, they “have to be _objective_ errors – not matters of opinion or interpretation.”
 
-## Replicate my Work
+## Replicate My Work
 
 Should you be interested in replicating my work, there are a few things I do to make this as easy as possible for you:
 
