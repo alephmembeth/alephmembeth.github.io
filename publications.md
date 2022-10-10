@@ -6,7 +6,7 @@ layout: default
 
 ## Journals
 
-+ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_. ([Link](https://www.praktische-philosophie.org/zfpp/index))
++ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_.
 
 ## Contributions to Journals
 
@@ -40,6 +40,7 @@ layout: default
 
 ## Prefaces, Introductions, and Epilogues
 
++ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (forthcoming): “Einleitung. Verschwörungserzählungen”. In: id. (eds.): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_.
 + Bauer, Alexander Max, and Nils Baratella (2021): “Vorwort”. In: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag. 5. ([Link](http://oops.uni-oldenburg.de/5115/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Epilogue. On Doxa and Aletheia”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. 337–342. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-017/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Introduction”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. 1–10. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-004/))
