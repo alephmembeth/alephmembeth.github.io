@@ -70,7 +70,7 @@ The projects I’m currently working on include:
 # Collaborators
 
 The great people with whom I had the pleasure to work or with whom I’m currently working include:
-+ [Prof. Dr. Nils Baratella](https://uol.de/philosophie/dr-nils-baratella) (Hochschule Düsseldorf, University of Applied Sciences)
++ [Prof. Dr. Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
 + [Dr. Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
 + [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Jacobs University Bremen)
 + [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
