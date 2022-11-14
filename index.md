@@ -96,6 +96,7 @@ On the internet, there are also some other places where you can find me, includi
 + [ORCID](https://orcid.org/0000-0003-0923-6864)
 + [OSF](https://osf.io/e7hpd/)
 + [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer)
++ [Qeios](https://www.qeios.com/profile/19483)
 + [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2)
 + [Twitter](https://twitter.com/alephmembeth)
 + [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer)
