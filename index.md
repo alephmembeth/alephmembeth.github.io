@@ -98,6 +98,5 @@ On the internet, there are also some other places where you can find me, includi
 + [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer)
 + [Qeios](https://www.qeios.com/profile/19483)
 + [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2)
-+ [Twitter](https://twitter.com/alephmembeth)
 + [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer)
 + [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth)
