@@ -90,7 +90,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 
 If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
 
-On the internet, there are also some other places where you can find me, including:
+On the internet, there are also some other places where you can find me, including but not limited to:
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
 + [Google Scholar](https://scholar.google.de/citations?user=EFeokZUAAAAJ)
 + [Mastodon](https://ohai.social/@alephmembeth)
