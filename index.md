@@ -24,7 +24,7 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
 
 <dl>
    <dt>Workshops:</dt>
-      <dd>Organizing the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://arxiv.org/pdf/2112.02721.pdf">NL-Augmenter</a> and a key contributor of the LLM benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf">BIG-Bench</a></dd>
+      <dd>Organizing the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://arxiv.org/pdf/2112.02721.pdf">NL-Augmenter</a> and a key contributor of the LLM benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf">BIG-Bench</a>.</dd>
    <dt>Mentoring/Speaking:</dt>
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/people/mentor22/kaustubh">London Geometry & Machine Learning Summer School, 2022</a> </dd>
       <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
