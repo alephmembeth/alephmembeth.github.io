@@ -84,6 +84,10 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
 + [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Jacobs University Bremen)
 
+<!--
+add once monograph is announced:
+-->
+
 * * *
 
 # Get in Touch
