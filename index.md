@@ -86,6 +86,16 @@ The great people with whom I had the pleasure to work or with whom I’m current
 
 <!--
 add once monograph is announced:
+
++ [Mark Alfano](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University)
++ [Aurélien Allard](https://www.unige.ch/medecine/ieh2/welcome/staff/aurelien-allard/) (University of Geneva)
++ [Lucien Baumgartner](https://www.philosophie.uzh.ch/de/seminar/people/research/snsf_reuter/baumgartner.html) (University of Zurich)
++ [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
++ [Paul Engelhardt](https://research-portal.uea.ac.uk/en/persons/paul-engelhardt) (University of East Anglia)
++ [Eugen Fischer](https://research-portal.uea.ac.uk/en/persons/eugen-fischer) (University of East Anglia)
++ [Kevin Reuter](https://www.philosophie.unibe.ch/ueber_uns/personen/reuter/index_ger.html) (University of Bern)
++ [Justin Sytsma](https://people.wgtn.ac.nz/justin.sytsma) (Victoria University of Wellington)
++ [Kyle Thompson](https://www.kthompsonphilosophy.com/) (Harvey Mudd College)
 -->
 
 * * *
