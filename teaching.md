@@ -22,6 +22,14 @@ layout: default
 
 ## Theses
 
+<!--
+add once finished:
+
++ Richtsmeier, Karsten (2023)
++ Göbbels, Bastian (2023)
++ Yurt, Delal (2023)
+-->
+
 + Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + de Vries, Peter (2022): _Quantitative und qualitative Perspektiven auf bedarfsgerechte Verteilung_ (bachelor’s thesis; University of Oldenburg; first examiner: Mark Siebel)
 + Berndt, Juliane (2022): _Reichtum verpflichtet. Inwiefern können Mieths Kriterien für positive Pflichten eine Stütze für Neuhäusers Reform- und Änderungsvorschläge hinsichtlich moralisch problematischen Reichtums sein?_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
