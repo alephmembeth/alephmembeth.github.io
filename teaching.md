@@ -25,9 +25,10 @@ layout: default
 <!--
 add once finished:
 
-+ Richtsmeier, Karsten (2023)
-+ Göbbels, Bastian (2023)
-+ Yurt, Delal (2023)
++ Richtsmeier, Karsten (2023) _t.b.a._ (masters’s thesis; University of Oldenburg)
++ Göbbels, Bastian (2023) _t.b.a._ (bachelor’s thesis; University of Oldenburg)
++ Yurt, Delal (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
++ Döhren, Lando (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 -->
 
 + Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
