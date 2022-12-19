@@ -25,8 +25,8 @@ layout: default
 <!--
 add once finished:
 
-+ Richtsmeier, Karsten (2023) _t.b.a._ (masters’s thesis; University of Oldenburg)
-+ Göbbels, Bastian (2023) _t.b.a._ (bachelor’s thesis; University of Oldenburg)
++ Richtsmeier, Karsten (2023): _Die Funktion der Institution Schule im Kapitalismus und ihre unterschiedliche Ausrichtung in Deutschland und Finnland_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
++ Göbbels, Bastian (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 + Yurt, Delal (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 + Döhren, Lando (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 -->
