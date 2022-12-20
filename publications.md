@@ -40,6 +40,7 @@ layout: default
 
 ## Prefaces, Introductions, and Epilogues
 
++ Kornmesser, Stephan, and Alexander Max Bauer (forthcoming): “Introduction”. In: Alexander Max Bauer and Stephan Kornmesser (eds.): The Compact Compendium of Experimental Philosophy. Berlin and Boston: Walter de Gruyter.
 + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (forthcoming): “Einleitung. Verschwörungserzählungen”. In: id. (eds.): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_.
 + Bauer, Alexander Max, and Nils Baratella (2021): “Vorwort”. In: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag. 5. ([Link](http://oops.uni-oldenburg.de/5115/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Epilogue. On Doxa and Aletheia”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. 337–342. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-017/))
