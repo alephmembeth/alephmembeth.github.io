@@ -36,4 +36,6 @@ Should you be interested in replicating my work, there are a few things I do to 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-accountability)](https://github.com/alephmembeth/need-accountability)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-master-thesis)](https://github.com/alephmembeth/need-master-thesis)
 
+***
+
 [^1]: [Gilad Feldman](https://mgto.org/check-me-replicate-me/) got the idea from [Stuart Ritchie](https://www.sciencefictions.org/corrections), who himself adapted it from [Ruben Arslan](https://tellmeimwrong.formr.org/), [José Luis Ricón](https://nintil.com/prove-wrong-get-money), and the [Knuth Reward Check](https://en.wikipedia.org/wiki/Knuth_reward_check).
