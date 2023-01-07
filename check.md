@@ -19,10 +19,21 @@ All errors found in my preprinted and published work will be collected in a sepa
 
 Should you be interested in replicating my work, there are a few things I do to make this as easy as possible for you:
 
-+ For projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files.
++ For projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files (see below).
 + If anything is missing in a repository, please feel free to contact me, and I will try to add the missing files as soon as possible.
 + If you are working on replication of my work, I will be happy to give you feedback and answer any questions you have on the matter.
 
-***
+## Repositories for Papers
+
+### Studies on Causation
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-compositionality)](https://github.com/alephmembeth/causality-compositionality)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-revolver)](https://github.com/alephmembeth/causality-revolver)
+
+### Studies on Distributive Justice
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-dissertation)](https://github.com/alephmembeth/need-dissertation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-kinds)](https://github.com/alephmembeth/need-kinds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-deeds)](https://github.com/alephmembeth/need-deeds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-accountability)](https://github.com/alephmembeth/need-accountability)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-master-thesis)](https://github.com/alephmembeth/need-master-thesis)
 
 [^1]: [Gilad Feldman](https://mgto.org/check-me-replicate-me/) got the idea from [Stuart Ritchie](https://www.sciencefictions.org/corrections), who himself adapted it from [Ruben Arslan](https://tellmeimwrong.formr.org/), [José Luis Ricón](https://nintil.com/prove-wrong-get-money), and the [Knuth Reward Check](https://en.wikipedia.org/wiki/Knuth_reward_check).
