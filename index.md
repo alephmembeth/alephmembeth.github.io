@@ -59,6 +59,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 The projects I’m currently working on include:
 + my cumulative dissertation on need-based distributive justice
 + an empirical study on need-based distributive justice (jointly with Jan Romann, Mark Siebel, and Stefan Traub)
++ a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
 + an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
 + an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
 + an introduction to methods of experimental philosophy (to be published with Springer and J. B. Metzler; jointly with Stephan Kornmesser)
@@ -78,6 +79,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
 + [Jan Romann](https://github.com/JKRhb) (University of Bremen)
 + [Prof. Dr. Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
++ [Dr. Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
 + [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
 + [Prof. Dr. Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
 + [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
