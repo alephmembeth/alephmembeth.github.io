@@ -65,11 +65,6 @@ layout: default
 
 + Priest, Graham (forthcoming): “Parakonsistenz”. Transl. by Alexander Max Bauer, Gregor Damschen, and Mark Siebel. In: Alexander Max Bauer, Gregor Damschen, and Mark Siebel (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis.
 
-<!--
-## Public Peer Reviews
-+ Kornmesser, Stephan, and Alexander Max Bauer (2023): “Review of: Cognitive Dissonance Model of Conditional Reasoning based on Truth-Making”.
--->
-
 ## Public Writings
 
 + Bauer, Alexander Max (2021): “The Revolver Case Revisited”. _xphiblog.com_. ([Link](https://xphiblog.com/revolver/))
