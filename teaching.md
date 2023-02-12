@@ -25,6 +25,7 @@ layout: default
 <!--
 add once finished:
 
++ Krüger, Maimouna (2023): _Sarkasmus in der Sprachenlogik. Wie beeinflusst Sarkasmus Gespräche?_ (bachelors’s thesis; University of Oldenburg; first examiner: Mark Siebel)
 + Richtsmeier, Karsten (2023): _Die Funktion der Institution Schule im Kapitalismus und ihre unterschiedliche Ausrichtung in Deutschland und Finnland_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Göbbels, Bastian (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 + Yurt, Delal (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
