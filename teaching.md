@@ -25,12 +25,12 @@ layout: default
 <!--
 add once finished:
 
-+ Krüger, Maimouna (2023): _Sarkasmus in der Sprachenlogik. Wie beeinflusst Sarkasmus Gespräche?_ (bachelors’s thesis; University of Oldenburg; first examiner: Mark Siebel)
 + Richtsmeier, Karsten (2023): _Die Funktion der Institution Schule im Kapitalismus und ihre unterschiedliche Ausrichtung in Deutschland und Finnland_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Yurt, Delal (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 + Döhren, Lando (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 -->
 
++ Krüger, Maimouna (2023): _Sarkasmus in der Sprachenlogik. Wie beeinflusst Sarkasmus Gespräche?_ (bachelors’s thesis; University of Oldenburg; first examiner: Mark Siebel)
 + Göbbels, Bastian (2023): _Die Unvereinbarkeit von Positivismus und Kritischer Theorie_ (bachelor’s thesis; University of Oldenburg; first examiner: Myriam Gerhard)
 + Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + de Vries, Peter (2022): _Quantitative und qualitative Perspektiven auf bedarfsgerechte Verteilung_ (bachelor’s thesis; University of Oldenburg; first examiner: Mark Siebel)
