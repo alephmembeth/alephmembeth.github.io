@@ -6,7 +6,7 @@ layout: default
 
 ## Monographs
 
-+ Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
++ Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
 
 ## Journals
 
