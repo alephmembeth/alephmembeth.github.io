@@ -4,15 +4,19 @@ layout: default
 
 # Publications
 
+## Monographs
+
++ Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
+
 ## Journals
 
-+ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (forthcoming): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_.
++ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): “Verschwörungserzählungen”. Special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). ([Link](https://www.praktische-philosophie.org/zfpp/issue/view/20/))
 
 ## Contributions to Journals
 
-+ Bauer, Alexander Max, and Stephan Kornmesser (forthcoming): “Poisoned Babies, Shot Fathers, and Ruined Experiments. Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation”. _Philosophy of Science_. (peer reviewed) ([Repository](https://github.com/alephmembeth/causality-compositionality))
++ Bauer, Alexander Max, and Stephan Kornmesser (forthcoming): “Poisoned Babies, Shot Fathers, and Ruined Experiments. Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation”. _Philosophy of Science_. (peer reviewed) ([Link](https://www.cambridge.org/core/journals/philosophy-of-science/article/poisoned-babies-shot-fathers-and-ruined-experiments/4D0C683AF6A00F0BA2B2A0923256166F/)) ([Repository](https://github.com/alephmembeth/causality-compositionality))
 + Bauer, Alexander Max, Frauke Meyer, Jan Romann, Mark Siebel, and Stefan Traub (2022): “Need, Equity, and Accountability. Evidence on Third-Party Distribution Decisions from a Vignette Study”. _Social Choice and Welfare_ 59, 769–814. (peer reviewed) ([Link](https://link.springer.com/article/10.1007/s00355-022-01410-w)) ([Repository](https://github.com/alephmembeth/need-accountability))
-+ Bauer, Alexander Max, and Jan Romann (2022): “Answers at Gunpoint. On Livengood and Sytsma’s Revolver Case”. _Philosophy of Science_ 89 (1), 180–192. (peer reviewed) ([Link](https://www.cambridge.org/core/journals/philosophy-of-science/article/answers-at-gunpoint-on-livengood-and-sytsmas-revolver-case/A02B16770F20B1321ACDFEAD44010589)) ([Repository](https://github.com/alephmembeth/causality-revolver))
++ Bauer, Alexander Max, and Jan Romann (2022): “Answers at Gunpoint. On Livengood and Sytsma’s Revolver Case”. _Philosophy of Science_ 89 (1), 180–192. (peer reviewed) ([Link](https://www.cambridge.org/core/journals/philosophy-of-science/article/answers-at-gunpoint-on-livengood-and-sytsmas-revolver-case/A02B16770F20B1321ACDFEAD44010589/)) ([Repository](https://github.com/alephmembeth/causality-revolver))
 + Bauer, Alexander Max (2022): “Sated but Thirsty. A Prolegomenon to Multidimensional Measures of Need-Based Justice”. _Axiomathes_ 32, 529–538. (peer reviewed) ([Link](https://link.springer.com/article/10.1007/s10516-021-09538-7))
 + Bauer, Alexander Max (2021): “Christian Neuhäuser. Wie reich darf man sein? Über Gier, Neid und Gerechtigkeit”. _Zeitschrift für philosophische Forschung_ 75 (1), 160–164. (book review) ([Link](https://www.ingentaconnect.com/content/klos/zphf/2021/00000075/00000001/art00010))
 + Bauer, Alexander Max (2019): “Christian Neuhäuser. Reichtum als moralisches Problem”. _Zeitschrift für Ethik und Moralphilosophie_ 2 (2), 381–385. (book review) ([Link](https://link.springer.com/article/10.1007/s42048-019-00046-3/))
@@ -42,7 +46,7 @@ layout: default
 ## Prefaces, Introductions, and Epilogues
 
 + Kornmesser, Stephan, and Alexander Max Bauer (forthcoming): “Introduction”. In: Alexander Max Bauer and Stephan Kornmesser (eds.): The Compact Compendium of Experimental Philosophy. Berlin and Boston: Walter de Gruyter.
-+ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (forthcoming): “Einleitung. Verschwörungserzählungen”. In: id. (eds.): “Verschwörungserzählungen”. Special issue of _Zeitschrift für Praktische Philosophie_.
++ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (2022): “Einleitung. Verschwörungserzählungen”. _Zeitschrift für Praktische Philosophie_ 9 (2), 105–112. ([Link](https://www.praktische-philosophie.org/zfpp/article/view/414/338/))
 + Bauer, Alexander Max, and Nils Baratella (2021): “Vorwort”. In: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag. 5. ([Link](http://oops.uni-oldenburg.de/5115/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Epilogue. On Doxa and Aletheia”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. 337–342. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-017/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Introduction”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. 1–10. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797-004/))
