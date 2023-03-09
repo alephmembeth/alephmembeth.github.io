@@ -25,7 +25,7 @@ layout: default
 <!--
 add once finished:
 
-+ Richtsmeier, Karsten (2023): _Die Funktion der Institution Schule im Kapitalismus und ihre unterschiedliche Ausrichtung in Deutschland und Finnland_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
++ Richtsmeier, Karsten (2023): _Die Institution Schule als “ideologischer Staatsapparat” nach Louis Althusser in Kapitalismus und Sozialismus. Ein Vergleich der ideologisierenden Einflussnahme von Bildungssystemen in BRD und DDR_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Yurt, Delal (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 + Döhren, Lando (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 -->
