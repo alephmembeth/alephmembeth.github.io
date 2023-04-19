@@ -58,6 +58,7 @@ layout: default
 
 ## Working Papers
 
++ Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (2023): “Winter is Coming. How Laypeople Think About Different Kinds of Needs”. _SSRN Working Paper_ 4383555. ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4383555))
 + Wyszynski, Marc, and Alexander Max Bauer (2022): “Give What You Can, Take What You Need. The Effect of Framing on Rule-Breaking Behavior in Social Dilemmas”. _FOR 2104 Working Paper_ 2022-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2022/01/2022-01.pdf))
 + Bauer, Alexander Max, Frauke Meyer, Jan Romann, Mark Siebel, and Stefan Traub (2020): “Need, Equity, and Accountability. Evidence on Third-Party Distributive Decisions from an Online Experiment”. _FOR 2104 Working Paper_ 2020-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2020-01.pdf)) ([Repository](https://github.com/alephmembeth/need-accountability))
 + Bauer, Alexander Max (2018): “Sated but Thirsty. Towards a Multidimensional Measure of Need-Based Justice”. _FOR 2104 Working Paper_ 2018-03. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2018-03.pdf))
