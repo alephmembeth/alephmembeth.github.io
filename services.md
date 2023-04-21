@@ -21,6 +21,12 @@ layout: default
 
 ## Peer Review
 
+### Journals
+
 + Axiomathes (2020, 2021)
 + “forsch!”, Studentisches Online-Journal der Universität Oldenburg (2018)
 + Zeitschrift für Praktische Philosophie (2021)
+
+### Conferences
+
++ 3rd European Experimental Philosophy Conference (2023)
