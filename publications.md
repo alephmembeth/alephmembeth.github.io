@@ -14,6 +14,7 @@ layout: default
 
 ## Contributions to Journals
 
++ Wyszynski, Marc, and Alexander Max Bauer (forthcoming): “Give what’s required and take only what you need! The effect of framing on rule-breaking in social dilemmas”. _Judgment and Decision Making_. (peer reviewed)
 + Bauer, Alexander Max, and Stephan Kornmesser (forthcoming): “Poisoned Babies, Shot Fathers, and Ruined Experiments. Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation”. _Philosophy of Science_. (peer reviewed) ([Link](https://www.cambridge.org/core/journals/philosophy-of-science/article/poisoned-babies-shot-fathers-and-ruined-experiments/4D0C683AF6A00F0BA2B2A0923256166F/)) ([Repository](https://github.com/alephmembeth/causality-compositionality))
 + Bauer, Alexander Max, Frauke Meyer, Jan Romann, Mark Siebel, and Stefan Traub (2022): “Need, Equity, and Accountability. Evidence on Third-Party Distribution Decisions from a Vignette Study”. _Social Choice and Welfare_ 59, 769–814. (peer reviewed) ([Link](https://link.springer.com/article/10.1007/s00355-022-01410-w)) ([Repository](https://github.com/alephmembeth/need-accountability))
 + Bauer, Alexander Max, and Jan Romann (2022): “Answers at Gunpoint. On Livengood and Sytsma’s Revolver Case”. _Philosophy of Science_ 89 (1), 180–192. (peer reviewed) ([Link](https://www.cambridge.org/core/journals/philosophy-of-science/article/answers-at-gunpoint-on-livengood-and-sytsmas-revolver-case/A02B16770F20B1321ACDFEAD44010589/)) ([Repository](https://github.com/alephmembeth/causality-revolver))
