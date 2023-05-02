@@ -11,6 +11,7 @@ layout: default
 
 ## Refereed
 
++ “Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation” (September, 2023; presentation at the 3rd European Experimental Philosophy Conference; University of Zurich)
 + “Need and Responsibility – Experimental Philosophy Investigating Questions of Distributive Justice” (September 7, 2021; presentation at the 25th Congress of the German Society for Philosophy (DGPhil); Friedrich-Alexander University Erlangen-Nürnberg; moved online due to pandemic)
 + “Give What You Can, Take What You Need – The Effect of Framing on Fraudulent Behavior in Social Dilemmas” (August 23, 2021; poster presentation at the Subjective Probability, Utility, and Decision Making Conference; University of Warwick; jointly with Marc Wyszynski; moved online due to pandemic)
 + “Need and Responsibility – Experimental Philosophy on Questions of Distributive Justice” (July 2021; presentation accepted for the 18th Biennial Conference of the International Society for Justice Research; Católica Lisbon School of Business & Economics; not attended due to unforeseen circumstances)
