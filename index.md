@@ -110,7 +110,7 @@ add once monograph is announced:
 # Get in Touch
 
 If you want to get in touch, you can reach me at any time via <w17611688963@gmail.com> or <zhpwang20@lzu.edu.cn>.
-<!-- 
+
 On the internet, there are also some other places where you can find me, including but not limited to:
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
 + [Google Scholar](https://scholar.google.de/citations?user=EFeokZUAAAAJ)
@@ -122,4 +122,4 @@ On the internet, there are also some other places where you can find me, includi
 + [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2)
 + [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5771974)
 + [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer)
-+ [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth) -->
++ [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth)
