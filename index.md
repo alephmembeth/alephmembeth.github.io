@@ -11,12 +11,10 @@ For more detailed information about my academic and research experiences, please
 * * *
 
 <dl>
-   <dt>Areas of Specialization:</dt>
-      <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
-   <dt>Areas of Competence:</dt>
-      <dd>Distributive Justice, Philosophy of Science</dd>
-   <dt>Areas of Interest:</dt>
-      <dd>Metaphilosophy, Philosophy of Language</dd>
+   <dt>Research Interests:</dt>
+      <dd>computational optical imaging, especially combined hardware and software optimization for more purposeful imaging results and the application of optical imaging in various fields</dd>
+   <dt>Hobbies:</dt>
+      <dd>Photography, travel, PFV, hiking, and marketing</dd>
 </dl>
 
 * * *
