@@ -12,7 +12,7 @@ For more detailed information about my academic and research experiences, please
 
 <dl>
    <dt>Research Interests:</dt>
-      <dd>computational optical imaging, especially combined hardware and software optimization for more purposeful imaging results and the application of optical imaging in various fields</dd>
+      <dd>computational optical imaging, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields</dd>
    <dt>Hobbies:</dt>
       <dd>Photography, travel, PFV, hiking, and marketing</dd>
 </dl>
