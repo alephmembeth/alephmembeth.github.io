@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I am a xina pig who is intertsted in 圆神
+I am Wang Zhiping, currently a junior undergraduate student at Lanzhou University, majoring in physics. During my undergraduate years, I have done some research training and taken many courses related to physics, optics, computer science, and mathematics, and I have been a teaching assistant for these courses.  If you would like more information, you can see the details in the Education, Research, Teaching Assistantships section, but most of it is also available briefly in my cv.
 
 Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants and honours I’ve received](./financials.md). Most of this information can also be found bundled in my CV (of which you can find the most recent PDF in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)).
 
