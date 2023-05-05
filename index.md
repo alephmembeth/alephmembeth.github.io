@@ -8,13 +8,6 @@ Welcome to my personal website! I am Zhiping Wang, currently a junior undergradu
 
 For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV]([./CV/CV_ZhipingWang_April.pdf](https://github.com/Wang-Zhiping/Wang-Zhiping.github.io/tree/main/CV)). for a summary of my achievements.
 
-
-Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants and honours I’ve received](./financials.md). Most of this information can also be found bundled in my CV (of which you can find the most recent PDF in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)).
-
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my work](./check.md).
-
-The portrait to the left (or above, if you’re on a mobile device), by the way, was painted by the talented [Spiceestew](https://spiceestew.carrd.co/).
-
 * * *
 
 <dl>
