@@ -29,7 +29,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 * * *
 
 
-# Education{#Education}
+# Education <a name="Education"></a>
 猪脚大学
 
 # News
