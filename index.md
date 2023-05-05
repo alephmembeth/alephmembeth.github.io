@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Welcome to my personal website!I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024.During my undergraduate years, I have been actively involved in research training, primarily in the field of computational optical imaging. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for many of these courses.
+Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of computational optical imaging. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
 
 For more detailed information about my academic and research experiences, please refer to the Education, Research, and Teaching Assistantship sections of this website. Alternatively, you can also view my CV for a summary of my achievements.
 
