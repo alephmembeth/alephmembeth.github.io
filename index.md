@@ -28,6 +28,10 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 
 * * *
 
+
+# Education
+猪脚大学
+
 # News
 
 + 23/06/2022: [“When heating in winter becomes a luxury”](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327) (University of Oldenburg)
