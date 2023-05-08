@@ -21,7 +21,7 @@ For more detailed information about my academic and research experiences, please
 
 
 # Education <a name="Education"></a>
-### Bachelor of Science in **Physics**         (September 2020 – Current)
+### Bachelor of Science in Physics         (September 2020 – Current)
 
 + Lanzhou University
 + GPA:84.61/100
