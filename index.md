@@ -31,15 +31,35 @@ For more detailed information about my academic and research experiences, please
   Quantum Mechanics, Electrodynamic
 
 * * *
+# Honors and Awards　<a name="HA"></a>
++ **China Undergraduate Physics Tournament(Northwest Region) —(First Prize)**
+  + As a contestant (June 2021)
+
++ **China Undergraduate Physics Tournament(Northwest Region) —(Second Prize)**
+  + As a team leader (July 2022)
+
++ **Outstanding Student Scholarship**
+  + Lanzhou University (September 2022)
+* * *
+
+
+# TA experience <a name="TA"></a>
+### Computational Physics
+
+Teaching Assistant (September 2021 – January 2022)
+
+- Reviewed and graded student assignments, provided constructive feedback to students, and helped teachers with
+ongoing evaluation.
+
+- Assisted students with course material and answered questions during regular office hours I held or in the class.
+* * *
 
 # research experience <a name="RE"></a>
 
 * * *
 
 
-# TA experience <a name="TA"></a>
 
-* * *
 
 
 # News
