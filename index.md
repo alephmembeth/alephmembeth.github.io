@@ -6,7 +6,7 @@ layout: default
 
 Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **computational optical imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
 
-For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV]([./CV/CV_ZhipingWang_May.pdf](https://github.com/Wang-Zhiping/Wang-Zhiping.github.io/tree/main/CV)). for a summary of my achievements.
+For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/CV_ZhipingWang_May.pdf). for a summary of my achievements.
 
 * * *
 
@@ -21,7 +21,10 @@ For more detailed information about my academic and research experiences, please
 
 
 # Education <a name="Education"></a>
-猪脚大学
+:::right
+**2019.09 - 2022.07**
+:::
+成绩优异，GPA 3.8/4.0。获得x、xxxx竞赛奖项xx项，(包含xxxxxxx多媒体竞赛一等奖1项)。
 
 * * *
 
