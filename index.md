@@ -23,10 +23,10 @@ For more detailed information about my academic and research experiences, please
 # Education <a name="Education"></a>
 + Bachelor of Science in **Physics**         (September 2020 – Current)
 
-++ Lanzhou University
-++ GPA:84.61/100
-++ Ranking:4/20 in Physics Base Class(magnetism)
-++ **Major courses**:Computational Physics, Methods of Mathematical Physics, Optoelectronic Technology and Its
+    + Lanzhou University
+    + GPA:84.61/100
+    + Ranking:4/20 in Physics Base Class(magnetism)
+    + **Major courses**:Computational Physics, Methods of Mathematical Physics, Optoelectronic Technology and Its
   Applications, AI and Big Data, Fourier optics, Theoretical Mechanics, Thermodynamics and Statistical Physics,
   Quantum Mechanics, Electrodynamic
 
