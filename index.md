@@ -12,7 +12,15 @@ For more detailed information about my academic and research experiences, please
 
 <dl>
    <dt>Research Interests:</dt>
-      <dd>computational optical imaging, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields</dd>
+      <dd>computational optical imaging, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
+         
+ In more specific terms, what particularly captivates my interest in computational imaging is:
++ **New methodologies guiding optical design and imaging using AI**
++ **Biological imaging techniques and devics(photoacoustic imaging, microscopy)**
++ **Manufacturing astronomical optical devices**
+         
+These three areas --- all revolve around the fascinating intersection of optics and new methodologies. I believe that these areas share similarities on many levels, and they align with my primary interest in computational imaging.
+</dd> 
    <dt>Hobbies:</dt>
       <dd>Photography, travel, PFV, hiking, and marketing</dd>
 </dl>
