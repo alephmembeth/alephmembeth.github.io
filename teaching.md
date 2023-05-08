@@ -28,9 +28,9 @@ add once finished:
 
 + Richtsmeier, Karsten (2023): _Die Institution Schule als “ideologischer Staatsapparat” nach Louis Althusser in Kapitalismus und Sozialismus. Ein Vergleich der ideologisierenden Einflussnahme von Bildungssystemen in BRD und DDR_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Yurt, Delal (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
-+ Döhren, Lando (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
 -->
 
++ Döhren, Lando (2023): _Der Begriff des Guten in G. E. Moores “Principia Ethica” und Philippa Foots “Natural Goodness”_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Krüger, Maimouna (2023): _Sarkasmus in der Sprachenlogik. Wie beeinflusst Sarkasmus Gespräche?_ (bachelors’s thesis; University of Oldenburg; first examiner: Mark Siebel)
 + Göbbels, Bastian (2023): _Die Unvereinbarkeit von Positivismus und Kritischer Theorie_ (bachelor’s thesis; University of Oldenburg; first examiner: Myriam Gerhard)
 + Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema “Handlungsutilitarismus” vor dem Hintergrund des Videospiels “Star Wars: Knights of the Old Republic II”_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
