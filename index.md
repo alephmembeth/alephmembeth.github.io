@@ -10,9 +10,9 @@ For more detailed information about my academic and research experiences, please
 
 * * *
 
-<dl>
-   <dt>Research Interests:</dt>
-      <dd>computational optical imaging, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
+
+### Research Interests:
+ Computational optical imaging, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
          
  In more specific terms, what particularly captivates my interest in computational imaging is:
 + **New methodologies guiding optical design and imaging using AI**
@@ -20,10 +20,10 @@ For more detailed information about my academic and research experiences, please
 + **Manufacturing astronomical optical devices**
          
 These three areas --- all revolve around the fascinating intersection of optics and new methodologies. I believe that these areas share similarities on many levels, and they align with my primary interest in computational imaging.
-</dd> 
-   <dt>Hobbies:</dt>
-      <dd>Photography, travel, PFV, hiking, and marketing</dd>
-</dl>
+
+#### Hobbies:
+      Photography, travel, PFV, hiking, and marketing
+
 
 * * *
 
@@ -42,10 +42,8 @@ These three areas --- all revolve around the fascinating intersection of optics 
 # Honors and Awards　<a name="HA"></a>
 + **China Undergraduate Physics Tournament(Northwest Region) —(First Prize)**
   + As a contestant (June 2021)
-
 + **China Undergraduate Physics Tournament(Northwest Region) —(Second Prize)**
   + As a team leader (July 2022)
-
 + **Outstanding Student Scholarship**
   + Lanzhou University (September 2022)
 
@@ -91,7 +89,6 @@ ongoing evaluation.
   - Project Progress:After conducting extensive research, I discovered that By selecting appropriate parameters and applying
     adaptive binarization to the database photos, they were successfully classified with a slightly modified SVM, with an accuracy
     rate exceeding 98%
-
 + **Exploration of the nature and causes of candle flame oscillator**
   School of Physical Science and Technology (October 2020 – September 2021)
   - Introduction:In this project, we aim to investigate the coupling conditions and underlying causes of flame oscillations when
