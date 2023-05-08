@@ -40,6 +40,8 @@ For more detailed information about my academic and research experiences, please
 
 + **Outstanding Student Scholarship**
   + Lanzhou University (September 2022)
+
+
 * * *
 
 
@@ -52,94 +54,50 @@ Teaching Assistant (September 2021 – January 2022)
 ongoing evaluation.
 
 - Assisted students with course material and answered questions during regular office hours I held or in the class.
+
+
 * * *
 
 # research experience <a name="RE"></a>
 
++ **Solving an NP problem by means of Quantum Optics**
+  School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
+  - Introduction:The project plan aims to tackle some typical NP problems (such as the MAX-CUT problem) by utilizing optical
+    parametric oscillators (OPOs) or OPO networks. The proposed approach involves abstracting the target problem as an Ising
+    spin system and then using OPO (networks) to search the Hamiltonian ground state energy to solve the target problem.
+  - Project Progress: Following the idea proposed in the paper to build a neural network using TensorFlow and train it in colab,
+    the target effect was successfully reproduced (the training trend was the same as the effect in the paper) and the prediction
+    could be successfully made.
++ **Reproduction of optical design projects based on reverse learning**
+  School of Physical Science and Technology (April 2022 – March 2023)
+  - Introduction:The goal of this project is to replicate the findings of an article authored by Yu Zongfu’s team. When we
+    encounter a partial optical structure with corresponding electromagnetic correspondence, we will employ a tandem architecture
+    that combines forward modeling and inverse design to create an optical system.
+  - Project Progress: By following the approach suggested in the paper, we constructed a neural network using TensorFlow and
+    trained it in Google Colab. We successfully replicated the desired effect (the training trend closely matched that reported in the
+    paper) and were able to make accurate predictions.
++ **Palm print identification**
+  School of Information Science and Engineering (November 2021 – March 2022)
+  - Introduction:This project utilizes publicly available datasets to develop a palmprint identification system that aims to achieve
+    high accuracy in distinguishing the owner of a given palmprint, which is a practice project for learning neural networks.
+  - Project Progress:After conducting extensive research, I discovered that By selecting appropriate parameters and applying
+    adaptive binarization to the database photos, they were successfully classified with a slightly modified SVM, with an accuracy
+    rate exceeding 98%
+
++ **Exploration of the nature and causes of candle flame oscillator**
+  School of Physical Science and Technology (October 2020 – September 2021)
+  - Introduction:In this project, we aim to investigate the coupling conditions and underlying causes of flame oscillations when
+    several candles are burning in close proximity to one another.
+  - Project Progress:After reviewing the relevant literature and deriving the necessary theoretical framework, we utilized OpenCV
+    and a thermometer to collect experimental data that closely aligned with the proposed theory.
+  - Participated in China Undergraduate Physics Tournament(Northwest Region) as a tournament topic and won the first prize in
+    June 2021.
+    
+    
 * * *
 
 
 
-
-
-# News
-
-+ 23/06/2022: [“When heating in winter becomes a luxury”](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327) (University of Oldenburg)
-+ 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
-+ 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
-
-<details>
-<summary>Old news</summary>
-<br>
-<ul>
-   <li>27/04/2020: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Sammelband ‘Empirical Research and Normative Theory’ erschienen”</a> (DFG Research Group FOR 2104)</li>
-   <li>28/10/2019: <a href="https://www.presse.uni-oldenburg.de/mit/2019/362.html">“Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg”</a> (University of Oldenburg)</li>
-   <li>25/09/2019: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Neuer Sammelband ‘Philosophie zwischen Sein und Sollen’ erschienen”</a> (DFG Research Group FOR 2104)</li>
-   <li>18/04/2019: <a href="https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250">“Besser schreiben im Tandem”</a> (University of Oldenburg)</li>
-   <li>08/12/2017: <a href="https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/">“Mind the Gap. Zur Vermittlung normativer Theorie und empirischer Forschung”</a> (Karl-Jaspers-Gesellschaft)</li>
-   <li>02/07/2015: <a href="https://www.presse.uni-oldenburg.de/mit/2015/280.html">“Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über ‘Zeitbewusstsein und Sinn-Horizonte’”</a> (University of Oldenburg)</li>
-   <li>25/02/2013: <a href="https://www.weser-kurier.de/landkreis-verden/abiturient-fuehrt-die-piraten-an-doc7e4913gfbq08adqf2a1">“Abiturient führt die Piraten an”</a> (Weser Kurier)</li>
-   <li>21/01/2013: <a href="https://www.kreiszeitung.de/lokales/verden/mohr-spitze-2709087.html">“Mohr ist Spitze”</a> (Kreiszeitung)</li>
-   <li>21/01/2013: <a href="https://www.kreiszeitung.de/lokales/verden/macht-rennen-kirchlinteln-2709092.html">“CDU macht das Rennen in Kirchlinteln”</a> (Kreiszeitung)</li>
-   <li>18/01/2013: <a href="https://www.weser-kurier.de/landkreis-verden/teurer-wahlkampf-doc7e3gwmzp5ub15tuurfzw">“Teurer Wahlkampf”</a> (Weser Kurier)</li>
-   <li>11/01/2013: <a href="https://www.weser-kurier.de/niedersachsen/tempolimit-auf-der-a1-bei-oyten-doc7e3gpq83ppk8vflkd73">“Tempolimit auf der A1 bei Oyten”</a> (Weser Kurier)</li>
-   <li>11/01/2013: <a href="https://www.weser-kurier.de/niedersachsen/mehr-sicherheit-auf-den-schulwegen-doc7e3gpoycbbn1k3gvwiam">“Mehr Sicherheit auf den Schulwegen”</a> (Weser Kurier)</li>
-   <li>11/01/2013: <a href="https://www.weser-kurier.de/niedersachsen/aerger-ueber-marode-radwege-doc7e3gpoupy4o1d1k96iyy">“Ärger über marode Radwege”</a> (Weser Kurier)</li>
-   <li>11/01/2013: <a href="https://www.weser-kurier.de/niedersachsen/ein-buergerbus-fuer-oyten-doc7e3gpo5bc491h6fanfzw">“Ein Bürgerbus für Oyten”</a> (Weser Kurier)</li>
-   <li>10/01/2013: <a href="https://www.kreiszeitung.de/lokales/verden/bildungschancen-grosses-streitthema-2693591.html">“Bildungschancen als großes Streitthema”</a> (Kreiszeitung)</li>
-   <li>27/12/2012: <a href="https://www.kreiszeitung.de/lokales/verden/argumente-wahl-2678311.html">“Argumente zur Wahl”</a> (Kreiszeitung)</li>
-   <li>29/11/2012: <a href="https://www.kreiszeitung.de/lokales/verden/aufwertung-pflege-2643073.html">“Aufwertung der Pflege”</a> (Kreiszeitung)</li>
-   <li>20/04/2012: <a href="https://www.weser-kurier.de/region/drei-piraten-kueren-direktkandidaten-doc7e42wkfju7ngfqvg5ey">“Drei Piraten küren Direktkandidaten”</a> (Weser Kurier)</li>
-</ul>
-</details>
-
-* * *
-
-# Projects
-
-The projects I’m currently working on include:
-+ my cumulative dissertation on need-based distributive justice
-+ a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
-+ an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
-+ an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
-+ an introduction to methods of experimental philosophy (to be published with Springer and J. B. Metzler; jointly with Stephan Kornmesser)
-+ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with BIS-Verlag; jointly with Helena Esther Grass)
-
-* * *
-
-# Collaborators
-
-The great people with whom I had the pleasure to work or with whom I’m currently working include:
-+ [Prof. Dr. Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
-+ [Dr. Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
-+ [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Jacobs University Bremen)
-+ [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
-+ [Dr. Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
-+ [Dr. Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
-+ [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
-+ [Jan Romann](https://github.com/JKRhb) (University of Bremen)
-+ [Prof. Dr. Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
-+ [Dr. Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
-+ [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
-+ [Prof. Dr. Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
-+ [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
-+ [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Jacobs University Bremen)
-
-<!--
-add once monograph is announced:
-
-+ [Mark Alfano](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University)
-+ [Aurélien Allard](https://www.unige.ch/medecine/ieh2/welcome/staff/aurelien-allard/) (University of Geneva)
-+ [Lucien Baumgartner](https://www.philosophie.uzh.ch/de/seminar/people/research/snsf_reuter/baumgartner.html) (University of Zurich)
-+ [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
-+ [Paul Engelhardt](https://research-portal.uea.ac.uk/en/persons/paul-engelhardt) (University of East Anglia)
-+ [Eugen Fischer](https://research-portal.uea.ac.uk/en/persons/eugen-fischer) (University of East Anglia)
-+ [Kevin Reuter](https://www.philosophie.unibe.ch/ueber_uns/personen/reuter/index_ger.html) (University of Bern)
-+ [Justin Sytsma](https://people.wgtn.ac.nz/justin.sytsma) (Victoria University of Wellington)
-+ [Kyle Thompson](https://www.kthompsonphilosophy.com/) (Harvey Mudd College)
--->
-
-* * *
 
 # Get in Touch
 
