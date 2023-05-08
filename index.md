@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **computational optical imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
+Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **computational optics and optical imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
 
 For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/CV_ZhipingWang_May.pdf). for a summary of my achievements.
 
@@ -12,17 +12,17 @@ For more detailed information about my academic and research experiences, please
 
 
 ### Research Interests:
- Computational optical imaging, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
+ Computational optics, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
          
  In more specific terms, what particularly captivates my interest in computational imaging is:
 + **New methodologies guiding optical design and imaging using AI**
 + **Biological imaging techniques and devics(photoacoustic imaging, microscopy)**
-+ **Manufacturing astronomical optical devices**
++ **Adaptive optics (astronomical optics instrument manufacturing, biomedical applications)**
          
 These three areas --- all revolve around the fascinating intersection of optics and new methodologies. I believe that these areas share similarities on many levels, and they align with my primary interest in computational imaging.
 
-#### Hobbies:
-      Photography, travel, PFV, hiking, and marketing
+### Hobbies:
+Photography, travel, PFV, hiking, and marketing
 
 
 * * *
