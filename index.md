@@ -21,15 +21,14 @@ For more detailed information about my academic and research experiences, please
 
 
 # Education <a name="Education"></a>
-:::left
-**北京邮电大学 - 计算机科学与技术**
-:::
-:::right
-**2019.09 - 2022.07**
-:::
-成绩优异，GPA 3.8/4.0。获得x、xxxx竞赛奖项xx项，(包含xxxxxxx多媒体竞赛一等奖1项)。
++ Bachelor of Science in **Physics**         (September 2020 – Current)
 
-主持参与省、国家级项目xx项；发表论文xxx篇，其中x篇EI索引。
+++ Lanzhou University
+++ GPA:84.61/100
+++ Ranking:4/20 in Physics Base Class(magnetism)
+++ **Major courses**:Computational Physics, Methods of Mathematical Physics, Optoelectronic Technology and Its
+  Applications, AI and Big Data, Fourier optics, Theoretical Mechanics, Thermodynamics and Statistical Physics,
+  Quantum Mechanics, Electrodynamic
 
 * * *
 
