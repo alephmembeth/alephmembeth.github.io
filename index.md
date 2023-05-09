@@ -5,9 +5,9 @@ layout: default
 <table>
   <tr>
     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RI'><big><b>Research Interests</b></big></a></td>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big>Education</big></a></td>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></td>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RE'>Research</a></td>
+     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><h4><b>Education</b></h4></a></td>
+     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#TA'><h2><b>Teaching Assistantship</b></h2></a></td>
+     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RE'><h3><b>Research</b></h3></a></td>
     <!-- 更多的表格行和单元格 -->
   </tr>
 </table>
