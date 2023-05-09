@@ -6,10 +6,6 @@ layout: default
 <style>
 .table-container {
   position: fixed;
-  top: 10px; /* 设置表格容器距离顶部的距离 */
-  left: 0;
-  width: 100%; /* 设置表格容器宽度为100% */
-  overflow-x: scroll; /* 添加横向滚动条 */
   z-index: 9999; /* 设置表格容器的层级，确保其显示在其他内容之上 */
 }
 </style>
