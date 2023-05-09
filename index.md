@@ -1,39 +1,7 @@
 ---
 layout: default
 ---
-<!-- 
-<style>
-.table-container {
-<!--    position: fixed;
-   z-index: 999999; -->
-}
-</style> -->
-
-<!-- <div class="table-container">
-   
-   <table>
-  <tr>
-    <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RI'>Research Interests</a></td>
-    <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'>Education</a></td>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></td>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RE'>Research</a></td>
-    <!-- 更多的表格行和单元格 -->
-  </tr>
-</table>
-   
-<!--    
-  <table>
-    <thead> -->
-<!--  <tr><th><a href='https://wang-zhiping.github.io/#RI'>Research Interests</a></th><th><a href='https://wang-zhiping.github.io/#Education'>Education</a></th><th><a href='https://wang-zhiping.github.io/#HA'>Honors and Awards</a></th><th><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></th><th><a href='https://wang-zhiping.github.io/#RE'>Research</a></th></tr></thead>
-     -->
-<!-- <tr><th><a href='https://wang-zhiping.github.io/#RI'>Research Interests</a></th><th><a href='https://wang-zhiping.github.io/#Education'>Education</a></th><th><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></th><th><a href='https://wang-zhiping.github.io/#RE'>Research</a></th></tr></thead>
-<tbody></tbody> -->
-<!--   </table> -->
-</div>
- -->
- 
- 
- <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -43,6 +11,8 @@ layout: default
   vertical-align:top}
 .tg .tg-7t7i{font-family:"Arial Black", Gadget, sans-serif !important;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+
+
 <table class="tg">
 <thead>
   <tr>
