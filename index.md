@@ -19,8 +19,6 @@ layout: default
 </div>
 
 
-<div class="content-wrapper">
-  <div class="other-elements">
 # About Me
 
 Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **computational optics and optical imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
@@ -132,6 +130,3 @@ On the internet, there are also some other places where you can find me, especia
 
 But only the mail(<w17611688963@gmail.com>) is a reliable way to find me in time
     
-      </div>
-</div>
-
