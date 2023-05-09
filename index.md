@@ -18,10 +18,6 @@ layout: default
   </table>
 </div>
 
-
-
-<div class="content-wrapper">
-  <div class="other-elements">
     
     
 # About Me
@@ -135,7 +131,5 @@ On the internet, there are also some other places where you can find me, especia
 
 But only the mail(<w17611688963@gmail.com>) is a reliable way to find me in time
     
-    
-      </div>
-</div>
+
     
