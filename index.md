@@ -5,15 +5,15 @@ layout: default
 
 <style>
 .table-container {
-<!--   position: fixed;
-  z-index: 999999; -->
+  position: fixed;
+  z-index: 999999;
 }
 </style>
 
 <div class="table-container">
   <table>
     <thead>
-<tr><th><a href='https://wang-zhiping.github.io/#RI'>Research Interests</a></th><th><a href='https://wang-zhiping.github.io/#Education'>Education</a></th><th><a href='https://wang-zhiping.github.io/#HA'>Honors and Awards</a></th><th><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></th><th><a href='https://wang-zhiping.github.io/#RE'>Research</a></th></tr></thead>
+<!-- <tr><th><a href='https://wang-zhiping.github.io/#RI'>Research Interests</a></th><th><a href='https://wang-zhiping.github.io/#Education'>Education</a></th><th><a href='https://wang-zhiping.github.io/#HA'>Honors and Awards</a></th><th><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></th><th><a href='https://wang-zhiping.github.io/#RE'>Research</a></th></tr></thead> -->
 <tbody></tbody>
   </table>
 </div>
