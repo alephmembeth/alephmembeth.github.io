@@ -2,13 +2,12 @@
 layout: default
 ---
 
-
-<!-- <style>
+<style>
 .table-container {
-   position: fixed;
-  z-index: 999999;
+<!--    position: fixed;
+   z-index: 999999; -->
 }
-</style> -->
+</style>
 
 <div class="table-container">
   <table>
