@@ -3,9 +3,12 @@ layout: default
 ---
 
 
+
 <style>
 .table-class {
   width: 100%;
+  height: 400px; /* 设置容器的高度 */
+  overflow: auto; /* 添加滚动条 */
 }
 </style>
 
