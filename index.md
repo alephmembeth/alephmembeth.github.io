@@ -3,20 +3,28 @@ layout: default
 ---
 
 
-
 <style>
-.table-class {
-  width: 100%;
-  height: 400px; /* 设置容器的高度 */
-  overflow: auto; /* 添加滚动条 */
+.table-container {
+  position: fixed;
+  top: 100px; /* 设置表格容器距离顶部的距离 */
+  left: 0;
+  width: 100%; /* 设置表格容器宽度为100% */
+  overflow-x: scroll; /* 添加横向滚动条 */
+  z-index: 9999; /* 设置表格容器的层级，确保其显示在其他内容之上 */
+}
+
+table {
+  width: 100%; /* 设置表格宽度为100% */
 }
 </style>
 
-<table class="table-class">
-<thead>
+<div class="table-container">
+  <table>
+    <thead>
 <tr><th><a href='https://wang-zhiping.github.io/#RI'>Research Interests</a></th><th><a href='https://wang-zhiping.github.io/#Education'>Education</a></th><th><a href='https://wang-zhiping.github.io/#HA'>Honors and Awards</a></th><th><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></th><th><a href='https://wang-zhiping.github.io/#RE'>Research</a></th></tr></thead>
 <tbody></tbody>
-</table>
+  </table>
+</div>
 
 # About Me
 
