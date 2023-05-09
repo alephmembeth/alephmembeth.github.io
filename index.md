@@ -3,6 +3,18 @@ layout: default
 ---
 
 
+<style>
+.table-class {
+  width: 100%;
+}
+</style>
+
+<table class="table-class">
+<thead>
+<tr><th><a href='https://wang-zhiping.github.io/#RI'>Research Interests</a></th><th><a href='https://wang-zhiping.github.io/#Education'>Education</a></th><th><a href='https://wang-zhiping.github.io/#HA'>Honors and Awards</a></th><th><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></th><th><a href='https://wang-zhiping.github.io/#RE'>Research</a></th></tr></thead>
+<tbody></tbody>
+</table>
+
 # About Me
 
 Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **computational optics and optical imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
