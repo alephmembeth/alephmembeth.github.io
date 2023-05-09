@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
-
+<div class="container">
 <table>
   <tr>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big>Education<\big></a></td>
+     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big>Education</big></a></td>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></td>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RE'>Research</a></td>
     <!-- 更多的表格行和单元格 -->
   </tr>
 </table>
+</div>
     
     
 # About Me
