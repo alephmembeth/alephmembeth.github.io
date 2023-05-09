@@ -51,7 +51,7 @@ Photography, travel, PFV, hiking, and marketing
 * * *
 
 
-# TA experience <a name="TA"></a>
+# TA experiences <a name="TA"></a>
 ### Computational Physics
 
 Teaching Assistant (September 2021 – January 2022)
