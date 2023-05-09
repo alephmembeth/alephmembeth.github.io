@@ -5,7 +5,7 @@ layout: default
 
 <style>
 .table-container {
-  position: fixed;
+<!--   position: fixed; -->
   z-index: 999999;
 }
 </style>
