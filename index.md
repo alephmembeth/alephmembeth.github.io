@@ -6,7 +6,6 @@ layout: default
 <style>
 .table-container {
   position: fixed;
-  z-index: 9999; /* 设置表格容器的层级，确保其显示在其他内容之上 */
 }
 </style>
 
