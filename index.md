@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-
+<!-- 
 <style>
 .table-container {
 <!--    position: fixed;
    z-index: 999999; -->
 }
-</style>
+</style> -->
 
-<div class="table-container">
+<!-- <div class="table-container">
    
    <table>
   <tr>
@@ -30,6 +30,29 @@ layout: default
 <tbody></tbody> -->
 <!--   </table> -->
 </div>
+ -->
+ 
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-64jd{border-color:inherit;font-family:"Arial Black", Gadget, sans-serif !important;font-weight:bold;text-align:center;
+  vertical-align:top}
+.tg .tg-7t7i{font-family:"Arial Black", Gadget, sans-serif !important;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-64jd">Research Interests</td>
+    <td class="tg-64jd">Education</td>
+    <td class="tg-64jd">Teaching Assistantship</td>
+    <td class="tg-7t7i">Research</td>
+  </tr>
+</thead>
+</table>
 
     
     
