@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-   <table>
+
+<table>
   <tr>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big>Education<\big></a></td>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#TA'>Teaching Assistantship</a></td>
