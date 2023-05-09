@@ -6,8 +6,8 @@ layout: default
   <tr>
     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RI'><big><b>Research Interests</b></big></a></td>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big><b>Education</b></big></a></td>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#TA'><big><b>Teaching Assistantship</b></big></a></td>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RE'><big><b>Research</b></big></a></td>
+     <td style="text-align: center;"><a href='#TA'><big><b>Teaching Assistantship</b></big></a></td>
+     <td style="text-align: center;"><a href='./research.md'><big><b>Research</b></big></a></td>
     <!-- 更多的表格行和单元格 -->
   </tr>
 </table>
