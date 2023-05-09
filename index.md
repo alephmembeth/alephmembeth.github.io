@@ -64,7 +64,7 @@ ongoing evaluation.
 
 * * *
 
-# research experience <a name="RE"></a>
+# Research experiences <a name="RE"></a>
 
 + **Solving an NP problem by means of Quantum Optics**
   School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
