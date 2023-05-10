@@ -89,7 +89,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Dr. Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Dr. Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
-+ [Jan Romann](https://github.com/JKRhb) (University of Bremen)
++ [Jan Romann](https://github.com/JKRhb) (Hochschule Emden/Leer, University of Applied Sciences)
 + [Prof. Dr. Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
 + [Dr. Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
 + [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
