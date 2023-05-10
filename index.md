@@ -28,6 +28,8 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
       <dd>Distributive Justice, Philosophy of Science</dd>
    <dt>Areas of Interest:</dt>
       <dd>Metaphilosophy, Philosophy of Language</dd>
+   <dt>Tools of Choice:</dt>
+      <dd>LimeSurvey, oTree, Stata, R</dd>
 </dl>
 
 * * *
@@ -82,7 +84,7 @@ The projects I’m currently working on include:
 The great people with whom I had the pleasure to work or with whom I’m currently working include:
 + [Prof. Dr. Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
 + [Dr. Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
-+ [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Jacobs University Bremen)
++ [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Constructor University Bremen)
 + [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
 + [Dr. Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Dr. Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
@@ -93,7 +95,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
 + [Prof. Dr. Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
 + [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
-+ [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Jacobs University Bremen)
++ [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Constructor University Bremen)
 
 <!--
 add once monograph is announced:
