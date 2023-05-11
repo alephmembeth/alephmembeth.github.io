@@ -5,7 +5,7 @@ layout: default
 
 <style>
   .narrow-font {
-    font-family: "Arial Narrow", "Helvetica Narrow", Verdana, sans-serif;
+    font-family: "Arial Narrow", "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
 </style>
 
