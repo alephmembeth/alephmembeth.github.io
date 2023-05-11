@@ -2,42 +2,8 @@
 layout: default
 ---
 
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-  }
 
-  table {
-    width: 100%;
-  }
 
-  td {
-    text-align: center;
-  }
-
-  td:first-child {
-    text-align: left;
-  }
-
-  td:last-child {
-    text-align: right;
-  }
-</style>
-
-<div class="container">
-  <table>
-    <tr>
-      <td><a href='https://wang-zhiping.github.io/#RI'><big><b>Research Interests</b></big></a></td>
-      <td><a href='https://wang-zhiping.github.io/#Education'><big><b>Education</b></big></a></td>
-      <td><a href='#TA'><big><b>TA</b></big></a></td>
-      <td><a href='./research.html'><big><b>Research</b></big></a></td>
-      <!-- 更多的表格行和单元格 -->
-    </tr>
-  </table>
-</div>
-
-<!-- 
 
 <div class="container">
 <table>
@@ -49,7 +15,7 @@ layout: default
     <!-- 更多的表格行和单元格 -->
   </tr>
 </table>
-</div> -->
+</div> 
     
     
 # About Me
