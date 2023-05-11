@@ -10,7 +10,7 @@ layout: default
   <tr>
      <td style="text-align: left;"><a href='https://wang-zhiping.github.io/#RI'><big><b>Research<br>Interests</b></big></a></td>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big><b>Education</b></big></a></td>
-     <td style="text-align: center;"><a href='#TA'><big><b>TA</b></big></a></td>
+     <td style="text-align: center;"><a href='#TA'><big><b>Teaching<br>Assistantship</b></big></a></td>
      <td style="text-align: right;"><a href='./research.html'><big><b>Research</b></big></a></td>
     <!-- 更多的表格行和单元格 -->
   </tr>
