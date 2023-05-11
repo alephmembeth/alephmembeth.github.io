@@ -3,15 +3,19 @@ layout: default
 ---
 
 
-
+<style>
+  .narrow-font {
+    font-family: "Arial Narrow", "Helvetica Narrow", Verdana, sans-serif;
+  }
+</style>
 
 <div>
 <table>
   <tr>
-     <td style="text-align: left;"><a href='https://wang-zhiping.github.io/#RI'><big><b>Research<br>Interests</b></big></a></td>
-     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big><b>Education</b></big></a></td>
-     <td style="text-align: center;"><a href='#TA'><big><b>Teaching<br>Assistantship</b></big></a></td>
-     <td style="text-align: right;"><a href='./research.html'><big><b>Research</b></big></a></td>
+     <td style="text-align: left;"><a href='https://wang-zhiping.github.io/#RI'><big><b><span class="narrow-font">Research<br>Interests</span></b></big></a></td>
+     <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big><b><span class="narrow-font">Education</span></b></big></a></td>
+     <td style="text-align: center;"><a href='#TA'><big><b><span class="narrow-font">Teaching<br>Assistantship</span></b></big></a></td>
+     <td style="text-align: right;"><a href='./research.html'><big><b><span class="narrow-font">Research</span></b></big></a></td>
     <!-- 更多的表格行和单元格 -->
   </tr>
 </table>
