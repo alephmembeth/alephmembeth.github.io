@@ -5,7 +5,7 @@ layout: default
 
 <style>
   .narrow-font {
-    font-family: "Times New Roman", Times, serif;
+  font-family: "Crimson Text", serif;
   }
 </style>
 
