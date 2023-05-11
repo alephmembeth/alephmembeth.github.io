@@ -5,7 +5,7 @@ layout: default
 
 
 
-<div class="container">
+<div>
 <table>
   <tr>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#RI'><big><b>Interests</b></big></a></td>
