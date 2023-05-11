@@ -19,11 +19,8 @@ layout: default
 Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **computational optics and optical imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
 
 
-In mid-July 2023, I will be embarking on a summer research internship at [SCILAB](https://xyvirtualgroup.github.io/), Westlake University, under the guidance of Professor [Xin Yuan](https://scholar.google.com/citations?user=cS9CbWkAAAAJ). The internship will focus on Snapshot Compressive Imaging. Additionally, since May of this year, I have been actively involved in an online research project on photoacoustic imaging under the guidance of Professor [Fei Gao](https://scholar.google.com.sg/citations?user=aDTizY8AAAAJ) at [HISLAB](http://www.hislab.cn/), ShanghaiTech University.
+In mid-July 2023, I will be embarking on a summer research internship at [SCILAB](https://xyvirtualgroup.github.io/), Westlake University, under the guidance of Professor [Xin Yuan](https://scholar.google.com/citations?user=cS9CbWkAAAAJ). The internship will focus on **Snapshot Compressive Imaging**. Additionally, since May of this year, I have been actively involved in an online research project on **photoacoustic imaging** under the guidance of Professor [Fei Gao](https://scholar.google.com.sg/citations?user=aDTizY8AAAAJ) at [HISLAB](http://www.hislab.cn/), ShanghaiTech University.
 
-
-
-In mid-July 2023, I will be heading to [SCILAB](https://xyvirtualgroup.github.io/) at Westlake University for a summer research internship focused on **Snapshot Compressive Imaging**. Additionally, I have been actively involved in an online research project on **photoacoustic** imaging since May of this year, conducted at [HISLAB](http://www.hislab.cn/), ShanghaiTech University.
 
 For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/CV_ZhipingWang_May.pdf). for a summary of my achievements.
 
