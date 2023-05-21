@@ -34,7 +34,7 @@ For more detailed information about my academic and research experiences, please
 
 
 ### Research Interests:<a name="RI"></a>
- Computational optics, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
+** Computational optics**, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
          
  In more specific terms, what particularly captivates my interest in computational imaging is:
 + **New methodologies guiding optical design and imaging using AI**
