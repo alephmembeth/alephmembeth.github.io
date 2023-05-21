@@ -13,7 +13,7 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 + the [grants and honours I’ve received](./financials.md), or
 + my [services to the profession](./services.md).
 
-Most of this information can also be found bundled in my CV (of which you can find the most recent PDF in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)).
+Most of this information can also be found bundled in my CV (of which you can find the most recent version in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)).
 
 Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my work](./check.md).
 
