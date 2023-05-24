@@ -1,4 +1,20 @@
 <!DOCTYPE html>
+
+<style>
+  .container {
+    display: flex;
+  }
+
+  .sidebar {
+    flex: 1; /* 侧边栏占据1部分，即25%宽度 */
+  }
+
+  .content {
+    flex: 3; /* 内容区域占据3部分，即75%宽度 */
+  }
+</style>
+
+
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -44,7 +60,7 @@
 </p>
         
       </header>
-      <section>
+      <section class="content">
 
       {{ content }}
 
