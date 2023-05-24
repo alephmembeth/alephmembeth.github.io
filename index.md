@@ -70,7 +70,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 # Projects
 
 The projects I’m currently working on include:
-+ my cumulative dissertation on need-based distributive justice
++ my cumulative dissertation on need-based distributive justice (supervised by Mark Siebel)
 + a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
 + an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
 + an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
