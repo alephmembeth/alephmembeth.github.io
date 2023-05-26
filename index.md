@@ -91,9 +91,7 @@ The listed content here is just a partial enumeration of experiences. If you wou
   School of Engineering, Westlake University (July-August 2023) (Summer Research)
 + **Numerical simulation and experimental replication of high-resolution high-depth photoacoustic imaging under specific algorithms** (tentative)
   The project has gradually entered the right track and will update [weekly progress and summaries](./ResearchSummary&Reporting
-/HISLab/list_of_summary.md) [weekly progress and summaries](./ResearchSummary&Reporting
-/HISLab/list_of_summary.html) around every Monday in the future.[weekly progress and summaries](./list_of_summary.md)[weekly progress and summaries](./list_of_summary.html)
-
+/HISLab/list_of_summary.html) around every Monday in the future.<br>
   School of Information and Engineering, University of Science and Technology Shanghai (May-September 2023)
 + **Solving an NP problem by means of Quantum Optics**
   School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
