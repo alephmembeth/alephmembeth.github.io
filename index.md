@@ -87,17 +87,21 @@ ongoing evaluation.
 
 # Research experiences <a name="RE"></a>
 The listed content here is just a partial enumeration of experiences. If you would like to learn more details, please click [here](./research.md).
++ **Snapshot compression imaging optimization for optical backgrounds**
+  + School of Engineering, Westlake University (July-August 2023)
++ **Numerical simulation and experimental replication of high-resolution high-depth photoacoustic imaging under specific algorithms** (tentative)
+  + School of Information and Engineering, University of Science and Technology Shanghai (May-September 2023)
 + **Solving an NP problem by means of Quantum Optics**
-  School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
+  + School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
 
 + **Reproduction of optical design projects based on reverse learning**
-  School of Physical Science and Technology (April 2022 – March 2023)
+  + School of Physical Science and Technology (April 2022 – March 2023)
 
 + **Palm print identification**
-  School of Information Science and Engineering (November 2021 – March 2022)
+  + School of Information Science and Engineering (November 2021 – March 2022)
 
 + **Exploration of the nature and causes of candle flame oscillator**
-  School of Physical Science and Technology (October 2020 – September 2021)
+  + School of Physical Science and Technology (October 2020 – September 2021)
     
 * * *
 
