@@ -25,16 +25,23 @@ Should you be interested in replicating my work, there are a few things I do to 
 
 ## Repositories for Papers
 
-### Studies on Causation
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-compositionality)](https://github.com/alephmembeth/causality-compositionality)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-revolver)](https://github.com/alephmembeth/causality-revolver)
+### Papers on Causation
 
-### Studies on Distributive Justice
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-dissertation)](https://github.com/alephmembeth/need-dissertation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-kinds)](https://github.com/alephmembeth/need-kinds)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-deeds)](https://github.com/alephmembeth/need-deeds)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-accountability)](https://github.com/alephmembeth/need-accountability)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-master-thesis)](https://github.com/alephmembeth/need-master-thesis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-compositionality&theme=dark)](https://github.com/alephmembeth/causality-compositionality/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-revolver&theme=dark)](https://github.com/alephmembeth/causality-revolver/)
+
+### Papers on Distributive Justice
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-dissertation&theme=dark)](https://github.com/alephmembeth/need-dissertation/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-reference-point&theme=dark)](https://github.com/alephmembeth/need-reference-point/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-kinds&theme=dark)](https://github.com/alephmembeth/need-kinds/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-deeds&theme=dark)](https://github.com/alephmembeth/need-deeds/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-accountability&theme=dark)](https://github.com/alephmembeth/need-accountability/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-master-thesis&theme=dark)](https://github.com/alephmembeth/need-master-thesis/)
+
+### Papers on Speech Acts
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=speech-constative-performative&theme=dark)](https://github.com/alephmembeth/speech-constative-performative/)
 
 ***
 
