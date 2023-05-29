@@ -6,4 +6,4 @@
 * * *
 
 
-### Week 1 Summary
+### [Week 1 Summary](./week1.md)
