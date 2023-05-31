@@ -90,7 +90,7 @@ The listed content here is just a partial enumeration of experiences. If you wou
 + **Snapshot compression imaging optimization for optical backgrounds**
   School of Engineering, Westlake University (July-August 2023) (Summer Research)
   
-+ **Numerical simulation and experimental replication of high-resolution high-depth photoacoustic imaging under specific algorithms** (tentative)
++ **Improving the efficiency of photoacoustic conversion in photoacoustic imaging** (tentative)
   The project has gradually entered the right track and will update [weekly progress and summaries](./ResearchSummary&Reporting
 /HISLab/list_of_summary.html) around every Monday in the future.<br>
   School of Information and Engineering, ShanghaiTech (May-September 2023)
