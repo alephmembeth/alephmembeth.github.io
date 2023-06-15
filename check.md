@@ -20,8 +20,8 @@ All errors found in my preprinted and published work will be collected in a sepa
 Should you be interested in replicating my work, there are a few things I do to make this as easy as possible for you:
 
 + For projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files (see below).
-+ If anything is missing in a repository, please feel free to contact me, and I will try to add the missing files as soon as possible.
-+ If you are working on replication of my work, I will be happy to give you feedback and answer any questions you have on the matter.
++ If anything is missing in a repository, please feel free to contact me, and I will try to add the missing files if possible.
++ If you are working on a replication of my work, I will be happy to give you feedback and answer any questions you have on the matter.
 
 ## Repositories for Papers
 
