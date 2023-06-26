@@ -38,9 +38,10 @@ Computational optics, especially combined hardware and software optimization for
          
  In more specific terms, what particularly captivates my interest in computational imaging is:
 
-+ **astronomical instrument(Adaptive optics, others)**
++ **Biological imaging techniques and devices**
 + **New methodologies guiding optical design and imaging using AI**
-+ **Biological imaging techniques and devics(photoacoustic imaging, computational bio imaging)**
++ **Astronomical instrument(Adaptive optics, others)**
+
          
 These three areas --- all revolve around the fascinating intersection of optics and new methodologies. I believe that these areas share similarities on many levels, and they align with my primary interest in computational imaging.
 
