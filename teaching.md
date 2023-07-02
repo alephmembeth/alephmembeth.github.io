@@ -4,6 +4,10 @@ layout: default
 
 # Teaching
 
+## Teaching Materials
+
++ Runtenberg, Christa, Laura Deepen, Alexander Max Bauer, and Gregor Damschen (2019): _Leitfaden zum wissenschaftlichen Schreiben in den Fächern Philosophie und Werte und Normen_. Oldenburg: University of Oldenburg. ([Link](https://uol.de/philosophie/studienorganisation/leitfaden-zum-wissenschaftlichen-arbeiten))
+
 ## Courses
 
 + “Einführung in die Experimentelle Theoretische Philosophie” (winter term 2023/2024; course on bachelor’s level; University of Oldenburg)
