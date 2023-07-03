@@ -7,7 +7,7 @@ layout: default
 ## Teaching Materials
 
 + Runtenberg, Christa, Laura Deepen, Alexander Max Bauer, and Gregor Damschen (2019): _Leitfaden zum wissenschaftlichen Schreiben in den Fächern Philosophie und Werte und Normen_. Oldenburg: University of Oldenburg. ([Link](https://uol.de/philosophie/studienorganisation/leitfaden-zum-wissenschaftlichen-arbeiten))
-+ Bauer, Alexander Max, and Marco Stawinoga (2014): _Skript zur Einführung in das wissenschaftliche Arbeiten für das Philosophiestudium_. Oldenburg: University of Oldenburg.
++ Bauer, Alexander Max, and Marco Stawinoga (2014): _Skript zur Einführung in das wissenschaftliche Arbeiten für das Philosophiestudium_. Oldenburg: University of Oldenburg. ([Link](files/2014_bauer_stawinoga_skript.pdf))
 
 ## Courses
 
