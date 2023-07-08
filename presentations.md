@@ -7,7 +7,7 @@ layout: default
 ## Invited
 
 + “Mind the Gap – Zur Vermittlung von normativer Theorie und empirischer Forschung” (December 8, 2017; presentation at the lecture series “Junge Philosophie”; Karl-Jaspers-Gesellschaft in Oldenburg; jointly with Malte Ingo Meyerhuber; invited by Ansgar Baumgart, Malte Maria Unverzagt, and Philip Penew)
-+ “Grundlagen für Maße der Bedarfsgerechtigkeit – Axiomatische Überlegungen und empirische Untersuchungen” (November 22, 2016; presentation at the Department of Philosophy’s colloquium; University of Oldenburg; jointly with Arne Robert Weiß; invited by Nils Baratella)
++ “Grundlagen für Maße der Bedarfsgerechtigkeit – Axiomatische Überlegungen und empirische Untersuchungen” (November 22, 2016; presentation at the Department of Philosophy’s colloquium; University of Oldenburg; jointly with Arne Robert Weiss; invited by Nils Baratella)
 
 ## Refereed
 
@@ -29,7 +29,7 @@ layout: default
 ## Other
 
 + “Measuring Need-Based Distributive Justice Normatively and Empirically” (May 22, 2022; poster presentation at the Symposium on Need-Based Justice of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); University of Hamburg; jointly with Mark Siebel)
-+ “Types of Need” (February 14, 2020; presentation at the workshopf of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen)
++ “Types of Need” (February 14, 2020; presentation at the workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen)
 + “Need and Responsibility” (February 12, 2020; presentation at the meeting of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen)
 + “What Makes a Theory of Justice ‘Empirically Informed’? On the Possibilities and Impossibilities of Integrating Empirical Research Into Normative Theory” (November 22, 2018; presentation at the workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); University of Bremen)
 + “‘Wahrheit ist, was uns verbindet’” (February 16, 2018; address at the graduation ceremony of Faculty IV; University of Oldenburg)
