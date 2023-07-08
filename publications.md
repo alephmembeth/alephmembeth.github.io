@@ -61,13 +61,14 @@ layout: default
 
 ## Working Papers
 
++ Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2023): “When the Poorest Are Neglected. A Vignette Experiment on Need-Based Distributive Justice”. _SSRN Working Paper_ 4503209. ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503209))
 + Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (2023): “Winter is Coming. How Laypeople Think About Different Kinds of Needs”. _SSRN Working Paper_ 4383555. ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4383555))
 + Wyszynski, Marc, and Alexander Max Bauer (2022): “Give What You Can, Take What You Need. The Effect of Framing on Rule-Breaking Behavior in Social Dilemmas”. _FOR 2104 Working Paper_ 2022-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2022/01/2022-01.pdf))
 + Bauer, Alexander Max, Frauke Meyer, Jan Romann, Mark Siebel, and Stefan Traub (2020): “Need, Equity, and Accountability. Evidence on Third-Party Distributive Decisions from an Online Experiment”. _FOR 2104 Working Paper_ 2020-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2020-01.pdf)) ([Repository](https://github.com/alephmembeth/need-accountability))
 + Bauer, Alexander Max (2018): “Sated but Thirsty. Towards a Multidimensional Measure of Need-Based Justice”. _FOR 2104 Working Paper_ 2018-03. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2018-03.pdf))
 + Bauer, Alexander Max (2018): “Monotonie und Monotoniesensitivität als Desiderata für Maße der Bedarfsgerechtigkeit. Zu zwei Aspekten der Grundlegung empirisch informierter Maße der Bedarfsgerechtigkeit zwischen normativer Theorie, formaler Modellierung und empirischer Sozialforschung”. _FOR 2104 Working Paper_ 2018-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2018-01.pdf)) ([Repository](https://github.com/alephmembeth/need-master-thesis))
-+ Weiß, Arne Robert, Alexander Max Bauer, and Stefan Traub (2017): “Needs as Reference Points. When Marginal Gains to the Poor do not Matter”. _FOR 2104 Working Paper_ 2017-13. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-13.pdf))
-+ Traub, Stefan, Alexander Max Bauer, Mark Siebel, Nils Springhorn, and Arne Robert Weiß (2017): “On the Measurement of Need-Based Justice”. _FOR 2104 Working Paper_ 2017-12. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-12.pdf))
++ Weiss, Arne Robert, Alexander Max Bauer, and Stefan Traub (2017): “Needs as Reference Points. When Marginal Gains to the Poor do not Matter”. _FOR 2104 Working Paper_ 2017-13. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-13.pdf))
++ Traub, Stefan, Alexander Max Bauer, Mark Siebel, Nils Springhorn, and Arne Robert Weiss (2017): “On the Measurement of Need-Based Justice”. _FOR 2104 Working Paper_ 2017-12. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-12.pdf))
 
 ## Translations
 
