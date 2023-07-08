@@ -102,7 +102,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
 + [Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
 + [Justin Sytsma](https://people.wgtn.ac.nz/justin.sytsma) (Victoria University of Wellington)
-+ [Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
++ [Arne Robert Weiss](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
 + [Kyle Thompson](https://www.kthompsonphilosophy.com/) (Harvey Mudd College)
 + [Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Constructor University Bremen)
 
