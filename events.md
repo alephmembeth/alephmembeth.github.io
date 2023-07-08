@@ -15,7 +15,7 @@ layout: default
       <dd>winter term 2019/2020; lecture series; University of Oldenburg; organized jointly with Gregor Damschen and Mark Siebel</dd>
       <dd>featuring contributions by Inga Bones, Elke Brendel, Guido Kreis, Paul Näger, Norman Sieroka, and Stefan Uppenkamp</dd>
    <dt>Workshop der wissenschaftlichen Mitarbeiter</dt>
-      <dd>December 13 – 15, 2017; workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Karl-Jaspers-Haus in Oldenburg; organized jointly with Maximilian Lutz, Fabian Paetzel, Nils Springhorn, and Arne Robert Weiß</dd>
+      <dd>December 13 – 15, 2017; workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Karl-Jaspers-Haus in Oldenburg; organized jointly with Maximilian Lutz, Fabian Paetzel, Nils Springhorn, and Arne Robert Weiss</dd>
       <dd>featuring contributions by Meike Benker, Marina Chugunova, Andrew Lawrence Fassett, Jan Philipp Krügel, Sabine Neuhofer, Manuel Schwaninger, Marc Wyszynski, and Patricia Zauchner, as well as a method workshop by Michael Jankowski</dd>
    <dt>Empirical Research and Normative Theory</dt>
       <dd>September 28 – 29, 2017; international summer school at the “Oldenburg School for the Social Sciences and the Humanities 2017” of the Graduate School for the Social Sciences and the Humanities (3GO); University of Oldenburg; organized jointly with Malte Ingo Meyerhuber and Rea Kodalle</dd>
