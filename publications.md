@@ -36,7 +36,7 @@ layout: default
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (eds.) (2019) (paperback edition 2021): _Philosophie zwischen Sein und Sollen. Normative Theorie und empirische Forschung im Spannungsfeld_. Berlin and Boston: Walter de Gruyter. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613773/))
 + Bauer, Alexander Max, and Nils Baratella (eds.) (2019): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
 
-## Contributions to Edited Volumes or Monographs With Multiple Authors
+## Contributions to Edited Volumes or to Monographs With Multiple Authors
 
 + Bauer, Alexander Max, Stephan Kornmesser and Henrike Meyer (forthcoming): “Constative and Performative Utterances, Χ<sup>2</sup> Tests, and LimeSurvey”. In: Stephan Kornmesser, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski: _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
 + Bauer, Alexander Max, and Jan Romann (forthcoming): “Equal Deeds, Different Needs. Need, Accountability, and Resource Availability in Third-Party Distribution Decisions”. In: Joshua Knobe and Shaun Nichols (eds.): _Oxford Studies in Experimental Philosophy_. Vol. 5. Oxford: Oxford University Press. (peer reviewed) ([Repository](https://github.com/alephmembeth/need-deeds))
