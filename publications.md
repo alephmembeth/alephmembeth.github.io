@@ -28,6 +28,7 @@ layout: default
 
 ## Edited Volumes
 
++ Bauer, Alexander Max, and Helena Esther Grass, (eds.) (forthcoming): _Oldenburger Jahrbuch für Philosophie 2021/2022_. Oldenburg: University of Oldenburg Press. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
 + Bauer, Alexander Max, and Stephan Kornmesser (eds.) (forthcoming): _The Compact Compendium of Experimental Philosophy_. Berlin and Boston: Walter de Gruyter.
 + Bauer, Alexander Max, Gregor Damschen, and Mark Siebel (eds.) (forthcoming): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. ([Link](https://brill.com/view/title/59384))
 + Bauer, Alexander Max, and Nils Baratella (eds.) (2021): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
