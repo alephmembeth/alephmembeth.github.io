@@ -104,7 +104,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Justin Sytsma](https://people.wgtn.ac.nz/justin.sytsma) (Victoria University of Wellington)
 + [Arne Robert Weiss](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
 + [Kyle Thompson](https://www.kthompsonphilosophy.com/) (Harvey Mudd College)
-+ [Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Constructor University Bremen)
++ [Marc Wyszynski](https://www.uni-bremen.de/universitaet/campus/mitarbeiterinnenverzeichnis/person/187022/Wyszynski) (University of Bremen)
 
 * * *
 
