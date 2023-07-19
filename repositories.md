@@ -4,8 +4,6 @@ layout: default
 
 # Repositories
 
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my research](https://alephmembeth.github.io/check.html). To this end, I try to maintain repositories containing essential files (i.e., primarily data and analysis files) for research projects where I am the first or corresponding author.
-
 ## Papers on Causation
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-compositionality)](https://github.com/alephmembeth/causality-compositionality/)
