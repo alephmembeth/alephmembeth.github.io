@@ -11,7 +11,6 @@ layout: default
 
 ## Papers on Distributive Justice
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-dissertation)](https://github.com/alephmembeth/need-dissertation/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-reference-point)](https://github.com/alephmembeth/need-reference-point/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-kinds)](https://github.com/alephmembeth/need-kinds/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-deeds)](https://github.com/alephmembeth/need-deeds/)
