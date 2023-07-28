@@ -15,7 +15,6 @@ layout: default
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-kinds)](https://github.com/alephmembeth/need-kinds/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-deeds)](https://github.com/alephmembeth/need-deeds/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-accountability)](https://github.com/alephmembeth/need-accountability/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-master-thesis)](https://github.com/alephmembeth/need-master-thesis/)
 
 ## Papers on Speech Acts
 
