@@ -28,7 +28,7 @@ Welcome to my personal website! I am Zhiping Wang, currently a junior undergradu
 
 Since May of this year, I have been actively involved in an online research project on **Photoacoustic Imaging** under the guidance of Professor [Fei Gao](https://scholar.google.com.sg/citations?user=aDTizY8AAAAJ) at [HISLAB](http://www.hislab.cn/), ShanghaiTech University.
 
-For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/ZhipingWang_CV_July.pdf). for a summary of my achievements.
+For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/ZhipingWang_CV_August.pdf). for a summary of my achievements.
 
 * * *
 
