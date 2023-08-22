@@ -29,12 +29,12 @@ layout: default
 
 ## Edited Volumes
 
-+ Bauer, Alexander Max, and Helena Esther Grass, (eds.) (forthcoming): _Oldenburger Jahrbuch für Philosophie 2021/2022_. Oldenburg: University of Oldenburg Press. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
-+ Bauer, Alexander Max, and Stephan Kornmesser (eds.) (forthcoming): _The Compact Compendium of Experimental Philosophy_. Berlin and Boston: Walter de Gruyter.
++ Bauer, Alexander Max, and Helena Esther Grass (eds.) (forthcoming): _Oldenburger Jahrbuch für Philosophie 2021/2022_. Oldenburg: University of Oldenburg Press. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
++ Bauer, Alexander Max, and Stephan Kornmesser (eds.) (forthcoming): _The Compact Compendium of Experimental Philosophy_. Berlin and Boston: Walter de Gruyter. ([Link](https://www.degruyter.com/document/isbn/9783110717020/html))
 + Bauer, Alexander Max, Gregor Damschen, and Mark Siebel (eds.) (forthcoming): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. ([Link](https://brill.com/view/title/59384))
 + Bauer, Alexander Max, and Nils Baratella (eds.) (2021): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
-+ Bauer, Alexander Max, and Malte Ingo Meyerhuber (eds.) (2020) (paperback edition 2021): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613797/))
-+ Bauer, Alexander Max, and Malte Ingo Meyerhuber (eds.) (2019) (paperback edition 2021): _Philosophie zwischen Sein und Sollen. Normative Theorie und empirische Forschung im Spannungsfeld_. Berlin and Boston: Walter de Gruyter. ([Link](https://www.degruyter.com/document/doi/10.1515/9783110613773/))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (eds.) (2020) (paperback edition 2021): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. ([Link](https://doi.org/10.1515/9783110613797))
++ Bauer, Alexander Max, and Malte Ingo Meyerhuber (eds.) (2019) (paperback edition 2021): _Philosophie zwischen Sein und Sollen. Normative Theorie und empirische Forschung im Spannungsfeld_. Berlin and Boston: Walter de Gruyter. ([Link](https://doi.org/10.1515/9783110613773))
 + Bauer, Alexander Max, and Nils Baratella (eds.) (2019): _Oldenburger Jahrbuch für Philosophie 2017/2018_. Oldenburg: BIS-Verlag. ([Link](https://uol.de/philosophie/aktuelles/oldenburger-jahrbuch-fuer-philosophie))
 
 ## Contributions to Edited Volumes or to Monographs With Multiple Authors
