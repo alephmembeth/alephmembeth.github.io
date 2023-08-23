@@ -11,7 +11,7 @@ layout: default
 
 ## Journals
 
-+ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): “Verschwörungserzählungen”. Special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). [[Link](https://www.praktische-philosophie.org/zfpp/issue/view/20/)]
++ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): “Verschwörungserzählungen”. Special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). [`Link`](https://www.praktische-philosophie.org/zfpp/issue/view/20/)
 
 ## Contributions to Journals
 
