@@ -26,7 +26,7 @@ layout: default
 
 Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **Computational Optics and Optical Imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
 
-I am presently engaged in a research internship at the Pioneering Interdiscipline Center within the Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences. My individual research project is **<i>Research on Fast Fourier Ptychography Based on Illumination Control</i>**, under the supervision of Dr. An Pan.
+I am presently engaged in a research internship at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) within the Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences. My individual research project is **<i>Research on Fast Fourier Ptychography Based on Illumination Control</i>**, under the supervision of Dr. An Pan.
 <!--
 I am presently involved in a research internship at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) of the Chinese Academy of Sciences, under the guidance of Dr. [Pan An](https://scholar.google.com/citations?user=C3ZLpdQAAAAJ).
 -->
