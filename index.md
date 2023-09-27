@@ -42,7 +42,7 @@ Computational optics, especially combined hardware and software optimization for
          
  In more specific terms, what particularly captivates my interest in **computational imaging** is:
  
-+ **Computational optical imaging** 
++ **Computational (optical) imaging** 
 + **Biological imaging techniques and devices**
 + **New methodologies guiding optical design and imaging using AI**
 + **Astronomical instrument(Adaptive optics, others)**
