@@ -4,7 +4,7 @@
 body {
   background-color:#e5e5e5;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#4c4c4c;
   font-weight:400;
 }
@@ -40,7 +40,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #E69138;
+  color:#E69138;
 }
 
 a small {
@@ -73,10 +73,10 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background:#f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
-  overflow-x: auto;
+  overflow-x:auto;
 }
 
 table {
@@ -104,17 +104,17 @@ img {
 }
 
 kbd {
-  background-color: #fafbfc;
-  border: 1px solid #c6cbd1;
-  border-bottom-color: #959da5;
-  border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #959da5;
-  color: #444d56;
-  display: inline-block;
-  font-size: 11px;
-  line-height: 10px;
-  padding: 3px 5px;
-  vertical-align: middle;
+  background-color:#fafbfc;
+  border:1px solid #c6cbd1;
+  border-bottom-color:#959da5;
+  border-radius:3px;
+  box-shadow:inset 0 -1px 0 #959da5;
+  color:#444d56;
+  display:inline-block;
+  font-size:11px;
+  line-height:10px;
+  padding:3px 5px;
+  vertical-align:middle;
 }
 
 header {
@@ -128,7 +128,7 @@ ul.downloads {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
+  background:#f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
@@ -209,7 +209,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width:960px) {
 
   div.wrapper {
     width:auto;
@@ -244,7 +244,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width:720px) {
   body {
     word-wrap:break-word;
   }
@@ -262,7 +262,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width:480px) {
   body {
     padding:15px;
   }
