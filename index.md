@@ -7,6 +7,12 @@ layout: default
   .narrow-font {
     font-family: "Arial Narrow", "Helvetica Narrow", Verdana, sans-serif;
   }
+  #clustrmaps {
+    display: none; /* 隐藏元素 */
+    font-size: 1px;  /* 设置字体大小为1像素 */
+    width: 1px;     /* 设置宽度为1像素 */
+    height: 1px;    /* 设置高度为1像素 */
+  }
 </style>
 
 <div>
