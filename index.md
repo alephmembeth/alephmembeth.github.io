@@ -7,12 +7,6 @@ layout: default
   .narrow-font {
     font-family: "Arial Narrow", "Helvetica Narrow", Verdana, sans-serif;
   }
-  .clustrmaps {
-    display: none; /* 隐藏元素 */
-    font-size: 1px;  /* 设置字体大小为1像素 */
-    width: 1px;     /* 设置宽度为1像素 */
-    height: 1px;    /* 设置高度为1像素 */
-  }
 </style>
 
 <div>
@@ -26,7 +20,9 @@ layout: default
   </tr>
 </table>
 </div> 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20'></script>
+<a href="https://clustrmaps.com/site/1bx3g" title="Visit tracker">
+  <img src="//www.clustrmaps.com/map_v2.png?d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20&cl=ffffff" width="1" height="1" />
+</a>
     
     
 # About Me
