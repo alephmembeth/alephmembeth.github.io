@@ -26,6 +26,7 @@ layout: default
   </tr>
 </table>
 </div> 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20'></script>
     
     
 # About Me
@@ -133,8 +134,6 @@ On the internet, there are also some other places where you can find me, especia
 + [bilibili](https://space.bilibili.com/15823831)
 
 But only the mail(<w17611688963@gmail.com>) is a reliable way to find me in time
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20'></script>
     
 
       
