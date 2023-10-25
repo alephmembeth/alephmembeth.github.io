@@ -20,9 +20,7 @@ layout: default
   </tr>
 </table>
 </div> 
-<a href="https://clustrmaps.com/site/1bx3g" title="Visit tracker">
-  <img src="//www.clustrmaps.com/map_v2.png?d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20&cl=ffffff" width="1" height="1" />
-</a>
+
     
     
 # About Me
@@ -37,7 +35,9 @@ I am presently involved in a research internship at the [Pioneering Interdiscipl
 Since May of this year, I have been actively involved in an online research project on **Photoacoustic Imaging** under the guidance of Professor [Fei Gao](https://scholar.google.com.sg/citations?user=aDTizY8AAAAJ) at [HISLAB](http://www.hislab.cn/), ShanghaiTech University.
 -->
 
-For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/ZhipingWang_CV_September.pdf). for a summary of my achievements.
+For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/ZhipingWang_CV_September.pdf). for a summary of my achievements.<a href="https://clustrmaps.com/site/1bx3g" title="Visit tracker">
+  <img src="//www.clustrmaps.com/map_v2.png?d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20&cl=ffffff" width="1" height="1" />
+</a>
 
 * * *
 
