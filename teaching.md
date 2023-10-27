@@ -20,17 +20,13 @@ layout: default
 + “Suffizientarismus – Zu einer Kritik der Unersättlichkeit” (summer term 2019; course on master’s level; University of Oldenburg)
 + “Sein und Sollen – Abgründe und Brücken zwischen empirischer Forschung und normativer Theorie” (winter term 2018/2019; course on bachelor’s level; University of Oldenburg)
 + “Eduard Beaucamp und die Leipziger Schule – Ästhetik zwischen Kontinuität und Bruch” (winter term 2017/2018; course on master’s level; University of Oldenburg)
-+ “Operationalisierung von Verteilungsgerechtigkeit – Zur Grundlegung der Messbarkeit von Gerechtigkeit zwischen normativer Theorie und formaler Modellierung” (summer term 2017; course on master’s level; University of Oldenburg;)
++ “Operationalisierung von Verteilungsgerechtigkeit – Zur Grundlegung der Messbarkeit von Gerechtigkeit zwischen normativer Theorie und formaler Modellierung” (summer term 2017; course on master’s level; University of Oldenburg)
 + “Nietzsche – Frühe Schriften” (winter term 2015/2016; course on master’s level; University of Oldenburg; jointly with Nils Baratella)
 + “Einführung in die Praktische Philosophie” (summer terms 2014 and 2015; tutorial course on bachelor’s level; University of Oldenburg; accompanying the lectures of Martin Louis Vialon (summer term 2014) and Michael Städtler (summer term 2015))
 + “Einführung in das wissenschaftliche Arbeiten” (winter terms 2013/2014, 2014/2015, 2015/2016, 2016/2017, 2017/2018, and 2018/2019; exercise for first year students; University of Oldenburg; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019))
 + “Einführung in die Theoretische Philosophie” (winter terms 2012/2013, 2013/2014, 2014/2015, 2015/2016, and 2016/2017; tutorial course on bachelor’s level; University of Oldenburg; accompanying the lecture of Mark Siebel)
 
 ## Theses
-
-<!--
-+ Yurt, Delal (2023): _t.b.a._ (bachelor’s thesis; University of Oldenburg)
--->
 
 + Döhren, Lando (2023): _Der Begriff des Guten in G. E. Moores “Principia Ethica” und Philippa Foots “Natural Goodness”_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Richtsmeier, Karsten (2023): _Die Institution Schule als “ideologischer Staatsapparat” nach Louis Althusser in Kapitalismus und Sozialismus. Ein Vergleich der ideologisierenden Einflussnahme von Bildungssystemen in BRD und DDR_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
