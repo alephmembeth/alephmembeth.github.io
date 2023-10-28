@@ -25,7 +25,7 @@ layout: default
     
 # About Me
 
-Welcome to my personal website! I am Zhiping Wang, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **Computational Optics and Optical Imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
+Welcome to my personal website! I am Zhiping Wang, currently a senior undergraduate student at Lanzhou University, majoring in physics, and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **Computational Optics and Optical Imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
 
 I am presently engaged in a research internship at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) within the Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences. My individual research project is **<i>Research on Fast Fourier Ptychography Based on Illumination Control</i>**, under the supervision of Dr. An Pan.
 <!--
@@ -35,9 +35,7 @@ I am presently involved in a research internship at the [Pioneering Interdiscipl
 Since May of this year, I have been actively involved in an online research project on **Photoacoustic Imaging** under the guidance of Professor [Fei Gao](https://scholar.google.com.sg/citations?user=aDTizY8AAAAJ) at [HISLAB](http://www.hislab.cn/), ShanghaiTech University.
 -->
 
-For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/ZhipingWang_CV_September.pdf). for a summary of my achievements.<a href="https://clustrmaps.com/site/1bx3g" title="Visit tracker">
-  <img src="//www.clustrmaps.com/map_v2.png?d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20&cl=ffffff" width="1" height="1" />
-</a>
+For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/ZhipingWang_CV_September.pdf). for a summary of my achievements.
 
 * * *
 
@@ -130,6 +128,8 @@ On the internet, there are also some other places where you can find me, especia
 + [bilibili](https://space.bilibili.com/15823831)
 
 But only the mail(<w17611688963@gmail.com>) is a reliable way to find me in time
+
+<a href="https://clustrmaps.com/site/1bx3g" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20&cl=ffffff"></a>
     
 
       
