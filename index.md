@@ -114,7 +114,7 @@ The listed content here is just a partial enumeration of experiences. If you wou
 
 + **Palm print identification**
   School of Information Science and Engineering (November 2021 – March 2022)
-  code in [CoLab](https://colab.research.google.com/drive/1UXjqFMbqhZZp2DVSjXcWU_WVvdc7rTjc?usp=sharing) and (GitHub)[https://colab.research.google.com/drive/1UXjqFMbqhZZp2DVSjXcWU_WVvdc7rTjc?usp=sharing]
+  code in [CoLab](https://colab.research.google.com/drive/1UXjqFMbqhZZp2DVSjXcWU_WVvdc7rTjc?usp=sharing) and [GitHub](https://github.com/Wang-Zhiping/palmprint-recognition)
 
 + **Exploration of the nature and causes of candle flame oscillator**
   School of Physical Science and Technology (October 2020 – September 2021)
