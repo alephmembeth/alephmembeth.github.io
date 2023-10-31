@@ -114,6 +114,7 @@ The listed content here is just a partial enumeration of experiences. If you wou
 
 + **Palm print identification**
   School of Information Science and Engineering (November 2021 – March 2022)
+  code in [CoLab](https://colab.research.google.com/drive/1UXjqFMbqhZZp2DVSjXcWU_WVvdc7rTjc?usp=sharing) and (GitHub)[https://colab.research.google.com/drive/1UXjqFMbqhZZp2DVSjXcWU_WVvdc7rTjc?usp=sharing]
 
 + **Exploration of the nature and causes of candle flame oscillator**
   School of Physical Science and Technology (October 2020 – September 2021)
@@ -131,8 +132,6 @@ On the internet, there are also some other places where you can find me, especia
 + [bilibili](https://space.bilibili.com/15823831)
 
 But only the mail(<w17611688963@gmail.com>) is a reliable way to find me in time
-
-<a href="https://clustrmaps.com/site/1bx3g" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=l8Vxf3g7cK6-tuIQUBBtPNSo7ALplEXpHsJAAcgXi20&cl=ffffff"></a>
     
 
       
