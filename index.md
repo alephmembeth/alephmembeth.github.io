@@ -101,14 +101,14 @@ ongoing evaluation.
 # Research experiences <a name="RE"></a>
 The listed content here is just a partial enumeration of experiences. If you would like to learn more details, please click [here](./research.md).
 
-**Research on Fast Fourier Ptychographic Based on Illumination Control** -Independent project, funded by the University of Chinese Academy of Sciences.
-+ Supervisor: Dr. An Pan, Pioneering Interdiscipline Center of CAS Aug 2023–present
++ **Research on Fast Fourier Ptychographic Based on Illumination Control** -Independent project, funded by the University of Chinese Academy of Sciences.
+  Supervisor: Dr. An Pan, Pioneering Interdiscipline Center of CAS Aug 2023–present
   
 + **Improving the efficiency of photoacoustic conversion in photoacoustic imaging** (tentative)
   School of Information and Engineering, ShanghaiTech (May-September 2023)
   
 + **Exploring the Performance of Coherent Ising Machine in Weighted NP-Hard Problems**
-  School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
+  School of ECE, Purdue University(Online) (December 2022 – August 2023)
 
 + **Reproduction of optical design projects based on reverse learning**
   School of Physical Science and Technology (April 2022 – March 2023)
