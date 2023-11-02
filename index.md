@@ -67,7 +67,7 @@ Photography, travel, PFV, hiking, and marketing
 
 + Lanzhou University
 + GPA:84.61/100
-+ Ranking:4/20 in Physics Base Class(magnetism)
++ Ranking:4/20 in Physics Base Class(magnetism) **(20 Selected from 52)**
 + **Major courses**:Computational Physics, Methods of Mathematical Physics, Optoelectronic Technology and Its
   Applications, AI and Big Data, Fourier optics, Theoretical Mechanics, Thermodynamics and Statistical Physics,
   Quantum Mechanics, Electrodynamic
@@ -100,13 +100,14 @@ ongoing evaluation.
 
 # Research experiences <a name="RE"></a>
 The listed content here is just a partial enumeration of experiences. If you would like to learn more details, please click [here](./research.md).
+
+**Research on Fast Fourier Ptychographic Based on Illumination Control** 
++ Supervisor: Dr. An Pan, Pioneering Interdiscipline Center of CAS Aug 2023–present
   
 + **Improving the efficiency of photoacoustic conversion in photoacoustic imaging** (tentative)
-  The project has gradually entered the right track and will update [weekly progress and summaries](./ResearchSummary&Reporting
-/HISLab/list_of_summary.html) around every Monday in the future.<br>
   School of Information and Engineering, ShanghaiTech (May-September 2023)
   
-+ **Solving an NP problem by means of Quantum Optics**
++ **Exploring the Performance of Coherent Ising Machine in Weighted NP-Hard Problems**
   School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
 
 + **Reproduction of optical design projects based on reverse learning**
