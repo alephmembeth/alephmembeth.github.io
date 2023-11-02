@@ -52,11 +52,12 @@ Computational optics, especially combined hardware and software optimization for
  
 + **Computational (optical) imaging** 
 + **Biological imaging techniques and devices**
-+ **New methodologies guiding optical design and imaging using AI**
 + **Astronomical instrument**
++ **New methodologies guiding optical design and imaging using AI**
+
 
          
-These three areas --- all revolve around the fascinating intersection of optics and new methodologies. I believe that these areas share similarities on many levels, and they align with my primary interest in computational imaging.
+These 4 areas --- all revolve around the fascinating intersection of optics and new methodologies. I believe that these areas share similarities on many levels, and they align with my primary interest in computational imaging.
 
 ### Hobbies:
 Photography, travel, PFV, hiking, and marketing
