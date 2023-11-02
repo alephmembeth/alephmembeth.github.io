@@ -101,7 +101,7 @@ ongoing evaluation.
 # Research experiences <a name="RE"></a>
 The listed content here is just a partial enumeration of experiences. If you would like to learn more details, please click [here](./research.md).
 
-**Research on Fast Fourier Ptychographic Based on Illumination Control** 
+**Research on Fast Fourier Ptychographic Based on Illumination Control** -Independent project, funded by the University of Chinese Academy of Sciences.
 + Supervisor: Dr. An Pan, Pioneering Interdiscipline Center of CAS Aug 2023–present
   
 + **Improving the efficiency of photoacoustic conversion in photoacoustic imaging** (tentative)
