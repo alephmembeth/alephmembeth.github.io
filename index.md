@@ -53,7 +53,7 @@ Computational optics, especially combined hardware and software optimization for
 + **Computational (optical) imaging** 
 + **Biological imaging techniques and devices**
 + **New methodologies guiding optical design and imaging using AI**
-+ **Astronomical instrument(Adaptive optics, others)**
++ **Astronomical instrument**
 
          
 These three areas --- all revolve around the fascinating intersection of optics and new methodologies. I believe that these areas share similarities on many levels, and they align with my primary interest in computational imaging.
