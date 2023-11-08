@@ -1,6 +1,5 @@
 # Research/Projects Experience
 
-<small><font color="orange">Here are several representative ongoing or completed research. For more information, please visit my </font><a href="https://wang-zhiping.github.io/" style="color:blue;">personal website</a><font color="orange">.</font></small>
 
 ## Research on Fast Fourier Ptychographic Based on Illumination Control
 **Research Internship**
