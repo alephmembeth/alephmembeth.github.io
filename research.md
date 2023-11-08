@@ -1,34 +1,49 @@
-# Research experiences <a name="RE"></a>
+# Research/Projects Experience
 
-+ **Solving an NP problem by means of Quantum Optics**
-  School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
-  - Introduction:The project plan aims to tackle some typical NP problems (such as the MAX-CUT problem) by utilizing optical
-    parametric oscillators (OPOs) or OPO networks. The proposed approach involves abstracting the target problem as an Ising
-    spin system and then using OPO (networks) to search the Hamiltonian ground state energy to solve the target problem.
-  - Project Progress: Following the idea proposed in the paper to build a neural network using TensorFlow and train it in colab,
-    the target effect was successfully reproduced (the training trend was the same as the effect in the paper) and the prediction
-    could be successfully made.
-+ **Reproduction of optical design projects based on reverse learning**
-  School of Physical Science and Technology (April 2022 – March 2023)
-  - Introduction:The goal of this project is to replicate the findings of an article authored by Yu Zongfu’s team. When we
-    encounter a partial optical structure with corresponding electromagnetic correspondence, we will employ a tandem architecture
-    that combines forward modeling and inverse design to create an optical system.
-  - Project Progress: By following the approach suggested in the paper, we constructed a neural network using TensorFlow and
-    trained it in Google Colab. We successfully replicated the desired effect (the training trend closely matched that reported in the
-    paper) and were able to make accurate predictions.
-+ **Palm print identification**
-  School of Information Science and Engineering (November 2021 – March 2022)
-  - Introduction:This project utilizes publicly available datasets to develop a palmprint identification system that aims to achieve
-    high accuracy in distinguishing the owner of a given palmprint, which is a practice project for learning neural networks.
-  - Project Progress:After conducting extensive research, I discovered that By selecting appropriate parameters and applying
-    adaptive binarization to the database photos, they were successfully classified with a slightly modified SVM, with an accuracy
-    rate exceeding 98%
-+ **Exploration of the nature and causes of candle flame oscillator**
-  School of Physical Science and Technology (October 2020 – September 2021)
-  - Introduction:In this project, we aim to investigate the coupling conditions and underlying causes of flame oscillations when
-    several candles are burning in close proximity to one another.
-  - Project Progress:After reviewing the relevant literature and deriving the necessary theoretical framework, we utilized OpenCV
-    and a thermometer to collect experimental data that closely aligned with the proposed theory.
-  - Participated in China Undergraduate Physics Tournament(Northwest Region) as a tournament topic and won the first prize in
-    June 2021.
-    
+<small><font color="orange">Here are several representative ongoing or completed research. For more information, please visit my </font><a href="https://wang-zhiping.github.io/" style="color:blue;">personal website</a><font color="orange">.</font></small>
+
+## Research on Fast Fourier Ptychographic Based on Illumination Control
+**Research Internship**
+**Supervisor: Dr. An Pan, Pioneering Interdiscipline Center of CAS**
+**Aug 2023--present**
+
+- Studied articles related to the principles of Fourier Ptychographic Microscopy and actively participated in experiments to gain insights into the details.
+- Performed numerical simulations to assess the effect of various LED on image restoration, explored relevant literature and theory to seek support for reducing overlap rates; experiment still in the planning.
+
+## Exploring the Performance of Coherent Ising Machine in weighted NP-Hard Problems
+**Independent Study**
+**Advisor: Jie Zhu, School of ECE, Purdue University**
+**Dec 2022--Aug 2023**
+
+- The Project's code and details can be viewed at the [GitHub project link](https://github.com/Wang-Zhiping/Exploring-the-Performance-of-Coherent-Ising-Machine-in-weighted-NP-Hard-Problems).
+- Replicated prior research using an Optical Parametric Oscillators (OPO)-based coherent Ising machine for numerical simulations, utilizing theoretical equations, and applying the Runge-Kutta method to solve differential equations in Python.
+- Utilized coherent Ising machine to address number partitioning problems and MAX-CUT in unweighted graphs, for the MAX-CUT problem, the success possibility of the Ising machine approach was higher.
+- Applied the MaxCut problem to weighted graphs and found similar trends, suggesting that the success possibility might be associated with the weights.
+
+## Reproduction of Reverse Design of Nano-Optical Structures By Neural Networks
+**Research Assistant**
+**Advisor: Dr. Hao Jia, Lanzhou University & KAUST**
+**Apr 2022--Mar 2023**
+
+- Carried out literature research on the reverse design methods for optoelectronics devices and their applications.
+- Created an optical system employing a tandem architecture that combines forward modeling and inverse design based on the work of Yu Zongfu’s team.
+- Coded in Python using TensorFlow to capture the trends mentioned in the paper using a small sample dataset.
+
+## Palm print identification
+**Advisor: Dr. Jizhao Liu, School of Information Science and Engineering**
+**Nov. 2021 – Mar. 2022**
+
+- The Project's code and details can be viewed at the [GitHub project link](https://github.com/Wang-Zhiping/palmprint-recognition).
+- Learned common operations in machine learning and digital image processing, especially biometrics.
+- Used various filters for feature extraction, and finally PCA is used for dimensionality reduction.
+- Coded in Python using TensorFlow to capture the trends mentioned in the paper using a small sample dataset.
+- Achieved a high success rate for the Hong Kong Polytechnic University open source database and part of the students' data recognition success.
+
+## Exploration of the nature and causes of candle flame oscillator
+**Advisor: Dr. Ning Huang, School of Physical Science and Technology**
+**Oct. 2020 – Sep. 2021**
+
+- Searched the article to understand the conditions and root causes of the phenomenon of coupled flame oscillations when several candles are burned in close proximity to each other.
+- Captured images and temperatures of the coupled oscillations and processed them with OpenCV to obtain theoretically relevant experimental data.
+- Modeled and interpreted using thermodynamic fluid dynamics, and drawing conclusions.
+- Participated in China Undergraduate Physics Tournament(Northwest Region) as a tournament topic and won the first prize in June 2021.
