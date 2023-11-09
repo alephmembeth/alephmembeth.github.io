@@ -19,7 +19,7 @@ layout: default
 
 ## Contributions to Journals
 
-+ Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (forthcoming): “Winter is Coming. How Laypeople Think About Different Kinds of Needs”. _PLOS ONE_. ([Repository](https://github.com/alephmembeth/need-kinds))
++ Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (forthcoming): “Winter is Coming. How Laypeople Think About Different Kinds of Needs”. _PLOS ONE_. (peer reviewed) ([Repository](https://github.com/alephmembeth/need-kinds))
 + Kornmesser, Stephan, and Alexander Max Bauer (forthcoming): “Austin in the Lab. Empirically Reconsidering the Constative–Performative Distinction”, _Topics in Linguistics_ 24 (2). (peer reviewed) ([Repository](https://github.com/alephmembeth/speech-constative-performative/))
 + Bauer, Alexander Max, and Stephan Kornmesser (2023): “Poisoned Babies, Shot Fathers, and Ruined Experiments. Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation”. _Philosophy of Science_ 90 (3), 489–517. (peer reviewed) ([Link](https://doi.org/10.1017/psa.2023.1)) ([Repository](https://github.com/alephmembeth/causality-compositionality))
 + Wyszynski, Marc, and Alexander Max Bauer (2023): “Give What’s Required and Take Only What You Need! The Effect of Framing on Rule-Breaking in Social Dilemmas”. _Judgment and Decision Making_ 18, e17. (peer reviewed) ([Link](https://doi.org/10.1017/jdm.2023.18))
