@@ -19,6 +19,7 @@ layout: default
 
 ## Contributions to Journals
 
++ Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (forthcoming): “Winter is Coming. How Laypeople Think About Different Kinds of Needs”. _PLOS ONE_. ([Repository](https://github.com/alephmembeth/need-kinds))
 + Kornmesser, Stephan, and Alexander Max Bauer (forthcoming): “Austin in the Lab. Empirically Reconsidering the Constative–Performative Distinction”, _Topics in Linguistics_ 24 (2). (peer reviewed) ([Repository](https://github.com/alephmembeth/speech-constative-performative/))
 + Bauer, Alexander Max, and Stephan Kornmesser (2023): “Poisoned Babies, Shot Fathers, and Ruined Experiments. Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation”. _Philosophy of Science_ 90 (3), 489–517. (peer reviewed) ([Link](https://doi.org/10.1017/psa.2023.1)) ([Repository](https://github.com/alephmembeth/causality-compositionality))
 + Wyszynski, Marc, and Alexander Max Bauer (2023): “Give What’s Required and Take Only What You Need! The Effect of Framing on Rule-Breaking in Social Dilemmas”. _Judgment and Decision Making_ 18, e17. (peer reviewed) ([Link](https://doi.org/10.1017/jdm.2023.18))
@@ -70,7 +71,7 @@ layout: default
 ## Working Papers
 
 + Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2023): “When the Poorest Are Neglected. A Vignette Experiment on Need-Based Distributive Justice”. _SSRN Working Paper_ 4503209. ([Link](https://doi.org/10.2139/ssrn.4503209))
-+ Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (2023): “Winter is Coming. How Laypeople Think About Different Kinds of Needs”. _SSRN Working Paper_ 4383555. ([Link](https://doi.org/10.2139/ssrn.4383555))
++ Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (2023): “Winter is Coming. How Laypeople Think About Different Kinds of Needs”. _SSRN Working Paper_ 4383555. ([Link](https://doi.org/10.2139/ssrn.4383555)) ([Repository](https://github.com/alephmembeth/need-kinds))
 + Wyszynski, Marc, and Alexander Max Bauer (2022): “Give What You Can, Take What You Need. The Effect of Framing on Rule-Breaking Behavior in Social Dilemmas”. _FOR 2104 Working Paper_ 2022-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2022/01/2022-01.pdf))
 + Bauer, Alexander Max, Frauke Meyer, Jan Romann, Mark Siebel, and Stefan Traub (2020): “Need, Equity, and Accountability. Evidence on Third-Party Distributive Decisions from an Online Experiment”. _FOR 2104 Working Paper_ 2020-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2020-01.pdf)) ([Repository](https://github.com/alephmembeth/need-accountability))
 + Bauer, Alexander Max (2018): “Sated but Thirsty. Towards a Multidimensional Measure of Need-Based Justice”. _FOR 2104 Working Paper_ 2018-03. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2018-03.pdf))
