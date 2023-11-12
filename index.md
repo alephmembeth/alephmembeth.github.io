@@ -6,11 +6,11 @@ Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg�
 
 + my [education](./education.md),
 + my [employment](./employment.md),
-+ the [things I’ve written](./publications.md),
-+ the [presentations I’ve held](./presentations.md),
-+ the [events I’ve organised](./events.md),
-+ the [courses I’ve taught](./teaching.md),
-+ the [grants and honours I’ve received](./financials.md), or
++ the [publications](./publications.md) I’ve written,
++ the [presentations](./presentations.md) I’ve given,
++ the [events](./events.md) I’ve organised,
++ the [taching](./teaching.md)  I’ve done,
++ the [grants and honours](./financials.md) I’ve received, or
 + my [services to the profession](./services.md).
 
 Most of this information can also be found bundled in my CV (of which you can find the most recent version in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)).
