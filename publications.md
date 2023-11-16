@@ -56,8 +56,8 @@ layout: default
 ## Prefaces, Introductions, and Epilogues
 
 + Grass, Helena Esther, and Alexander Max Bauer (forthcoming): “Vorwort”. In: Alexander Max Bauer and Helena Esther Grass (eds.): _Oldenburger Jahrbuch für Philosophie 2021/2022_. Oldenburg: University of Oldenburg Press.
-+ Bauer, Alexander Max, Gregor Damschen, and Mark Siebel (forthcoming): “Vorwort”. In: id. (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. VII–XIII. 
-+ Kornmesser, Stephan, and Alexander Max Bauer (2024): “Introduction”. In: Alexander Max Bauer and Stephan Kornmesser (eds.): _The Compact Compendium of Experimental Philosophy_. Berlin and Boston: Walter de Gruyter. 1–5.
++ Bauer, Alexander Max, Gregor Damschen, and Mark Siebel (2023): “Vorwort”. In: id. (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. VII–XIII. ([Link](https://brill.com/edcollchap/book/9783969752517/front-6.xml))
++ Kornmesser, Stephan, and Alexander Max Bauer (2023): “Introduction”. In: Alexander Max Bauer and Stephan Kornmesser (eds.): _The Compact Compendium of Experimental Philosophy_. Berlin and Boston: Walter de Gruyter. 1–5. ([Link](https://doi.org/10.1515/9783110716931-002))
 + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (2022): “Einleitung. Verschwörungserzählungen”. _Zeitschrift für Praktische Philosophie_ 9 (2), 105–112. ([Link](https://doi.org/10.22613/zfpp/9.2.4))
 + Bauer, Alexander Max, and Nils Baratella (2021): “Vorwort”. In: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2019/2020_. Oldenburg: BIS-Verlag. 5. ([Link](http://oops.uni-oldenburg.de/5115/))
 + Bauer, Alexander Max, and Malte Ingo Meyerhuber (2020): “Epilogue. On Doxa and Aletheia”. In: id. (eds.): _Empirical Research and Normative Theory. Transdisciplinary Perspectives on Two Methodical Traditions Between Separation and Interdependence_. Berlin and Boston: Walter de Gruyter. 337–342. ([Link](https://doi.org/10.1515/9783110613797-017))
@@ -81,7 +81,7 @@ layout: default
 
 ## Translations
 
-+ Priest, Graham (forthcoming): “Paradoxie und Parakonsistenz”. Transl. by Alexander Max Bauer, Gregor Damschen, and Mark Siebel. In: Alexander Max Bauer, Gregor Damschen, and Mark Siebel (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. 225–248.
++ Priest, Graham (2023): “Paradoxie und Parakonsistenz”. Transl. by Alexander Max Bauer, Gregor Damschen, and Mark Siebel. In: Alexander Max Bauer, Gregor Damschen, and Mark Siebel (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. 225–248. ([Link](https://doi.org/10.30965/9783969752517_011))
 
 ## Public Writings
 
