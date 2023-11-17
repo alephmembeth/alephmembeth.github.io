@@ -29,6 +29,7 @@ layout: default
 
 ## Theses
 
++ Yurt, Delal (2024): _Austragung des Fifa World Cup 2022 in Katar – Ethische Konsequenzen aus Menschenrechtlicher Perspektive_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Döhren, Lando (2023): _Der Begriff des Guten in G. E. Moores “Principia Ethica” und Philippa Foots “Natural Goodness”_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Richtsmeier, Karsten (2023): _Die Institution Schule als “ideologischer Staatsapparat” nach Louis Althusser in Kapitalismus und Sozialismus. Ein Vergleich der ideologisierenden Einflussnahme von Bildungssystemen in BRD und DDR_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Krüger, Maimouna (2023): _Sarkasmus in der Sprachenlogik. Wie beeinflusst Sarkasmus Gespräche?_ (bachelors’s thesis; University of Oldenburg; supervisor: Mark Siebel)
