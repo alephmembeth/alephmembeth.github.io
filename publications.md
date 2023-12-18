@@ -81,7 +81,7 @@ layout: default
 
 ## Translations
 
-+ Priest, Graham (2023): “Paradoxie und Parakonsistenz”. Transl. by Alexander Max Bauer, Gregor Damschen, and Mark Siebel. In: Alexander Max Bauer, Gregor Damschen, and Mark Siebel (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. 225–248. ([Link](https://doi.org/10.30965/9783969752517_011))
++ Priest, Graham (2023): “Paradoxie und Parakonsistenz”. Transl. by Alexander Max Bauer, Gregor Damschen, and Mark Siebel. In: id. (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. 225–248. ([Link](https://doi.org/10.30965/9783969752517_011))
 
 ## Public Writings
 
