@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at
+Hi, my name’s Max! I’m a research associate at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at
 
 + my [education](./education.md),
 + my [employment](./employment.md),
