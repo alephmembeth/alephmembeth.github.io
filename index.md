@@ -2,16 +2,16 @@
 layout: default
 ---
 
-Hi, my name’s Max! I’m a research associate at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at
+Hi, my name’s Max! I’m a research associate at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at my
 
-+ my [education](./education.md),
-+ my [employment](./employment.md),
-+ the [publications](./publications.md) I’ve written,
-+ the [presentations](./presentations.md) I’ve given,
-+ the [events](./events.md) I’ve organised,
-+ the [taching](./teaching.md)  I’ve done,
-+ the [grants and honours](./financials.md) I’ve received, or
-+ my [services to the profession](./services.md).
++ [publications](./publications.md),
++ [presentations](./presentations.md),
++ [taching](./teaching.md),
++ [events](./events.md),
++ [services to the profession](./services.md),
++ [education](./education.md),
++ [employment](./employment.md), or
++ [grants and honours](./financials.md).
 
 Most of this information can also be found bundled in my CV (of which you can find the most recent version in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)).
 
@@ -70,6 +70,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 # Projects
 
 The projects I’m currently working on include:
++ a study on causation (jointly with Stephan Kornmesser)
 + a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
 + an introduction to methods of experimental philosophy (to be published with Springer; jointly with Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski)
 + the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with University of Oldenburg Press; jointly with Helena Esther Grass)
@@ -107,7 +108,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
+If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uol.de>.
 
 On the internet, there are also some other places where you can find me, including but not limited to:
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
