@@ -8,7 +8,6 @@ layout: default
 
 <!--
 + Financial support for the edited volume “Oldenburger Jahrbuch für Philosophie 2021/2022” (2023; University of Oldenburg, Department of Philosophy; XXX,XX euro; jointly with Helena Esther Grass)
-+ Travel grant for the promotion of young researchers (2023; University of Oldenburg, Faculty IV; 750,00 euro)
 -->
 
 + Financial support for the edited volume “Paradoxien” (2021; University of Oldenburg, Department of Philosophy; 1.035,00 euro; jointly with Gregor Damschen and Mark Siebel)
