@@ -4,7 +4,7 @@ layout: default
 
 # Check Me, Replicate Me
 
-We all make mistakes. Sometimes, this happens unnoticed. And sometimes, it doesn’t even matter. But there are some areas where it’s particularly troublesome when we make mistakes. And science, I think, is one such area. Luckily for us, science (and philosophy, I might add) is a collaborative enterprise. And uncovering mistakes is an integral part of it. In this spirit, I invite you to check and replicate my work. To help you with this, I try to maintain [repositories](./repositories.md) containing essential files (i.e., primarily data and analysis files) for research projects where I am first or corresponding author.
+We all make mistakes. Sometimes, this happens unnoticed. And sometimes, it doesn’t even matter. But there are some areas where it’s particularly troublesome when we make mistakes. And science, I think, is one such area. Luckily for us, science (and philosophy, I might add) is a collaborative enterprise. And uncovering mistakes is an integral part of it. In this spirit, I invite you to check and replicate my work. To help you with this, I maintain [repositories](./repositories.md) containing essential files (i.e., primarily data and analysis files) for research projects where I am first or corresponding author.
 
 ## Check My Work
 
@@ -19,7 +19,7 @@ As both Gilad Feldman and Stuart Ritchie note, they “have to be _objective_ er
 
 Should you be interested in replicating my work, there are a few things I do to make this as easy as possible for you:
 
-+ For projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files.
++ For projects where I am the first or corresponding author, I maintain repositories containing all the essential files.
 + If anything is missing in a repository, please feel free to contact me, and I will try to add the missing files if possible.
 + If you are working on replicating my work, I will be happy to give you feedback and answer any questions you have.
 
