@@ -4,6 +4,9 @@ I employed a fully convolutional image fusion network for intensity-domain image
 The image focuses on the center of the USAF resolution version.
 
 Subsequent images illustrate the recovery results using the alternating projection algorithm under conditions with stray light.
+
 ![](./phase-origin.jpeg)
+
 The images below showcase a noteworthy improvement achieved by utilizing the image fusion algorithm for enhancement, followed by the recovery using the alternating projection algorithm.
+
 ![](./phase-fusion.jpeg)
