@@ -73,6 +73,7 @@ For more detailed information about my academic and research experiences, please
    <li>20/04/2012: <a href="https://www.weser-kurier.de/region/drei-piraten-kueren-direktkandidaten-doc7e42wkfju7ngfqvg5ey">“Drei Piraten küren Direktkandidaten”</a> (Weser Kurier)</li>
 </ul> -->
 </details>
+
 ### Research Interests:<a name="RI"></a>
 Computational optics, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
          
