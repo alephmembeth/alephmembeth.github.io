@@ -43,7 +43,6 @@ For more detailed information about my academic and research experiences, please
 
 
 * * *
----
 # NEWS
 
 + **22/12/2023** Implemented gradient algorithm for single-shot wide-field recovery in FPM.
