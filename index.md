@@ -34,16 +34,6 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 
 * * *
 
-# Projects
-
-The projects I’m currently working on include:
-+ a study on causation (jointly with Stephan Kornmesser)
-+ a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
-+ an introduction to methods of experimental philosophy (to be published with Springer; jointly with Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski)
-+ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with University of Oldenburg Press; jointly with Helena Esther Grass)
-
-* * *
-
 # News
 
 + 23/06/2022: [“When heating in winter becomes a luxury”](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327) (University of Oldenburg)
@@ -74,6 +64,16 @@ The projects I’m currently working on include:
    <li>20/04/2012: <a href="https://www.weser-kurier.de/region/drei-piraten-kueren-direktkandidaten-doc7e42wkfju7ngfqvg5ey">“Drei Piraten küren Direktkandidaten”</a> (Weser Kurier)</li>
 </ul>
 </details>
+
+* * *
+
+# Projects
+
+The projects I’m currently working on include:
++ a study on causation (jointly with Stephan Kornmesser)
++ a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
++ an introduction to methods of experimental philosophy (to be published with Springer; jointly with Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski)
++ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with University of Oldenburg Press; jointly with Helena Esther Grass)
 
 * * *
 
