@@ -1,3 +1,3 @@
 
-[Example Image](./hiking1.jpge)
+![Example Image](./haierdang.jpeg)
 
