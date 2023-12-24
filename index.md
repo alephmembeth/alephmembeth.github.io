@@ -45,7 +45,7 @@ For more detailed information about my academic and research experiences, please
 * * *
 ### NEWS
 
-+ **12/22/2023** Implemented gradient algorithm for single-shot wide-field recovery in FPM.[Result](./ResearchSummary&Reporting/FPM/single-fast.md)
++ **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.
 + **12/17/2020** Reached the summit of [Haier Dang](./hiking&photos/readme2.md) (30°51'N 102°53'E,Altitudinal level 4470m).
 + **12/12/2020** Resolved the issue of [phase recovery disparity in FPM under the presence of stray light](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.
 
