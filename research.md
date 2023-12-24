@@ -9,6 +9,9 @@
 - Studied articles related to the principles of Fourier Ptychographic Microscopy and actively participated in experiments to gain insights into the details.
 - Performed numerical simulations to assess the effect of various LED on image restoration, explored relevant literature and theory to seek support for reducing overlap rates; experiment still in the planning.
 
+- +  Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM. 
+- +  Resolved the issue of [phase recovery disparity in FPM under the presence of stray light](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion. 
+
 ## Exploring the Performance of Coherent Ising Machine in weighted NP-Hard Problems
 **Independent Study**
 **Advisor: Jie Zhu, School of ECE, Purdue University**
