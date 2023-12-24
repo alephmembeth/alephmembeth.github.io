@@ -43,11 +43,11 @@ For more detailed information about my academic and research experiences, please
 
 
 * * *
-# NEWS
+### NEWS
 
-+ **22/12/2023** Implemented gradient algorithm for single-shot wide-field recovery in FPM.
-+ **27/04/2020** Reached the summit of [Haier Dang](./hiking&photos/readme2.md) (30°51'N 102°53'E,Altitudinal level 4470m).
-+ **27/04/2020** Resolved the issue of phase recovery disparity in FPM under the presence of stray light using image fusion.
++ **12/22/2023** Implemented gradient algorithm for single-shot wide-field recovery in FPM.[Result](./ResearchSummary&Reporting/FPM/single-fast.md)
++ **12/17/2020** Reached the summit of [Haier Dang](./hiking&photos/readme2.md) (30°51'N 102°53'E,Altitudinal level 4470m).
++ **12/12/2020** Resolved the issue of [phase recovery disparity in FPM under the presence of stray light](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.
 
 <details>
 <summary>Old news</summary>
@@ -73,6 +73,8 @@ For more detailed information about my academic and research experiences, please
    <li>20/04/2012: <a href="https://www.weser-kurier.de/region/drei-piraten-kueren-direktkandidaten-doc7e42wkfju7ngfqvg5ey">“Drei Piraten küren Direktkandidaten”</a> (Weser Kurier)</li>
 </ul> -->
 </details>
+
+* * *
 
 ### Research Interests:<a name="RI"></a>
 Computational optics, especially combined hardware and software optimization for more purposeful imaging results and the application in various fields
