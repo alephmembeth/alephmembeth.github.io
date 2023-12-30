@@ -1,4 +1,4 @@
-## Introduction to  Image Fusion Based Phase Enhancement Results in FPM under Stray Light
+## Introduction to  Image Fusion + FPM
 
 
 **Disclaimer:** This image is presented solely for illustrative purposes. No fine-tuning of algorithm parameters has been conducted, and it does not represent the optimal outcome. It serves as a visual aid and may not precisely reflect the results presented in the final published article. 
