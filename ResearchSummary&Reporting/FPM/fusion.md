@@ -1,15 +1,31 @@
 ## Introduction to  Image Fusion Based Phase Enhancement Results in FPM under Stray Light
 
 
-**Disclaimer:** This image is presented solely for illustrative purposes. No fine-tuning of algorithm parameters has been conducted, and it does not represent the optimal outcome. It serves as a visual aid and may not precisely reflect the results presented in the final published article. The colormap used throughout is consistently jet, and the image corresponds to the standard 1951 USAF Resolution Calculator, observed using a single lens system.
+**Disclaimer:** This image is presented solely for illustrative purposes. No fine-tuning of algorithm parameters has been conducted, and it does not represent the optimal outcome. It serves as a visual aid and may not precisely reflect the results presented in the final published article. 
 
-I employed a fully convolutional image fusion network for intensity-domain image fusion. Under typical conditions, this approach significantly enhances phase information. However, in the presence of stray light, it plays a crucial role in the recovery of phase information, rendering the phase visibly clear. Conversely, a single photo without image fusion, using the same alternating projection algorithm, results in phase details that are entirely unusable.
-The image focuses on the center of the 1951 USAF Resolution Calculator.
+I employed a fully convolutional image fusion network for intensity-domain image fusion. The model aids in recovering intensity and significantly facilitates phase recovery, as depicted in the results below (the FPM algorithm referred to in the text is the FPM-WSI algorithm).
 
-Subsequent images illustrate the recovery results using the alternating projection algorithm under conditions with stray light.
+Subsequent images illustrate the recovery results for USAF under conditions of stray light using the FPM algorithm for different exposure times, along with the results of neural network data preprocessing.
 
-![](./phase-origin.jpeg)
+![](./hdrusafa.png)
 
-The images below showcase a noteworthy improvement achieved by utilizing the image fusion algorithm for enhancement, followed by the recovery using the alternating projection algorithm.
+![](./hdrusafp.png)
 
-![](./phase-fusion.jpeg)
+Following that, the images demonstrate the recovery results for biological samples under conditions of stray light using the FPM algorithm for different exposure times, along with the results of neural network data preprocessing. The five images correspond to the central bright-field image, intensity map recovered by FPM, intensity map recovered by neural network preprocessing followed by FPM, phase map recovered by FPM, and phase map recovered by neural network preprocessing followed by FPM, respectively.
+
++ central bright-field image
+
+
+![](./hdrswyb0a.png)
+
++ intensity map recovered by FPM
+![](./hdrswyb1a.png)
+
++ intensity map recovered by neural network preprocessing followed by FPM
+![](./hdrswyb2a.png)
+
++ phase map recovered by FPM
+![](./hdrswyb1p.png)
+
++ phase map recovered by neural network preprocessing followed by FPM
+![](./hdrswyb2p.png)
