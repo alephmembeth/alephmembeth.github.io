@@ -47,7 +47,7 @@ For more detailed information about my academic and research experiences, please
 ### Academic(Click the links to view the latest research findings.)
 
 + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big>
-+ <big> **12/12/2020** Resolved the issue of [phase recovery disparity in FPM under the presence of stray light](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.</big>
++ <big> **12/12/2020** Resolved the issue of [Fully Convolutional Neural Network for Multi-Exposure Image Fusion with Improved Intensity and Phase Recovery Using FPM](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.</big>
 
 
 
