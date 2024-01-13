@@ -5,8 +5,11 @@
 
 I employed a fully convolutional image fusion network for intensity-domain image fusion. The model aids in recovering intensity and significantly facilitates phase recovery, as depicted in the results below (the FPM algorithm referred to in the text is the FPM-WSI algorithm).<a href='https://clustrmaps.com/site/1by5c' title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1&t=tt&d=M0Nnn2BQ-3Zbl4Fh-NLZ-QenH_11qB67h9_qnCMgqxY' width='1' height='1'/></a>
 
-  
-![](./usaf.png)
+
+The following is a preliminary schematic diagram of the images prepared for inclusion in the paper. Below are more detailed explanations for several subsequent images.
+![](./usafnew.png)
+
+![](./swyb.png)
 
 
 Subsequent images illustrate the recovery results for USAF under conditions of stray light using the FPM algorithm for different exposure times, along with the results of neural network data preprocessing.
