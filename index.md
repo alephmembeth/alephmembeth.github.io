@@ -2,16 +2,16 @@
 layout: default
 ---
 
-I’m a researcher at Emory University's Department of Computer Science working with [Prof. Eugene Agichtein](https://scholar.google.com/citations?hl=en&user=3BX3vWcAAAAJ&view_op=list_works&sortby=pubdate). I'm interested in a wide variety of problems which generally fall under Natural Language Processing & Information Retrieval. I graduated from <a href="https://www.youtube.com/watch?v=0QMVS7AQ6ho">BITS Pilani, India</a> after which I worked for 6 years in the domain of Conversational AI at <a href="https://amelia.ai/">Amelia (IPsoft)</a> in the wonderful cities of <a href="https://www.youtube.com/watch?v=_ICcaaFNX2o">Bangalore</a> & <a href="https://www.youtube.com/watch?v=h3fUgOKFMNU">New York</a>. I got the opportunity to lead the R&D team of around 10-20 enthusiasts working on diverse NLP topics viz., intent classification, slot tagging, VerbNet & PropBank parsing, KB-based QA, paraphrasing, semantic parsing, <a href="https://arxiv.org/pdf/2006.00533.pdf">relation<a/> <a href="https://arxiv.org/pdf/2107.03884.pdf">extraction</a> & dialog retrieval, ranking, generation and other conversational AI problems. In the summer of 2022, I worked with the Natural Understanding Team at Amazon, Alexa on multi-task learning for their LLMs.
+I’m a researcher at Emory University's Department of Computer Science working with [Prof. Eugene Agichtein](https://scholar.google.com/citations?hl=en&user=3BX3vWcAAAAJ&view_op=list_works&sortby=pubdate). I'm interested in a wide variety of problems which generally fall under Natural Language Processing & Information Retrieval. I graduated from <a href="https://www.youtube.com/watch?v=0QMVS7AQ6ho">BITS Pilani, India</a> after which I worked for 6 years in the domain of Conversational AI at <a href="https://amelia.ai/">Amelia (IPsoft)</a> in the wonderful cities of <a href="https://www.youtube.com/watch?v=_ICcaaFNX2o">Bangalore</a> & <a href="https://www.youtube.com/watch?v=h3fUgOKFMNU">New York</a>. I got the opportunity to lead the R&D team of around 10-20 enthusiasts working on diverse NLP topics viz., intent classification, slot tagging, VerbNet & PropBank parsing, KB-based QA, paraphrasing, semantic parsing, <a href="https://arxiv.org/pdf/2006.00533.pdf">relation<a/> <a href="https://arxiv.org/pdf/2107.03884.pdf">extraction</a> & dialog retrieval, ranking, generation and other conversational AI problems. In the summers of 2022 and 2023, I worked with the Natural Understanding Team at Amazon, Alexa in NY and San Jose on multi-task learning for their LLMs and for creating simulators for training dialog assistants.
 
 
 * * *
 
 <dl>
    <dt>Areas of Interest:</dt>
-   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96">NLG</a>, Multi-Task Learning, Information Retreival</dd>
-   <dt>Other Areas I'm happy to collaborate on:</dt>
-   <dd><a href="https://aclanthology.org/2021.acl-short.13.pdf">Dialog</a> <a href="https://arxiv.org/pdf/2008.07559.pdf">Systems</a>, <a href="https://arxiv.org/pdf/2206.02849.pdf">Graph Neural Networks</a>, <a href="https://arxiv.org/pdf/2112.02721.pdf">Data Augmentation</a>, Efficient Transformers, Privacy Preserving ML</dd>
+   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96">NLG Evaluation</a>, Multi-Task Learning, <a href="https://www.youtube.com/watch?v=d1bN6vcQ4Lc">Query Reformulation</a></dd>
+   <dt>Other Areas I'm happy to collaborate or have coffee chat ons:</dt>
+   <dd><a href="https://aclanthology.org/2021.acl-short.13.pdf">Dialog</a> <a href="https://arxiv.org/pdf/2008.07559.pdf">Systems</a>, <a href="https://arxiv.org/pdf/2206.02849.pdf">Graph Neural Networks</a>, <a href="https://arxiv.org/pdf/2112.02721.pdf">Data Augmentation</a>, Efficient Transformers, Privacy Preserving ML, <a href="https://aclanthology.org/2023.bigpicture-1.6/">Bigger Picture of LLMs</a></dd>
 </dl>
 
 
