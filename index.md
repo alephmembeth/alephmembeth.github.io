@@ -9,7 +9,7 @@ I’m a researcher at Emory University's Department of Computer Science working 
 
 <dl>
    <dt>Areas of Interest:</dt>
-   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96">NLG Evaluation</a>, Multi-Task Learning, <a href="https://www.youtube.com/watch?v=d1bN6vcQ4Lc">Query Reformulation</a></dd>
+   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96">NLG Evaluation</a>, Multi-Task Learning, <a href="https://www.youtube.com/watch?v=d1bN6vcQ4Lc">Query Reformulation</a>, <a href="https://www.youtube.com/watch?v=d1bN6vcQ4Lc">Retrieval Augmented Generation</a></dd>
    <dt>Other Areas I'm happy to collaborate or have coffee chat ons:</dt>
    <dd><a href="https://aclanthology.org/2021.acl-short.13.pdf">Dialog</a> <a href="https://arxiv.org/pdf/2008.07559.pdf">Systems</a>, <a href="https://arxiv.org/pdf/2206.02849.pdf">Graph Neural Networks</a>, <a href="https://arxiv.org/pdf/2112.02721.pdf">Data Augmentation</a>, Efficient Transformers, Privacy Preserving ML, <a href="https://aclanthology.org/2023.bigpicture-1.6/">Bigger Picture of LLMs</a></dd>
 </dl>
