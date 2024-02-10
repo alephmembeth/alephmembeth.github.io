@@ -17,7 +17,7 @@ layout: default
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big><b><span class="narrow-font">Education</span></b></big></a></td>
      <td style="text-align: center;"><a href='#TA'><big><b><span class="narrow-font">Teaching<br>Assistantship</span></b></big></a></td>
      <td style="text-align: right;"><a href='./research.html'><big><b><span class="narrow-font">Research</span></b></big></a></td>
-     <td style="text-align: right;"><a href='./publications.html'><big><b><span class="narrow-font">Publication</span></b></big></a></td>
+     <td style="text-align: right;"><a href='./publications/publication.html'><big><b><span class="narrow-font">Publication</span></b></big></a></td>
     <!-- 更多的表格行和单元格 -->
   </tr>
 </table>
