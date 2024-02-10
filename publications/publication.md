@@ -15,5 +15,5 @@
 - Link: [MDPI](https://www.mdpi.com/2073-4409/13/4/324)
 - PDF Download: [PDF](./cells-13-00324.pdf)
 - DOI: [10.3390/cells13040324](https://doi.org/10.3390/cells13040324)
-![Fourier Ptychographic Microscopy 10 Years on: A Review](./cellsreviews.png)
+-  ![Fourier Ptychographic Microscopy 10 Years on: A Review](./cellsreviews.png)
 
