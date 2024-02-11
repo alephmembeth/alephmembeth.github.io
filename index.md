@@ -32,7 +32,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
    <dt>Areas of Competence:</dt>
       <dd>Digital Humanities, Distributive Justice, Philosophy of Science</dd>
    <dt>Areas of Interest:</dt>
-      <dd>Metaphilosophy, Philosophy of Language, Digital Humanities</dd>
+      <dd>Metaphilosophy, Philosophy of Language</dd>
    <dt>Tools of Choice:</dt>
       <dd>LaTeX, LimeSurvey, oTree, Stata, R, Python</dd>
 </dl>
