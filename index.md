@@ -22,7 +22,7 @@ Most of this information can also be found bundled in my CV, of which you can fi
 
 Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my empirical work](./check.md). (Of course, replies to my theoretical work are equally welcome.)
 
-The portrait to the left (or above, if you’re on a mobile device), by the way, was painted by the talented [Spiceestew](https://spiceestew.carrd.co/).
+By the way, the portrait to the left (or above, if you’re on a mobile device) was painted by the talented [Spiceestew](https://spiceestew.carrd.co/).
 
 * * *
 
