@@ -6,7 +6,7 @@ layout: default
 
 <dl>
    <dt>Doctor of Philosophy (Philosophy)</dt>
-      <dd>April 2017 – February 2024; University of Oldenburg; cumulative thesis: “Empirische Studien zu Fragen der Bedarfsgerechtigkeit”; supervisor: Mark Siebel; second examiner: Markus Tepe; further committee members: Susanne Möbuß</dd>
+      <dd>April 2017 – February 2024; University of Oldenburg; cumulative thesis: “Empirische Studien zu Fragen der Bedarfsgerechtigkeit”; supervisor: Mark Siebel; second examiner: Markus Tepe; further committee members: Dirk Büsch, Susanne Möbuß, Mark Schweda</dd>
    <dt>Master of Arts (Philosophy)</dt>
       <dd>April 2014 – March 2017; University of Oldenburg; thesis: “Monotonie und Monotoniesensitivität als Desiderata für Maße der Bedarfsgerechtigkeit – Zu zwei Aspekten der Grundlegung empirisch informierter Maße der Bedarfsgerechtigkeit zwischen normativer Theorie, formaler Modellierung und empirischer Sozialforschung”; supervisor: Mark Siebel; second examiner: Arne Robert Weiss</dd>
    <dt>Bachelor of Arts (Politics and Economics; Philosophy)</dt>
