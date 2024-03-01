@@ -48,9 +48,13 @@ For more detailed information about my academic and research experiences, please
 + <big> **02/29/2024** My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been submitted to *Optics Letters*! .</big>
 + <big> **02/08/2024** My co-authored article *Fourier Ptychographic Microscopy 10 Years On: A Review* has been accepted by *Cells*! .</big>
 + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big>
-+ <big> **12/12/2020** Resolved the issue of [Fully Convolutional Neural Network for Multi-Exposure Image Fusion with Improved Intensity and Phase Recovery Using FPM](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.</big>
-
-
++ <big> **12/12/2023** Resolved the issue of [Fully Convolutional Neural Network for Multi-Exposure Image Fusion with Improved Intensity and Phase Recovery Using FPM](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.</big>
+<details>
+<summary>Old news</summary>
+<br>
++ <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big>
+<!-- </ul> --> -->
+</details>
 
 #### Non-Academic(Click the link to view milestones in my life.)
 + **12/17/2020** Reached the summit of [Haier Dang](./hiking&photos/readme2.md) (30°51'N 102°53'E,Altitudinal level 4470m).
