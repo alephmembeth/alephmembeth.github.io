@@ -4,6 +4,13 @@ layout: default
 
 # Services to the Profession
 
+## Editorships
+
+<dl>
+   <dt>Editor of the leaf category “Experimental Philosophy – Folk Morality” on PhilPapers</dt>
+      <dd>since March 2024</dd>
+</dl>
+
 ## Representation
 
 <dl>
