@@ -52,7 +52,10 @@ For more detailed information about my academic and research experiences, please
 <details>
 <summary>Old news</summary>
 <br>
-+ **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.
+<ul>
+<li>12/22/2023: Implemented new algorithm for <a href="./ResearchSummary&Reporting/FPM/single-fast.md">“single-shot wide-field recovery”</a>.</li>
+
+
 </details>
 
 #### Non-Academic(Click the link to view milestones in my life.)
