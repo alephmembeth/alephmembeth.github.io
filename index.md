@@ -55,10 +55,9 @@ For more detailed information about my academic and research experiences, please
 <ul>
 <li>12/22/2023: Implemented new algorithm for <a href="./ResearchSummary&Reporting/FPM/single-fast.md">“single-shot wide-field recovery”</a>.</li>
 </ul>
-</br>
 </details>
 
-</br></br>
+<br>
 
 #### Non-Academic(Click the link to view milestones in my life.)
 + **12/17/2020** Reached the summit of [Haier Dang](./hiking&photos/readme2.md) (30°51'N 102°53'E,Altitudinal level 4470m).
