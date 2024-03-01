@@ -12,7 +12,7 @@ layout: default
 <div>
 <table>
   <tr>
-     <td style="text-align: right;"><a href='./CV/ZhipingWang_CV_December.pdf'><big><b><span class="narrow-font">CV</span></b></big></a></td>
+     <td style="text-align: right;"><a href='./CV/ZhipingWang_CV_March_2024.pdf'><big><b><span class="narrow-font">CV</span></b></big></a></td>
      <td style="text-align: left;"><a href='https://wang-zhiping.github.io/#RI'><big><b><span class="narrow-font">Research<br>Interests</span></b></big></a></td>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big><b><span class="narrow-font">Education</span></b></big></a></td>
      <td style="text-align: center;"><a href='#TA'><big><b><span class="narrow-font">Teaching<br>Assistantship</span></b></big></a></td>
@@ -45,7 +45,7 @@ For more detailed information about my academic and research experiences, please
 * * *
 ## NEWS
 ### Academic(Click the links to view the latest research findings.)
-
++ <big> **02/29/2024** My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been submitted to *Optics Letters*! .</big>
 + <big> **02/08/2024** My co-authored article *Fourier Ptychographic Microscopy 10 Years On: A Review* has been accepted by *Cells*! .</big>
 + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big>
 + <big> **12/12/2020** Resolved the issue of [Fully Convolutional Neural Network for Multi-Exposure Image Fusion with Improved Intensity and Phase Recovery Using FPM](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.</big>
