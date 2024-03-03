@@ -18,7 +18,7 @@ Most of this information can also be found bundled in my CV, of which you can fi
 + [latest news](./news.md),
 + [current projects](./projects.md),
 + [brilliant collaborators](./collaborators.md),
-+ [academic family tree and Erdős number](./tree.md), or
++ [academic ancestry](./ancestry.md), or
 + [contact details](./contact.md).
 
 Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my empirical work](./check.md). (Of course, replies to my theoretical work are equally welcome.)
