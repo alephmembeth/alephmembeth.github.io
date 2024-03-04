@@ -41,6 +41,6 @@ layout: default
 ## Other
 
 <dl>
-   <dt>Host of “<a href="http://xphi.net/">The Experimental Philosophy Blog</a>”</dt>
+   <dt>Hosting of “<a href="http://xphi.net/">The Experimental Philosophy Blog</a>”</dt>
       <dd>since March 2024</dd>
 </dl>
