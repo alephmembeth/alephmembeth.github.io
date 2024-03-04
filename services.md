@@ -37,3 +37,10 @@ layout: default
 ### Conferences
 
 + 3rd European Experimental Philosophy Conference (2023)
+
+## Other
+
+<dl>
+   <dt>Host of “[The Experimental Philosophy Blog](http://xphi.net/)”</dt>
+      <dd>since March 2024</dd>
+</dl>
