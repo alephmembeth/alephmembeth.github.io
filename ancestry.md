@@ -10,17 +10,18 @@ Nowadays, there are many databases and digital tools to trace one’s academic l
 
 Interestingly enough, König himself worked for some time in Oldenburg, where – more than 200 years later – I did my doctorate. It’s a small world.
 
-<object data="https://alephmembeth.github.io/files/tree.pdf" type="application/pdf" width="1000px" height="1000px">
+<object data="https://alephmembeth.github.io/files/tree.pdf" type="application/pdf" width="1000px" height="500px">
    <embed src="https://alephmembeth.github.io/files/tree.pdf">
       <p>[This browser does not support PDFs. Please <a href="https://alephmembeth.github.io/files/tree.pdf">download the PDF</a> to view it.]</p>
    </embed>
 </object>
+</br>
 
 ## Erdős number
 
 My Erdős number is 6.
 
-<object data="https://alephmembeth.github.io/files/erdős.pdf" type="application/pdf" width="1000px" height="1000px">
+<object data="https://alephmembeth.github.io/files/erdős.pdf" type="application/pdf" width="1000px" height="500px">
    <embed src="https://alephmembeth.github.io/files/erdős.pdf">
       <p>[This browser does not support PDFs. Please <a href="https://alephmembeth.github.io/files/erdős.pdf">download the PDF</a> to view it.]</p>
    </embed>
