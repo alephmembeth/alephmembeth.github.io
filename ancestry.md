@@ -15,7 +15,6 @@ Interestingly enough, König himself worked for some time in Oldenburg, where �
       <p>[This browser does not support PDFs. Please <a href="https://alephmembeth.github.io/files/tree.pdf">download the PDF</a> to view it.]</p>
    </embed>
 </object>
-</br>
 
 ## Erdős number
 
