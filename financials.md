@@ -10,6 +10,7 @@ layout: default
 + Financial support for the edited volume “Oldenburger Jahrbuch für Philosophie 2021/2022” (2023; University of Oldenburg, Department of Philosophy; XXX,XX euro; jointly with Helena Esther Grass)
 -->
 
++ Financial support for the volume “Empirische Studien zu Fragen der Bedarfsgerechtigkeit” (2024; University of Oldenburg, Department of Philosophy; 100,00 euro)
 + Financial support for the edited volume “Paradoxien” (2021; University of Oldenburg, Department of Philosophy; 1.035,00 euro; jointly with Gregor Damschen and Mark Siebel)
 + Financial support for an empirical study on causation (2021; University of Oldenburg, Department of Philosophy; 430,06 euro; jointly with Stephan Kornmesser)
 + Financial support for the lecture series “Nur Fußnoten zu Platon?” (2021; University of Oldenburg, Department of Philosophy; 1.500,00 euro; jointly with Gregor Damschen, Stephan Kornmesser, and Mark Siebel)
