@@ -45,9 +45,9 @@ For more detailed information about my academic and research experiences, please
 * * *
 ## NEWS
 ### Academic(Click the links to view the latest research findings.)
-+ <big> 03/06/2024 My article as the **<u>first author</u>**, titled *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy*, has been **submitted** to *Optica* (Manuscript ID: 523216).</big>
++ <big> 03/06/2024 My article as the **<u>first author</u>**, titled *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy*, has been **submitted** to *<u>Optica<>/u* (Manuscript ID: 523216).</big>
 + <big> 03/03/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* is under **Peer Review** (Manuscript ID:522745).</big>
-+ <big> 02/29/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been **submitted** to *Optics Letters* (Manuscript ID:522745).</big>
++ <big> 02/29/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been **submitted** to *<u>Optics Letters</u>* (Manuscript ID:522745).</big>
 + <big> 02/08/2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by *Cells*! .</big>
 <!-- + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big> -->
 + <big> 12/12/2023 Resolved the issue of [Fully Convolutional Neural Network for Multi-Exposure Image Fusion with Improved Intensity and Phase Recovery Using FPM](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.</big>
