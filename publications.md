@@ -6,7 +6,7 @@ layout: default
 
 ## Monographs
 
-<!-- + Bauer, Alexander Max (forthcoming): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Oldenburg: University of Oldenburg Press. -->
++ Bauer, Alexander Max (forthcoming): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Oldenburg: University of Oldenburg Press.
 + Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
 
 ## Contributions to Monographs With Multiple Authors
