@@ -27,6 +27,5 @@ layout: default
 
 ## Honors
 
-+ Master of Arts (Philosophy), awarded with distinction (2017; University of Oldenburg)
 + Deutschlandstipendium (2015/2016; University of Oldenburg; 3.600,00 euro)
 + Deutschlandstipendium (2014/2015; University of Oldenburg; 3.600,00 euro)
