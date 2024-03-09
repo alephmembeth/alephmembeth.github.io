@@ -6,7 +6,7 @@ layout: default
 
 <dl>
    <dt>Research Associate</dt>
-      <dd>June 2018 – June 2022, October 2022 – March 2024; University of Oldenburg, Department of Philosophy; working for Mark Siebel</dd>
+      <dd>June 2018 – June 2022, October 2022 – April 2027; University of Oldenburg, Department of Philosophy; working for Mark Siebel</dd>
    <dt>Research Associate</dt>
       <dd>August 2017 – December 2017; Helmut Schmidt University, University of the Federal Armed Forces Hamburg, Department of Economics; working for Stefan Traub</dd>
    <dt>Teaching Associate</dt>
