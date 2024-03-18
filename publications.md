@@ -90,4 +90,4 @@ layout: default
 + Bauer, Alexander Max (2020): “‘Was mache ich hier überhaupt?’. Experimentelle Philosophie zwischen Lehnstuhl und Labor”. _philosophie.ch_ and _praefaktisch.de_. ([Link](https://www.philosophie.ch/beitraege/highlights/was-mache-ich-hier-ueberhaupt)) ([Link](https://www.praefaktisch.de/experimentelle-philosophie/was-mache-ich-hier-ueberhaupt-experimentelle-philosophie-zwischen-lehnstuhl-und-labor/))
 
 ## Dissertation
-+ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Oldenburg: University of Oldenburg.
++ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Dissertation. Oldenburg: University of Oldenburg. ([Link](http://oops.uni-oldenburg.de/6834/))
