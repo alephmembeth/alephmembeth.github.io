@@ -6,8 +6,9 @@ layout: default
 
 ## Monographs
 
-+ Bauer, Alexander Max (forthcoming): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Oldenburg: University of Oldenburg Press.
 + Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
++ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Oldenburg: University of Oldenburg Press. ([Link](https://oops.uni-oldenburg.de/6835))
+
 
 ## Contributions to Monographs With Multiple Authors
 
@@ -84,9 +85,9 @@ layout: default
 
 + Priest, Graham (2023): “Paradoxie und Parakonsistenz”. Transl. by Alexander Max Bauer, Gregor Damschen, and Mark Siebel. In: id. (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. 225–248. ([Link](https://doi.org/10.30965/9783969752517_011))
 
-## Public Writings
+## Public Writing
 
-+ Bauer, Alexander Max (2021): “The Revolver Case Revisited”. _xphiblog.com_. ([Link](https://xphiblog.com/revolver/))
++ Bauer, Alexander Max (2021): “The Revolver Case Revisited”. _xphiblog.com_ and _xphi.net_. ([Link](https://xphiblog.com/revolver/)) ([Link](http://xphi.net/wordpress/2024/03/04/revolver/))
 + Bauer, Alexander Max (2020): “‘Was mache ich hier überhaupt?’. Experimentelle Philosophie zwischen Lehnstuhl und Labor”. _philosophie.ch_ and _praefaktisch.de_. ([Link](https://www.philosophie.ch/beitraege/highlights/was-mache-ich-hier-ueberhaupt)) ([Link](https://www.praefaktisch.de/experimentelle-philosophie/was-mache-ich-hier-ueberhaupt-experimentelle-philosophie-zwischen-lehnstuhl-und-labor/))
 
 ## Dissertation
