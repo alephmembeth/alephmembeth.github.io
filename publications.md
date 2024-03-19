@@ -7,7 +7,7 @@ layout: default
 ## Monographs
 
 + Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
-+ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Oldenburg: University of Oldenburg Press. ([Link](https://oops.uni-oldenburg.de/6835))
++ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Oldenburg: University of Oldenburg Press. ([Link](https://oops.uni-oldenburg.de/6835)) ([Repository](https://github.com/alephmembeth/need-dissertation))
 
 
 ## Contributions to Monographs With Multiple Authors
@@ -91,4 +91,4 @@ layout: default
 + Bauer, Alexander Max (2020): “‘Was mache ich hier überhaupt?’. Experimentelle Philosophie zwischen Lehnstuhl und Labor”. _philosophie.ch_ and _praefaktisch.de_. ([Link](https://www.philosophie.ch/beitraege/highlights/was-mache-ich-hier-ueberhaupt)) ([Link](https://www.praefaktisch.de/experimentelle-philosophie/was-mache-ich-hier-ueberhaupt-experimentelle-philosophie-zwischen-lehnstuhl-und-labor/))
 
 ## Dissertation
-+ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Dissertation. Oldenburg: University of Oldenburg. ([Link](http://oops.uni-oldenburg.de/6834/))
++ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Dissertation. Oldenburg: University of Oldenburg. ([Link](http://oops.uni-oldenburg.de/6834/)) ([Repository](https://github.com/alephmembeth/need-dissertation))
