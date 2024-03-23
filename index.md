@@ -21,7 +21,7 @@ Most of this information can also be found bundled in my CV, of which you can fi
 + [academic ancestry](./ancestry.md), or
 + [contact details](./contact.md).
 
-Still not enough? Visit [The Experimental Philosophy Blog](http://xphi.net/) for the latest x-phi related news 
+Still not enough? Visit [The Experimental Philosophy Blog](http://xphi.net/) for the latest x-phi related news.
 
 Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my empirical work](./check.md). (Of course, replies to my theoretical work are equally welcome.)
 
