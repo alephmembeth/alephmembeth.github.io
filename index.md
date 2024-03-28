@@ -23,7 +23,7 @@ Most of this information can also be found bundled in my CV, of which you can fi
 
 Still not enough? Visit [The Experimental Philosophy Blog](http://xphi.net/) for the latest x-phi related news.
 
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my empirical work](./check.md). (Of course, replies to my theoretical work are equally welcome.)
+Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my empirical work](./check.md). Of course, replies to my theoretical work are equally welcome.
 
 By the way, the portrait to the left (or above, if you’re on a mobile device) was painted by the talented [Spiceestew](https://spiceestew.carrd.co/).
 
