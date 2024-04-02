@@ -45,8 +45,8 @@ For more detailed information about my academic and research experiences, please
 * * *
 ## NEWS
 ### Academic(Click the links to view the latest research findings.)
++ <big>04/02/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been **provisionally accepted without revisions** by *<u>Optics Letters</u>u*(Manuscript ID: 522745) and is undergoing **preproduction review**.</big>
 + <big> 03/26/2024 My article as the **<u>first author</u>**, titled *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy*, has been **submitted** to *<u>Advanced Photonics</u>u* (Manuscript ID: AP-24-110003).</big>
-+ <big> 03/03/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* is under **Peer Review** (Manuscript ID:522745).</big>
 + <big> 02/29/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been **submitted** to *<u>Optics Letters</u>* (Manuscript ID:522745).</big>
 + <big> 02/08/2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by *<u>Cells</u>*! .</big>
 <!-- + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big> -->
@@ -56,6 +56,7 @@ For more detailed information about my academic and research experiences, please
 <br>
 <ul>
 <li>12/22/2023: Implemented new algorithm for <a href="./ResearchSummary&Reporting/FPM/single-fast.md">“single-shot wide-field recovery”</a>.</li>
+<li>03/03/2024: My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* is under **Peer Review** (Manuscript ID:522745)</li>
 </ul>
 <br>
 </details>

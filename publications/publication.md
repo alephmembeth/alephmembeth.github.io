@@ -7,7 +7,7 @@
 
 ### Title: A Linear-Space-Variant Model for Fourier Ptychographic Microscopy
 - Authors: Tianci Feng, Aiye Wang, <u>Zhiping Wang</u>, and An Pan.
-- Status: Peer Review
+- Status: Preproduction Review
 
 ## Accepted Papers
 ### Title: Fourier Ptychographic Microscopy 10 Years on: A Review
