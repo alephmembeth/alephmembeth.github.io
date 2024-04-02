@@ -1,6 +1,6 @@
 # Publications
 
-## Preprints
+## Under Review
 ### Title: Fusion-Based Enhancement of Multi-Exposure Fourier Ptychographic Microscopy
 - Authors: <u>Zhiping Wang</u>, Tianci Feng, Aiye Wang, and An Pan.
 - Status: Editorial Review
