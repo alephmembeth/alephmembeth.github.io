@@ -4,7 +4,7 @@ layout: default
 
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via <alexander.max.bauer@alum.uol.de>.
+If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uol.de>.
 
 On the internet, there are also some other places where you can find me, including but not limited to:
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
