@@ -9,7 +9,7 @@ I’m a researcher at Emory University's Department of Computer Science working 
 
 <dl>
    <dt>Areas of Interest:</dt>
-   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96">NLG Evaluation</a>, Multi-Task Learning, <a href="https://www.youtube.com/watch?v=d1bN6vcQ4Lc">Query Reformulation</a>, <a href="https://aclanthology.org/2024.scichat-1.5/">Retrieval Augmented Generation</a></dd>
+   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96">NLG Evaluation</a>, Multi-Task Learning, <a href="https://link.springer.com/chapter/10.1007/978-3-031-56063-7_24">Query Reformulation</a>, <a href="https://aclanthology.org/2024.scichat-1.5/">Retrieval Augmented Generation</a></dd>
    <dt>Other Areas I'm happy to collaborate or have coffee chat ons:</dt>
    <dd><a href="https://aclanthology.org/2021.acl-short.13.pdf">Dialog</a> <a href="https://arxiv.org/pdf/2008.07559.pdf">Systems</a>, <a href="https://arxiv.org/pdf/2206.02849.pdf">Graph Neural Networks</a>, <a href="https://arxiv.org/pdf/2112.02721.pdf">Data Augmentation</a>, Efficient Transformers, Privacy Preserving ML, <a href="https://aclanthology.org/2023.bigpicture-1.6/">Bigger Picture of LLMs</a></dd>
 </dl>
@@ -26,6 +26,7 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
    <dt>Workshops:</dt>
       <dd>Organizing the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://nejlt.ep.liu.se/article/view/4725/3874">NL-Augmenter</a> and a key contributor of the LLM benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf">BIG-Bench</a>.</dd>
    <dt>Mentoring/Speaking:</dt>
+      <dd> Gave a talk on Retrieval Augmented Generation at the University of Edinburgh, 2024 </dd>
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/people/mentor22/kaustubh">London Geometry & Machine Learning Summer School, 2022</a> </dd>
       <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
    <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
