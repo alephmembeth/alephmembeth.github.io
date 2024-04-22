@@ -12,7 +12,7 @@ layout: default
 <div>
 <table>
   <tr>
-     <td style="text-align: right;"><a href='./CV/ZhipingWang_CV_March_2024.pdf'><big><b><span class="narrow-font">CV</span></b></big></a></td>
+     <td style="text-align: right;"><a href='https://github.com/Wang-Zhiping/CV/blob/main/2024/ZhipingWANG_April_2024.pdf'><big><b><span class="narrow-font">CV</span></b></big></a></td>
      <td style="text-align: left;"><a href='https://wang-zhiping.github.io/#RI'><big><b><span class="narrow-font">Research<br>Interests</span></b></big></a></td>
      <td style="text-align: center;"><a href='https://wang-zhiping.github.io/#Education'><big><b><span class="narrow-font">Education</span></b></big></a></td>
      <td style="text-align: center;"><a href='#TA'><big><b><span class="narrow-font">Teaching<br>Assistantship</span></b></big></a></td>
