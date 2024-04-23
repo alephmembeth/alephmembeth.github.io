@@ -29,6 +29,7 @@ layout: default
 
 ## Theses
 
++ Rode, Mark Phillip (2024): _Das professionelle Selbstverständnis von ambulanten Pflegekräften in Zeiten der Technisierung – Ein Theorie-Empire Vergleich des Berufsethos ambulanter Pflegekräfte_ (master’s thesis; University of Oldenburg; supervisor: Mark Schweda)
 + Aktaşci, Elif (2024): _Ethik und Künstliche Intelligenz – Wie soll der Umgang mit ethischen Herausforderungen im Kontext von Künstlicher Intelligenz aussehen?_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Yurt, Delal (2024): _Austragung des Fifa World Cup 2022 in Katar – Ethische Konsequenzen aus menschenrechtlicher Perspektive_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Döhren, Lando (2023): _Der Begriff des Guten in G. E. Moores “Principia Ethica” und Philippa Foots “Natural Goodness”_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
