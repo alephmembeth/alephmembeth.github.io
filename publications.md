@@ -87,8 +87,10 @@ layout: default
 
 ## Public Writing
 
-+ Bauer, Alexander Max (2021): “The Revolver Case Revisited”. _xphiblog.com_ and _xphi.net_. ([Link](https://xphiblog.com/revolver/)) ([Link](http://xphi.net/wordpress/2024/03/04/revolver/))
++ Bauer, Alexander Max (2024): “Teaching Experimental Philosophy to Beginners (Part 1)”. _xphi.net_. ([Link](https://xphi.net/2024/04/29/teaching-experimental-philosophy-to-beginners-part-1/))
++ Bauer, Alexander Max (2021): “The Revolver Case Revisited”. _xphiblog.com_ and _xphi.net_. ([Link](https://xphiblog.com/revolver/)) ([Link](https://xphi.net/wordpress/2024/03/04/revolver/))
 + Bauer, Alexander Max (2020): “‘Was mache ich hier überhaupt?’. Experimentelle Philosophie zwischen Lehnstuhl und Labor”. _philosophie.ch_ and _praefaktisch.de_. ([Link](https://www.philosophie.ch/beitraege/highlights/was-mache-ich-hier-ueberhaupt)) ([Link](https://www.praefaktisch.de/experimentelle-philosophie/was-mache-ich-hier-ueberhaupt-experimentelle-philosophie-zwischen-lehnstuhl-und-labor/))
 
 ## Dissertation
+
 + Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Dissertation. Oldenburg: University of Oldenburg. ([Link](http://oops.uni-oldenburg.de/6834/)) ([Repository](https://github.com/alephmembeth/need-dissertation))
