@@ -37,5 +37,5 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
    <dt>Areas of Interest:</dt>
       <dd>Metaphilosophy, Philosophy of Language</dd>
    <dt>Tools of Choice:</dt>
-      <dd>LaTeX, LimeSurvey, oTree, Stata, R, Python</dd>
+      <dd>LaTeX, LimeSurvey, Stata, R, Python</dd>
 </dl>
