@@ -6,6 +6,7 @@ layout: default
 
 ## Invited
 
++ “Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation” (July 2024; presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki)
 + “Mind the Gap – Zur Vermittlung von normativer Theorie und empirischer Forschung” (December 8, 2017; presentation at the lecture series “Junge Philosophie”; Karl-Jaspers-Gesellschaft in Oldenburg; jointly with Malte Ingo Meyerhuber; invited by Ansgar Baumgart, Malte Maria Unverzagt, and Philip Penew)
 + “Grundlagen für Maße der Bedarfsgerechtigkeit – Axiomatische Überlegungen und empirische Untersuchungen” (November 22, 2016; presentation at the Department of Philosophy’s colloquium; University of Oldenburg; jointly with Arne Robert Weiss; invited by Nils Baratella)
 
