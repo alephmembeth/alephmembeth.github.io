@@ -6,7 +6,7 @@ layout: default
 
 ## Monographs
 
-+ Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer. ([Link](https://link.springer.com/book/9783031580482))
++ Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Springer Graduate Texts in Philosophy. Cham: Springer. ([Link](https://link.springer.com/book/9783031580482))
 + Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_. Oldenburg: University of Oldenburg Press. ([Link](https://oops.uni-oldenburg.de/6835)) ([Repository](https://github.com/alephmembeth/need-dissertation))
 
 
