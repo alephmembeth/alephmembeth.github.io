@@ -27,4 +27,5 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Justin Sytsma](https://people.wgtn.ac.nz/justin.sytsma) (Victoria University of Wellington)
 + [Arne Robert Weiss](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
 + [Kyle Thompson](https://www.kthompsonphilosophy.com/) (Harvey Mudd College)
++ [Gesa Wellmann](https://uol.de/philosophie/mitarbeiterinnen/prof-dr-gesa-wellmann) (University of Oldenburg)
 + [Marc Wyszynski](https://www.uni-bremen.de/universitaet/campus/mitarbeiterinnenverzeichnis/person/187022/Wyszynski) (University of Bremen)
