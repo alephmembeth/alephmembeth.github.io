@@ -4,13 +4,6 @@ layout: default
 
 # Services to the Profession
 
-## Editorships
-
-<dl>
-   <dt>Editor of the leaf category “Experimental Philosophy – Folk Morality” on PhilPapers</dt>
-      <dd>since March 2024</dd>
-</dl>
-
 ## Representation
 
 <dl>
@@ -37,6 +30,13 @@ layout: default
 ### Conferences
 
 + 3rd European Experimental Philosophy Conference (2023)
+
+## Editorships
+
+<dl>
+   <dt>Editor of the leaf category “Experimental Philosophy – Folk Morality” on PhilPapers</dt>
+      <dd>since March 2024</dd>
+</dl>
 
 ## Other
 
