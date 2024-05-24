@@ -56,7 +56,7 @@ layout: default
 
 ## Prefaces, Introductions, and Epilogues
 
-+ Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): “Introduction. Setting Out for New Shores”. In: id.: _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
++ Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): “Introduction. Setting Out for New Shores”. In: id.: _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer. 1–18.
 + Grass, Helena Esther, and Alexander Max Bauer (forthcoming): “Vorwort”. In: Alexander Max Bauer and Helena Esther Grass (eds.): _Oldenburger Jahrbuch für Philosophie 2021/2022_. Oldenburg: University of Oldenburg Press. 9–12.
 + Bauer, Alexander Max, Gregor Damschen, and Mark Siebel (2023): “Vorwort”. In: id. (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_. Paderborn: mentis. VII–XIII. ([Link](https://brill.com/edcollchap/book/9783969752517/front-6.xml))
 + Kornmesser, Stephan, and Alexander Max Bauer (2023): “Introduction”. In: Alexander Max Bauer and Stephan Kornmesser (eds.): _The Compact Compendium of Experimental Philosophy_. Berlin and Boston: Walter de Gruyter. 1–5. ([Link](https://doi.org/10.1515/9783110716931-002))
