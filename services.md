@@ -34,7 +34,7 @@ layout: default
 ## Editorships
 
 <dl>
-   <dt>Editor of the leaf category “Experimental Philosophy – Folk Morality” on PhilPapers</dt>
+   <dt>Editor of the leaf category “<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>” on PhilPapers</dt>
       <dd>since March 2024</dd>
 </dl>
 
