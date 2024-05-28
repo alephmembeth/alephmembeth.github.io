@@ -17,6 +17,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
 + [Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
++ [Henrike Meyer](https://de.linkedin.com/in/henrike-meyer-347944264) (Studydrive)
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
 + [Kevin Reuter](https://www.philosophie.unibe.ch/ueber_uns/personen/reuter/index_ger.html) (University of Bern)
 + [Jan Romann](https://github.com/JKRhb) (Hochschule Emden/Leer, University of Applied Sciences)
