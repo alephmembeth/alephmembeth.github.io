@@ -18,7 +18,9 @@ Interestingly enough, König himself worked for some time in Oldenburg, where �
 
 ## Erdős number
 
-My Erdős number is 6.
+A concise definition of the Erdős number is given by [Werner Balser](https://www.uni-ulm.de/en/mawi/iaa/members/ehemalige/prof-dr-werner-balser/my-erdoes-number/): “One defines by mathematical induction: The Erdös number of famous Paul Erdös is 0. The Erdös number of any other person X is n+1 if there is Y whose Erdös number is n and X and Y have published a common paper, and if in addition no co-author Y of X has Erdös number less than n.”
+
+My Erdős number is 6:
 
 <object data="https://alephmembeth.github.io/files/erdős.pdf" type="application/pdf" width="1000px" height="500px">
    <embed src="https://alephmembeth.github.io/files/erdős.pdf">
