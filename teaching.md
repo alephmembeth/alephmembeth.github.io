@@ -11,7 +11,7 @@ layout: default
 
 ## Courses
 
-+ “Forschungsorientierte Einführung in die Experimentelle Philosophie” (summer term 2024; course on master’s level; University of Oldenburg; jointly with Stephan Kornmesser)
++ “Forschungsorientierte Einführung in die Experimentelle Philosophie” (summer term 2024; course on master’s level; University of Oldenburg; jointly with Stephan Kornmesser) ([Repository](https://github.com/alephmembeth/course-x-phi-2024))
 + “Einführung in die Experimentelle Theoretische Philosophie” (winter term 2023/2024; course on bachelor’s level; University of Oldenburg)
 + “Aristoteles’ ‘Metaphysik’” (winter term 2022/2023 – summer term 2023, winter term 2023/2024 – summer term 2024, and winter term 2024/2025 – summer term 2025; two-semester course on bachelor’s level; University of Oldenburg)
 + “Gedankenexperimente in der Philosophie” (winter term 2022/2023; course on bachelor’s level; University of Oldenburg)
