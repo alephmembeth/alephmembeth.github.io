@@ -17,7 +17,7 @@ As both Gilad Feldman and Stuart Ritchie note, they “have to be _objective_ er
 
 ## Replicate My Work
 
-Should you be interested in replicating my work, there are a few things I do to make this as easy as possible for you:
+Should you be interested in replicating my work, there are a few things I offer to make this as easy as possible for you:
 
 + For projects where I am the first or corresponding author, I maintain repositories containing all the essential files.
 + If anything is missing in a repository, please feel free to contact me, and I will try to add the missing files if possible.
