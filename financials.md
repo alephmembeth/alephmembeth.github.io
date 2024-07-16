@@ -6,10 +6,7 @@ layout: default
 
 ## Grants
 
-<!--
-+ Financial support for the edited volume “Oldenburger Jahrbuch für Philosophie 2021/2022” (2024; University of Oldenburg, Department of Philosophy; XXX,XX euro; jointly with Helena Esther Grass)
--->
-
++ Financial support for the edited volume “Oldenburger Jahrbuch für Philosophie 2021/2022” (2024; University of Oldenburg, Department of Philosophy; 1.334,14 euro; jointly with Helena Esther Grass)
 + Financial support for the volume “Empirische Studien zu Fragen der Bedarfsgerechtigkeit” (2024; University of Oldenburg, Department of Philosophy; 367,09 euro)
 + Grant for research-based learning instructional projects for the course “Forschungsorientierte Einführung in die Experimentelle Philosophie” (2024; University of Oldenburg, forschen@studium; 3.000,00 euro; jointly with Stephan Kornmesser)
 + Financial support for the edited volume “Paradoxien” (2021; University of Oldenburg, Department of Philosophy; 1.035,00 euro; jointly with Gregor Damschen and Mark Siebel)
