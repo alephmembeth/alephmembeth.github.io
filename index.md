@@ -26,7 +26,7 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
    <dt>Workshops:</dt>
       <dd>Organizing the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://nejlt.ep.liu.se/article/view/4725/3874">NL-Augmenter</a> and a key contributor of the LLM benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf">BIG-Bench</a>.</dd>
    <dt>Mentoring/Speaking:</dt>
-      <dd> Gave a talk on Retrieval Augmented Generation at the University of Edinburgh, 2024 while on my visit to [ECIR 2024, Scotland](https://www.youtube.com/playlist?list=PLfwN-5WMJARyxxkmTpVfHG1toT0u0tx-G) </dd>
+      <dd> Gave a talk on Retrieval Augmented Generation at the University of Edinburgh, 2024 while on my visit to present <a href="https://arxiv.org/abs/2405.17658">LLM based reformulation</a> at <a href="https://www.youtube.com/playlist?list=PLfwN-5WMJARyxxkmTpVfHG1toT0u0tx-G">ECIR 2024, Scotland</dd>
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/logml2022/projects2022/project1/">London Geometry & Machine Learning Summer School, 2022</a> </dd>
       <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
    <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
