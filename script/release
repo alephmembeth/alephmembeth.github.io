@@ -7,7 +7,7 @@ set -e
 
 cd $(dirname "$0")/..
 
-# Make sure the darn thing works
+# Make sure the darn thing works.
 
 bundle update
 
