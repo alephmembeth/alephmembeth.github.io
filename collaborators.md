@@ -6,7 +6,7 @@ layout: default
 
 The great people with whom I had the pleasure to work or with whom I’m currently working include:
 + [Mark Alfano](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University)
-+ [Aurélien Allard](https://www.unige.ch/medecine/ieh2/welcome/staff/aurelien-allard/) (University of Geneva)
++ [Aurélien Allard](https://aurelienallard.netlify.app/) (University of Geneva)
 + [Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
 + [Lucien Baumgartner](https://www.philosophie.uzh.ch/de/seminar/people/research/snsf_reuter/baumgartner.html) (University of Zurich)
 + [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
