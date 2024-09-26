@@ -27,6 +27,6 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
 + [Justin Sytsma](https://people.wgtn.ac.nz/justin.sytsma) (Victoria University of Wellington)
 + [Arne Robert Weiss](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante and Wyss Academy for Nature at the University of Bern)
-+ [Kyle Thompson](https://www.kthompsonphilosophy.com/) (Harvey Mudd College)
++ [Kyle Thompson](https://philpeople.org/profiles/kyle-thompson) (Harvey Mudd College)
 + [Gesa Wellmann](https://uol.de/philosophie/mitarbeiterinnen/prof-dr-gesa-wellmann) (University of Oldenburg)
 + [Marc Wyszynski](https://www.uni-bremen.de/universitaet/campus/mitarbeiterinnenverzeichnis/person/187022/Wyszynski) (University of Bremen)
