@@ -19,7 +19,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
 + [Henrike Meyer](https://de.linkedin.com/in/henrike-meyer-347944264) (Studydrive)
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
-+ [Kevin Reuter](https://www.philosophie.unibe.ch/ueber_uns/personen/reuter/index_ger.html) (University of Bern)
++ [Kevin Reuter](http://www.kevinreuter.com/) (University of Zurich)
 + [Jan Romann](https://github.com/JKRhb) (Hochschule Emden/Leer, University of Applied Sciences)
 + [Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
 + [Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
