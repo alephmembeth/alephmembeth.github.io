@@ -7,7 +7,7 @@ layout: default
 <dl>
    <dt>Philosophisches Kolloquium</dt>
       <dd>summer term 2022 – winter term 2024/2025; the Department of Philosophy’s colloquium; University of Oldenburg; organized jointly with Helena Esther Grass (summer term 2022), Gesa Wellmann (summer term 2023 – winter term 2024/2025), Tilo Wesche (summer term 2022 – winter term 2024/2025), Malte Maria Unverzagt (winter term 2024/2025), and Matthias Bormuth (winter term 2024/2025)</dd>
-      <dd>featuring contributions by Monika Albrecht, Dagmar Borchers, Alexandra Colligs, Gregor Damschen, Karin de Boer, Mitchell Dean, Kristina Engelhard, Bärbel Frischmann, Michael Hampe, Hilkje Hänel, Lisa Herzog, Maximilian Kiener, Dagmar Kiesel, Kristina Lepold, Elif Özmen, Ludger Schwarte, Sebastian Spanknebel, Titus Stahl, Barbara Vetter, Eva Weiler, and Gesa Wellmann</dd>
+      <dd>featuring contributions by Monika Albrecht, Dagmar Borchers, Alexandra Colligs, Gregor Damschen, Karin de Boer, Mitchell Dean, Kristina Engelhard, Bärbel Frischmann, Michael Hampe, Hilkje Hänel, Timo Heisenberg, Lisa Herzog, Maximilian Kiener, Dagmar Kiesel, Kristina Lepold, Elif Özmen, Ludger Schwarte, Sebastian Spanknebel, Titus Stahl, Barbara Vetter, Eva Weiler, and Gesa Wellmann</dd>
   <dt>Nur Fußnoten zu Platon?</dt>
       <dd>summer term 2021; lecture series; University of Oldenburg; organized jointly with Gregor Damschen, Stephan Kornmesser, and Mark Siebel</dd>
       <dd>featuring contributions by Rafael Ferber, Jörg Hardy, Christoph Helmig, Joachim Horvath, Mark Textor, and Emanuel Viebahn</dd>
