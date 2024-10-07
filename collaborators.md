@@ -12,6 +12,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
 + [Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Greifswald)
 + [Adele Diederich](https://www.researchgate.net/profile/Adele-Diederich/) (Constructor University)
++ [Sven Ellmers](https://uol.de/philosophie/dr-sven-ellmers) (University of Oldenburg)
 + [Paul Engelhardt](https://research-portal.uea.ac.uk/en/persons/paul-engelhardt) (University of East Anglia)
 + [Eugen Fischer](https://research-portal.uea.ac.uk/en/persons/eugen-fischer) (University of East Anglia)
 + [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
