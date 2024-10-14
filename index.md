@@ -6,7 +6,7 @@ I’m a researcher at Emory University's Department of Computer Science working 
 
 I completed my bachelor's from <a href="https://www.youtube.com/watch?v=0QMVS7AQ6ho">BITS Pilani, India</a> after which I worked for 6 years in the domain of Conversational AI at <a href="https://amelia.ai/">Amelia.ai (IPsoft)</a> in the wonderful cities of <a href="https://www.youtube.com/watch?v=_ICcaaFNX2o">Bangalore</a> & <a href="https://www.youtube.com/watch?v=h3fUgOKFMNU">New York</a>. I got the opportunity to lead the R&D team of around 10-20 enthusiasts working on diverse NLP topics viz., intent classification, slot tagging, VerbNet & PropBank parsing, KB-based QA, paraphrasing, semantic parsing, <a href="https://arxiv.org/pdf/2006.00533.pdf">relation<a/> <a href="https://arxiv.org/pdf/2107.03884.pdf">extraction</a> & dialog retrieval, ranking, generation and other conversational AI problems. Much of the work also involved managing a team of back-end, front-end, and UX developers for creating different modules of the Amelia stack.
 
-In the summers of the past 3 years (2021 to 2023), I worked with the Natural Understanding Team at Amazon, Alexa in New York, and San Jose on multi-task learning for their LLMs and creating simulators for training LLMs, and in the Search Experience Science team at [Seattle](https://youtu.be/vDKQa-MYLOQ?feature=shared).
+In the summers of the past 3 years (2021 to 2023), I worked with the Natural Understanding Team at Amazon, Alexa in New York, and San Jose on multi-task learning for their LLMs and creating simulators for training LLMs, and in the Search Experience Science team at [Seattle ⛰️](https://youtu.be/vDKQa-MYLOQ?feature=shared).
 
 
 * * *
@@ -22,7 +22,6 @@ In the summers of the past 3 years (2021 to 2023), I worked with the Natural Und
 * * *
 
 Publications: Most upto date stuff can be found on <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
-
 
 * * *
 
