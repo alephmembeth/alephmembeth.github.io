@@ -29,6 +29,7 @@ layout: default
 
 ## Theses
 
++ Gronotte, Finn Ove (2024): _Der Einfluss von Nähe und Distanz auf das Gefühl moralischer Verpflichtung. Eine empirische Untersuchung im Kontext von Peter Singers Ethik_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Rode, Mark Phillip (2024): _Das professionelle Selbstverständnis von ambulanten Pflegekräften in Zeiten der Technisierung. Ein Theorie-Empire-Vergleich des Berufsethos ambulanter Pflegekräfte_ (master’s thesis; University of Oldenburg; supervisor: Mark Schweda)
 + Schmidke, Laura (2024): _Antisemitismus als Herausforderung der Bildungsarbeit. Inwieweit kann der Philosophieunterricht als Werkzeug zu seiner Bekämpfung genutzt werden?_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Aktaşci, Elif (2024): _Ethik und Künstliche Intelligenz. Wie soll der Umgang mit ethischen Herausforderungen im Kontext von Künstlicher Intelligenz aussehen?_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
