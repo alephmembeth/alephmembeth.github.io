@@ -3,6 +3,14 @@
 ## Under Review
 ### Title: Fusion-Based Enhancement of Multi-Exposure Fourier Ptychographic Microscopy
 - Authors: <u>Zhiping Wang</u>, Tianci Feng, Aiye Wang, and An Pan.
+- Status: Peer Review
+
+### Title: Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy
+- Authors: Fannuo Xu †, <u>Zhiping Wang</u> †, Zipei Wu, Houyou Lai, Yizheng Liao, and An Pan.
+- Status: Peer Review
+
+### Title: Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization
+- Authors: Yanqi Chen, Jiurun Chen, <u>Zhiping Wang</u>, Yuting Gao, Yhonghong He, Yishi Shi, and An Pan. 
 - Status: Editorial Review
 
 ## Accepted Papers
@@ -21,4 +29,8 @@
 - PDF Download: [PDF](./cells-13-00324.pdf)
 - DOI: [10.3390/cells13040324](https://doi.org/10.3390/cells13040324)
 
-
+## Thesis
+### Title: Exploring Advancements in Slicing-free Fourier Ptychographic Microscopy
+- Instructor: Dr. Hao Jia (Lanzhou University and KAUST) and Dr. An Pan (Chinese Academy of Sciences)
+- Summarized some of my work on Fourier Ptychographic Microscopy.
+- Achieved an excellent rating for my thesis through oral defense.
