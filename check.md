@@ -20,7 +20,7 @@ As both Gilad Feldman and Stuart Ritchie note, they “have to be _objective_ er
 Should you be interested in replicating my work, there are a few things I offer to make this as easy as possible for you:
 
 + For projects where I am the first or corresponding author, I maintain repositories containing all the essential files.
-+ If anything is missing in a repository, please feel free to contact me, and I will try to add the missing files if possible.
++ If anything is missing in a repository, please feel free to contact me, and I will try to add the missing files or information if possible.
 + If you are working on replicating my work, I will be happy to give you feedback and answer any questions you have.
 
 [^1]: [Gilad Feldman](https://mgto.org/check-me-replicate-me/) got the idea from [Stuart Ritchie](https://www.sciencefictions.org/corrections), who himself adapted it from [Ruben Arslan](https://tellmeimwrong.formr.org/), [José Luis Ricón](https://nintil.com/prove-wrong-get-money), and the [Knuth Reward Check](https://en.wikipedia.org/wiki/Knuth_reward_check).
