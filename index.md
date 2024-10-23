@@ -49,7 +49,7 @@ For more detailed information about my academic and research experiences, please
 
 * * *
 ## NEWS
-### Academic(Click the links to view the latest research findings.)
+### Academic(Click the links to view the research findings.)
 + <big>06/21/2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year. </big>
 + <big>04/11/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been **accepted** by *<u>Optics Letters</u>. </big>
 + <big> 03/26/2024 My article as the **<u>first author</u>**, titled *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy*, has been **submitted** to *<u>Advanced Photonics</u>* (Manuscript ID: AP-24-110003).</big>
