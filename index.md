@@ -27,9 +27,10 @@ layout: default
     
 # About Me
 
-Welcome to my personal website! I am Zhiping Wang, currently a senior undergraduate student at Lanzhou University, majoring in physics, and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **Computational Optics and Optical Imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
+<!-- Welcome to my personal website! I am Zhiping Wang, currently a senior undergraduate student at Lanzhou University, majoring in physics, and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **Computational Optics and Optical Imaging**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses. -->
 
-I am presently engaged in a research internship at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) within the Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences. My individual research project is **<i>Research on Fast Fourier Ptychography Based on Illumination Control</i>**, under the supervision of Dr. An Pan.
+I am Zhiping Wang, currently a Master of Science student at the **University of Basel**, Switzerland, enrolled in the Physics of Life program at the Biozentrum. I am about to embark on a research project focused on 3D cryo-electron tomography (cryo-ET) reconstruction, under the supervision of Prof. Ben Engel and Prof. Ivan Dokmanić. My work will involve cutting-edge techniques in computational imaging and structural biology. During my undergraduate studies, I conducted research on Fourier Ptychography at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) of the Chinese Academy of Sciences, under the guidance of Dr. Pan An.
+
 <!--
 I am presently involved in a research internship at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) of the Chinese Academy of Sciences, under the guidance of Dr. [Pan An](https://scholar.google.com/citations?user=C3ZLpdQAAAAJ).
 -->
