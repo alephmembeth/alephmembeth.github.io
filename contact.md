@@ -9,6 +9,7 @@ If you want to get in touch, you can reach me via <alexander.max.bauer@uol.de>.
 On the internet, there are also some other places where you can find me, including
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer),
 + [Google Scholar](https://scholar.google.de/citations?user=EFeokZUAAAAJ),
++ [LinkedIn](https://www.linkedin.com/in/alexandermaxbauer/),
 + [Mastodon](https://ohai.social/@alephmembeth),
 + [ORCID](https://orcid.org/0000-0003-0923-6864),
 + [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer),
