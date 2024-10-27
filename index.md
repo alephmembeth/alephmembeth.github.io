@@ -36,8 +36,16 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
    <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
 </dl>
 
-
 * * *
+
+<dl>
+   <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>
+   <dd><a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.1 Introduction to RAG</a></dd>
+   <dd><a href="https://www.youtube.com/watch?v=_ZJjtfRTc-w&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.2 RAG Taxonomy</a></dd>
+   <dd><a href="https://www.youtube.com/watch?v=0UiHRuG2KNg&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.3 RAG Architectures and Agents</a></dd>
+   <dd><a href="https://www.youtube.com/watch?v=wx034O5Sabs&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.4 RAG Open Research Questions</a></dd>
+</dl>
+
 
 If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu (or <a href="https://www.linkedin.com/in/kaustubh-dhol%C3%A9-3929b32a/">LinkedIN</a> or <a href="https://twitter.com/kaustubhdhole">Twitter</a> where I'm sometimes active.)
 
