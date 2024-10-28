@@ -37,9 +37,6 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
    <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd></dl>
 
 
-* * *
-
-
 <dl>
    <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>
    <dd><a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.1 Introduction to RAG</a></dd>
