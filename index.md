@@ -29,6 +29,8 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
 <dl>
    <dt>Workshops:</dt>
       <dd>Organizing the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM 2021 & GEM 2022 </a>. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://nejlt.ep.liu.se/article/view/4725/3874">NL-Augmenter</a> and a key contributor of the LLM benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf">BIG-Bench</a>.</dd>
+</dl>
+<dl>
    <dt>Mentoring/Speaking:</dt>
       <dd> Presented some of the work on RAG evaluation at the Workshop on <a href="https://ir-ai.github.io/">Task Focussed IR in the Era of Generative AI</a> at Redmond, Microsoft Research </dd>
       <dd> Gave a talk on Retrieval Augmented Generation at the University of Edinburgh, 2024 while on my visit to present <a href="https://arxiv.org/abs/2405.17658">LLM based reformulation</a> at <a href="https://www.youtube.com/playlist?list=PLfwN-5WMJARyxxkmTpVfHG1toT0u0tx-G">ECIR 2024, Scotland</dd>
