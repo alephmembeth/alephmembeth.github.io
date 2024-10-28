@@ -23,6 +23,7 @@ In the summers of the past 3 years (2021 to 2023), I worked with the Natural Und
 
 Publications: Most upto date stuff can be found on <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
 
+
 * * *
 
 <dl>
@@ -33,10 +34,11 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
       <dd> Gave a talk on Retrieval Augmented Generation at the University of Edinburgh, 2024 while on my visit to present <a href="https://arxiv.org/abs/2405.17658">LLM based reformulation</a> at <a href="https://www.youtube.com/playlist?list=PLfwN-5WMJARyxxkmTpVfHG1toT0u0tx-G">ECIR 2024, Scotland</dd>
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/logml2022/projects2022/project1/">London Geometry & Machine Learning Summer School, 2022</a> </dd>
       <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
-   <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
-</dl>
+   <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd></dl>
+
 
 * * *
+
 
 <dl>
    <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>
