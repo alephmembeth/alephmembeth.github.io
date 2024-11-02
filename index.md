@@ -37,8 +37,8 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/logml2022/projects2022/project1/">London Geometry & Machine Learning Summer School, 2022</a> </dd>
       <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
       <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
-</dl>
-<!--
+  </dl>       
+         <!--
 <dl>
    <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>
    <dd><a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.1 Introduction to RAG</a></dd>
@@ -50,16 +50,16 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
 <dl>
    <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>         
 <a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">
-    <img src="https://img.youtube.com/vi/o2SdjWQrLhA/0.jpg" alt="Video 1" width="200">
+    <img src="https://img.youtube.com/vi/o2SdjWQrLhA/0.jpg" alt="Video 1" width="150">
 </a>
 <a href="https://www.youtube.com/watch?v=_ZJjtfRTc-w&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=2" target="_blank">
-    <img src="https://img.youtube.com/vi/_ZJjtfRTc-w/0.jpg" alt="Video 2" width="200">
+    <img src="https://img.youtube.com/vi/_ZJjtfRTc-w/0.jpg" alt="Video 2" width="150">
 </a>
 <a href="https://www.youtube.com/watch?v=0UiHRuG2KNg&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=3" target="_blank">
-    <img src="https://img.youtube.com/vi/0UiHRuG2KNg/0.jpg" alt="Video 3" width="200">
+    <img src="https://img.youtube.com/vi/0UiHRuG2KNg/0.jpg" alt="Video 3" width="150">
 </a>
 <a href="https://www.youtube.com/watch?v=wx034O5Sabs&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=4" target="_blank">
-    <img src="https://img.youtube.com/vi/wx034O5Sabs/0.jpg" alt="Video 4" width="200">
+    <img src="https://img.youtube.com/vi/wx034O5Sabs/0.jpg" alt="Video 4" width="150">
 </a>
 </dl>
          
