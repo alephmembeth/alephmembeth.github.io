@@ -38,6 +38,7 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
       <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
       <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
 </dl>
+<!--
 <dl>
    <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>
    <dd><a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.1 Introduction to RAG</a></dd>
@@ -45,8 +46,23 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
    <dd><a href="https://www.youtube.com/watch?v=0UiHRuG2KNg&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.3 RAG Architectures and Agents</a></dd>
    <dd><a href="https://www.youtube.com/watch?v=wx034O5Sabs&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.4 RAG Open Research Questions</a></dd>
 </dl>
-
-
+  -->
+<dl>
+   <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>         
+<a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">
+    <img src="https://img.youtube.com/vi/o2SdjWQrLhA/0.jpg" alt="Video 1" width="200">
+</a>
+<a href="https://www.youtube.com/watch?v=_ZJjtfRTc-w&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=2" target="_blank">
+    <img src="https://img.youtube.com/vi/_ZJjtfRTc-w/0.jpg" alt="Video 2" width="200">
+</a>
+<a href="https://www.youtube.com/watch?v=0UiHRuG2KNg&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=3" target="_blank">
+    <img src="https://img.youtube.com/vi/0UiHRuG2KNg/0.jpg" alt="Video 3" width="200">
+</a>
+<a href="https://www.youtube.com/watch?v=wx034O5Sabs&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=4" target="_blank">
+    <img src="https://img.youtube.com/vi/wx034O5Sabs/0.jpg" alt="Video 4" width="200">
+</a>
+</dl>
+         
 If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu (or <a href="https://www.linkedin.com/in/kaustubh-dhol%C3%A9-3929b32a/">LinkedIN</a> or <a href="https://twitter.com/kaustubhdhole">Twitter</a> where I'm sometimes active.)
 
 Long ago, I used to maintain a personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on WordPress where I mostly wrote non-NLP stuff on rare occasions! You can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/">backpacking</a>! One serious advice - <a href="https://kaustubhdhole.wordpress.com/2021/11/26/caxtons-tex-mex-mashed-potatoes/">cook this</a>!
