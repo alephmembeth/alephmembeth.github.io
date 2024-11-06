@@ -13,7 +13,7 @@ In the summers of the past 3 years (2021 to 2023), I worked with the Natural Und
 
 <dl>
    <dt>Areas of Interest:</dt>
-   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96">NLG Evaluation</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-031-56063-7_24">Query Reformulation</a>, <a href="https://aclanthology.org/2024.scichat-1.5/">Retrieval Augmented Generation</a></dd>, Biases in LLMs
+   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96">NLG Evaluation</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-031-56063-7_24">Query Reformulation</a>, <a href="https://aclanthology.org/2024.scichat-1.5/">Retrieval Augmented Generation</a></dd>
    <dt>Other Areas I'm happy to collaborate or have coffee chat ons:</dt>
    <dd><a href="https://aclanthology.org/2021.acl-short.13.pdf">Dialog</a> <a href="https://arxiv.org/pdf/2008.07559.pdf">Systems</a>, <a href="https://arxiv.org/pdf/2206.02849.pdf">Graph Neural Networks</a>, <a href="https://arxiv.org/pdf/2112.02721.pdf">Data Augmentation</a>, Efficient Transformers, Privacy Preserving ML, <a href="https://aclanthology.org/2023.bigpicture-1.6/">Bigger Picture of LLMs</a></dd>
 </dl>
