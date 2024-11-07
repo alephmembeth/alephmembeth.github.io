@@ -26,5 +26,6 @@ layout: default
 
 ## Honors
 
-+ Deutschlandstipendium (2015/2016; University of Oldenburg; 3.600,00 euro)
-+ Deutschlandstipendium (2014/2015; University of Oldenburg; 3.600,00 euro)
+<!-- + Award for Excellence in Teaching (“Preis der Lehre”; 2024; University of Oldenburg) -->
++ Germany Scholarship (“Deutschlandstipendium”; 2015/2016; University of Oldenburg; 3.600,00 euro)
++ Germany Scholarship (“Deutschlandstipendium”; 2014/2015; University of Oldenburg; 3.600,00 euro)
