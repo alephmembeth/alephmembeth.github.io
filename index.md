@@ -36,6 +36,8 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
       <dd>Digital Humanities, Distributive Justice, Philosophy of Science, Metaphysics</dd>
    <dt>Areas of Interest:</dt>
       <dd>Game Studies, Metaphilosophy, Philosophy of Language</dd>
+   <dt>Historical Focus:</dt>
+      <dd>Aristotle, Friedrich Nietzsche</dd>
    <dt>Tools of Choice:</dt>
       <dd>LaTeX, LimeSurvey, Stata, R, Python</dd>
 </dl>
