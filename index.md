@@ -31,7 +31,10 @@ layout: default
 
 Welcome to my personal website!
 
-I am Zhiping Wang, currently a Master of Science student at the **University of Basel**, Switzerland, enrolled in the Physics of Life program at the Biozentrum. I am about to embark on a research project focused on 3D cryo-electron tomography (cryo-ET) reconstruction, under the supervision of Prof. Ben Engel and Prof. Ivan Dokmanić. My work will involve cutting-edge techniques in computational imaging and structural biology. 
+<!-- I am Zhiping Wang, currently a Master of Science student at the **University of Basel**, Switzerland, enrolled in the Physics of Life program at the Biozentrum. I am about to embark on a research project focused on 3D cryo-electron tomography (cryo-ET) reconstruction, under the supervision of Prof. Ben Engel and Prof. Ivan Dokmanić. My work will involve cutting-edge techniques in computational imaging and structural biology.  -->
+
+I am **Zhiping Wang**, currently a Master of Science student at the **University of Basel**, Switzerland, enrolled in the *Physics of Life* program at the **Biozentrum**. I am affiliated with both the Biozentrum and the **DMI** (*Department of Mathematics and Computer Science*) and am about to embark on a research project focused on **3D Optimal Back-Projection for Tomography Reconstruction**. This work is conducted under the supervision of **Prof. Ben Engel** and **Prof. Ivan Dokmanić**, leveraging cutting-edge techniques in computational imaging and structural biology.
+
 
 Previously, I earned my Bachelor of Science degree in Physics from Lanzhou University in the fall semester of 2024. During my undergraduate studies, I was actively involved in research, particularly in the fields of **Computational Optics and Computational Imaging**. I conducted research on Fourier Ptychography at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) of the Chinese Academy of Sciences, under the guidance of Dr. Pan An.
 
