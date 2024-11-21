@@ -2,3 +2,11 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Add custom styles for video thumbnails */
+.thumbnail {
+  border-radius: 15px; /* Rounded corners */
+  border: 2px solid #ccc; /* Light gray border */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  width: 150px; /* Set consistent width */
+}
