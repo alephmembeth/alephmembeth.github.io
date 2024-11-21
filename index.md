@@ -50,16 +50,16 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
 <dl>
    <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>         
 <a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">
-    <img src="https://img.youtube.com/vi/o2SdjWQrLhA/0.jpg" alt="Video 1" width="150">
+    <img src="https://img.youtube.com/vi/o2SdjWQrLhA/0.jpg" alt="Video 1" width="150" class="thumbnail">
 </a>
 <a href="https://www.youtube.com/watch?v=_ZJjtfRTc-w&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=2" target="_blank">
-    <img src="https://img.youtube.com/vi/_ZJjtfRTc-w/0.jpg" alt="Video 2" width="150">
+    <img src="https://img.youtube.com/vi/_ZJjtfRTc-w/0.jpg" alt="Video 2" width="150" class="thumbnail">
 </a>
 <a href="https://www.youtube.com/watch?v=0UiHRuG2KNg&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=3" target="_blank">
-    <img src="https://img.youtube.com/vi/0UiHRuG2KNg/0.jpg" alt="Video 3" width="150">
+    <img src="https://img.youtube.com/vi/0UiHRuG2KNg/0.jpg" alt="Video 3" width="150" class="thumbnail">
 </a>
 <a href="https://www.youtube.com/watch?v=wx034O5Sabs&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB&index=4" target="_blank">
-    <img src="https://img.youtube.com/vi/wx034O5Sabs/0.jpg" alt="Video 4" width="150">
+    <img src="https://img.youtube.com/vi/wx034O5Sabs/0.jpg" alt="Video 4" width="150" class="thumbnail">
 </a>
 </dl>
          
