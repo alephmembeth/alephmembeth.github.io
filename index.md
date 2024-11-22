@@ -77,3 +77,9 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
 If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu (or <a href="https://www.linkedin.com/in/kaustubh-dhol%C3%A9-3929b32a/">LinkedIN</a> or <a href="https://twitter.com/kaustubhdhole">Twitter</a> where I'm sometimes active.)
 
 Long ago, I used to maintain a personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on WordPress where I mostly wrote non-NLP stuff on rare occasions! You can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/">backpacking</a>! One serious advice - <a href="https://kaustubhdhole.wordpress.com/2021/11/26/caxtons-tex-mex-mashed-potatoes/">cook this</a>!
+
+<dl>
+<dt>Mentoring at Amelia R&D:</dt>
+   I had the privilege of working with several great individuals, particularly on NLP projects at Amelia R&D. Some are listed here (in no particular order):
+ Krishna Mohan Barakam, Ashish Srivastava, Aadesh Gupta, Abhinav Bhatt, Arpan Kulshreshtha, Priyank Soni, Chandra Reddy, Venkatesh Magham, Kaustav Dutta, Ramavtar Malav, Vishwa Teja, Manjunath Hegde, Roopesh Mangal, Bhargav Sagiraju, Pranav Kamojjhala
+</dl>
