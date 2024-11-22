@@ -21,8 +21,9 @@ In the summers of the past 3 years (2021 to 2023), I worked with the Natural Und
 
 * * *
 
-<b>Publications</b>: Most upto date stuff can be found on <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
-
+<dl>
+   <dt>Publications:</dt> Most upto date stuff can be found on <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
+</dl>
 
 * * *
 
