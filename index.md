@@ -37,18 +37,10 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/logml2022/projects2022/project1/">London Geometry & Machine Learning Summer School, 2022</a> </dd>
       <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
       <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
-  </dl>       
-         <!--
+  </dl>
 <dl>
-   <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>
-   <dd><a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.1 Introduction to RAG</a></dd>
-   <dd><a href="https://www.youtube.com/watch?v=_ZJjtfRTc-w&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.2 RAG Taxonomy</a></dd>
-   <dd><a href="https://www.youtube.com/watch?v=0UiHRuG2KNg&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.3 RAG Architectures and Agents</a></dd>
-   <dd><a href="https://www.youtube.com/watch?v=wx034O5Sabs&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">1.4 RAG Open Research Questions</a></dd>
-</dl>
-  -->
-<dl>
-   <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>         
+   <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>     
+<br/>
 <a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">
     <img src="https://img.youtube.com/vi/o2SdjWQrLhA/0.jpg" alt="Video 1" width="150" class="thumbnail">
 </a>
@@ -62,7 +54,26 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
     <img src="https://img.youtube.com/vi/wx034O5Sabs/0.jpg" alt="Video 4" width="150" class="thumbnail">
 </a>
 </dl>
-         
+<dl>
+   <dt>Other Projects:</dt>     
+<br/>
+<a href="https://www.youtube.com/watch?v=pcUE9DIhF18" target="_blank">
+    <img src="https://img.youtube.com/vi/pcUE9DIhF18/0.jpg" alt="Video 1" width="150" class="thumbnail">
+</a>
+<a href="https://www.youtube.com/watch?v=sXBU8-uWR3o" target="_blank">
+    <img src="https://img.youtube.com/vi/sXBU8-uWR3o/0.jpg" alt="Video 2" width="150" class="thumbnail">
+</a>
+<a href="https://www.youtube.com/watch?v=Fs-EgignPL8" target="_blank">
+    <img src="https://img.youtube.com/vi/Fs-EgignPL8/0.jpg" alt="Video 3" width="150" class="thumbnail">
+</a>
+<a href="https://www.youtube.com/watch?v=d1bN6vcQ4Lc" target="_blank">
+    <img src="https://img.youtube.com/vi/d1bN6vcQ4Lc/0.jpg" alt="Video 4" width="150" class="thumbnail">
+</a>
+     <a href="https://www.youtube.com/watch?v=WTpZVlzoNuE" target="_blank">
+    <img src="https://img.youtube.com/vi/WTpZVlzoNuE/0.jpg" alt="Video 4" width="150" class="thumbnail">
+</a>
+     
+</dl>       
 If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu (or <a href="https://www.linkedin.com/in/kaustubh-dhol%C3%A9-3929b32a/">LinkedIN</a> or <a href="https://twitter.com/kaustubhdhole">Twitter</a> where I'm sometimes active.)
 
 Long ago, I used to maintain a personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on WordPress where I mostly wrote non-NLP stuff on rare occasions! You can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/">backpacking</a>! One serious advice - <a href="https://kaustubhdhole.wordpress.com/2021/11/26/caxtons-tex-mex-mashed-potatoes/">cook this</a>!
