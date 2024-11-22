@@ -79,8 +79,8 @@ If you want to get in touch or are interested to collaborate, you can reach me a
 Long ago, I used to maintain a personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on WordPress where I mostly wrote non-NLP stuff on rare occasions! You can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/">backpacking</a>! One serious advice - <a href="https://kaustubhdhole.wordpress.com/2021/11/26/caxtons-tex-mex-mashed-potatoes/">cook this</a>!
 
 <dl>
-<dt>Mentoring at Amelia R&D:</dt>
+<dt>Mentoring at Amelia R&D (2015 to 2021):</dt>
    I had the privilege of mentoring several great individuals, particularly on NLP projects at Amelia R&D. Most of these projects were as short as 1 month to as long as 1 year. Some are listed here, in no particular order:
-<dd> (R&D/Senior R&D Engineers) Krishna Mohan Barakam, Ashish Srivastava, Aadesh Gupta, Abhinav Bhatt, Arpan Kulshreshtha, Priyank Soni, Venkatesh Magham, Anurag Kashyap, Kaustav Dutta, Ramavtar Malav, Vishwa Teja, Manjunath Hegde, Roopesh Mangal, Mohit Rohatgi, Rohit Kalra </dd>
-<dd> (Interns) Bhargav Sagiraju, Chandra Reddy, Pranav Kamojjhala </dd>
+<dd> R&D/Senior R&D Engineers: Krishna Mohan Barakam, Ashish Srivastava, Aadesh Gupta, Abhinav Bhatt, Arpan Kulshreshtha, Priyank Soni, Venkatesh Magham, Anurag Kashyap, Kaustav Dutta, Ramavtar Malav, Vishwa Teja, Manjunath Hegde, Roopesh Mangal, Mohit Rohatgi, Rohit Kalra </dd>
+<dd> Interns: Bhargav Sagiraju, Chandra Reddy, Pranav Kamojjhala </dd>
 </dl>
