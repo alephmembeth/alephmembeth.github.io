@@ -80,6 +80,7 @@ Long ago, I used to maintain a personal <a href="https://kaustubhdhole.wordpress
 
 <dl>
 <dt>Mentoring at Amelia R&D:</dt>
-   I had the privilege of working with several great individuals, particularly on NLP projects at Amelia R&D. Some are listed here (in no particular order):
- Krishna Mohan Barakam, Ashish Srivastava, Aadesh Gupta, Abhinav Bhatt, Arpan Kulshreshtha, Priyank Soni, Chandra Reddy, Venkatesh Magham, Kaustav Dutta, Ramavtar Malav, Vishwa Teja, Manjunath Hegde, Roopesh Mangal, Bhargav Sagiraju, Pranav Kamojjhala
+   I had the privilege of mentoring several great individuals, particularly on NLP projects at Amelia R&D. Most of these projects were as short as 1 month to as long as 1 year. Some are listed here, in no particular order:
+<dd> (R&D/Senior R&D Engineers) Krishna Mohan Barakam, Ashish Srivastava, Aadesh Gupta, Abhinav Bhatt, Arpan Kulshreshtha, Priyank Soni, Venkatesh Magham, Anurag Kashyap, Kaustav Dutta, Ramavtar Malav, Vishwa Teja, Manjunath Hegde, Roopesh Mangal, Mohit Rohatgi, Rohit Kalra </dd>
+<dd> (Interns) Bhargav Sagiraju, Chandra Reddy, Pranav Kamojjhala </dd>
 </dl>
