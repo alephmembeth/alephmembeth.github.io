@@ -29,7 +29,8 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
 
 <dl>
    <dt>Workshops:</dt>
-      <dd>Organizing the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM</a> 2021, GEM 2022, GEM 2023. I was also the co-organizer of the wisdom-of-researchers collaboration <a href="https://aclanthology.org/2023.nejlt-1.5.pdf" target="_blank">NL-Augmenter</a> and a key contributor of the LLM benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf" target="_blank">BIG-Bench</a>.</dd>
+      <dd> - Co-organizer of the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM</a> 2021, GEM 2022, GEM 2023.</dd>
+      <dd> - Co-organizer of the wisdom-of-researchers collaboration <a href="https://aclanthology.org/2023.nejlt-1.5.pdf" target="_blank">NL-Augmenter</a> and a key contributor of LLM task benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf" target="_blank">BIG-Bench</a>.</dd>
 </dl>
 <dl>
    <dt>Recent Mentoring/Speaking:</dt>
@@ -37,7 +38,7 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
       <dd> - Gave a talk on Retrieval Augmented Generation at the University of Edinburgh, 2024 while on my visit to present <a href="https://arxiv.org/abs/2405.17658" target="_blank">LLM based reformulation</a> at <a href="https://www.youtube.com/playlist?list=PLfwN-5WMJARyxxkmTpVfHG1toT0u0tx-G" target="_blank">ECIR 2024, Scotland</a> </dd>
       <dd> - Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/logml2022/projects2022/project1/" target="_blank">London Geometry & Machine Learning Summer School, 2022</a> </dd>
       <dd> - Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf" target="_blank">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
-      <dd> - Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd> 
+      <dd> - Bioinformatics article was featured on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd> 
 </dl>
 <dl>
    <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>     
