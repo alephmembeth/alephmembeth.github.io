@@ -13,7 +13,7 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
 
 <dl>
    <dt>Areas of Interest:</dt>
-   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96" target="_blank">NLG Evaluation</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-031-56063-7_24" target="_blank">Query Reformulation</a>, <a href="https://aclanthology.org/2024.scichat-1.5/" target="_blank">Retrieval Augmented Generation</a>, <a href="https://huggingface.co/LanguageShades" target="_blank">LLM Biases & Stereotypes</a></dd>
+   <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96" target="_blank">NLG Evaluation</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-031-56063-7_24" target="_blank">Retrieval</a>, <a href="https://aclanthology.org/2024.scichat-1.5/" target="_blank">Retrieval Augmented Generation</a>, <a href="https://arxiv.org/pdf/2412.05206">RAG Evaluation</a>, <a href="https://huggingface.co/LanguageShades" target="_blank">LLM Biases & Stereotypes</a></dd>
    <dt>Other Areas I'm happy to collaborate or have coffee chat ons:</dt>
    <dd><a href="https://aclanthology.org/2021.acl-short.13.pdf" target="_blank">Dialog</a> <a href="https://arxiv.org/pdf/2008.07559.pdf" target="_blank">Systems</a>, <a href="https://arxiv.org/pdf/2206.02849.pdf" target="_blank">Graph Neural Networks</a>, <a href="https://arxiv.org/pdf/2112.02721.pdf" target="_blank">Data Augmentation</a>, Efficient Transformers, Privacy Preserving ML, <a href="https://aclanthology.org/2023.bigpicture-1.6/" target="_blank">Bigger Picture of LLMs</a></dd>
 </dl>
