@@ -6,6 +6,10 @@ layout: default
 
 ## 2025
 
+### Books
+
++ Matthias Bormuth (2024): _Trapezkünstler. Der Fall Kafka_. Berlin: Berenberg.
+
 ## 2024
 
 ### Books
