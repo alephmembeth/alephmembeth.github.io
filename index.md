@@ -6,7 +6,7 @@ Hi there, my name’s Max. I’m a postdoctoral research associate at the Univer
 
 + [publications](./publications.md),
 + [presentations](./presentations.md),
-+ [taching](./teaching.md),
++ [teaching](./teaching.md),
 + [events](./events.md),
 + [services to the profession](./services.md),
 + [education](./education.md),
