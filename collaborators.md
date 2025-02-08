@@ -16,6 +16,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Paul Engelhardt](https://research-portal.uea.ac.uk/en/persons/paul-engelhardt) (University of East Anglia)
 + [Eugen Fischer](https://research-portal.uea.ac.uk/en/persons/eugen-fischer) (University of East Anglia)
 + [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
++ [Paul Henne](https://www.lakeforest.edu/academics/faculty/phenne) (Lake Forest College)
 + [Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Frauke Meyer](https://www.linkedin.com/in/frauke-meyer-ph-d-7a07b6154/) (Knapp Data Quality)
 + [Henrike Meyer](https://de.linkedin.com/in/henrike-meyer-347944264) (Studydrive)
