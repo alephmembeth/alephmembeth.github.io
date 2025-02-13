@@ -22,9 +22,9 @@ A concise definition of the Erdős number is given by [Werner Balser](https://ww
 
 My Erdős number, calculated with the American Mathematical Society’s “Collaboration Distance” tool on [MathSciNet](https://mathscinet.ams.org/mathscinet/freetools/collab-dist), is 5:
 
-<object data="https://alephmembeth.github.io/files/erdős.pdf" type="application/pdf" width="1000px" height="500px">
-   <embed src="https://alephmembeth.github.io/files/erdős.pdf">
-      <p>[This browser does not support PDFs. Please <a href="https://alephmembeth.github.io/files/erdős.pdf">download the PDF</a> to view it.]</p>
+<object data="https://alephmembeth.github.io/files/erdoes.pdf" type="application/pdf" width="1000px" height="500px">
+   <embed src="https://alephmembeth.github.io/files/erdoes.pdf">
+      <p>[This browser does not support PDFs. Please <a href="https://alephmembeth.github.io/files/erdoes.pdf">download the PDF</a> to view it.]</p>
    </embed>
 </object>
 
