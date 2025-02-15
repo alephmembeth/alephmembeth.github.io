@@ -63,6 +63,8 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
 <dl>
    <dt>Other Projects:</dt>     
 <br/>
+   <a href="https://www.youtube.com/watch?v=dTF9wRUFOGk" target="_blank">
+    <img src="https://img.youtube.com/vi/dTF9wRUFOGk/0.jpg" alt="Video 1" width="150" class="thumbnail">
 <a href="https://www.youtube.com/watch?v=sXBU8-uWR3o" target="_blank">
     <img src="https://img.youtube.com/vi/sXBU8-uWR3o/0.jpg" alt="Video 2" width="150" class="thumbnail">
 </a>
