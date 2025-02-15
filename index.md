@@ -63,7 +63,7 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
 <dl>
    <dt>Other Projects:</dt>     
 <br/>
-   <a href="https://www.youtube.com/watch?v=dTF9wRUFOGk" target="_blank">
+<a href="https://www.youtube.com/watch?v=dTF9wRUFOGk" target="_blank">
     <img src="https://img.youtube.com/vi/dTF9wRUFOGk/0.jpg" alt="Video 1" width="150" class="thumbnail">
 <a href="https://www.youtube.com/watch?v=sXBU8-uWR3o" target="_blank">
     <img src="https://img.youtube.com/vi/sXBU8-uWR3o/0.jpg" alt="Video 2" width="150" class="thumbnail">
@@ -76,8 +76,7 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
 </a>
      <a href="https://www.youtube.com/watch?v=WTpZVlzoNuE" target="_blank">
     <img src="https://img.youtube.com/vi/WTpZVlzoNuE/0.jpg" alt="Video 4" width="150" class="thumbnail">
-</a>
-     
+</a>  
 </dl>       
 If you want to get in touch or are interested to collaborate, you can reach me at firstname.lastname@emory.edu (or <a href="https://www.linkedin.com/in/kaustubh-dhol%C3%A9-3929b32a/" target="_blank">LinkedIN</a> or <a href="https://twitter.com/kaustubhdhole" target="_blank">Twitter</a> where I'm sometimes active.)
 
