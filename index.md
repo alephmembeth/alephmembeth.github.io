@@ -31,9 +31,9 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
    <dt>Areas of Specialization:</dt>
       <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
    <dt>Areas of Competence:</dt>
-      <dd>Digital Humanities, Distributive Justice, Philosophy of Science, Metaphysics</dd>
+      <dd>Game Studies, Distributive Justice, Philosophy of Science, Metaphysics</dd>
    <dt>Areas of Interest:</dt>
-      <dd>Game Studies, Metaphilosophy, Philosophy of Language</dd>
+      <dd>Digital Humanities, Metaphilosophy, Philosophy of Language</dd>
    <dt>Historical Focus:</dt>
       <dd>Aristotle, Friedrich Nietzsche</dd>
    <dt>Tools of Choice:</dt>
