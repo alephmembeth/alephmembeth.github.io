@@ -17,21 +17,24 @@ layout: default
 + “Einführung in die Experimentelle Theoretische Philosophie” (winter term 2023/2024; course on bachelor’s level; University of Oldenburg)
 + “Aristoteles’ ‘Metaphysik’” (winter term 2022/2023 – summer term 2023, winter term 2023/2024 – summer term 2024, and winter term 2024/2025 – summer term 2025; two-semester course on bachelor’s level; University of Oldenburg)
 + “Gedankenexperimente in der Philosophie” (winter term 2022/2023; course on bachelor’s level; University of Oldenburg)
-+ “Einführung in die Experimentelle Philosophie” (winter term 2020/2021; course on bachelor’s level; University of Oldenburg; moved online due to pandemic)
-+ “Reichtum als moralisches Problem” (summer term 2020; course on bachelor’s level; University of Oldenburg; moved online due to pandemic)
++ “Einführung in die Experimentelle Philosophie” (winter term 2020/2021; course on bachelor’s level; University of Oldenburg; online due to pandemic)
++ “Reichtum als moralisches Problem” (summer term 2020; course on bachelor’s level; University of Oldenburg; online due to pandemic)
 + “Ein Gestirn, auf dem kluge Tiere das Erkennen erfanden – Sprache und Erkenntnis in den frühen Schriften Nietzsches” (winter term 2019/2020; course on bachelor’s level; University of Oldenburg)
 + “Suffizientarismus – Zu einer Kritik der Unersättlichkeit” (summer term 2019; course on master’s level; University of Oldenburg)
 + “Sein und Sollen – Abgründe und Brücken zwischen empirischer Forschung und normativer Theorie” (winter term 2018/2019; course on bachelor’s level; University of Oldenburg)
 + “Eduard Beaucamp und die Leipziger Schule – Ästhetik zwischen Kontinuität und Bruch” (winter term 2017/2018; course on master’s level; University of Oldenburg)
 + “Operationalisierung von Verteilungsgerechtigkeit – Zur Grundlegung der Messbarkeit von Gerechtigkeit zwischen normativer Theorie und formaler Modellierung” (summer term 2017; course on master’s level; University of Oldenburg)
 + “Nietzsche – Frühe Schriften” (winter term 2015/2016; course on master’s level; University of Oldenburg; jointly with Nils Baratella)
-+ “Einführung in die Praktische Philosophie” (summer terms 2014 and 2015; tutorial course on bachelor’s level; University of Oldenburg; accompanying the lectures of Martin Louis Vialon (summer term 2014) and Michael Städtler (summer term 2015))
-+ “Einführung in das wissenschaftliche Arbeiten” (winter terms 2013/2014, 2014/2015, 2015/2016, 2016/2017, 2017/2018, and 2018/2019; exercise for first year students; University of Oldenburg; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019))
+
+## Exercise Courses and Tutorials
+
++ “Einführung in die Praktische Philosophie” (summer terms 2014 and 2015; tutorial on bachelor’s level; University of Oldenburg; accompanying the lectures of Martin Louis Vialon (summer term 2014) and Michael Städtler (summer term 2015))
++ “Einführung in das wissenschaftliche Arbeiten” (winter terms 2013/2014, 2014/2015, 2015/2016, 2016/2017, 2017/2018, and 2018/2019; exercise course for first year students; University of Oldenburg; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019))
 + “Einführung in die Theoretische Philosophie” (winter terms 2012/2013, 2013/2014, 2014/2015, 2015/2016, and 2016/2017; tutorial course on bachelor’s level; University of Oldenburg; accompanying the lecture of Mark Siebel)
 
 ## Theses
 
-+ Götting, Larissa (2025): _Zwischen dem Ideal einer “Erziehung nach Auschwitz” im Sinne Theodor W. Adornos und der “Kulturindustrie”. Darstellung der Veränderung des Erinnerns am Beispiel der Instagram-Kanäle @ichbinsophiescholl und @eva.stories_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
++ Götting, Larissa (2025): _Zwischen dem Ideal einer “Erziehung nach Auschwitz” im Sinne Theodor W. Adornos und der “Kulturindustrie.” Darstellung der Veränderung des Erinnerns am Beispiel der Instagram-Kanäle @ichbinsophiescholl und @eva.stories_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Bockfeld, Falk (2025): _“Do You Hate Your Meat?” Eine Untersuchung der Darstellung von Gefahren und Potenzialen postmenschlicher Lebensmodi in “Cyberpunk 2077” nach der Theorie von Nick Bostrom_ (bachelor’s thesis; University of Oldenburg; second examiner: Paul Blattner)
 + Gronotte, Finn Ove (2025): _Der Einfluss von Nähe und Distanz auf das Gefühl moralischer Verantwortung. Eine empirische Untersuchung im Kontext von Peter Singers Ethik_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Rode, Mark Phillip (2024): _Das professionelle Selbstverständnis von ambulanten Pflegekräften in Zeiten der Technisierung. Ein Theorie-Empire-Vergleich des Berufsethos ambulanter Pflegekräfte_ (master’s thesis; University of Oldenburg; supervisor: Mark Schweda)
@@ -52,6 +55,6 @@ layout: default
 + Storr, Jana (2021): _Leben, sterben, weiterleben. Über das digitale Nachleben und seine Konsequenzen_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Richtsmeier, Karsten (2021): _Eine ethische Auseinandersetzung mit den Corona-Maßnahmen. Inwiefern lässt sich der staatliche Paternalismus während der Corona-Krise aus der Perspektive des klassischen Utilitarismus rechtfertigen?_ (bachelors’s thesis; University of Oldenburg; second examiner: Tilo Wesche)
 + Roggow, Rafael (2021): _Ethik in Computerspielen. Zur Repräsentation des Handlungsutilitarismus nach Bentham im Videospiel “Star Wars: Knights of the Old Republic II”_ (bachelor’s thesis; University of Oldenburg; second examiner: Christa Runtenberg)
-+ Lutze, Daniela (2020): _“Die Banalität des Bösen”. Der Begriff des Bösen in der Philosophie Hannah Arendts und vor dem Hintergrund der sozialpsychologischen Untersuchungen Philip Zimbardos_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
++ Lutze, Daniela (2020): _“Die Banalität des Bösen.” Der Begriff des Bösen in der Philosophie Hannah Arendts und vor dem Hintergrund der sozialpsychologischen Untersuchungen Philip Zimbardos_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Lüschen, Hilke (2020): _Versprechen in Politischer Philosophie und Sprachphilosophie_ (master’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Abheiden, Tobias (2019): _Eine kritische Auseinandersetzung mit den anthropologischen Aspekten des Begriffs des Alterns bei Aubrey de Grey_ (bachelor’s thesis; University of Oldenburg; second examiner: Christa Runtenberg)
