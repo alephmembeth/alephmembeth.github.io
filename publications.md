@@ -7,6 +7,7 @@ layout: default
 ## Manuscripts in Preparation
 + Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (in preparation): “The Kraemer Effect Reconsidered.”
 + Schippers, Michael, Mark Siebel, Stephan Kornmesser, and Alexander Max Bauer (in preparation): “So Close and Yet So Far. Why Measures of Divergence and Similarity Make Bad Measures of Coherence.”
++ Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.B. Metzler.
 
 ## Monographs
 + Bauer, Alexander Max (forthcoming): _Empirical Studies on Questions of Need-Based Distributive Justice_, Paderborn: mentis. ([Link](https://brill.com/display/title/71801)) ([Repository](https://github.com/alephmembeth/need-dissertation))
