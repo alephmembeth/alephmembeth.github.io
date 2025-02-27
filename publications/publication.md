@@ -5,16 +5,21 @@
 - Authors: <u>Zhiping Wang</u>, Tianci Feng, Aiye Wang, and An Pan.
 - Status: Peer Review
 
-### Title: Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy
-- Authors: Fannuo Xu †, <u>Zhiping Wang</u> †, Zipei Wu, Houyou Lai, Yizheng Liao, and An Pan.
-- Status: Peer Review
 
-### Title: Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization
-- Authors: Yanqi Chen, Jiurun Chen, <u>Zhiping Wang</u>, Yuting Gao, Yhonghong He, Yishi Shi, and An Pan. 
-- Status: Editorial Review
 
 ## Accepted Papers
 
+### Title: Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy
+- Authors: Fannuo Xu †, <u>Zhiping Wang</u> †, Zipei Wu, Houyou Lai, Yizheng Liao, and An Pan.
+- Link:
+- DOI: 
+
+### Title: Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization
+![Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization](./fast_color.jpg)
+- Authors: Yanqi Chen, Jiurun Chen, <u>Zhiping Wang</u>, Yuting Gao, Yhonghong He, Yishi Shi, and An Pan. 
+- Link: [SPIE](https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-4/issue-2/026001/Fast-full-color-pathological-imaging-using-Fourier-ptychographic-microscopy-via/10.1117/1.APN.4.2.026001.full)
+- DOI: [10.1117/1.APN.4.2.026001](https://doi.org/10.1117/1.APN.4.2.026001)
+  
 ### Title: Linear-Space-Variant Model for Fourier Ptychographic Microscopy
 ![Linear-Space-Variant Model for Fourier Ptychographic Microscopy](./ftcol1.png)
 - Authors: Tianci Feng, Aiye Wang, <u>Zhiping Wang</u>, and An Pan.
