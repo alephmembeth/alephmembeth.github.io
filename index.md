@@ -59,13 +59,14 @@ For more detailed information about my academic and research experiences, please
 + 06/21/2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
 + 04/11/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been accepted by <u>Optics Letters</u>.
 <!-- + <big> 03/26/2024 My article as the **<u>first author</u>**, titled *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy*, has been **submitted** to *<u>Advanced Photonics</u>* (Manuscript ID: AP-24-110003).</big> -->
-+ 02/08/2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by *<u>Cells</u>*! .
+
 <!-- + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big> -->
-+ 12/12/2023 Resolved the issue of [Fully Convolutional Neural Network for Multi-Exposure Image Fusion with Improved Intensity and Phase Recovery Using FPM](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion.
+<!-- + 12/12/2023 Resolved the issue of [Fully Convolutional Neural Network for Multi-Exposure Image Fusion with Improved Intensity and Phase Recovery Using FPM](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion. -->
 <details>
 <summary>Old news</summary>
 <br>
 <ul>
+<li> 02/08/2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by *<u>Cells</u>*! .
 <li>12/22/2023: Implemented new algorithm for <a href="./ResearchSummary&Reporting/FPM/single-fast.md">“single-shot wide-field recovery”</a>.</li>
 <li>03/03/2024: My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* is under **Peer Review** (Manuscript ID:522745)</li>
 </ul>
