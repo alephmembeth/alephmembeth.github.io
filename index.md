@@ -67,8 +67,6 @@ For more detailed information about my academic and research experiences, please
 <br>
 <ul>
 <li> 02/08/2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by *<u>Cells</u>*! .
-<li>12/22/2023: Implemented new algorithm for <a href="./ResearchSummary&Reporting/FPM/single-fast.md">“single-shot wide-field recovery”</a>.</li>
-<li>03/03/2024: My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* is under **Peer Review** (Manuscript ID:522745)</li>
 </ul>
 <br>
 </details>
