@@ -53,7 +53,7 @@ For more detailed information about my academic and research experiences, please
 * * *
 ## NEWS
 ### Academic(Click the links to view the research findings.)
-+ 02/26/2025 My paper, *Wide-field quantitative phase imaging without slicing via feature-domain Fourier ptychographic microscopy*, was accepted by <u>Optics and Laser Technology</u>.
++ 02/26/2025 My article, *Wide-field quantitative phase imaging without slicing via feature-domain Fourier ptychographic microscopy*, was accepted by <u>Optics and Laser Technology</u>.
 + 01/14/2025 My co-authored article *Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization* has been accepted by <u>Advanced Photonics Nexus</u>.
 + 09/01/2024 I went to Basel to pursue a master’s degree in Physics of Life at Biozentrum  with a scholarship.
 + 06/21/2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
