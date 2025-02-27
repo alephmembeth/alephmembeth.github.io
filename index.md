@@ -123,10 +123,14 @@ These 4 areas --- all revolve around the fascinating intersection of optics and 
 * * *
 
 # Education <a name="Education"></a>
-### Bachelor of Science in Physics         (September 2020 – Current)
-
+### Master of Science in Physics of Life        (September 2024 – current)
++ Biozentrum, Basel, Switzerland  
++ Fellowship recipient   
+<!-- + **Relevant Courses**: [List relevant courses or research topics if applicable] -->
+ 
+### Bachelor of Science in Physics         (September 2020 – July 2024)
 + Lanzhou University
-+ GPA:84.61/100
++ GPA:85.25/100
 + Ranking:4/20 in Physics Base Class(magnetism) **(20 Selected from 52)**
 + **Major courses**:Computational Physics, Methods of Mathematical Physics, Optoelectronic Technology and Its
   Applications, AI and Big Data, Fourier optics, Theoretical Mechanics, Thermodynamics and Statistical Physics,
