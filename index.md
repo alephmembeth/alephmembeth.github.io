@@ -191,7 +191,7 @@ The listed content here is just a partial enumeration of experiences. If you wou
 
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via <w17611688963@gmail.com> or <zhpwang20@lzu.edu.cn>.
+If you want to get in touch, you can reach me at any time via <w17611688963@gmail.com> or <Zhiping.wang@stud.unibas.ch>.
 
 On the internet, there are also some other places where you can find me, especially about non-academic daily life, including but not limited to:
 + [bilibili](https://space.bilibili.com/15823831)
