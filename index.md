@@ -66,7 +66,7 @@ For more detailed information about my academic and research experiences, please
 <summary>Old news</summary>
 <br>
 <ul>
-<li> 02/08/2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been accepted by *<u>Cells</u>*! .
+<li> 02/08/2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by *<u>Cells</u>*!.</li>
 </ul>
 <br>
 </details>
