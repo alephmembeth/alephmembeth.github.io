@@ -197,7 +197,7 @@ On the internet, there are also some other places where you can find me, especia
 + [bilibili](https://space.bilibili.com/15823831)
 + [500px](https://500px.com.cn/ZhipingWANG)
 
-But only the mail(<w17611688963@gmail.com>) is a reliable way to find me in time
+But only the mail(<w17611688963@gmail.com>) is a reliable way to find me at any time.
     
 
       
