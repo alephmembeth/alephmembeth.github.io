@@ -10,6 +10,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Bodo Plachta (1997): _Editionswissenschaft. Eine Einführung in Methode und Praxis der Edition neuerer Texte_, Stuttgart: Reclam.
 + Matthias Bormuth (2024): _Trapezkünstler. Der Fall Kafka_, Berlin: Berenberg.
 
 ### Articles and Chapters
