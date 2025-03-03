@@ -10,6 +10,12 @@ layout: default
 
 + Matthias Bormuth (2024): _Trapezkünstler. Der Fall Kafka_, Berlin: Berenberg.
 
+### Articles and Chapters
+
++ Rafael Alvear (2023): “For a Sociology of Needs,” _Critical Theory in Berlin_, https://criticaltheoryinberlin.de/en/interventions/for-a-sociology-of-needs/.
+
+***
+
 ## 2024
 
 ### Books
