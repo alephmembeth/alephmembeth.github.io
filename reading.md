@@ -4,6 +4,8 @@ layout: default
 
 # My (More or Less) Academic Reading List
 
+Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling a chronological list of academic literature I have recently read. I don’t include half-read texts, only those I have read from the first to the last page.
+
 ## 2025
 
 ### Books
@@ -14,15 +16,13 @@ layout: default
 
 + Rafael Alvear (2023): “For a Sociology of Needs,” _Critical Theory in Berlin_, https://criticaltheoryinberlin.de/en/interventions/for-a-sociology-of-needs/.
 
-***
-
 ## 2024
 
 ### Books
 
-+ Philipp Melanchthon (2023): _De miseriis paedagogorum. Über die Leiden der Lehrer_, Ed. by Carolin Ritter, Stuttgart: Reclam.
++ Philipp Melanchthon (2023): _De miseriis paedagogorum. Über die Leiden der Lehrer_, ed. by Carolin Ritter, Stuttgart: Reclam.
 + Thomas Bauer (2018): _Die Vereindeutigung der Welt. Über den Verlust an Mehrdeutigkeit und Vielfalt_, Stuttgart: Reclam.
-+ Georg Christoph Lichtenberg (2012): _Aphorismen_, Ed. by Friedrich Sengle, Stuttgart: Reclam.
++ Georg Christoph Lichtenberg (2012): _Aphorismen_, ed. by Friedrich Sengle, Stuttgart: Reclam.
 + Nils Baratella, Ansgar Lorenz, Stefania Maffeis, and Juliane Eva Reichert (2017): _Hannah Arendt_, Paderborn: Wilhelm Fink.
 + Matthias Bormuth (2024): _Die Kunst des Fragens. Marginalien und Porträts_, Göttingen: Wallstein.
 + Matt Margini (2020): _Red Dead Redemption_, Los Angeles: Boss Fight Books.
