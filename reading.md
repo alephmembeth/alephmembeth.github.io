@@ -4,12 +4,13 @@ layout: default
 
 # My (More or Less) Academic Reading List
 
-Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling a chronological list of academic literature I have recently read. I don’t include half-read texts, only those I have read from the first to the last page.
+Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling a chronological list of (more or less) academic literature I have recently read. I don’t include half-read texts, only those I have read from the very first to the very last page.
 
 ## 2025
 
 ### Books
 
++ Kai Noeske, Benjamin Rott, and Katrin Hille (2023): _Survival Guide Wissenschaft. (Über-)Lebenstipps für akademische Karrieren_, Berlin: Springer.
 + Bodo Plachta (1997): _Editionswissenschaft. Eine Einführung in Methode und Praxis der Edition neuerer Texte_, Stuttgart: Reclam.
 + Matthias Bormuth (2024): _Trapezkünstler. Der Fall Kafka_, Berlin: Berenberg.
 
