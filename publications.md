@@ -5,7 +5,7 @@ layout: default
 # Publications
 
 ## Manuscripts in Preparation
-+ Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (in preparation): “The Kraemer Effect Reconsidered.”
++ Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (submitted): “The Kraemer Effect Reconsidered.”
 + Schippers, Michael, Mark Siebel, Stephan Kornmesser, and Alexander Max Bauer (in preparation): “So Close and Yet So Far. Why Measures of Divergence and Similarity Make Bad Measures of Coherence.”
 + Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.B. Metzler.
 
@@ -70,6 +70,7 @@ layout: default
 + Bauer, Alexander Max, and Nils Baratella (2019): “Vorwort,” in: id. (eds.): _Oldenburger Jahrbuch für Philosophie 2017/2018_, Oldenburg: BIS-Verlag, 5. ([Link](http://oops.uni-oldenburg.de/4557/))
 
 ## Working Papers
++ Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (2025): “The Kraemer Effect Reconsidered,” _OSF Preprints_. ([Link](https://osf.io/preprints/osf/6et23_v1))
 + Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2023): “Thinking About Need. A Vignette Experiment on Need-Based Distributive Justice,” _SSRN Working Paper_ 4503209. ([Link](https://doi.org/10.2139/ssrn.4503209)) ([Repository](https://github.com/alephmembeth/need-reference-point))
 + Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (2023): “Winter is Coming. How Laypeople Think About Different Kinds of Needs,” _SSRN Working Paper_ 4383555. ([Link](https://doi.org/10.2139/ssrn.4383555)) ([Repository](https://github.com/alephmembeth/need-kinds))
 + Wyszynski, Marc, and Alexander Max Bauer (2022): “Give What You Can, Take What You Need. The Effect of Framing on Rule-Breaking Behavior in Social Dilemmas,” _FOR 2104 Working Paper_ 2022-01. ([Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2022/01/2022-01.pdf))
