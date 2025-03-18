@@ -45,7 +45,7 @@ I obtained my **Bachelor of Science in Physics** from Lanzhou University in 2024
 
 
 Previously, I earned my Bachelor of Science degree in Physics from Lanzhou University in the fall semester of 2024. During my undergraduate studies, I was actively involved in research, particularly in the fields of **Computational Optics and Computational Imaging**. I conducted research on Fourier Ptychography at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) of the Chinese Academy of Sciences, under the guidance of Dr. Pan An. -->
----------- -->
+
 
 <!--
 I am presently involved in a research internship at the [Pioneering Interdiscipline Center](http://www.piclaboratory.com/) of the Chinese Academy of Sciences, under the guidance of Dr. [Pan An](https://scholar.google.com/citations?user=C3ZLpdQAAAAJ).
