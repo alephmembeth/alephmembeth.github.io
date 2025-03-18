@@ -33,7 +33,7 @@ Welcome to my personal website!
 
 
 
-I am **Zhiping Wang**, currently a Master of Science student at the [University of Basel](https://www.unibas.ch/en), Switzerland, enrolled in the *Physics of Life* program at the [Biozentrum](https://www.biozentrum.unibas.ch). My current research is based in **Knut Drescher's lab**, where I am working on improving a fluorescence screening robot for biofilm imaging. This project aims to enhance high-throughput fluorescence microscopy for biofilm studies by improving the system's efficiency and precision.  
+I am **Zhiping Wang**, currently a Master of Science student at the [University of Basel](https://www.unibas.ch/en), Switzerland, enrolled in the **Physics of Life** program at the [Biozentrum](https://www.biozentrum.unibas.ch). My current research is based in Knut Drescher's lab, where I am working on improving a fluorescence screening robot for biofilm imaging. This project aims to enhance high-throughput fluorescence microscopy for biofilm studies by improving the system's efficiency and precision.  
 
 Previously, I worked on *Optimization of Cryo-EM Image Reconstruction* in the labs of [Prof. Dr. Ben Engel](https://www.biozentrum.unibas.ch/about/administration/administration-a-z/overview/unit/research-group-ben-engel) and [Prof. Dr. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic), under the joint supervision of Dr. Ricardo Diogo Righetto and Dr. Valentin Debarn. This project leveraged computational imaging techniques for structural biology applications.  
 
