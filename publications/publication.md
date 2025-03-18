@@ -10,9 +10,11 @@
 ## Accepted Papers
 
 ### Title: Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy
+![Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy](xuqpi.png)
 - Authors: Fannuo Xu †, <u>Zhiping Wang</u> †, Zipei Wu, Houyou Lai, Yizheng Liao, and An Pan.
-- Link:
-- DOI: 
+- Link: [Elsevier](https://www.sciencedirect.com/science/article/pii/S0030399225003159?via%3Dihub)
+- DOI: [10.1016/j.optlastec.2025.112727](https://doi.org/10.1016/j.optlastec.2025.112727)
+  
 
 ### Title: Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization
 ![Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization](./fast_color.jpg)
