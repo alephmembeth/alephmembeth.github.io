@@ -33,7 +33,7 @@ Welcome to my personal website!
 
 
 
-I am **Zhiping Wang**, currently a Master of Science student at the [University of Basel](https://www.unibas.ch/en), Switzerland, enrolled in the *Physics of Life* program at the [Biozentrum](https://www.biozentrum.unibas.ch). My current research is based in **Knut Drescher’s lab**, where I am working on improving a fluorescence screening robot for biofilm imaging. This project aims to enhance high-throughput fluorescence microscopy for biofilm studies by improving the system’s efficiency and precision.  
+I am **Zhiping Wang**, currently a Master of Science student at the [University of Basel](https://www.unibas.ch/en), Switzerland, enrolled in the *Physics of Life* program at the [Biozentrum](https://www.biozentrum.unibas.ch). My current research is based in **Knut Drescher's lab**, where I am working on improving a fluorescence screening robot for biofilm imaging. This project aims to enhance high-throughput fluorescence microscopy for biofilm studies by improving the system's efficiency and precision.  
 
 Previously, I worked on *Optimization of Cryo-EM Image Reconstruction* in the labs of [Prof. Dr. Ben Engel](https://www.biozentrum.unibas.ch/about/administration/administration-a-z/overview/unit/research-group-ben-engel) and [Prof. Dr. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic), under the joint supervision of Dr. Ricardo Diogo Righetto and Dr. Valentin Debarn. This project leveraged computational imaging techniques for structural biology applications.  
 
@@ -62,11 +62,14 @@ For more detailed information about my academic and research experiences, please
 * * *
 ## NEWS
 ### Academic(Click the links to view the research findings.)
-+ 02/26/2025 My article, *Wide-field quantitative phase imaging without slicing via feature-domain Fourier ptychographic microscopy*, was accepted by <u>Optics and Laser Technology</u>.
-+ 01/14/2025 My co-authored article *Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization* has been accepted by <u>Advanced Photonics Nexus</u>.
-+ 09/01/2024 I went to Basel to pursue a master’s degree in Physics of Life at Biozentrum  with a scholarship.
-+ 06/21/2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
-+ 04/11/2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been accepted by <u>Optics Letters</u>.
++ 03.11.2025 Gave my presentation and completed my first project: Optimal Back-Projection for Tomography.
++ 02.28.2025 Joined Knut Drescher's lab for my second Master's project, where I am working on improving a fluorescence screening robot for biofilm imaging.
++ 02.26.2025 My article, *Wide-field quantitative phase imaging without slicing via feature-domain Fourier ptychographic microscopy*, was accepted by <u>Optics and Laser Technology</u>.
++ 01.14.2025 My co-authored article *Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization* has been accepted by <u>Advanced Photonics Nexus</u>.
++ 11.25.2024 Joined Ben Engel's lab for my first Master's project, focusing on algorithmic improvements for Cryo-EM 3D reconstruction.
++ 09.01.2024 I went to Basel to pursue a master's degree in Physics of Life at Biozentrum  with a scholarship.
++ 06.21.2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
++ 04.11.2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been accepted by <u>Optics Letters</u>.
 <!-- + <big> 03/26/2024 My article as the **<u>first author</u>**, titled *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy*, has been **submitted** to *<u>Advanced Photonics</u>* (Manuscript ID: AP-24-110003).</big> -->
 
 <!-- + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big> -->
@@ -88,12 +91,12 @@ For more detailed information about my academic and research experiences, please
 <summary>Old news</summary>
 <br>
 <!-- <ul>
-   <li>27/04/2020: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Sammelband ‘Empirical Research and Normative Theory’ erschienen”</a> (DFG Research Group FOR 2104)</li>
+   <li>27/04/2020: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Sammelband ‘Empirical Research and Normative Theory' erschienen”</a> (DFG Research Group FOR 2104)</li>
    <li>28/10/2019: <a href="https://www.presse.uni-oldenburg.de/mit/2019/362.html">“Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg”</a> (University of Oldenburg)</li>
-   <li>25/09/2019: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Neuer Sammelband ‘Philosophie zwischen Sein und Sollen’ erschienen”</a> (DFG Research Group FOR 2104)</li>
+   <li>25/09/2019: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Neuer Sammelband ‘Philosophie zwischen Sein und Sollen' erschienen”</a> (DFG Research Group FOR 2104)</li>
    <li>18/04/2019: <a href="https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250">“Besser schreiben im Tandem”</a> (University of Oldenburg)</li>
    <li>08/12/2017: <a href="https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/">“Mind the Gap. Zur Vermittlung normativer Theorie und empirischer Forschung”</a> (Karl-Jaspers-Gesellschaft)</li>
-   <li>02/07/2015: <a href="https://www.presse.uni-oldenburg.de/mit/2015/280.html">“Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über ‘Zeitbewusstsein und Sinn-Horizonte’”</a> (University of Oldenburg)</li>
+   <li>02/07/2015: <a href="https://www.presse.uni-oldenburg.de/mit/2015/280.html">“Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über ‘Zeitbewusstsein und Sinn-Horizonte'”</a> (University of Oldenburg)</li>
    <li>25/02/2013: <a href="https://www.weser-kurier.de/landkreis-verden/abiturient-fuehrt-die-piraten-an-doc7e4913gfbq08adqf2a1">“Abiturient führt die Piraten an”</a> (Weser Kurier)</li>
    <li>21/01/2013: <a href="https://www.kreiszeitung.de/lokales/verden/mohr-spitze-2709087.html">“Mohr ist Spitze”</a> (Kreiszeitung)</li>
    <li>21/01/2013: <a href="https://www.kreiszeitung.de/lokales/verden/macht-rennen-kirchlinteln-2709092.html">“CDU macht das Rennen in Kirchlinteln”</a> (Kreiszeitung)</li>
