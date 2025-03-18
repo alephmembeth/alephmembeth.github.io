@@ -9,7 +9,7 @@
 ## Accepted Papers
 
 ### Title: Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy
-![Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy](xuqpi.png)
+![Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy](xuqpiolt.png)
 - Authors: Fannuo Xu †, <u>Zhiping Wang</u> †, Zipei Wu and An Pan.
 - Link: [Elsevier](https://www.sciencedirect.com/science/article/pii/S0030399225003159?via%3Dihub)
 - DOI: [10.1016/j.optlastec.2025.112727](https://doi.org/10.1016/j.optlastec.2025.112727)
