@@ -6,7 +6,6 @@
 - Status: Peer Review
 
 
-
 ## Accepted Papers
 
 ### Title: Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy
