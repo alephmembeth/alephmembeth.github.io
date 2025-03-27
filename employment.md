@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Employment
+# Employment and Academic Path
 
 <dl>
    <dt>Research Associate</dt>
