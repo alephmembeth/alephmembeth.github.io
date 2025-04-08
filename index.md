@@ -59,8 +59,8 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
    <a href="https://www.youtube.com/watch?v=pcUE9DIhF18" target="_blank">
     <img src="https://img.youtube.com/vi/pcUE9DIhF18/0.jpg" alt="Video 1" width="150" class="thumbnail">
 </a>
-   <a href="https://www.youtube.com/watch?v=It8CO-oBJro" target="_blank">
-    <img src="https://img.youtube.com/vi/It8CO-oBJro/0.jpg" alt="Video 1" width="150" class="thumbnail">
+   <a href="https://www.youtube.com/watch?v=mQbjvwDmchY" target="_blank">
+    <img src="https://img.youtube.com/vi/mQbjvwDmchY/0.jpg" alt="Video 1" width="150" class="thumbnail">
 </a>
 </dl>
 <dl>
