@@ -10,7 +10,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
-+ John Langshaw Austin (1979): _Zur Theorie der Sprechakte (How to do things with Words)_, Deutsche Bearbeitung von Eike von Savigny, Stuttgart: Reclam.
++ John Langshaw Austin (1979): _Zur Theorie der Sprechakte (How to do things with Words)_, ed. by Eike von Savigny, Stuttgart: Reclam.
 + Andreas Braune (ed.) (2017): _Ziviler Ungehorsam. Texte von Thoreau bis Extinction Rebellion_, Stuttgart: Reclam.
 + Kai Noeske, Benjamin Rott, and Katrin Hille (2023): _Survival Guide Wissenschaft. (Über-)Lebenstipps für akademische Karrieren_, Berlin: Springer.
 + Bodo Plachta (1997): _Editionswissenschaft. Eine Einführung in Methode und Praxis der Edition neuerer Texte_, Stuttgart: Reclam.
