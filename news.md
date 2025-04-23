@@ -4,6 +4,7 @@ layout: default
 
 # News
 
++ 23/04/2025: [“Bedarf und Gerechtigkeit”](https://uol.de/aktuelles/artikel/bedarf-und-gerechtigkeit-11117) (University of Oldenburg)
 + 21/11/2024: [“Lehre mit Aha-Effekten”](https://uol.de/aktuelles/artikel/lehre-mit-aha-effekten-10264) (University of Oldenburg)
 + 19/02/2024: [“Promotion von Alexander Max Bauer”](https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/) (DFG Research Group FOR 2104)
 + 23/06/2022: [“When Heating in Winter Becomes a Luxury”](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327) (University of Oldenburg)
