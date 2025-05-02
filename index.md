@@ -42,6 +42,11 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
       <dd> - Bioinformatics article was featured on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd> 
 </dl>
 <dl>
+<dt>Work in Media</dt>
+      <dd>AI Is Spreading Old Stereotypes to New Languages and Cultures <a href='https://www.wired.com/story/ai-bias-spreading-stereotypes-across-languages-and-cultures-margaret-mitchell/'>Wired Magazine, 2025</a></dd>
+      <dd>This data set helps researchers spot harmful stereotypes in LLMs <a href='https://www.technologyreview.com/2025/04/30/1115946/this-data-set-helps-researchers-spot-harmful-stereotypes-in-llms/'>MIT Technology Review, 2025</a></dd>
+</dl>
+<dl>
    <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>     
 <br/>
 <a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">
