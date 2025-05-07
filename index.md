@@ -75,7 +75,7 @@ For more detailed information about my academic and research experiences, please
 <!-- + 12/12/2023 Resolved the issue of [Fully Convolutional Neural Network for Multi-Exposure Image Fusion with Improved Intensity and Phase Recovery Using FPM](./ResearchSummary&Reporting/FPM/fusion.md) using image fusion. -->
 <details>
 <summary>Old news</summary>
-<br>
+<br><br>
 <ul>
 
 <li> Sep 1, 2024 I went to Basel to pursue a master's degree in Physics of Life at Biozentrum with a scholarship.
@@ -90,7 +90,7 @@ For more detailed information about my academic and research experiences, please
 <br>
 </details>
 
-
+<br>
 
 #### Non-Academic(Click the link to view milestones in my life.)
 + **Dec 17, 2020** Reached the summit of [Haier Dang](./hiking&photos/readme2.md) (30°51'N 102°53'E,Altitudinal level 4470m).
