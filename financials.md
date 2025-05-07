@@ -6,6 +6,7 @@ layout: default
 
 ## Grants
 
++ Travel grant for the promotion of young researchers (2025; University of Oldenburg, Faculty IV; 750,00 euro)
 + Financial support for an empirical study on distributive justice (2025; University of Oldenburg, Department of Philosophy; 850,00 euro)
 + Travel grant for the promotion of young researchers (2024; University of Oldenburg, Faculty IV; 350,00 euro)
 + Financial support for the edited volume “Oldenburger Jahrbuch für Philosophie 2021/2022” (2024; University of Oldenburg, Department of Philosophy; 1.334,14 euro; jointly with Helena Esther Grass)
