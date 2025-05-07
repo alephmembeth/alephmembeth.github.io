@@ -68,9 +68,7 @@ For more detailed information about my academic and research experiences, please
 + Feb 26, 2025 My article, *Wide-field quantitative phase imaging without slicing via feature-domain Fourier ptychographic microscopy*, was accepted by <u>Optics and Laser Technology</u>.
 + Jan 14, 2025 My co-authored article *Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization* has been accepted by <u>Advanced Photonics Nexus</u>.
 + Nov 25, 2024 Joined Ben Engel's lab for my first Master's project, focusing on algorithmic improvements for Cryo-EM 3D reconstruction.
-+ Sep 1, 2024 I went to Basel to pursue a master's degree in Physics of Life at Biozentrum with a scholarship.
-+ Jun 21, 2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
-+ Apr 11, 2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been accepted by <u>Optics Letters</u>.
+
 <!-- + <big> 03/26/2024 My article as the **<u>first author</u>**, titled *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy*, has been **submitted** to *<u>Advanced Photonics</u>* (Manuscript ID: AP-24-110003).</big> -->
 
 <!-- + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big> -->
@@ -79,7 +77,15 @@ For more detailed information about my academic and research experiences, please
 <summary>Old news</summary>
 <br>
 <ul>
+
+<li> Sep 1, 2024 I went to Basel to pursue a master's degree in Physics of Life at Biozentrum with a scholarship.
+</li>
+<li> Jun 21, 2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
+</li>
+<li> Apr 11, 2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been accepted by <u>Optics Letters</u>.
+</li>
 <li> Aug 2, 2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by *<u>Cells</u>*!.</li>
+
 </ul>
 <br>
 </details>
