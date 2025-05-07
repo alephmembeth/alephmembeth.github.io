@@ -62,14 +62,15 @@ For more detailed information about my academic and research experiences, please
 * * *
 ## NEWS
 ### Academic(Click the links to view the research findings.)
-+ 03.11.2025 Gave my presentation and completed my first project: Optimal Back-Projection for Tomography.
-+ 02.28.2025 Joined Knut Drescher's lab for my second Master's project, where I am working on improving a fluorescence screening robot for biofilm imaging.
-+ 02.26.2025 My article, *Wide-field quantitative phase imaging without slicing via feature-domain Fourier ptychographic microscopy*, was accepted by <u>Optics and Laser Technology</u>.
-+ 01.14.2025 My co-authored article *Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization* has been accepted by <u>Advanced Photonics Nexus</u>.
-+ 11.25.2024 Joined Ben Engel's lab for my first Master's project, focusing on algorithmic improvements for Cryo-EM 3D reconstruction.
-+ 09.01.2024 I went to Basel to pursue a master's degree in Physics of Life at Biozentrum  with a scholarship.
-+ 06.21.2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
-+ 04.11.2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been accepted by <u>Optics Letters</u>.
++ May 7, 2025 *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy* was accepted by Advanced Photonics Nexus.
++ Nov 3, 2025 Gave my presentation and completed my first project: Optimal Back-Projection for Tomography.
++ Feb 28, 2025 Joined Knut Drescher's lab for my second Master's project, where I am working on improving a fluorescence screening robot for biofilm imaging.
++ Feb 26, 2025 My article, *Wide-field quantitative phase imaging without slicing via feature-domain Fourier ptychographic microscopy*, was accepted by <u>Optics and Laser Technology</u>.
++ Jan 14, 2025 My co-authored article *Fast full-color pathological imaging using Fourier ptychographic microscopy via closed-form model-based colorization* has been accepted by <u>Advanced Photonics Nexus</u>.
++ Nov 25, 2024 Joined Ben Engel's lab for my first Master's project, focusing on algorithmic improvements for Cryo-EM 3D reconstruction.
++ Sep 1, 2024 I went to Basel to pursue a master's degree in Physics of Life at Biozentrum with a scholarship.
++ Jun 21, 2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
++ Apr 11, 2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been accepted by <u>Optics Letters</u>.
 <!-- + <big> 03/26/2024 My article as the **<u>first author</u>**, titled *Fusion-based enhancement of multi-exposure Fourier ptychographic microscopy*, has been **submitted** to *<u>Advanced Photonics</u>* (Manuscript ID: AP-24-110003).</big> -->
 
 <!-- + <big> **12/22/2023** Implemented new algorithm for [single-shot wide-field recovery](./ResearchSummary&Reporting/FPM/single-fast.md) in FPM.</big> -->

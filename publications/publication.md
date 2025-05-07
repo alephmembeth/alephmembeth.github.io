@@ -1,12 +1,14 @@
 # Publications
 
 ## Under Review
-### Title: Fusion-Based Enhancement of Multi-Exposure Fourier Ptychographic Microscopy
-- Authors: <u>Zhiping Wang</u>, Tianci Feng, Aiye Wang, and An Pan.
-- Status: Peer Review
 
+---
 
 ## Accepted Papers
+
+### Title: Fusion-Based Enhancement of Multi-Exposure Fourier Ptychographic Microscopy
+- Authors: <u>Zhiping Wang</u>, Tianci Feng, Aiye Wang, and An Pan.
+- Status: Accepted by Advanced Photonics Nexus.
 
 ### Title: Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy
 ![Wide-Field Quantitative Phase Imaging Without Slicing Via Feature-Domain Fourier Ptychographic Microscopy](xuqpiolt.png)
