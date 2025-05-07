@@ -80,11 +80,11 @@ For more detailed information about my academic and research experiences, please
 
 <li> Sep 1, 2024 I went to Basel to pursue a master's degree in Physics of Life at Biozentrum with a scholarship.
 </li>
-<li> Jun 21, 2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of 8,964 graduates this year.
+<li> Jun 21, 2024 I successfully graduated, and received a Bachelor's degree from Lanzhou University, becoming one of <u>8,964</u> graduates this year.
 </li>
 <li> Apr 11, 2024 My co-authored article *A linear-space-variant model for Fourier ptychographic microscopy* has been accepted by <u>Optics Letters</u>.
 </li>
-<li> Aug 2, 2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by *<u>Cells</u>*!.</li>
+<li> Aug 2, 2024 My co-authored article [*Fourier Ptychographic Microscopy 10 Years On: A Review*](https://www.mdpi.com/2073-4409/13/4/324) has been **accepted** by Cells.</li>
 
 </ul>
 <br>
