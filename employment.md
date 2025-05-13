@@ -5,6 +5,8 @@ layout: default
 # Employment and Academic Path
 
 <dl>
+   <dt>Visiting Scholar (“Gastwissenschaftler”)</dt>
+      <dd>September 2025 – October 2025; University of Zurich, Department of Philosophy; working with Pascale Willemsen</dd>
    <dt>Research Associate (“Wissenschaftlicher Mitarbeiter”)</dt>
       <dd>June 2018 – June 2022, October 2022 – April 2027; University of Oldenburg, Department of Philosophy; working for Mark Siebel</dd>
    <dt>Research Associate (“Wissenschaftlicher Mitarbeiter”)</dt>
