@@ -10,6 +10,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Adriano Mannino (2021): _Wen rette ich – und wenn ja, wie viele? Über Triage und Verteilungsgerechtigkeit_, Stuttgart: Reclam.
 + Wilhelm Büttemeyer (2014): _Logik zur Einführung_, Hamburg: Junius.
 + John Langshaw Austin (1979): _Zur Theorie der Sprechakte (How to do things with Words)_, ed. by Eike von Savigny, Stuttgart: Reclam.
 + Andreas Braune (ed.) (2017): _Ziviler Ungehorsam. Texte von Thoreau bis Extinction Rebellion_, Stuttgart: Reclam.
