@@ -13,6 +13,7 @@ layout: default
 ## Refereed
 
 + “Empirical Studies on Questions of Need-Based Distributive Justice” (July 2025, presentation at the 5th European Experimental Philosophy Conference; University of East Anglia)
++ “The Kraemer Effect Reconsidered” (June 20, 2025; poster presentation at the 51st Annual Meeting of the Society for Philosophy & Psychology; Cornell University; jointly with Paul Henne, Wiktoria Pedryc, Benjamin Deichen, Annika Sankner, Saniya Varghese, and Isaiah Moonlight)
 + “Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation” (September 16, 2023; presentation at the 3rd European Experimental Philosophy Conference; University of Zurich; attended online due to funding problems) ([Slides](https://github.com/alephmembeth/causality-compositionality/tree/main/slides))
 + “Need and Responsibility – Experimental Philosophy Investigating Questions of Distributive Justice” (September 7, 2021; presentation at the 25th Congress of the German Society for Philosophy (DGPhil); Friedrich-Alexander University Erlangen-Nürnberg; moved online due to pandemic)
 + “Give What You Can, Take What You Need – The Effect of Framing on Fraudulent Behavior in Social Dilemmas” (August 23, 2021; poster presentation at the Subjective Probability, Utility, and Decision Making Conference; University of Warwick; jointly with Marc Wyszynski; moved online due to pandemic)
@@ -30,6 +31,7 @@ layout: default
 
 ## Other
 
++ “Empirische Studien zu Fragen der Bedarfsgerechtigkeit” (February 14, 2024; doctoral dissertation defense; University of Oldenburg) ([Slides](https://github.com/alephmembeth/need-dissertation))
 + “Measuring Need-Based Distributive Justice Normatively and Empirically” (May 22, 2022; poster presentation at the Symposium on Need-Based Justice of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); University of Hamburg; jointly with Mark Siebel)
 + “Types of Need” (February 14, 2020; presentation at the workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen)
 + “Need and Responsibility” (February 12, 2020; presentation at the meeting of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen)
