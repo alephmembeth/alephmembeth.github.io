@@ -6,14 +6,14 @@ layout: default
 
 ## Invited
 
-+ “Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation” (July 20, 2024; presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki)
++ “Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation” (July 20, 2024; presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki) ([Slides](https://github.com/alephmembeth/causality-compositionality/tree/main/slides))
 + “Mind the Gap – Zur Vermittlung von normativer Theorie und empirischer Forschung” (December 8, 2017; presentation at the lecture series “Junge Philosophie”; Karl-Jaspers-Gesellschaft in Oldenburg; jointly with Malte Ingo Meyerhuber; invited by Ansgar Baumgart, Malte Maria Unverzagt, and Philip Penew)
 + “Grundlagen für Maße der Bedarfsgerechtigkeit – Axiomatische Überlegungen und empirische Untersuchungen” (November 22, 2016; presentation at the Department of Philosophy’s colloquium; University of Oldenburg; jointly with Arne Robert Weiss; invited by Nils Baratella)
 
 ## Refereed
 
 + “Empirical Studies on Questions of Need-Based Distributive Justice” (July 2025, presentation at the 5th European Experimental Philosophy Conference; University of East Anglia)
-+ “Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation” (September 16, 2023; presentation at the 3rd European Experimental Philosophy Conference; University of Zurich; attended online due to funding problems)
++ “Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation” (September 16, 2023; presentation at the 3rd European Experimental Philosophy Conference; University of Zurich; attended online due to funding problems) ([Slides](https://github.com/alephmembeth/causality-compositionality/tree/main/slides))
 + “Need and Responsibility – Experimental Philosophy Investigating Questions of Distributive Justice” (September 7, 2021; presentation at the 25th Congress of the German Society for Philosophy (DGPhil); Friedrich-Alexander University Erlangen-Nürnberg; moved online due to pandemic)
 + “Give What You Can, Take What You Need – The Effect of Framing on Fraudulent Behavior in Social Dilemmas” (August 23, 2021; poster presentation at the Subjective Probability, Utility, and Decision Making Conference; University of Warwick; jointly with Marc Wyszynski; moved online due to pandemic)
 + “Need and Responsibility – Experimental Philosophy on Questions of Distributive Justice” (July 2021; presentation accepted for the 18th Biennial Conference of the International Society for Justice Research; Católica Lisbon School of Business & Economics; not attended due to unforeseen circumstances)
