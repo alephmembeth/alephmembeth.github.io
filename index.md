@@ -43,7 +43,7 @@ In the summers of the past 3 years (2022 to 2024), I worked with the Natural Und
 </dl>
 <dl>
 <dt>Work in Media</dt>
-      <dd>Why India needs to counter AI bias and stereotypes <a href='https://epaper.lokmat.com/articlepage.php?articleid=LOKTIME_AULT_20250527_10_1/'>Lokmat Times, 2025</a></dd>
+      <dd>Why India needs to counter AI bias and stereotypes <a href='https://epaper.lokmat.com/articlepage.php?articleid=LOKTIME_AULT_20250527_10_1'>Lokmat Times, 2025</a></dd>
       <dd>AI Is Spreading Old Stereotypes to New Languages and Cultures <a href='https://www.wired.com/story/ai-bias-spreading-stereotypes-across-languages-and-cultures-margaret-mitchell/'>Wired Magazine, 2025</a></dd>
       <dd>This data set helps researchers spot harmful stereotypes in LLMs <a href='https://www.technologyreview.com/2025/04/30/1115946/this-data-set-helps-researchers-spot-harmful-stereotypes-in-llms/'>MIT Technology Review, 2025</a></dd>
    <dd>444 Authors From 132 Institutions Release BIG-bench: A 204-Task ‘Extremely Difficult and Diverse’ Benchmark for Large Language Models <a href='https://syncedreview.com/2022/06/14/444-authors-from-132-institutions-release-big-bench-a-204-task-extremely-difficult-and-diverse-benchmark-for-large-language-models/'>Synced Technology Review, 2022</a></dd>   
