@@ -4,8 +4,8 @@ layout: default
 
 # Publications
 
-## Manuscripts in Preparation
-+ Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (submitted): “The Kraemer Effect Reconsidered.”
+## Manuscripts in Preparation or Under Review
++ Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (submitted to _New Ideas in Psychology_): “The Kraemer Effect Reconsidered.”
 + Schippers, Michael, Mark Siebel, Stephan Kornmesser, and Alexander Max Bauer (in preparation): “So Close and Yet So Far. Why Measures of Divergence and Similarity Make Bad Measures of Coherence.”
 + Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.B. Metzler.
 
