@@ -28,6 +28,6 @@ layout: default
 
 ## Honors
 
-+ Award for Excellence in Teaching, category “Research-Based Learning” (“Preis der Lehre”, category “Forschendes Lernen”; 2023/2024; University of Oldenburg; 1.000,00 euro; jointly with Stephan Kornmesser)
++ Award for Excellence in Teaching, category “Research-Based Learning” (“Preis der Lehre”, category “Forschendes Lernen”; 2023/2024; University of Oldenburg; 1.000,00 euro; jointly with Stephan Kornmesser) ([Link](https://uol.de/preisderlehre/preistraegerinnen-2024))
 + Germany Scholarship (“Deutschlandstipendium”; 2015/2016; University of Oldenburg; 3.600,00 euro)
 + Germany Scholarship (“Deutschlandstipendium”; 2014/2015; University of Oldenburg; 3.600,00 euro)
