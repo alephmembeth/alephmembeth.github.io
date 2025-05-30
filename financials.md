@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Grants and Honors
+# Grants, Bursaries, and Honors
 
-## Grants
+## Grants and Bursaries
 
 + Travel grant for the promotion of young researchers (2025; University of Oldenburg, Faculty IV; 750,00 euro)
 + Financial support for an empirical study on distributive justice (2025; University of Oldenburg, Department of Philosophy; 850,00 euro)
