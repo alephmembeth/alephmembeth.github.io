@@ -11,7 +11,7 @@ Hi there, my name’s Max. I’m a postdoctoral research associate at the Univer
 + [services to the profession](./services.md),
 + [education](./education.md),
 + [employment and academic path](./employment.md), or
-+ [grants and honours](./financials.md).
++ [grants, bursaries, and honours](./financials.md).
 
 Most of this information can also be found bundled in my curriculum vitae, of which you can find the most recent version in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf). If that’s not enough, you may also be interested in taking a look at my
 
