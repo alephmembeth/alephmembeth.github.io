@@ -31,7 +31,7 @@ layout: default
 
 ## Other
 
-+ “Distributive Justice and Reference Points” (June 3, 2025; presentation at the lab meeting of the Experimental Philosophy Group Zurich; University of Zurich; attended online)
++ “Distributive Justice and Reference Points” (June 3, 2025; presentation at the lab meeting of the Experimental Philosophy Group; University of Zurich; attended online)
 + “Empirische Studien zu Fragen der Bedarfsgerechtigkeit” (February 14, 2024; doctoral dissertation defense; University of Oldenburg) ([Slides](https://github.com/alephmembeth/need-dissertation))
 + “Measuring Need-Based Distributive Justice Normatively and Empirically” (May 22, 2022; poster presentation at the Symposium on Need-Based Justice of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); University of Hamburg; jointly with Mark Siebel)
 + “Types of Need” (February 14, 2020; presentation at the workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen)
