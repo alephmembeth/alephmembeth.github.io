@@ -19,7 +19,7 @@ layout: default
       <dd>April 2017 – March 2018; University of Oldenburg, Faculty IV</dd>
 </dl>
 
-## Peer Review
+## Reviews
 
 ### Journals
 
@@ -30,6 +30,10 @@ layout: default
 ### Conferences
 
 + 3rd European Experimental Philosophy Conference (2023)
+
+### Prizes
+
++ Elizabeth-Magie-Preis (2025)
 
 ## Editorships
 
