@@ -31,6 +31,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Kyle Thompson](https://philpeople.org/profiles/kyle-thompson) (Harvey Mudd College)
 + [Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
 + [Tobias Unterhuber](https://www.uibk.ac.at/de/germanistik/institut/personen/tobias_unterhuber/) (University of Innsbruck)
++ [Aylin Yildirim](https://uol.de/philosophie/mitarbeiterinnen/aylin-yildirim) (University of Oldenburg)
 + [Arne Robert Weiss](https://cvnet.cpd.ua.es/curriculum-breve/en/weiss-arne-robert/549868) (University of Alicante and Wyss Academy for Nature at the University of Bern)
 + [Gesa Wellmann](https://uol.de/philosophie/mitarbeiterinnen/prof-dr-gesa-wellmann) (University of Oldenburg)
 + [Marc Wyszynski](https://www.uni-bremen.de/universitaet/campus/mitarbeiterinnenverzeichnis/person/187022/Wyszynski) (University of Bremen)
