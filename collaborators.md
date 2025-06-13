@@ -25,7 +25,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
 + [Wiktoria Pedryc](https://psych.la.psu.edu/people/wiktoria-m-pedryc/) (The Pennsylvania State University)
 + [Kevin Reuter](http://www.kevinreuter.com/) (University of Zurich)
-+ [Jan Romann](https://github.com/JKRhb) (Hochschule Emden/Leer, University of Applied Sciences)
++ [Jan Romann](https://github.com/JKRhb) (Koordinierungsstelle für IT-Standards)
 + [Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
 + [Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
 + [Nils Springhorn](https://uol.de/philosophie/ehemalige/nils-springhorn) (University of Oldenburg)
