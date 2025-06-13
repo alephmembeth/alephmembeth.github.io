@@ -7,6 +7,7 @@ layout: default
 The great people with whom I had the pleasure to work or with whom I’m currently working include:
 + [Mark Alfano](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University)
 + [Aurélien Allard](https://aurelienallard.netlify.app/) (University of Geneva)
++ [Neele Bäker](https://uol.de/sonderpaedagogik/psychologie/dr-neele-baeker-geb-schipper) (University of Oldenburg)
 + [Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
 + [Lucien Baumgartner](https://www.dsi.uzh.ch/en/people/phd-students/phds_2021-2023/lbaumgartner.html) (University of Zurich)
 + [Henrike Buss](https://www.linkedin.com/in/henrike-buss-347944264/) (Studydrive)
@@ -22,6 +23,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Frauke Meyer](https://www.linkedin.com/in/frauke-meyer-ph-d-7a07b6154/) (Knapp Data Quality)
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
++ [Wiktoria Pedryc](https://psych.la.psu.edu/people/wiktoria-m-pedryc/) (The Pennsylvania State University)
 + [Kevin Reuter](http://www.kevinreuter.com/) (University of Zurich)
 + [Jan Romann](https://github.com/JKRhb) (Hochschule Emden/Leer, University of Applied Sciences)
 + [Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
@@ -33,5 +35,5 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Tobias Unterhuber](https://www.uibk.ac.at/de/germanistik/institut/personen/tobias_unterhuber/) (University of Innsbruck)
 + [Aylin Yildirim](https://uol.de/philosophie/mitarbeiterinnen/aylin-yildirim) (University of Oldenburg)
 + [Arne Robert Weiss](https://cvnet.cpd.ua.es/curriculum-breve/en/weiss-arne-robert/549868) (University of Alicante and Wyss Academy for Nature at the University of Bern)
-+ [Gesa Wellmann](https://uol.de/philosophie/mitarbeiterinnen/prof-dr-gesa-wellmann) (University of Oldenburg)
++ [Jessica Wilke](https://uol.de/jessica-wilke-1) (University of Oldenburg)
 + [Marc Wyszynski](https://www.uni-bremen.de/universitaet/campus/mitarbeiterinnenverzeichnis/person/187022/Wyszynski) (University of Bremen)
