@@ -11,7 +11,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Lucien Baumgartner](https://www.dsi.uzh.ch/en/people/phd-students/phds_2021-2023/lbaumgartner.html) (University of Zurich)
 + [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
 + [Gregor Damschen](https://philosophie.uni-greifswald.de/praktische-philosophie/dr-gregor-damschen/) (University of Greifswald)
-+ [Adele Diederich](https://www.researchgate.net/profile/Adele-Diederich/) (Constructor University)
++ [Adele Diederich](https://www.researchgate.net/profile/Adele-Diederich/) (University of Oldenburg)
 + [Sven Ellmers](https://uol.de/philosophie/dr-sven-ellmers) (University of Oldenburg)
 + [Paul Engelhardt](https://research-portal.uea.ac.uk/en/persons/paul-engelhardt) (University of East Anglia)
 + [Eugen Fischer](https://research-portal.uea.ac.uk/en/persons/eugen-fischer) (University of East Anglia)
