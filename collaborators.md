@@ -23,6 +23,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Frauke Meyer](https://www.linkedin.com/in/frauke-meyer-ph-d-7a07b6154/) (Knapp Data Quality)
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
++ [Anna-Verena Nosthoff](https://uol.de/philosophie/mitarbeiterinnen/prof-dr-anna-verena-nosthoff) (University of Oldenburg)
 + [Wiktoria Pedryc](https://psych.la.psu.edu/people/wiktoria-m-pedryc/) (The Pennsylvania State University)
 + [Kevin Reuter](http://www.kevinreuter.com/) (University of Zurich)
 + [Jan Romann](https://github.com/JKRhb) (Koordinierungsstelle für IT-Standards)
