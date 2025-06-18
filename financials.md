@@ -7,7 +7,7 @@ layout: default
 My grants, bursaries, and honours amount to a total of **26.345,65 euro**. I deeply appreciate each and every instance of support I have been given.
 
 ## Grants and Bursaries
-+ Financial support for the journal “Oldenburger Philosophische Studien” (since 2025; University of Oldenburg, Department of Philosophy; 36,00 euro one-time plus 36,00 euro annually, total as of 2025: 72,00 euro)
++ Financial support for the journal “Oldenburger Philosophische Studien” (since 2025; University of Oldenburg, Department of Philosophy; 36,00 euro one-time plus 36,00 euro annually, total as of 2025: 72,00 euro; jointly with Sven Ellmers, Anna-Verena Nosthoff, and Aylin Yildirim)
 + Travel grant for the promotion of young researchers (2025; University of Oldenburg, Faculty IV; 750,00 euro)
 + Financial support for an empirical study on distributive justice (2025; University of Oldenburg, Department of Philosophy; 850,00 euro)
 + Travel grant for the promotion of young researchers (2024; University of Oldenburg, Faculty IV; 350,00 euro)
