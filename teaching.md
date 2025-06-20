@@ -37,7 +37,7 @@ layout: default
 ## Theses
 
 + Jahnel, Niklas (2025): _Nihilismus, Moral und Glaube. Ein interdisziplinärer Ansatz_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
-+ Götting, Larissa (2025): _Zwischen dem Ideal einer “Erziehung nach Auschwitz” im Sinne Theodor W. Adornos und der “Kulturindustrie.” Darstellung der Veränderung des Erinnerns am Beispiel der Instagram-Kanäle @ichbinsophiescholl und @eva.stories_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
++ Götting, Larissa Virginia (2025): _Zwischen dem Ideal einer “Erziehung nach Auschwitz” im Sinne Theodor W. Adornos und der “Kulturindustrie.” Darstellung der Veränderung des Erinnerns am Beispiel der Instagram-Kanäle @ichbinsophiescholl und @eva.stories_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Bockfeld, Falk (2025): _“Do You Hate Your Meat?” Eine Untersuchung der Darstellung von Gefahren und Potenzialen postmenschlicher Lebensmodi in “Cyberpunk 2077” nach der Theorie von Nick Bostrom_ (bachelor’s thesis; University of Oldenburg; second examiner: Paul Blattner)
 + Gronotte, Finn Ove (2025): _Der Einfluss von Nähe und Distanz auf das Gefühl moralischer Verantwortung. Eine empirische Untersuchung im Kontext von Peter Singers Ethik_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Rode, Mark Phillip (2024): _Das professionelle Selbstverständnis von ambulanten Pflegekräften in Zeiten der Technisierung. Ein Theorie-Empire-Vergleich des Berufsethos ambulanter Pflegekräfte_ (master’s thesis; University of Oldenburg; supervisor: Mark Schweda)
