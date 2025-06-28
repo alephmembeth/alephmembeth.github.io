@@ -20,6 +20,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Articles and Chapters
 
++ Jennifer Cole Wright (2025): “The Function of Morality and Folk Metaethics,” in: Simon Laham (ed.): _Handbook of Ethics and Social Psychology_, Cheltenham and Northampton: Edward Elgar, 33–43.
 + Rafael Alvear (2023): “For a Sociology of Needs,” _Critical Theory in Berlin_, https://criticaltheoryinberlin.de/en/interventions/for-a-sociology-of-needs/.
 
 ## 2024
