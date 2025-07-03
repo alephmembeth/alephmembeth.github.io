@@ -10,6 +10,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Gregor Betz (2020): _Argumentationsanalyse. Eine Einführung_, Berlin: J. B. Metzler.
 + Adriano Mannino (2021): _Wen rette ich – und wenn ja, wie viele? Über Triage und Verteilungsgerechtigkeit_, Stuttgart: Reclam.
 + Wilhelm Büttemeyer (2014): _Logik zur Einführung_, Hamburg: Junius.
 + John Langshaw Austin (1979): _Zur Theorie der Sprechakte (How to do things with Words)_, ed. by Eike von Savigny, Stuttgart: Reclam.
