@@ -94,6 +94,8 @@ If you want to get in touch or are interested to collaborate, you can reach me a
 
 Long ago, I used to maintain a personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on WordPress where I mostly wrote non-NLP stuff on rare occasions! You can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/" target="_blank">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/" target="_blank">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/" target="_blank"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/" target="_blank">backpacking</a>! One serious advice - <a href="https://kaustubhdhole.wordpress.com/2021/11/26/caxtons-tex-mex-mashed-potatoes/" target="_blank">cook this</a>!
 
+Try out <a href="https://kaustubhdhole.github.io/llm-quiz-time/">LLM Quiz Time</a>!
+
 <dl>
 <dt>Mentoring at Amelia R&D (2015 to 2021):</dt>
    I had the privilege of mentoring several great individuals, particularly on NLP projects at Amelia R&D. Most of these projects were as short as 1 month to as long as 1 year. Some are listed here, in no particular order:
