@@ -4,7 +4,7 @@ layout: default
 
 # Grants, Bursaries, and Honours
 
-My grants, bursaries, and honours amount to a total of **26.345,65 euro**. I deeply appreciate each and every instance of support I have been given.
+My grants, bursaries, and honours amount to a total of **28.345,65 euro**. I deeply appreciate each and every instance of support I have been given.
 
 ## Grants and Bursaries
 + Financial support for the project “‘Das ist doch (un)fair!’ – Verteilungsgerechtigkeit bei Kindern und Jugendlichen” (2025; EWE Stiftung; 2.000,00 euro; jointly with Neele Bäker and Jessica Wilke)
