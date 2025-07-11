@@ -4,6 +4,10 @@ layout: default
 
 # Teaching
 
+## Teaching Concept
+
++ Bauer, Alexander Max, and Stephan Kornmesser (2025): _Forschungsorientierte Einführung in die Experimentelle Philosophie_. Oldenburg: University of Oldenburg. ([Link](https://lehrkonzepte.uol.de/forschungsorientierte-einfuehrung-in-die-experimentelle-philosophie/))
+
 ## Teaching Materials
 
 + Bauer, Alexander Max (2025): _Aristoteles’ “Metaphysik.” Tafelbild zu Buch α_. Oldenburg: University of Oldenburg. ([Link](files/2025_bauer_aristoteles_2.pdf))
