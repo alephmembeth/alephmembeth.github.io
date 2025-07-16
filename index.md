@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi there, my name’s Max. I’m a postdoctoral research associate at the University of Oldenburg’s Department of Philosophy, mainly working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy” (or x-phi for short). If you want to know what’s happening in the world of x-phi right now, visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain. If you want to learn more about me, feel free to take a look at my
+Hi there, my name’s Max. I’m a postdoctoral research associate (“Wissenschaftlicher Mitarbeiter”) at the University of Oldenburg’s Department of Philosophy, mainly working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy” (or “x-phi” for short). If you want to know what’s happening in the world of x-phi right now, visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain. If you want to learn more about me, feel free to take a look at my
 
 + [publications](./publications.md),
 + [presentations](./presentations.md),
