@@ -17,6 +17,7 @@ On the internet, there are also some other places where you can find me, includi
 + [OSF](https://osf.io/profile/),
 + [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer),
 + [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2),
++ [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57221999493),
 + [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5771974),
 + [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer),
 + [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth), and
