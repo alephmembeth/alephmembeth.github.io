@@ -84,6 +84,7 @@ layout: default
 + Priest, Graham (2023): “Paradoxie und Parakonsistenz,” transl. by Alexander Max Bauer, Gregor Damschen, and Mark Siebel, in: id. (eds.): _Paradoxien. Grenzdenken und Denkgrenzen von A(llwissen) bis Z(eit)_, Paderborn: mentis, 225–248. ([Link](https://doi.org/10.30965/9783969752517_011))
 
 ## Public Writing
++ Bauer, Alexander Max (2025): “Wer soll was bekommen? Wie wir über gerechte Verteilungen denken,” _praefaktisch.de – Ein Philosophieblog_. ([Link](https://praefaktisch.de/002e/wer-soll-was-bekommen-wie-wir-ueber-gerechte-verteilungen-denken/))
 + Bauer, Alexander Max (2025): “Die Dinge, die wir sammeln. Designdokumente als historische Schätze,” _gespielt – Blog des Arbeitskreises Geisteswissenschaften und Digitale Spiele_. ([Link](https://gespielt.hypotheses.org/8200))
 + Bauer, Alexander Max (2024): “Teaching Experimental Philosophy to Beginners (Part 1),” _The Experimental Philosophy Blog_. ([Link](https://xphi.net/2024/04/29/teaching-experimental-philosophy-to-beginners-part-1/))
 + Bauer, Alexander Max (2021): “The Revolver Case Revisited,” _The New X-Phi Blog_ and _The Experimental Philosophy Blog_. ([Link](https://web.archive.org/web/20220322184907/https://xphiblog.com/revolver/)) ([Link](https://xphi.net/wordpress/2024/03/04/revolver/))
