@@ -38,7 +38,7 @@ layout: default
 ## Editorships
 
 <dl>
-   <dt>Editor of the leaf category “<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>” on PhilPapers</dt>
+   <dt>Editor of the leaf category “<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>” on <a href="https://philpapers.org/">PhilPapers</a></dt>
       <dd>since March 2024</dd>
    <dt>Editor of “<a href="http://xphi.net/">The Experimental Philosophy Blog</a>”</dt>
       <dd>since March 2024</dd>
