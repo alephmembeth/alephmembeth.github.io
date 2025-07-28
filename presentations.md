@@ -12,7 +12,7 @@ layout: default
 
 ## Refereed
 
-+ “Empirical Studies on Questions of Need-Based Distributive Justice” (July 12, 2025, presentation at the 5th European Experimental Philosophy Conference; University of East Anglia)
++ “Empirical Studies on Questions of Need-Based Distributive Justice” (July 12, 2025, presentation at the 5th European Experimental Philosophy Conference; University of East Anglia) ([Slides](https://github.com/alephmembeth/need-dissertation))
 + “The Kraemer Effect Reconsidered” (June 20, 2025; poster presentation at the 51st Annual Meeting of the Society for Philosophy & Psychology; Cornell University; jointly with Paul Henne, Wiktoria Pedryc, Benjamin Deichen, Annika Sankner, Saniya Varghese, and Isaiah Moonlight)
 + “Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation” (September 16, 2023; presentation at the 3rd European Experimental Philosophy Conference; University of Zurich; attended online due to funding problems) ([Slides](https://github.com/alephmembeth/causality-compositionality/tree/main/slides))
 + “Need and Responsibility – Experimental Philosophy Investigating Questions of Distributive Justice” (September 7, 2021; presentation at the 25th Congress of the German Society for Philosophy (DGPhil); Friedrich-Alexander University Erlangen-Nürnberg; moved online due to pandemic)
