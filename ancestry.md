@@ -28,4 +28,4 @@ My Erdős number, calculated with the American Mathematical Society’s “Colla
    </embed>
 </object>
 
-[^1]: But see Don Stone’s “[A Tentative Academic Lineage](https://donstonetech.com/Charts/AcademicGenealogy/StoneAcademicGenealogy.htm)”, where Paul Gerhard Natorp is traced all the way back to Erasmus of Rotterdam and Nicolaus Copernicus. Stone, too, concedes that he has “not verified most of the information for the period before 1750.”
+[^1]: But see Don Stone’s “[A Tentative Academic Lineage](https://donstonetech.com/Charts/AcademicGenealogy/StoneAcademicGenealogy.htm),” where Paul Gerhard Natorp is traced all the way back to Erasmus of Rotterdam and Nicolaus Copernicus. Stone, too, concedes that he has “not verified most of the information for the period before 1750.”
