@@ -6,7 +6,7 @@ layout: default
 
 ## Family Tree
 
-Nowadays, there are many databases and digital tools to trace one’s academic lineage (e.g., the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/), the [Academic Family Tree](https://academictree.org/), or the [Neurotree](https://neurotree.org/neurotree/)). Unfortunately, it is not always clear what underlying data sources they operate on. I was able to trace and verify the sources regarding my lineage up to Georg Ludwig König and Hermann Ulrici. From there on, it became uncertain: I couldn’t find out who supervised Ulrici’s thesis, and while there are many assertions that König was supervised by Christian Gottlob Heyne, I haven’t been able to verify this.[^1]
+Nowadays, there are many databases and digital tools to trace one’s academic lineage (e.g., the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/), the [Academic Family Tree](https://academictree.org/), or the [Neurotree](https://neurotree.org/neurotree/)). Unfortunately, it is not always clear what underlying data sources they operate on. I was able to trace the sources regarding my lineage up to Georg Ludwig König and Hermann Ulrici. From there on, it becomes uncertain: I couldn’t find out who supervised Ulrici’s thesis, and while there are many assertions that König was supervised by Christian Gottlob Heyne, I haven’t been able to verify this.[^1]
 
 Interestingly enough, König himself worked for some time in Oldenburg, where – more than 200 years later – I did my doctorate. It’s a small world.
 
