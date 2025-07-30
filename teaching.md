@@ -10,10 +10,10 @@ layout: default
 
 ## Teaching Materials
 
-+ Bauer, Alexander Max (2025): _Aristoteles’ “Metaphysik.” Tafelbild zu Buch α_. Oldenburg: University of Oldenburg. ([Link](files/2025_bauer_aristoteles_2.pdf))
-+ Bauer, Alexander Max (2025): _Aristoteles’ “Metaphysik.” Tafelbild zu Buch A_. Oldenburg: University of Oldenburg. ([Link](files/2025_bauer_aristoteles_1.pdf))
-+ Runtenberg, Christa, Laura Deepen, Alexander Max Bauer, and Gregor Damschen (2019): _Leitfaden zum wissenschaftlichen Schreiben in den Fächern Philosophie und Werte und Normen_. Oldenburg: University of Oldenburg. ([Link](https://uol.de/philosophie/studienorganisation/leitfaden-zum-wissenschaftlichen-arbeiten))
-+ Bauer, Alexander Max, and Marco Stawinoga (2014): _Skript zur Einführung in das wissenschaftliche Arbeiten für das Philosophiestudium_. Oldenburg: University of Oldenburg. ([Link](files/2014_bauer_stawinoga_skript.pdf))
++ Bauer, Alexander Max (2025): _Aristoteles’ “Metaphysik.” Tafelbild zu Buch α_, Oldenburg: University of Oldenburg. ([Link](files/2025_bauer_aristoteles_2.pdf))
++ Bauer, Alexander Max (2025): _Aristoteles’ “Metaphysik.” Tafelbild zu Buch A_, Oldenburg: University of Oldenburg. ([Link](files/2025_bauer_aristoteles_1.pdf))
++ Runtenberg, Christa, Laura Deepen, Alexander Max Bauer, and Gregor Damschen (2019): _Leitfaden zum wissenschaftlichen Schreiben in den Fächern Philosophie und Werte und Normen_, Oldenburg: University of Oldenburg. ([Link](https://uol.de/philosophie/studienorganisation/leitfaden-zum-wissenschaftlichen-arbeiten))
++ Bauer, Alexander Max, and Marco Stawinoga (2014): _Skript zur Einführung in das wissenschaftliche Arbeiten für das Philosophiestudium_, Oldenburg: University of Oldenburg. ([Link](files/2014_bauer_stawinoga_skript.pdf))
 
 ## Courses
 
