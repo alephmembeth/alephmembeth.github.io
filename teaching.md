@@ -38,6 +38,11 @@ layout: default
 + “Einführung in das wissenschaftliche Arbeiten” (winter terms 2013/2014, 2014/2015, 2015/2016, 2016/2017, 2017/2018, and 2018/2019; exercise course for first year students; University of Oldenburg; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019))
 + “Einführung in die Theoretische Philosophie” (winter terms 2012/2013, 2013/2014, 2014/2015, 2015/2016, and 2016/2017; tutorial course on bachelor’s level; University of Oldenburg; accompanying the lecture of Mark Siebel)
 
+## Extracurricular Mentoring Roles
+
++ “Nach dem Studium promovieren?!” (winter term 2022/2023, summer term 2023, winter term 2023/2024, summer term 2024, winter term 2024/2025, summer term 2025; mentor in the programme “Nach dem Studium promovieren?!” at the University of Oldenburg’s Graduate School for the Social Sciences and the Humanities (3GO)
++ “Schreibbegleitung für Haus- und Abschlussarbeiten” (winter term 2018/2019, summer term 2019, winter term 2019/2020, summer term 2020, winter term 2020/2021, summer term 2021, winter term 2021/2022, summer term 2022; writing tutor in the programme “Schreibbegleitung für Haus- und Abschlussarbeiten” at the University of Oldenburg’s Graduate School for the Social Sciences and the Humanities (3GO))
+
 ## Theses
 
 + Jahnel, Niklas (2025): _Nihilismus, Moral und Glaube. Ein interdisziplinärer Ansatz_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
