@@ -1,16 +1,12 @@
-.wrapper::before {
-  content: "WRAPPER TEST";
-  display: block;
-  background-color: yellow;
-  padding: 5px;
-  font-weight: bold;
+.wrapper {
+  max-width: 1200px !important;
+  margin: 0 auto;
 }
 
-table {
-  width: 100% !important;
-  table-layout: auto !important;
+.main {
+  max-width: 960px !important;
+  width: 90% !important;
 }
-
 
 .fixed-width-1 {
   width: 160px !important;
