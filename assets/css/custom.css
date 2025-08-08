@@ -13,3 +13,6 @@
 
 .wrapper > section table { width: 100%; table-layout: auto; }
 .fixed-width-1 { width: 160px; white-space: nowrap; vertical-align: top; }
+
+.wrapper { outline: 3px dashed red !important; }
+.wrapper > section { outline: 3px dashed blue !important; }
