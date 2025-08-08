@@ -1,5 +1,6 @@
 .wrapper {
   max-width: 1000px;
+  width: 90%;
 }
 
 td.fixed-width-1 {
