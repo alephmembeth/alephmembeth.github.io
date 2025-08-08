@@ -8,7 +8,7 @@ layout: default
 
 <table>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2025/2026</b>
       </td>
       <td>
@@ -18,7 +18,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2025/2026</b>
       </td>
       <td>
@@ -28,7 +28,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>summer term 2024</b>
       </td>
       <td>
@@ -38,7 +38,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2023/2024</b>
       </td>
       <td>
@@ -48,7 +48,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2022/2023 <br> and summer term 2023, <br> winter term 2023/2024 <br> and summer term 2024, <br> winter term 2024/2025 <br> and summer term 2025</b>
       </td>
       <td>
@@ -58,7 +58,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2022/2023</b>
       </td>
       <td>
@@ -68,7 +68,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2020/2021</b>
       </td>
       <td>
@@ -78,7 +78,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>summer term 2020</b>
       </td>
       <td>
@@ -88,7 +88,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2019/2020</b>
       </td>
       <td>
@@ -98,7 +98,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>summer term 2019</b>
       </td>
       <td>
@@ -109,7 +109,7 @@ layout: default
    </tr>
 
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2018/2019</b>
       </td>
       <td>
@@ -119,7 +119,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2017/2018</b>
       </td>
       <td>
@@ -129,7 +129,7 @@ layout: default
       </td>
    </tr>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>summer term 2017</b>
       </td>
       <td>
@@ -140,7 +140,7 @@ layout: default
    </tr>
 
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2015/2016</b>
       </td>
       <td>
@@ -155,10 +155,10 @@ layout: default
 
 <table>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>summer term 2014, <br> summer term 2015</b>
       </td>
-      <td>
+      <td class="fixed-width-2">
          <b>Einführung in die Praktische Philosophie</b><br>
          <i>University of Oldenburg</i><br>
          tutorial course at bachelor’s level; accompanying the lectures of Martin Louis Vialon (summer term 2014) and Michael Städtler (summer term 2015)
@@ -166,10 +166,10 @@ layout: default
    </tr>
 
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2012/2013, <br> winter term 2013/2014, <br> winter term 2014/2015, <br> winter term 2015/2016, <br> winter term 2016/2017</b>
       </td>
-      <td>
+      <td class="fixed-width-2">
          <b>Einführung in die Theoretische Philosophie</b><br>
          <i>University of Oldenburg</i><br>
         tutorial course on bachelor’s level; accompanying the lectures of Mark Siebel)
@@ -181,10 +181,10 @@ layout: default
 
 <table>
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2022/2023, <br> summer term 2023, <br> winter term 2023/2024, <br> summer term 2024, <br> winter term 2024/2025, <br> summer term 2025</b>
       </td>
-      <td>
+      <td class="fixed-width-2">
          <b>Nach dem Studium promovieren?!</b><br>
          <i>Graduate School for the Social Sciences and the Humanities (3GO), University of Oldenburg</i><br>
          mentor in a programme for students interested in pursuing a doctorate
@@ -192,10 +192,10 @@ layout: default
    </tr>
 
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2018/2019, <br> summer term 2019, <br> winter term 2019/2020, <br> summer term 2020, <br> winter term 2020/2021, <br> summer term 2021, <br> winter term 2021/2022, <br> summer term 2022</b>
       </td>
-      <td>
+      <td class="fixed-width-2">
          <b>Schreibbegleitung für Haus- und Abschlussarbeiten</b><br>
          <i>Graduate School for the Social Sciences and the Humanities (3GO), University of Oldenburg</i><br>
          writing tutor for students
@@ -203,10 +203,10 @@ layout: default
    </tr>
 
    <tr>
-      <td class="fixed-width">
+      <td class="fixed-width-1">
          <b>winter term 2013/2014, <br> winter term 2014/2015, <br> winter term 2015/2016, <br> winter term 2016/2017, <br> winter term 2017/2018, <br> winter term 2018/2019</b>
       </td>
-      <td>
+      <td class="fixed-width-2">
          <b>Einführung in das wissenschaftliche Arbeiten</b><br>
          <i>University of Oldenburg</i><br>
          exercise course for first-year students; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019)
