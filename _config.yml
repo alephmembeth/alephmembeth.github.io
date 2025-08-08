@@ -12,61 +12,61 @@ repository               : "https://github.com/alephmembeth/alephmembeth.github.
 # Sidebar
 author:
    # Biographic information
-   avatar           : "amb_liri_runa.png"
-   name             : "Dr. Alexander Max Bauer"
-   pronouns         :
-   bio              : "Philosopher • Scholar • Scientist"
-   location         : "Oldenburg, Germany"
-   employer         : "University of Oldenburg"
-   uri              :
-   email            : "alexander.max.bauer@uol.de"
+   avatar                : "amb_liri_runa.png"
+   name                  : "Dr. Alexander Max Bauer"
+   pronouns              :
+   bio                   : "Philosopher • Scholar • Scientist"
+   location              : "Oldenburg, Germany"
+   employer              : "University of Oldenburg"
+   uri                   :
+   email                 : "alexander.max.bauer@uol.de"
 
    # Academic websites
-   academia         : "https://uni-oldenburg.academia.edu/alexandermaxbauer"
-   arxiv            :
-   googlescholar    : "https://scholar.google.de/citations?user=EFeokZUAAAAJ"
-   inspire-hep      :
-   impactstory      :
-   orcid            : "https://orcid.org/0000-0003-0923-6864"
-   semantic         :
-   pubmed           :
-   researchgate     : "https://www.researchgate.net/profile/Alexander-Bauer-2"
-   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57221999493"
+   academia              : "https://uni-oldenburg.academia.edu/alexandermaxbauer"
+   arxiv                 :
+   googlescholar         : "https://scholar.google.de/citations?user=EFeokZUAAAAJ"
+   inspire-hep           :
+   impactstory           :
+   orcid                 : "https://orcid.org/0000-0003-0923-6864"
+   semantic              :
+   pubmed                :
+   researchgate          : "https://www.researchgate.net/profile/Alexander-Bauer-2"
+   scopus                : "https://www.scopus.com/authid/detail.uri?authorId=57221999493"
 
    # Repositories and software development
-   bitbucket        :
-   codepen          :
-   dribbble         :
-   github           : "alephmembeth"
-   kaggle           :
-   stackoverflow    :
+   bitbucket             :
+   codepen               :
+   dribbble              :
+   github                : "alephmembeth"
+   kaggle                :
+   stackoverflow         :
 
    # Social media
-   artstation       :
-   bluesky          :
-   facebook         :
-   flickr           :
-   foursquare       :
-   goodreads        :
-   google_plus      :
-   keybase          :
-   instagram        :
-   lastfm           :
-   LinkedIn         : "alexandermaxbauer"
-   mastodon         : "https://ohai.social/@alephmembeth"
-   medium           :
-   pinterest        :
-   soundcloud       :
-   steam            :
-   telegram         :
-   tumblr           :
-   twitter          : "alephmembeth"
-   vine             :
-   weibo            :
-   wikipedia        : "Alephmembeth"
-   xing             : "AlexanderMax_Bauer"
-   youtube          :
-   zhihu            :
+   artstation            :
+   bluesky               :
+   facebook              :
+   flickr                :
+   foursquare            :
+   goodreads             :
+   google_plus           :
+   keybase               :
+   instagram             :
+   lastfm                :
+   LinkedIn              : "alexandermaxbauer"
+   mastodon              : "https://ohai.social/@alephmembeth"
+   medium                :
+   pinterest             :
+   soundcloud            :
+   steam                 :
+   telegram              :
+   tumblr                :
+   twitter               : "alephmembeth"
+   vine                  :
+   weibo                 :
+   wikipedia             : "Alephmembeth"
+   xing                  : "AlexanderMax_Bauer"
+   youtube               :
+   zhihu                 :
 
 # Publication categories
 publication_category:
