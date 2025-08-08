@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Dr. Alexander Max Bauer"
+title: "Hi there!"
 author_profile: true
 redirect_from:
    - /about/
    - /about.html
 ---
 
-Hi there, my name’s Max. I’m a postdoctoral research assistant (“Wissenschaftlicher Mitarbeiter”) at the University of Oldenburg’s Department of Philosophy, mainly working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy” (or “x-phi” for short). If you want to know what’s happening in the world of x-phi right now, visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain..
+My name’s Max. I’m a postdoctoral research assistant (“Wissenschaftlicher Mitarbeiter”) at the University of Oldenburg’s Department of Philosophy, mainly working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy” (or “x-phi” for short). If you want to know what’s happening in the world of x-phi right now, visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain..
 
 <dl>
    <dt>Areas of Specialization:</dt>
