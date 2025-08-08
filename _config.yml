@@ -1,9 +1,9 @@
 # Basic site settings
 locale                   : "en-GB"
 site_theme               : "default"
-title                    : "Home"
+title                    : "Dr. Alexander Max Bauer"
 title_separator          : "-"
-name                     : &name "Dr. Alexander Max Bauer"
+name                     :
 description              : &description "Philosopher • Scholar • Scientist"
 url                      : https://alephmembeth.github.io
 baseurl                  : ""
