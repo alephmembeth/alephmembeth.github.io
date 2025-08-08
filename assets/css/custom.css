@@ -1,12 +1,9 @@
-.wrapper > header,
-.wrapper > section {
+.wrapper > section,
+.wrapper > section * {
   float: none !important;
   width: auto !important;
   max-width: none !important;
-  margin: 0 !important;
   clear: none !important;
-  display: block !important;
-  position: static !important;
 }
 
 .wrapper {
@@ -20,32 +17,9 @@
 .wrapper > header { grid-column: 1 !important; align-self: start !important; }
 .wrapper > section { grid-column: 2 !important; min-width: 0 !important; }
 
-.wrapper > header img {
-  width: 100% !important;
-  max-width: 100% !important;
-  height: auto !important;
-  display: block !important;
-  object-fit: contain !important;
-}
+.wrapper > header img { width: 100% !important; height: auto !important; display: block !important; }
 
-.wrapper > section table,
-.wrapper > section p,
-.wrapper > section ul,
-.wrapper > section ol,
-.wrapper > section h1,
-.wrapper > section h2,
-.wrapper > section h3,
-.wrapper > section div {
-  max-width: none !important;
-}
+.wrapper > section table { width: 100% !important; table-layout: auto !important; }
+.fixed-width-1 { width: 160px !important; white-space: nowrap !important; vertical-align: top !important; }
 
-.wrapper > section table {
-  width: 100% !important;
-  table-layout: auto !important;
-}
-
-.fixed-width-1 {
-  width: 160px !important;
-  white-space: nowrap !important;
-  vertical-align: top !important;
-}
+.wrapper > section { overflow-wrap: anywhere; }
