@@ -4,8 +4,12 @@
 }
 
 .main {
-  max-width: 960px !important;
-  width: 90% !important;
+  max-width: 980px !important;
+  width: 100% !important;
+}
+
+.sidebar {
+  width: auto !important;
 }
 
 td.fixed-width-1 {
