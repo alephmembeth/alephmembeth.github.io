@@ -1,21 +1,25 @@
 .wrapper {
   max-width: 1200px !important;
   margin: 0 auto;
+  padding: 0 20px;
+  width: 100%;
 }
 
-.main {
-  max-width: 980px !important;
+table {
   width: 100% !important;
+  table-layout: auto !important;
 }
 
-.sidebar {
+
+.fixed-width-1 {
+  width: 160px !important;
+  white-space: nowrap !important;
+  vertical-align: top !important;
+}
+
+.fixed-width-2,
+td:not(.fixed-width-1) {
   width: auto !important;
-}
-
-td.fixed-width-1 {
-   width: 200px;
-}
-
-td.fixed-width-2 {
-   width: 750px;
+  vertical-align: top !important;
+  word-break: normal;
 }
