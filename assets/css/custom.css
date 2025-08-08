@@ -1,6 +1,10 @@
-.wrapper {
+.wrapper section {
    max-width: 1200px !important;
-   margin: 0 auto;
+   width: calc(100% - 240px) !important
+}
+
+.wrapper section table {
+   width: 100% !important;
 }
 
 .main {
