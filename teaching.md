@@ -1,7 +1,4 @@
----
-layout: default
----
-
+<div class="wide">
 # Teaching
 
 ## Courses
@@ -252,3 +249,4 @@ layout: default
 + Lutze, Daniela (2020): _“Die Banalität des Bösen.” Der Begriff des Bösen in der Philosophie Hannah Arendts und vor dem Hintergrund der sozialpsychologischen Untersuchungen Philip Zimbardos_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Lüschen, Hilke (2020): _Versprechen in Politischer Philosophie und Sprachphilosophie_ (master’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Abheiden, Tobias (2019): _Eine kritische Auseinandersetzung mit den anthropologischen Aspekten des Begriffs des Alterns bei Aubrey de Grey_ (bachelor’s thesis; University of Oldenburg; second examiner: Christa Runtenberg)
+</div>
