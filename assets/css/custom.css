@@ -1,3 +1,4 @@
+
 .wrapper > header,
 .wrapper > section {
   float: none !important;
@@ -5,23 +6,44 @@
   max-width: none !important;
   margin: 0 !important;
   clear: none !important;
+  position: static !important;
+  display: block !important;
 }
 
 .wrapper {
   display: grid !important;
-  grid-template-columns: 300px minmax(0, 1fr) !important;
+  grid-template-columns: 320px minmax(0, 1fr) !important;
   column-gap: 40px !important;
   max-width: 1200px !important;
   margin: 0 auto !important;
   padding: 0 20px !important;
 }
-.wrapper > header { grid-column: 1 !important; }
+.wrapper > header { grid-column: 1 !important; align-self: start !important; }
 .wrapper > section { grid-column: 2 !important; }
 
-.wrapper > section table { width: 100% !important; table-layout: auto !important; }
-
-.fixed-width-1 { width: 160px !important; white-space: nowrap !important; vertical-align: top !important; }
-
-@media (max-width: 800px) {
-  .wrapper { display: block !important; }
+.wrapper > header img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  object-fit: contain !important;
 }
+
+.wrapper > section table {
+  width: 100% !important;
+  table-layout: auto !important;
+}
+
+.fixed-width-1 {
+  width: 160px !important;
+  white-space: nowrap !important;
+  vertical-align: top !important;
+}
+
+.wrapper > section td:not(.fixed-width-1) {
+  width: auto !important;
+  vertical-align: top !important;
+}
+
+.wrapper { outline: 3px dashed red !important; }
+.wrapper > section { outline: 3px dashed blue !important; }
