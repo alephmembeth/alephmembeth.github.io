@@ -1,7 +1,7 @@
 # Basic site settings
 locale                   : "en-GB"
 site_theme               : "default"
-title                    : "Dr. Alexander Max Bauer"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. Alexander Max Bauer"
 description              : &description "Philosopher • Scholar • Scientist"
