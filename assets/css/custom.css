@@ -27,4 +27,17 @@
 
 .fixed-width-1 { width: 160px !important; white-space: nowrap !important; vertical-align: top !important; }
 
-@media (max-width: 800px) { .wrapper { display: block !important; } }
+.wrapper > section table {
+  width: 100% !important;
+  max-width: none !important;
+  table-layout: fixed !important;
+}
+
+.wrapper > section table td:first-child {
+  width: 180px !important;
+}
+
+.wrapper > section table td {
+  word-wrap: break-word;
+  white-space: normal;
+}
