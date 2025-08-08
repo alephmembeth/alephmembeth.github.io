@@ -4,3 +4,11 @@ description: Philosopher • Scholar • Scientist
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+   - jekyll-remote-theme
+defaults:
+   -
+      scope:
+         path: ""
+      values:
+         custom_css: "/assets/css/custom.css"
