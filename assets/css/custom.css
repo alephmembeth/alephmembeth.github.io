@@ -1,6 +1,6 @@
 .wrapper section {
    max-width: 1200px !important;
-   width: calc(100% - 240px) !important
+   width: calc(100% - 300px) !important
 }
 
 .wrapper section table {
@@ -13,5 +13,5 @@
 }
 
 .fixed-width-1 {
-   width: 160px !important;
+   width: 200px !important;
 }
