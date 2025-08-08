@@ -1,215 +1,36 @@
-<div class="wide">
+---
+layout: default
+---
+
 # Teaching
 
 ## Courses
 
-<table>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2025/2026</b>
-      </td>
-      <td>
-         <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 2</b><br>
-         <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a>
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2025/2026</b>
-      </td>
-      <td>
-         <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 1</b><br>
-         <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a>
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>summer term 2024</b>
-      </td>
-      <td>
-         <b>Forschungsorientierte Einführung in die Experimentelle Philosophie</b><br>
-         <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2024">Repository</a>
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2023/2024</b>
-      </td>
-      <td>
-         <b>Einführung in die Experimentelle Theoretische Philosophie</b><br>
-         <i>University of Oldenburg</i><br>
-         course at bachelor’s level
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2022/2023 <br> and summer term 2023, <br> winter term 2023/2024 <br> and summer term 2024, <br> winter term 2024/2025 <br> and summer term 2025</b>
-      </td>
-      <td>
-         <b>Aristoteles’ “Metaphysik”</b><br>
-         <i>University of Oldenburg</i><br>
-         two-semester course at bachelor’s level
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2022/2023</b>
-      </td>
-      <td>
-         <b>Gedankenexperimente in der Philosophie</b><br>
-         <i>University of Oldenburg</i><br>
-         course at bachelor’s level
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2020/2021</b>
-      </td>
-      <td>
-         <b>Einführung in die Experimentelle Philosophie</b><br>
-         <i>University of Oldenburg</i><br>
-         course at bachelor’s level; online due to pandemic
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>summer term 2020</b>
-      </td>
-      <td>
-         <b>Reichtum als moralisches Problem</b><br>
-         <i>University of Oldenburg</i><br>
-         course at bachelor’s level; online due to pandemic
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2019/2020</b>
-      </td>
-      <td>
-         <b>Ein Gestirn, auf dem kluge Tiere das Erkennen erfanden – Sprache und Erkenntnis in den frühen Schriften Nietzsches</b><br>
-         <i>University of Oldenburg</i><br>
-         course at bachelor’s level
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>summer term 2019</b>
-      </td>
-      <td>
-         <b>Suffizientarismus – Zu einer Kritik der Unersättlichkeit</b><br>
-         <i>University of Oldenburg</i><br>
-         course at master’s level
-      </td>
-   </tr>
-
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2018/2019</b>
-      </td>
-      <td>
-         <b>Sein und Sollen – Abgründe und Brücken zwischen empirischer Forschung und normativer Theorie</b><br>
-         <i>University of Oldenburg</i><br>
-         course at bachelor’s level
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2017/2018</b>
-      </td>
-      <td>
-         <b>Eduard Beaucamp und die Leipziger Schule – Ästhetik zwischen Kontinuität und Bruch</b><br>
-         <i>University of Oldenburg</i><br>
-         course at master’s level
-      </td>
-   </tr>
-   <tr>
-      <td class="fixed-width">
-         <b>summer term 2017</b>
-      </td>
-      <td>
-         <b>Operationalisierung von Verteilungsgerechtigkeit – Zur Grundlegung der Messbarkeit von Gerechtigkeit zwischen normativer Theorie und formaler Modellierung</b><br>
-         <i>University of Oldenburg</i><br>
-         course at master’s level
-      </td>
-   </tr>
-
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2015/2016</b>
-      </td>
-      <td>
-         <b>Nietzsche – Frühe Schriften</b><br>
-         <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Nils Baratella
-      </td>
-   </tr>
-</table>
++ “Forschungsorientierte Einführung in die Experimentelle Philosophie, Seminar 2” (winter term 2025/2026; course on master’s level; University of Oldenburg; jointly with Stephan Kornmesser) ([Repository](https://github.com/alephmembeth/course-x-phi-2025))
++ “Forschungsorientierte Einführung in die Experimentelle Philosophie, Seminar 1” (winter term 2025/2026; course on master’s level; University of Oldenburg; jointly with Stephan Kornmesser) ([Repository](https://github.com/alephmembeth/course-x-phi-2025))
++ “Forschungsorientierte Einführung in die Experimentelle Philosophie” (summer term 2024; course on master’s level; University of Oldenburg; jointly with Stephan Kornmesser) ([Repository](https://github.com/alephmembeth/course-x-phi-2024))
++ “Einführung in die Experimentelle Theoretische Philosophie” (winter term 2023/2024; course on bachelor’s level; University of Oldenburg)
++ “Aristoteles’ ‘Metaphysik’” (winter term 2022/2023 – summer term 2023, winter term 2023/2024 – summer term 2024, and winter term 2024/2025 – summer term 2025; two-semester course on bachelor’s level; University of Oldenburg)
++ “Gedankenexperimente in der Philosophie” (winter term 2022/2023; course on bachelor’s level; University of Oldenburg)
++ “Einführung in die Experimentelle Philosophie” (winter term 2020/2021; course on bachelor’s level; University of Oldenburg; online due to pandemic)
++ “Reichtum als moralisches Problem” (summer term 2020; course on bachelor’s level; University of Oldenburg; online due to pandemic)
++ “Ein Gestirn, auf dem kluge Tiere das Erkennen erfanden – Sprache und Erkenntnis in den frühen Schriften Nietzsches” (winter term 2019/2020; course on bachelor’s level; University of Oldenburg)
++ “Suffizientarismus – Zu einer Kritik der Unersättlichkeit” (summer term 2019; course on master’s level; University of Oldenburg)
++ “Sein und Sollen – Abgründe und Brücken zwischen empirischer Forschung und normativer Theorie” (winter term 2018/2019; course on bachelor’s level; University of Oldenburg)
++ “Eduard Beaucamp und die Leipziger Schule – Ästhetik zwischen Kontinuität und Bruch” (winter term 2017/2018; course on master’s level; University of Oldenburg)
++ “Operationalisierung von Verteilungsgerechtigkeit – Zur Grundlegung der Messbarkeit von Gerechtigkeit zwischen normativer Theorie und formaler Modellierung” (summer term 2017; course on master’s level; University of Oldenburg)
++ “Nietzsche – Frühe Schriften” (winter term 2015/2016; course on master’s level; University of Oldenburg; jointly with Nils Baratella)
 
 ## Tutorial Courses
 
-<table>
-   <tr>
-      <td class="fixed-width">
-         <b>summer term 2014, <br> summer term 2015</b>
-      </td>
-      <td>
-         <b>Einführung in die Praktische Philosophie</b><br>
-         <i>University of Oldenburg</i><br>
-         tutorial course at bachelor’s level; accompanying the lectures of Martin Louis Vialon (summer term 2014) and Michael Städtler (summer term 2015)
-      </td>
-   </tr>
-
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2012/2013, <br> winter term 2013/2014, <br> winter term 2014/2015, <br> winter term 2015/2016, <br> winter term 2016/2017</b>
-      </td>
-      <td>
-         <b>Einführung in die Theoretische Philosophie</b><br>
-         <i>University of Oldenburg</i><br>
-        tutorial course on bachelor’s level; accompanying the lectures of Mark Siebel)
-      </td>
-   </tr>
-</table>
++ “Einführung in die Praktische Philosophie” (summer terms 2014 and 2015; tutorial on bachelor’s level; University of Oldenburg; accompanying the lectures of Martin Louis Vialon (summer term 2014) and Michael Städtler (summer term 2015))
++ “Einführung in die Theoretische Philosophie” (winter terms 2012/2013, 2013/2014, 2014/2015, 2015/2016, and 2016/2017; tutorial course on bachelor’s level; University of Oldenburg; accompanying the lecture of Mark Siebel)
 
 ## Extracurricular Courses and Mentoring Roles
 
-<table>
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2022/2023, <br> summer term 2023, <br> winter term 2023/2024, <br> summer term 2024, <br> winter term 2024/2025, <br> summer term 2025</b>
-      </td>
-      <td>
-         <b>Nach dem Studium promovieren?!</b><br>
-         <i>Graduate School for the Social Sciences and the Humanities (3GO), University of Oldenburg</i><br>
-         mentor in a programme for students interested in pursuing a doctorate
-      </td>
-   </tr>
-
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2018/2019, <br> summer term 2019, <br> winter term 2019/2020, <br> summer term 2020, <br> winter term 2020/2021, <br> summer term 2021, <br> winter term 2021/2022, <br> summer term 2022</b>
-      </td>
-      <td>
-         <b>Schreibbegleitung für Haus- und Abschlussarbeiten</b><br>
-         <i>Graduate School for the Social Sciences and the Humanities (3GO), University of Oldenburg</i><br>
-         writing tutor for students
-      </td>
-   </tr>
-
-   <tr>
-      <td class="fixed-width">
-         <b>winter term 2013/2014, <br> winter term 2014/2015, <br> winter term 2015/2016, <br> winter term 2016/2017, <br> winter term 2017/2018, <br> winter term 2018/2019</b>
-      </td>
-      <td>
-         <b>Einführung in das wissenschaftliche Arbeiten</b><br>
-         <i>University of Oldenburg</i><br>
-         exercise course for first-year students; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019)
-      </td>
-   </tr>
-</table>
++ “Nach dem Studium promovieren?!” (winter term 2022/2023, summer term 2023, winter term 2023/2024, summer term 2024, winter term 2024/2025, summer term 2025; mentor in the programme “Nach dem Studium promovieren?!” at the University of Oldenburg’s Graduate School for the Social Sciences and the Humanities (3GO))
++ “Schreibbegleitung für Haus- und Abschlussarbeiten” (winter term 2018/2019, summer term 2019, winter term 2019/2020, summer term 2020, winter term 2020/2021, summer term 2021, winter term 2021/2022, summer term 2022; writing tutor in the programme “Schreibbegleitung für Haus- und Abschlussarbeiten” at the University of Oldenburg’s Graduate School for the Social Sciences and the Humanities (3GO))
++ “Einführung in das wissenschaftliche Arbeiten” (winter terms 2013/2014, 2014/2015, 2015/2016, 2016/2017, 2017/2018, and 2018/2019; exercise course for first year students; University of Oldenburg; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019))
 
 ## Teaching Concepts
 
@@ -249,4 +70,3 @@
 + Lutze, Daniela (2020): _“Die Banalität des Bösen.” Der Begriff des Bösen in der Philosophie Hannah Arendts und vor dem Hintergrund der sozialpsychologischen Untersuchungen Philip Zimbardos_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Lüschen, Hilke (2020): _Versprechen in Politischer Philosophie und Sprachphilosophie_ (master’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Abheiden, Tobias (2019): _Eine kritische Auseinandersetzung mit den anthropologischen Aspekten des Begriffs des Alterns bei Aubrey de Grey_ (bachelor’s thesis; University of Oldenburg; second examiner: Christa Runtenberg)
-</div>
