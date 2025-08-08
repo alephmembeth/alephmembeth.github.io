@@ -1,17 +1,15 @@
-.wrapper section {
-   max-width: 1200px !important;
-   width: calc(100% - 300px) !important
+.wrapper > header {
+   width: 280px !important;
+   float: left;
 }
 
-.wrapper section table {
-   width: 100% !important;
-}
-
-.main {
+.wrapper > section {
+   margin-left: 320px !important;
    max-width: 1100px !important;
-   width: 90% !important;
+   width: auto !important;
 }
 
-.fixed-width-1 {
-   width: 200px !important;
+.wrapper > section table {
+   width: 100% !important;
+   table-layout: auto !important;
 }
