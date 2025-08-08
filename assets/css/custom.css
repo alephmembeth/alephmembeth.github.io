@@ -1,8 +1,9 @@
-.wrapper {
-  max-width: 1200px !important;
-  margin: 0 auto;
-  padding: 0 20px;
-  width: 100%;
+.wrapper::before {
+  content: "WRAPPER TEST";
+  display: block;
+  background-color: yellow;
+  padding: 5px;
+  font-weight: bold;
 }
 
 table {
