@@ -1,5 +1,10 @@
 .wrapper {
-  max-width: 1000px !important;
+  max-width: 1200px !important;
+  margin: 0 auto;
+}
+
+.main {
+  max-width: 960px !important;
   width: 90% !important;
 }
 
