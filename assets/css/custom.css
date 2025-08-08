@@ -1,4 +1,3 @@
-
 .wrapper > header,
 .wrapper > section {
   float: none !important;
@@ -6,8 +5,8 @@
   max-width: none !important;
   margin: 0 !important;
   clear: none !important;
-  position: static !important;
   display: block !important;
+  position: static !important;
 }
 
 .wrapper {
@@ -19,7 +18,7 @@
   padding: 0 20px !important;
 }
 .wrapper > header { grid-column: 1 !important; align-self: start !important; }
-.wrapper > section { grid-column: 2 !important; }
+.wrapper > section { grid-column: 2 !important; min-width: 0 !important; }
 
 .wrapper > header img {
   width: 100% !important;
@@ -27,6 +26,17 @@
   height: auto !important;
   display: block !important;
   object-fit: contain !important;
+}
+
+.wrapper > section table,
+.wrapper > section p,
+.wrapper > section ul,
+.wrapper > section ol,
+.wrapper > section h1,
+.wrapper > section h2,
+.wrapper > section h3,
+.wrapper > section div {
+  max-width: none !important;
 }
 
 .wrapper > section table {
@@ -39,11 +49,3 @@
   white-space: nowrap !important;
   vertical-align: top !important;
 }
-
-.wrapper > section td:not(.fixed-width-1) {
-  width: auto !important;
-  vertical-align: top !important;
-}
-
-.wrapper { outline: 3px dashed red !important; }
-.wrapper > section { outline: 3px dashed blue !important; }
