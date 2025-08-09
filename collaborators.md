@@ -4,7 +4,7 @@ layout: default
 
 # Collaborators
 
-The great people with whom I had the pleasure to work or with whom I’m currently working include:
+The great people with whom I have had the pleasure to work or with whom I’m currently working include:
 + [Mark Alfano](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University)
 + [Aurélien Allard](https://aurelienallard.netlify.app/) (University of Geneva)
 + [Neele Bäker](https://uol.de/sonderpaedagogik/psychologie/dr-neele-baeker-geb-schipper) (University of Oldenburg)
@@ -38,3 +38,5 @@ The great people with whom I had the pleasure to work or with whom I’m current
 + [Arne Robert Weiss](https://cvnet.cpd.ua.es/curriculum-breve/en/weiss-arne-robert/549868) (University of Alicante and Wyss Academy for Nature at the University of Bern)
 + [Jessica Wilke](https://uol.de/jessica-wilke-1) (University of Oldenburg)
 + [Marc Wyszynski](https://www.uni-bremen.de/universitaet/campus/mitarbeiterinnenverzeichnis/person/187022/Wyszynski) (University of Bremen)
+
+***
