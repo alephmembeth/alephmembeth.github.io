@@ -93,3 +93,5 @@ layout: default
 
 ## Dissertation
 + Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_, dissertation, Oldenburg: University of Oldenburg. ([Link](http://oops.uni-oldenburg.de/6834/)) ([Repository](https://github.com/alephmembeth/need-dissertation))
+
+***
