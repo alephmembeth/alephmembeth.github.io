@@ -4,7 +4,7 @@ layout: default
 
 # Teaching
 
-## Teaching Concepts
+## Courses
 
 <table>
    <tr>
