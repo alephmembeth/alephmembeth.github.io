@@ -15,3 +15,5 @@ The projects I’m currently working on include:
 + an edited volume on game studies (jointly with members of the AKGWDS)
 + an English translation of _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_ (to be published with mentis)
 + a book on the video game _Gothic_
+
+***
