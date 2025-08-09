@@ -22,7 +22,7 @@ layout: default
       </td>
       <td>
          <b>Mind the Gap – Zur Vermittlung von normativer Theorie und empirischer Forschung</b><br>
-          presentation at the lecture series “Junge Philosophie”; Karl-Jaspers-Gesellschaft in Oldenburg; jointly with Malte Ingo Meyerhuber; invited by Ansgar Baumgart, Malte Maria Unverzagt, and Philip Penew
+          presentation at the lecture series ‘Junge Philosophie’; Karl-Jaspers-Gesellschaft in Oldenburg; jointly with Malte Ingo Meyerhuber; invited by Ansgar Baumgart, Malte Maria Unverzagt, and Philip Penew
       </td>
    </tr>
    <tr>
@@ -153,7 +153,7 @@ layout: default
       </td>
       <td>
          <b>Experiments on Needs-Based Justice – When Marginal Gains to the Poor do not Matter</b><br>
-         presentation at the 12th Annual University at Albany Philosophical Association Graduate Conference “Rage Against the Armchair”; University at Albany, The State University of New York; commented by Sydney Faught
+         presentation at the 12th Annual University at Albany Philosophical Association Graduate Conference ‘Rage Against the Armchair’; University at Albany, The State University of New York; commented by Sydney Faught
       </td>
    </tr>
    <tr>
@@ -180,7 +180,7 @@ layout: default
       </td>
       <td>
          <b>Empirisch informierte Maße der Bedarfsgerechtigkeit – Zwischen normativer Theorie, mathematischer Formalisierung und empirischer Sozialforschung</b><br>
-         presentation at the congress of undergraduate research “forschen@studium”; University of Oldenburg
+         presentation at the congress of undergraduate research ‘forschen@studium’; University of Oldenburg
       </td>
    </tr>
 </table>
@@ -212,7 +212,7 @@ layout: default
       </td>
       <td>
          <b>Measuring Need-Based Distributive Justice Normatively and Empirically</b><br>
-         poster presentation at the Symposium on Need-Based Justice of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); University of Hamburg; jointly with Mark Siebel
+         poster presentation at the Symposium on Need-Based Justice of the research group ‘Need-Based Justice and Distribution Procedures’ (FOR 2104) of the German Research Foundation (DFG); University of Hamburg; jointly with Mark Siebel
       </td>
    </tr>
    <tr>
@@ -221,7 +221,7 @@ layout: default
       </td>
       <td>
          <b>Types of Need</b><br>
-         presentation at the workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen
+         presentation at the workshop of the academic assistants of the research group ‘Need-Based Justice and Distribution Procedures’ (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen
       </td>
    </tr>
    <tr>
@@ -230,7 +230,7 @@ layout: default
       </td>
       <td>
          <b>Need and Responsibility</b><br>
-         presentation at the meeting of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen
+         presentation at the meeting of the research group ‘Need-Based Justice and Distribution Procedures’ (FOR 2104) of the German Research Foundation (DFG); Jacobs University Bremen
       </td>
    </tr>
    <tr>
@@ -239,7 +239,7 @@ layout: default
       </td>
       <td>
          <b>What Makes a Theory of Justice ‘Empirically Informed’? On the Possibilities and Impossibilities of Integrating Empirical Research Into Normative Theory</b><br>
-         presentation at the workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); University of Bremen
+         presentation at the workshop of the academic assistants of the research group ‘Need-Based Justice and Distribution Procedures’ (FOR 2104) of the German Research Foundation (DFG); University of Bremen
       </td>
    </tr>
    <tr>
@@ -257,7 +257,7 @@ layout: default
       </td>
       <td>
          <b>Comparative and Non-Comparative Justice – An Experimental Investigation in the Domain of Needs-Based Justice</b><br>
-         presentation at the workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); University of Oldenburg; jointly with Nils Springhorn
+         presentation at the workshop of the academic assistants of the research group ‘Need-Based Justice and Distribution Procedures’ (FOR 2104) of the German Research Foundation (DFG); University of Oldenburg; jointly with Nils Springhorn
       </td>
    </tr>
    <tr>
@@ -266,7 +266,7 @@ layout: default
       </td>
       <td>
          <b>Empirische interkulturelle Forschung zur Evaluation von Bedarfsgerechtigkeit vor dem Hintergrund von sozialisationsbedingten Verzerrungen</b><br>
-         presentation at the workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); University of Oldenburg
+         presentation at the workshop of the academic assistants of the research group ‘Need-Based Justice and Distribution Procedures’ (FOR 2104) of the German Research Foundation (DFG); University of Oldenburg
       </td>
    </tr>
    <tr>
@@ -275,7 +275,7 @@ layout: default
       </td>
       <td>
          <b>Empirische Forschung und normative Theorie – Eine Problembestimmung</b><br>
-         presentation at the summer school “Empirical Research and Normative Theory” at the “Oldenburg School for the Social Sciences and the Humanities 2017” of the Graduate School for the Social Sciences and the Humanities (3GO); University of Oldenburg; jointly with Malte Ingo Meyerhuber
+         presentation at the summer school ‘Empirical Research and Normative Theory’ at the ‘Oldenburg School for the Social Sciences and the Humanities 2017’ of the Graduate School for the Social Sciences and the Humanities (3GO); University of Oldenburg; jointly with Malte Ingo Meyerhuber
       </td>
    </tr>
    <tr>
@@ -284,7 +284,7 @@ layout: default
       </td>
       <td>
          <b>Entwicklung eines empirisch gestützen Maßes der Bedarfsgerechtigkeit – Ein axiomatischer Ansatz</b><br>
-         presentation at the meeting of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Hanse-Wissenschaftskolleg, Institute for Advanced Study (HWK) in Delmenhorst; jointly with Mark Siebel
+         presentation at the meeting of the research group ‘Need-Based Justice and Distribution Procedures’ (FOR 2104) of the German Research Foundation (DFG); Hanse-Wissenschaftskolleg, Institute for Advanced Study (HWK) in Delmenhorst; jointly with Mark Siebel
       </td>
    </tr>
    <tr>
