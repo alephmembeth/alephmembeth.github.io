@@ -20,3 +20,5 @@ layout: default
 ## Papers on Speech Acts
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=speech-constative-performative)](https://github.com/alephmembeth/speech-constative-performative/)
+
+***
