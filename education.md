@@ -44,7 +44,6 @@ layout: default
          <i>Domgymnasium Verden</i><br>
       </td>
    </tr>
-
    <tr>
       <td>
          <b>08/2004 – 06/2007</b>
