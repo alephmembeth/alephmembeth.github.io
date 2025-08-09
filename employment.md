@@ -4,19 +4,78 @@ layout: default
 
 # Employment and Academic Path
 
-<dl>
-   <dt>Visiting Scholar (“Gastwissenschaftler”)</dt>
-      <dd>September 2025 – October 2025; University of Zurich, Department of Philosophy; working with Pascale Willemsen</dd>
-   <dt>Research Associate (“Wissenschaftlicher Mitarbeiter”)</dt>
-      <dd>June 2018 – June 2022, October 2022 – April 2027; University of Oldenburg, Department of Philosophy; working for Mark Siebel</dd>
-   <dt>Research Associate (“Wissenschaftlicher Mitarbeiter”)</dt>
-      <dd>August 2017 – December 2017; Helmut Schmidt University, University of the Federal Armed Forces Hamburg, Department of Economics; working for Stefan Traub</dd>
-   <dt>Teaching Associate (“Lehrbeauftragter”)</dt>
-      <dd>April 2017 – March 2018, October 2018 – March 2021, October 2022 – March 2023, October 2023 – September 2024; University of Oldenburg, Department of Philosophy</dd>
-   <dt>Research Assistant (“Wissenschaftliche Hilfskraft”)</dt>
-      <dd>February 2015 – June 2018; Karl-Jaspers-Gesellschaft e.V.; working for Matthias Bormuth</dd>
-   <dt>Research Assistant (“Studentische Hilfskraft” and “Wissenschaftliche Hilfskraft”)</dt>
-      <dd>October 2013 – June 2018; University of Oldenburg, Department of Philosophy; working for Johann Kreuzer, Mark Siebel, Michael Städtler, and Martin Louis Vialon</dd>
-   <dt>Research Assistant (“Studentische Hilfskraft”)</dt>
-      <dd>April 2012 – June 2013; Institut für Ökonomische Bildung gGmbH; working for Rudolf Schröder</dd>
-</dl>
+<table>
+   <tr>
+      <td width="150">
+         <b>09/2025 – 10/2025</b>
+      </td>
+      <td>
+         <b>Visiting Scholar (“Gastwissenschaftler”)</b><br>
+         <i>University of Zurich</i><br>
+         at the Department of Philosophy, working with Pascale Willemsen
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>06/2018 – 06/2022 <br> 10/2022 – 04/2027</b>
+      </td>
+      <td>
+         <b>Research Associate (“Wissenschaftlicher Mitarbeiter”)</b><br>
+         <i>University of Oldenburg</i><br>
+         at the Department of Philosophy, working for Mark Siebel
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>08/2017 – 12/2017</b>
+      </td>
+      <td>
+         <b>Research Associate (“Wissenschaftlicher Mitarbeiter”)</b><br>
+         <i>Helmut Schmidt University, University of the Federal Armed Forces</i><br>
+         at the Department of Economics, working for Stefan Traub</dd>
+      </td>
+   </tr>
+
+   <tr>
+      <td>
+         <b>04/2017 – 03/2018 <br> 10/2018 – 03/2021 <br> 10/2022 – 03/2023 <br> 10/2023 – 09/2024</b>
+      </td>
+      <td>
+         <b>Teaching Associate (“Lehrbeauftragter”)</b><br>
+         <i>University of Oldenburg</i><br>
+         at the Department of Philosophy
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>02/2015 – 06/2018</b>
+      </td>
+      <td>
+         <b>Research Assistant (“Wissenschaftliche Hilfskraft”)</b><br>
+         <i>Karl-Jaspers-Gesellschaft e.V.</i><br>
+         working for Matthias Bormuth
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>O10/2013 – 06/2018</b>
+      </td>
+      <td>
+         <b>Research Assistant (“Studentische Hilfskraft” and “Wissenschaftliche Hilfskraft”)</b><br>
+         <i>University of Oldenburg</i><br>
+         at the Department of Philosophy, working for Johann Kreuzer, Mark Siebel, Michael Städtler, and Martin Louis Vialon<
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>04/2012 – 06/2013</b>
+      </td>
+      <td>
+         <b>Research Assistant (“Studentische Hilfskraft”)</b><br>
+         <i>Institut für Ökonomische Bildung gGmbH</i><br>
+         working for Rudolf Schröder
+      </td>
+   </tr>
+</table>
+
+***
