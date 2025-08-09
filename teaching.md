@@ -181,7 +181,7 @@ layout: default
 
 <table>
    <tr>
-      <td width="50">
+      <td width="200">
          <b>winter term 2022/2023, <br> summer term 2023, <br> winter term 2023/2024, <br> summer term 2024, <br> winter term 2024/2025, <br> summer term 2025</b>
       </td>
       <td>
