@@ -4,7 +4,7 @@ layout: default
 
 # Get in Touch
 
-If you want to get in touch, you can reach me via <alexander.max.bauer@uol.de>.
+If you would like to get in touch, you can reach me at <alexander.max.bauer@uol.de>.
 
 On the internet, there are also some other places where you can find me, including
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer),
@@ -22,3 +22,5 @@ On the internet, there are also some other places where you can find me, includi
 + [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer),
 + [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth), and
 + [X](https://x.com/alephmembeth).
+
+***
