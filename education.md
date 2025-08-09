@@ -37,7 +37,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>August 2007 – June 2010</b>
+         <b>08/2007 – 06/2010</b>
       </td>
       <td>
          <b>Higher Education Entrance Qualification</b><br>
