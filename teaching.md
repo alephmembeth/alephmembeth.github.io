@@ -8,13 +8,13 @@ layout: default
 
 <table>
    <tr>
-      <td width="200">
+      <td width="150">
          <b>Winter 2025/2026</b>
       </td>
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 2</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2025">repository</a>
+         course at master’s level; jointly with Stephan Kornmesser (<a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a>)
       </td>
    </tr>
    <tr>
@@ -24,7 +24,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 1</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2025">repository</a>
+         course at master’s level; jointly with Stephan Kornmesser (<a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a>)
       </td>
    </tr>
    <tr>
@@ -34,7 +34,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2024">repository</a>
+         course at master’s level; jointly with Stephan Kornmesser (<a href="https://github.com/alephmembeth/course-x-phi-2024">Repository</a>)
       </td>
    </tr>
    <tr>
@@ -153,24 +153,23 @@ layout: default
 
 <table>
    <tr>
-      <td width="200">
-         <b>summer term 2014, <br> summer term 2015</b>
+      <td width="150">
+         <b>Summer 2014, <br> Summer 2015</b>
       </td>
       <td>
          <b>Einführung in die Praktische Philosophie</b><br>
          <i>University of Oldenburg</i><br>
-         tutorial course at bachelor’s level; accompanying the lectures of Martin Louis Vialon (summer term 2014) and Michael Städtler (summer term 2015)
+         tutorial course at bachelor’s level; accompanying the lectures of Martin Louis Vialon (summer 2014) and Michael Städtler (summer 2015)
       </td>
    </tr>
-
    <tr>
       <td>
-         <b>winter term 2012/2013, <br> winter term 2013/2014, <br> winter term 2014/2015, <br> winter term 2015/2016, <br> winter term 2016/2017</b>
+         <b>Winter 2012/2013, <br> Winter 2013/2014, <br> Winter 2014/2015, <br> Winter 2015/2016, <br> Winter 2016/2017</b>
       </td>
       <td>
          <b>Einführung in die Theoretische Philosophie</b><br>
          <i>University of Oldenburg</i><br>
-        tutorial course on bachelor’s level; accompanying the lectures of Mark Siebel)
+        tutorial course on bachelor’s level; accompanying the lectures of Mark Siebel
       </td>
    </tr>
 </table>
@@ -179,8 +178,8 @@ layout: default
 
 <table>
    <tr>
-      <td width="200">
-         <b>winter term 2022/2023, <br> summer term 2023, <br> winter term 2023/2024, <br> summer term 2024, <br> winter term 2024/2025, <br> summer term 2025</b>
+      <td width="150">
+         <b>Winter 2022/2023, <br> Summer 2023, <br> Winter 2023/2024, <br> Summer 2024, <br> Winter 2024/2025, <br> Summer 2025</b>
       </td>
       <td>
          <b>Nach dem Studium promovieren?!</b><br>
@@ -188,26 +187,24 @@ layout: default
          mentor in a programme for students interested in pursuing a doctorate
       </td>
    </tr>
-
    <tr>
       <td>
-         <b>winter term 2018/2019, <br> summer term 2019, <br> winter term 2019/2020, <br> summer term 2020, <br> winter term 2020/2021, <br> summer term 2021, <br> winter term 2021/2022, <br> summer term 2022</b>
+         <b>Winter 2018/2019, <br> Summer 2019, <br> Winter 2019/2020, <br> Summer 2020, <br> Winter 2020/2021, <br> Summer 2021, <br> Winter 2021/2022, <br> Summer 2022</b>
       </td>
       <td>
          <b>Schreibbegleitung für Haus- und Abschlussarbeiten</b><br>
          <i>Graduate School for the Social Sciences and the Humanities (3GO), University of Oldenburg</i><br>
-         writing tutor for students
+         writing tutor in a programme for students working on term papers or theses
       </td>
    </tr>
-
    <tr>
       <td>
-         <b>winter term 2013/2014, <br> winter term 2014/2015, <br> winter term 2015/2016, <br> winter term 2016/2017, <br> winter term 2017/2018, <br> winter term 2018/2019</b>
+         <b>Winter 2013/2014, <br> Winter 2014/2015, <br> Winter 2015/2016, <br> Winter 2016/2017, <br> Winter 2017/2018, <br> Winter 2018/2019</b>
       </td>
       <td>
          <b>Einführung in das wissenschaftliche Arbeiten</b><br>
          <i>University of Oldenburg</i><br>
-         exercise course for first-year students; jointly with Marco Stawinoga (winter terms 2013/2014 and 2014/2015), Katja Vagelpohl (winter terms 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter terms 2017/2018 and 2018/2019)
+         exercise course for first-year students; jointly with Marco Stawinoga (winter 2013/2014 and 2014/2015), Katja Vagelpohl (winter 2015/2016 and 2016/2017), and Maximilian Paul Schulz (winter 2017/2018 and 2018/2019)
       </td>
    </tr>
 </table>
