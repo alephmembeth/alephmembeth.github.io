@@ -49,7 +49,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>Winter 2022/2023 <br> and Summer 2023, <br> Winter 2023/2024 <br> and Summer 2024, <br> Winter 2024/2025 <br> and Summer 2025</b>
+         <b>Winter 2022/2023 <br> and Summer 2023 <br> Winter 2023/2024 <br> and Summer 2024 <br> Winter 2024/2025 <br> and Summer 2025</b>
       </td>
       <td>
          <b>Aristoteles’ “Metaphysik”</b><br>
@@ -154,7 +154,7 @@ layout: default
 <table>
    <tr>
       <td width="150">
-         <b>Summer 2014, <br> Summer 2015</b>
+         <b>Summer 2014 <br> Summer 2015</b>
       </td>
       <td>
          <b>Einführung in die Praktische Philosophie</b><br>
@@ -164,7 +164,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>Winter 2012/2013, <br> Winter 2013/2014, <br> Winter 2014/2015, <br> Winter 2015/2016, <br> Winter 2016/2017</b>
+         <b>Winter 2012/2013 <br> Winter 2013/2014 <br> Winter 2014/2015 <br> Winter 2015/2016 <br> Winter 2016/2017</b>
       </td>
       <td>
          <b>Einführung in die Theoretische Philosophie</b><br>
@@ -179,7 +179,7 @@ layout: default
 <table>
    <tr>
       <td width="150">
-         <b>Winter 2022/2023, <br> Summer 2023, <br> Winter 2023/2024, <br> Summer 2024, <br> Winter 2024/2025, <br> Summer 2025</b>
+         <b>Winter 2022/2023 <br> Summer 2023 <br> Winter 2023/2024 <br> Summer 2024 <br> Winter 2024/2025 <br> Summer 2025</b>
       </td>
       <td>
          <b>Nach dem Studium promovieren?!</b><br>
@@ -189,7 +189,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>Winter 2018/2019, <br> Summer 2019, <br> Winter 2019/2020, <br> Summer 2020, <br> Winter 2020/2021, <br> Summer 2021, <br> Winter 2021/2022, <br> Summer 2022</b>
+         <b>Winter 2018/2019 <br> Summer 2019 <br> Winter 2019/2020 <br> Summer 2020 <br> Winter 2020/2021 <br> Summer 2021 <br> Winter 2021/2022 <br> Summer 2022</b>
       </td>
       <td>
          <b>Schreibbegleitung für Haus- und Abschlussarbeiten</b><br>
@@ -199,7 +199,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>Winter 2013/2014, <br> Winter 2014/2015, <br> Winter 2015/2016, <br> Winter 2016/2017, <br> Winter 2017/2018, <br> Winter 2018/2019</b>
+         <b>Winter 2013/2014 <br> Winter 2014/2015 <br> Winter 2015/2016 <br> Winter 2016/2017 <br> Winter 2017/2018 <br> Winter 2018/2019</b>
       </td>
       <td>
          <b>Einführung in das wissenschaftliche Arbeiten</b><br>
