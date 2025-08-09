@@ -58,7 +58,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>O10/2013 – 06/2018</b>
+         <b>10/2013 – 06/2018</b>
       </td>
       <td>
          <b>Research Assistant (‘Studentische Hilfskraft’ and ‘Wissenschaftliche Hilfskraft’)</b><br>
