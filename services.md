@@ -89,6 +89,8 @@ layout: default
 
 + 3rd European Experimental Philosophy Conference (2023)
 
-### Prizes
+### Prises
 
 + Elizabeth-Magie-Preis (2025)
+
+***
