@@ -9,37 +9,37 @@ layout: default
 <table>
    <tr>
       <td width="200">
-         <b>winter term 2025/2026</b>
+         <b>Winter 2025/2026</b>
       </td>
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 2</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a>
+         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2025">repository</a>
       </td>
    </tr>
    <tr>
       <td>
-         <b>winter term 2025/2026</b>
+         <b>Winter 2025/2026</b>
       </td>
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 1</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a>
+         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2025">repository</a>
       </td>
    </tr>
    <tr>
       <td>
-         <b>summer term 2024</b>
+         <b>Summer 2024</b>
       </td>
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2024">Repository</a>
+         course at master’s level; jointly with Stephan Kornmesser; <a href="https://github.com/alephmembeth/course-x-phi-2024">repository</a>
       </td>
    </tr>
    <tr>
       <td>
-         <b>winter term 2023/2024</b>
+         <b>Winter 2023/2024</b>
       </td>
       <td>
          <b>Einführung in die Experimentelle Theoretische Philosophie</b><br>
@@ -49,7 +49,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>winter term 2022/2023 <br> and summer term 2023, <br> winter term 2023/2024 <br> and summer term 2024, <br> winter term 2024/2025 <br> and summer term 2025</b>
+         <b>Winter 2022/2023 <br> and Summer 2023, <br> Winter 2023/2024 <br> and Summer 2024, <br> Winter 2024/2025 <br> and Summer 2025</b>
       </td>
       <td>
          <b>Aristoteles’ “Metaphysik”</b><br>
@@ -59,7 +59,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>winter term 2022/2023</b>
+         <b>Winter 2022/2023</b>
       </td>
       <td>
          <b>Gedankenexperimente in der Philosophie</b><br>
@@ -69,7 +69,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>winter term 2020/2021</b>
+         <b>Winter 2020/2021</b>
       </td>
       <td>
          <b>Einführung in die Experimentelle Philosophie</b><br>
@@ -79,7 +79,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>summer term 2020</b>
+         <b>Summer 2020</b>
       </td>
       <td>
          <b>Reichtum als moralisches Problem</b><br>
@@ -89,7 +89,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>winter term 2019/2020</b>
+         <b>Winter 2019/2020</b>
       </td>
       <td>
          <b>Ein Gestirn, auf dem kluge Tiere das Erkennen erfanden – Sprache und Erkenntnis in den frühen Schriften Nietzsches</b><br>
@@ -99,7 +99,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>summer term 2019</b>
+         <b>Summer 2019</b>
       </td>
       <td>
          <b>Suffizientarismus – Zu einer Kritik der Unersättlichkeit</b><br>
@@ -107,10 +107,9 @@ layout: default
          course at master’s level
       </td>
    </tr>
-
    <tr>
       <td>
-         <b>winter term 2018/2019</b>
+         <b>Winter 2018/2019</b>
       </td>
       <td>
          <b>Sein und Sollen – Abgründe und Brücken zwischen empirischer Forschung und normativer Theorie</b><br>
@@ -120,7 +119,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>winter term 2017/2018</b>
+         <b>Winter 2017/2018</b>
       </td>
       <td>
          <b>Eduard Beaucamp und die Leipziger Schule – Ästhetik zwischen Kontinuität und Bruch</b><br>
@@ -130,7 +129,7 @@ layout: default
    </tr>
    <tr>
       <td>
-         <b>summer term 2017</b>
+         <b>Summer 2017</b>
       </td>
       <td>
          <b>Operationalisierung von Verteilungsgerechtigkeit – Zur Grundlegung der Messbarkeit von Gerechtigkeit zwischen normativer Theorie und formaler Modellierung</b><br>
@@ -138,10 +137,9 @@ layout: default
          course at master’s level
       </td>
    </tr>
-
    <tr>
       <td>
-         <b>winter term 2015/2016</b>
+         <b>Winter 2015/2016</b>
       </td>
       <td>
          <b>Nietzsche – Frühe Schriften</b><br>
