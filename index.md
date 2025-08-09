@@ -25,7 +25,7 @@ Still not enough? Inspired by [Gilad Feldman](https://mgto.org/check-me-replicat
 
 By the way, the portrait to the left (or above, if you’re on a mobile device) was painted by the talented [Liri Runa](https://linktr.ee/liri_runa) in the art style of [Disco Elysium](https://discoelysium.com/).
 
-# Areas and Tools
+## Areas and Tools
 
 <dl>
    <dt>Areas of Specialization:</dt>
