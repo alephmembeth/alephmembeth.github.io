@@ -62,16 +62,16 @@ layout: default
          <b>since 03/2024</b>
       </td>
       <td>
-         <b>Editor of the leaf category “<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>”<br>
+         <b><b>Editor of the leaf category “<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>”</b><br>
          <i>PhilPapers</i><br>
       </td>
    </tr>
    <tr>
       <td>
-         <b>since 03/2024</b>
+         <b><b>since 03/2024</b>
       </td>
       <td>
-         <b>Editor<br>
+         <b>Editor</b><br>
          <i>The Experimental Philosophy Blog</i><br>
       </td>
    </tr>
