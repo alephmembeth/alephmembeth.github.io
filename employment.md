@@ -32,7 +32,7 @@ layout: default
       <td>
          <b>Research Associate (‘Wissenschaftlicher Mitarbeiter’)</b><br>
          <i>Helmut Schmidt University, University of the Federal Armed Forces</i><br>
-         at the Department of Economics, working for Stefan Traub</dd>
+         at the Department of Economics, working for Stefan Traub
       </td>
    </tr>
    <tr>
