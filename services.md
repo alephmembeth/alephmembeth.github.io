@@ -21,7 +21,7 @@ layout: default
          <b>since 04/2019</b>
       </td>
       <td>
-         <b>Vice Representative of Academic Junior Faculty</b><br>
+         <b>Deputy Representative of Academic Junior Faculty</b><br>
          <i>University of Oldenburg, Department of Philosophy</i><br>
       </td>
    </tr>
@@ -39,7 +39,7 @@ layout: default
          <b>04/2017 – 04/2018</b>
       </td>
       <td>
-         <b>Vice Representative of Doctoral Candidates</b><br>
+         <b>Deputy Representative of Doctoral Candidates</b><br>
          <i>University of Oldenburg, Graduate School for the Social Sciences and the Humanities (3GO)</i><br>
       </td>
    </tr>
@@ -48,7 +48,7 @@ layout: default
          <b>04/2017 – 03/2018</b>
       </td>
       <td>
-         <b>Vice Representative of Students</b><br>
+         <b>Deputy Representative of Students</b><br>
          <i>University of Oldenburg, School of Humanities and Social Sciences</i><br>
       </td>
    </tr>
