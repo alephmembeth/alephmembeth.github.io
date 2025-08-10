@@ -72,7 +72,7 @@ layout: default
       </td>
       <td>
          <b>Need and Responsibility – Experimental Philosophy Investigating Questions of Distributive Justice</b><br>
-         presentation at the 25th Congress of the German Society for Philosophy (DGPhil); Friedrich-Alexander University Erlangen-Nürnberg; moved online due to pandemic
+         presentation at the 25th Congress of the German Society for Philosophy (DGPhil); Friedrich-Alexander University Erlangen-Nürnberg; held online due to pandemic
       </td>
    </tr>
    <tr>
@@ -81,7 +81,7 @@ layout: default
       </td>
       <td>
          <b>Give What You Can, Take What You Need – The Effect of Framing on Fraudulent Behavior in Social Dilemmas</b><br>
-         poster presentation at the Subjective Probability, Utility, and Decision Making Conference; University of Warwick; jointly with Marc Wyszynski; moved online due to pandemic
+         poster presentation at the Subjective Probability, Utility, and Decision Making Conference; University of Warwick; jointly with Marc Wyszynski; held online due to pandemic
       </td>
    </tr>
    <tr>
@@ -99,7 +99,7 @@ layout: default
       </td>
       <td>
          <b>Austin in the Lab – Experimental Evidence in Favor of the Constative-Performative Distinction</b><br>
-         poster presentation and blitz talk at the 1st European Experimental Philosophy Conference; Charles University in Prague; jointly with Stephan Kornmesser; moved online due to pandemic
+         poster presentation and blitz talk at the 1st European Experimental Philosophy Conference; Charles University in Prague; jointly with Stephan Kornmesser; held online due to pandemic
       </td>
    </tr>
    <tr>
@@ -117,7 +117,7 @@ layout: default
       </td>
       <td>
          <b>Need and Responsibility</b><br>
-         presentation at the annual conference of the Society for the Advancement of Behavioral Economics; National Research University, Higher School of Economics, Moscow; moved online due to pandemic
+         presentation at the annual conference of the Society for the Advancement of Behavioral Economics; National Research University, Higher School of Economics, Moscow; held online due to pandemic
       </td>
    </tr>
    <tr>
@@ -126,7 +126,7 @@ layout: default
       </td>
       <td>
          <b>Need and Responsibility – Experimental Philosophy on Questions of Distributive Justice</b><br>
-         presentation at the 1st European Experimental Philosophy Conference; Charles University in Prague; moved online due to pandemic
+         presentation at the 1st European Experimental Philosophy Conference; Charles University in Prague; held online due to pandemic
       </td>
    </tr>
    <tr>
