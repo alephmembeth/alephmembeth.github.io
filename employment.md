@@ -35,7 +35,6 @@ layout: default
          at the Department of Economics, working for Stefan Traub</dd>
       </td>
    </tr>
-
    <tr>
       <td>
          <b>04/2017 – 03/2018 <br> 10/2018 – 03/2021 <br> 10/2022 – 03/2023 <br> 10/2023 – 09/2024</b>
@@ -63,7 +62,7 @@ layout: default
       <td>
          <b>Research Assistant (‘Studentische Hilfskraft’ and ‘Wissenschaftliche Hilfskraft’)</b><br>
          <i>University of Oldenburg</i><br>
-         at the Department of Philosophy, working for Johann Kreuzer, Mark Siebel, Michael Städtler, and Martin Louis Vialon<
+         at the Department of Philosophy, working for Johann Kreuzer, Mark Siebel, Michael Städtler, and Martin Louis Vialon
       </td>
    </tr>
    <tr>
