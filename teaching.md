@@ -169,7 +169,7 @@ layout: default
       <td>
          <b>Einführung in die Theoretische Philosophie</b><br>
          <i>University of Oldenburg</i><br>
-        tutorial course on bachelor’s level; accompanying the lectures of Mark Siebel
+        tutorial course at bachelor’s level; accompanying the lectures of Mark Siebel
       </td>
    </tr>
 </table>
@@ -232,8 +232,8 @@ layout: default
 + Bettels, Tim (2024): _Ausgewählte Theorien des Todes aus einer philosophischen Betrachtung_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Yurt, Delal (2024): _Austragung des Fifa World Cup 2022 in Katar. Ethische Konsequenzen aus menschenrechtlicher Perspektive_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Döhren, Lando (2023): _Der Begriff des Guten in G. E. Moores ‘Principia Ethica’ und Philippa Foots ‘Natural Goodness’_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
-+ Richtsmeier, Karsten (2023): _Die Institution Schule als ‘ideologischer Staatsapparat’ nach Louis Althusser in Kapitalismus und Sozialismus. Ein Vergleich der ideologisierenden Einflussnahme von Bildungssystemen in BRD und DDR_ (masters’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
-+ Krüger, Maimouna (2023): _Sarkasmus in der Sprachenlogik. Wie beeinflusst Sarkasmus Gespräche?_ (bachelors’s thesis; University of Oldenburg; supervisor: Mark Siebel)
++ Richtsmeier, Karsten (2023): _Die Institution Schule als ‘ideologischer Staatsapparat’ nach Louis Althusser in Kapitalismus und Sozialismus. Ein Vergleich der ideologisierenden Einflussnahme von Bildungssystemen in BRD und DDR_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
++ Krüger, Maimouna (2023): _Sarkasmus in der Sprachenlogik. Wie beeinflusst Sarkasmus Gespräche?_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Göbbels, Bastian (2023): _Die Unvereinbarkeit von Positivismus und Kritischer Theorie_ (bachelor’s thesis; University of Oldenburg; supervisor: Myriam Gerhard)
 + Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema ‘Handlungsutilitarismus’ vor dem Hintergrund des Videospiels ‘Star Wars: Knights of the Old Republic II’_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + de Vries, Peter (2022): _Quantitative und qualitative Perspektiven auf bedarfsgerechte Verteilung_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
