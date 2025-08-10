@@ -203,7 +203,7 @@ layout: default
       </td>
       <td>
          <b>Empirische Studien zu Fragen der Bedarfsgerechtigkeit</b><br>
-         doctoral dissertation defense; University of Oldenburg (<a href="https://github.com/alephmembeth/need-dissertation">Slides</a>)
+         doctoral dissertation defence; University of Oldenburg (<a href="https://github.com/alephmembeth/need-dissertation">Slides</a>)
       </td>
    </tr>
    <tr>
