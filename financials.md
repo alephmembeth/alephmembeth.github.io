@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Grants, Bursaries, and Honours
+# Grants, Bursaries, and Awards
 
 My grants, bursaries, and honours amount to a total of **28.345,65 euro**. I deeply appreciate each and every instance of support I have been given.
 
@@ -29,7 +29,7 @@ My grants, bursaries, and honours amount to a total of **28.345,65 euro**. I dee
 + Travel grant for the promotion of young researchers (2019; University of Oldenburg, Faculty IV; 750,00 euro)
 + Financial support for the edited volume ‘Oldenburger Jahrbuch für Philosophie 2017/2018’ (2018; University of Oldenburg, Department of Philosophy; 1.052,00 euro; jointly with Nils Baratella)
 
-## Honors
+## Awards
 
 + Award for Excellence in Teaching, category ‘Research-Based Learning’ (‘Preis der Lehre’, category ‘Forschendes Lernen’; 2023/2024; University of Oldenburg; 1.000,00 euro; jointly with Stephan Kornmesser) ([Link](https://uol.de/preisderlehre/preistraegerinnen-2024))
 + Germany Scholarship (‘Deutschlandstipendium’; 2015/2016; University of Oldenburg; 3.600,00 euro)
