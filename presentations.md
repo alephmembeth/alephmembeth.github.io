@@ -283,7 +283,7 @@ layout: default
          <b>12/02/2016</b>
       </td>
       <td>
-         <b>Entwicklung eines empirisch gestützen Maßes der Bedarfsgerechtigkeit – Ein axiomatischer Ansatz</b><br>
+         <b>Entwicklung eines empirisch gestützten Maßes der Bedarfsgerechtigkeit – Ein axiomatischer Ansatz</b><br>
          presentation at the meeting of the research group ‘Need-Based Justice and Distribution Procedures’ (FOR 2104) of the German Research Foundation (DFG); Hanse-Wissenschaftskolleg, Institute for Advanced Study (HWK) in Delmenhorst; jointly with Mark Siebel
       </td>
    </tr>
