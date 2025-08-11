@@ -222,6 +222,7 @@ layout: default
 
 ## Theses
 
++ Saylam, Esma (2025): _Die Auseinandersetzung mit dem Tod durch philosophisches Denken. Eine Herangehensweise anhand des Bilderbuchs ‘Von Larven und Libellen’ von Gesa Rensmann_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
 + Jahnel, Niklas (2025): _Nihilismus, Moral und Glaube. Ein interdisziplinärer Ansatz_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Götting, Larissa Virginia (2025): _Zwischen dem Ideal einer ‘Erziehung nach Auschwitz’ im Sinne Theodor W. Adornos und der ‘Kulturindustrie.’ Darstellung der Veränderung des Erinnerns am Beispiel der Instagram-Kanäle @ichbinsophiescholl und @eva.stories_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Bockfeld, Falk (2025): _‘Do You Hate Your Meat?’ Eine Untersuchung der Darstellung von Gefahren und Potenzialen postmenschlicher Lebensmodi in ‘Cyberpunk 2077’ nach der Theorie von Nick Bostrom_ (bachelor’s thesis; University of Oldenburg; second examiner: Paul Blattner)
