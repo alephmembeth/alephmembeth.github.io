@@ -63,7 +63,7 @@ layout: default
       </td>
       <td>
          <b>Editor of the leaf category “<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>”</b><br>
-         <i>PhilPapers</i><br>
+         <i><a href="https://philpapers.org/">PhilPapers</a></i><br>
       </td>
    </tr>
    <tr>
@@ -72,7 +72,7 @@ layout: default
       </td>
       <td>
          <b>Editor</b><br>
-         <i>The Experimental Philosophy Blog</i><br>
+         <i><a href="https://xphi.net/">The Experimental Philosophy Blog</a></i><br>
       </td>
    </tr>
 </table>
