@@ -9,9 +9,9 @@ My grants, bursaries, and awards total **€28,345.65**. I deeply appreciate eac
 ## Grants and Bursaries
 + Financial support for the project ‘“Das ist doch (un)fair!” – Verteilungsgerechtigkeit bei Kindern und Jugendlichen’ (2025; EWE Stiftung; €2,000.00; jointly with Neele Bäker and Jessica Wilke)
 + Financial support for the journal ‘Oldenburger Philosophische Studien’ (since 2025; University of Oldenburg, Department of Philosophy; €36.00 one-off plus €36.00 annually, total as of 2025: €72.00; jointly with Sven Ellmers, Anna-Verena Nosthoff, and Aylin Yildirim)
-+ Travel grant for the promotion of young researchers (2025; University of Oldenburg, Faculty IV; €750.00)
++ Travel grant for the promotion of young researchers (2025; University of Oldenburg, School of Humanities and Social Sciences; €750.00)
 + Financial support for an empirical study on distributive justice (2025; University of Oldenburg, Department of Philosophy; €850.00)
-+ Travel grant for the promotion of young researchers (2024; University of Oldenburg, Faculty IV; €350.00)
++ Travel grant for the promotion of young researchers (2024; University of Oldenburg, School of Humanities and Social Sciences; €350.00)
 + Financial support for the edited volume ‘Oldenburger Jahrbuch für Philosophie 2021/2022’ (2024; University of Oldenburg, Department of Philosophy; €1,334.14; jointly with Helena Esther Grass)
 + Financial support for the volume ‘Empirische Studien zu Fragen der Bedarfsgerechtigkeit’ (2024; University of Oldenburg, Department of Philosophy; €367.09)
 + Grant for research-based learning instructional projects for the course ‘Forschungsorientierte Einführung in die Experimentelle Philosophie’ (2024; University of Oldenburg, forschen@studium; €3,000.00; jointly with Stephan Kornmesser)
@@ -22,11 +22,11 @@ My grants, bursaries, and awards total **€28,345.65**. I deeply appreciate eac
 + Financial support for the edited volume ‘Oldenburger Jahrbuch für Philosophie 2019/2020’ (2020; University of Oldenburg, Department of Philosophy; €1,265.36; jointly with Nils Baratella)
 + Financial support for the edited volume ‘Paradoxien’ (2020; University of Oldenburg, Department of Philosophy; €2,500.00; jointly with Gregor Damschen and Mark Siebel)
 + Financial support for an empirical study on speech acts (2020; Universitätsgesellschaft Oldenburg; €1,000.00; jointly with Stephan Kornmesser)
-+ Travel grant for the promotion of young researchers (2020; University of Oldenburg, Faculty IV; €500.00)
-+ Travel grant for the promotion of young researchers (2020; University of Oldenburg, Faculty IV; €350.00)
++ Travel grant for the promotion of young researchers (2020; University of Oldenburg, School of Humanities and Social Sciences; €500.00)
++ Travel grant for the promotion of young researchers (2020; University of Oldenburg, School of Humanities and Social Sciences; €350.00)
 + Financial support for the lecture series ‘Paradoxien’ (2020; Gesellschaft für Analytische Philosophie; €240.00; jointly with Gregor Damschen and Mark Siebel)
-+ Travel grant for the promotion of young researchers (2019; University of Oldenburg, Faculty IV; €500.00)
-+ Travel grant for the promotion of young researchers (2019; University of Oldenburg, Faculty IV; €750.00)
++ Travel grant for the promotion of young researchers (2019; University of Oldenburg, School of Humanities and Social Sciences; €500.00)
++ Travel grant for the promotion of young researchers (2019; University of Oldenburg, School of Humanities and Social Sciences; €750.00)
 + Financial support for the edited volume ‘Oldenburger Jahrbuch für Philosophie 2017/2018’ (2018; University of Oldenburg, Department of Philosophy; €1,052.00; jointly with Nils Baratella)
 
 ## Awards
