@@ -4,7 +4,20 @@ layout: default
 
 # Get in Touch
 
+## E-Mail
+
 If you would like to get in touch, you can reach me at <alexander.max.bauer@uol.de>.
+
+## Address
+
+Carl von Ossietzky University of Oldenburg
+School of Humanities and Social Sciences
+Department of Philosophy
+Ammerländer Heerstraße 114 – 119
+26129 Oldenburg
+Germany
+
+## Other Places
 
 On the internet, there are also some other places where you can find me, including
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer),
