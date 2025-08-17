@@ -31,7 +31,7 @@ The great people with whom I have had the pleasure to work or with whom I’m cu
 + [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html)
 + [Anna-Verena Nosthoff](https://uol.de/philosophie/mitarbeiterinnen/prof-dr-anna-verena-nosthoff) (University of Oldenburg)
 + [Wiktoria Pedryc](https://psych.la.psu.edu/people/wiktoria-m-pedryc/) (The Pennsylvania State University)
-+ [Kevin Reuter](http://www.kevinreuter.com/) (University of Zurich)
++ [Kevin Reuter](http://www.kevinreuter.com/) (University of Gothenburg)
 + [Jan Romann](https://github.com/JKRhb) (Koordinierungsstelle für IT-Standards)
 + [Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
 + [Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
