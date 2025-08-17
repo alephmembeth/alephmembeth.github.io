@@ -4,6 +4,12 @@ layout: default
 
 # Collaborators
 
+## Map
+<iframe title="" aria-label="Symbol map" id="datawrapper-chart-LgeJw" src="https://datawrapper.dwcdn.net/LgeJw/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="310" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
+</script>
+
+## People
+
 The great people with whom I have had the pleasure to work or with whom I’m currently working include:
 + [Mark Alfano](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University)
 + [Aurélien Allard](https://aurelienallard.netlify.app/) (University of Geneva)
