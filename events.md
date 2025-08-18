@@ -4,6 +4,8 @@ layout: default
 
 # Events
 
+***
+
 <table>
    <tr>
       <td width="150">
