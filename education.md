@@ -4,6 +4,8 @@ layout: default
 
 # Education
 
+***
+
 <table>
    <tr>
       <td width="150">
