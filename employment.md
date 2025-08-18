@@ -4,6 +4,8 @@ layout: default
 
 # Employment and Academic Path
 
+***
+
 <table>
    <tr>
       <td width="150">
