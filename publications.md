@@ -6,6 +6,7 @@ layout: default
 
 ## Manuscripts in Preparation or Under Review
 + Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (submitted to _New Ideas in Psychology_): ‘The Kraemer Effect Reconsidered.’
++ Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (in preparation): ‘“Einhundert Leute haben wir gefragt…” Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum.’ ([Repository](https://github.com/alephmembeth/survey-game-studies-2025))
 + Schippers, Michael, Mark Siebel, Stephan Kornmesser, and Alexander Max Bauer (in preparation): ‘So Close and Yet So Far. Why Measures of Divergence and Similarity Make Bad Measures of Coherence.’
 + Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.B. Metzler.
 
