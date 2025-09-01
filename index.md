@@ -10,6 +10,8 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
 
 * * *
 
+{% include timeline.html %}
+
 <dl>
    <dt>Areas of Interest:</dt>
    <dd><a href="https://openreview.net/pdf?id=CSi1eu_2q96" target="_blank">NLG Evaluation</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-031-56063-7_24" target="_blank">Retrieval</a>, <a href="https://aclanthology.org/2024.scichat-1.5/" target="_blank">Retrieval Augmented Generation</a>, <a href="https://arxiv.org/pdf/2412.05206">RAG Evaluation</a></dd>
