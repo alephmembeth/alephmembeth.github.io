@@ -28,7 +28,7 @@ The great people with whom I have had the pleasure to work or with whom I’m cu
 + [Lukas Daniel Klausner](https://www.fhstp.ac.at/de/uber-uns/mitarbeiter-innen-a-z/klausner-lukas) (University of Applied Sciences St. Pölten)
 + [Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
 + [Frauke Meyer](https://www.linkedin.com/in/frauke-meyer-ph-d-7a07b6154/) (Knapp Data Quality)
-+ [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html)
++ [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (Independent)
 + [Anna-Verena Nosthoff](https://uol.de/philosophie/mitarbeiterinnen/prof-dr-anna-verena-nosthoff) (University of Oldenburg)
 + [Wiktoria Pedryc](https://psych.la.psu.edu/people/wiktoria-m-pedryc/) (The Pennsylvania State University)
 + [Kevin Reuter](http://www.kevinreuter.com/) (University of Gothenburg)
