@@ -5,7 +5,6 @@ layout: default
 # Publications
 
 ## Manuscripts in Preparation or Under Review
-+ Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (submitted to _New Ideas in Psychology_): ‘The Kraemer Effect Reconsidered.’
 + Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (in preparation): ‘“Einhundert Leute haben wir gefragt…” Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum.’ ([Repository](https://github.com/alephmembeth/survey-game-studies-2025))
 + Schippers, Michael, Mark Siebel, Stephan Kornmesser, and Alexander Max Bauer (in preparation): ‘So Close and Yet So Far. Why Measures of Divergence and Similarity Make Bad Measures of Coherence.’
 + Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.B. Metzler.
@@ -23,6 +22,7 @@ layout: default
 + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): ‘Verschwörungserzählungen,’ special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). ([Link](https://www.praktische-philosophie.org/zfpp/issue/view/20/))
 
 ## Contributions to Journals
++ Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (forthcoming): ‘The Kraemer Effect Reconsidered,’_New Ideas in Psychology_. (peer-reviewed)
 + Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): ‘Thinking About Need. A Vignette Experiment on Need-Based Distributive Justice,’ _The Journal of Economic Inequality_. (peer-reviewed) ([Link](https://link.springer.com/article/10.1007/s10888-025-09698-1)) ([Repository](https://github.com/alephmembeth/need-reference-point))
 + Kornmesser, Stephan, and Alexander Max Bauer (2023): ‘Austin in the Lab. Empirically Reconsidering the Constative-Performative Distinction,’ _Topics in Linguistics_ 24 (2), 1–14. (peer-reviewed) ([Link](https://sciendo.com/article/10.2478/topling-2023-0008)) ([Repository](https://github.com/alephmembeth/speech-constative-performative/))
 + Bauer, Alexander Max, Jan Romann, Mark Siebel, and Stefan Traub (2023): ‘Winter is Coming. How Laypeople Think About Different Kinds of Needs,’ _PLOS ONE_ 18 (11), e0294572. (peer-reviewed) ([Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294572)) ([Repository](https://github.com/alephmembeth/need-kinds))
