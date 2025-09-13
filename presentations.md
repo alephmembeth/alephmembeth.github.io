@@ -190,6 +190,15 @@ layout: default
 <table>
    <tr>
       <td width="150">
+         <b>03/10/2025</b>
+      </td>
+      <td>
+         <b>Distributive Justice and Reference Points Revisited</b><br>
+         presentation at the lab meeting of the Experimental Philosophy Group; University of Zurich
+      </td>
+   </tr>
+   <tr>
+      <td>
          <b>03/06/2025</b>
       </td>
       <td>
