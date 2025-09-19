@@ -203,7 +203,7 @@ layout: default
       </td>
       <td>
          <b>Distributive Justice and Reference Points</b><br>
-         presentation at the lab meeting of the Experimental Philosophy Group; University of Zurich; attended online
+         presentation at the lab meeting of the Experimental Philosophy Group; University of Zurich; attended online (<a href="https://github.com/alephmembeth/need-fulfilment/blob/main/slides/need_fulfilment_slides.pdf">Slides</a>)
       </td>
    </tr>
    <tr>
