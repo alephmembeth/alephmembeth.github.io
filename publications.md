@@ -5,7 +5,7 @@ layout: default
 # Publications
 
 ## Manuscripts in Preparation or Under Review
-+ Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (in preparation): ‘“Einhundert Leute haben wir gefragt…” Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum.’ ([Repository](https://github.com/alephmembeth/survey-game-studies-2025))
++ Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (in preparation): ‘“Einhundert Leute haben wir gefragt…” Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum,’ in: _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_ ([Repository](https://github.com/alephmembeth/survey-game-studies-2025))
 + Schippers, Michael, Mark Siebel, Stephan Kornmesser, and Alexander Max Bauer (in preparation): ‘So Close and Yet So Far. Why Measures of Divergence and Similarity Make Bad Measures of Coherence.’
 + Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.B. Metzler.
 
