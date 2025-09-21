@@ -16,7 +16,7 @@ The great people with whom I have had the pleasure to work or with whom I’m cu
 + [Neele Bäker](https://uol.de/sonderpaedagogik/psychologie/dr-neele-baeker-geb-schipper) (University of Oldenburg)
 + [Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
 + [Lucien Baumgartner](https://www.dsi.uzh.ch/en/people/phd-students/phds_2021-2023/lbaumgartner.html) (University of Zurich)
-+ [Henrike Buss](https://www.linkedin.com/in/henrike-buss-347944264/) (Studydrive)
++ [Henrike Buss](https://www.linkedin.com/in/henrike-buss-347944264/) (Afilio)
 + [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
 + [Gregor Damschen](https://philosophie.uni-greifswald.de/praktische-philosophie/dr-gregor-damschen/) (University of Greifswald)
 + [Adele Diederich](https://www.researchgate.net/profile/Adele-Diederich/) (University of Oldenburg)
