@@ -13,7 +13,7 @@ layout: default
       </td>
       <td>
          <b>Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation</b><br>
-         presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki (<a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2024.pdf">Slides</a>)
+         presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki (<a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2024_07.pdf">Slides</a>)
       </td>
    </tr>
    <tr>
@@ -45,7 +45,7 @@ layout: default
       </td>
       <td>
          <b>Empirical Studies on Questions of Need-Based Distributive Justice</b><br>
-         presentation at the 5th European Experimental Philosophy Conference; University of East Anglia (<a href="https://github.com/alephmembeth/need-dissertation/blob/main/need_dissertation_slides_english.pdf">Slides</a>)
+         presentation at the 5th European Experimental Philosophy Conference; University of East Anglia (<a href="https://github.com/alephmembeth/need-dissertation/blob/main/need_dissertation_slides_2025_07.pdf">Slides</a>)
       </td>
    </tr>
    <tr>
@@ -63,7 +63,7 @@ layout: default
       </td>
       <td>
          <b>Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation</b><br>
-         presentation at the 3rd European Experimental Philosophy Conference; University of Zurich; attended online due to funding problems (<a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2023.pdf">Slides</a>)
+         presentation at the 3rd European Experimental Philosophy Conference; University of Zurich; attended online due to funding problems (<a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2023_09.pdf">Slides</a>)
       </td>
    </tr>
    <tr>
