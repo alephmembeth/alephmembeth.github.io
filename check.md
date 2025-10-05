@@ -27,6 +27,6 @@ Should you be interested in replicating my work, there are a few things I offer 
 
 ## Errata
 
-+ Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): ‘Correction to: Thinking About Need,’ _The Journal of Economic Inequality_. ((Link)[https://link.springer.com/article/10.1007/s10888-025-09711-7])
++ Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): ‘Correction to: Thinking About Need,’ _The Journal of Economic Inequality_. ([Link](https://link.springer.com/article/10.1007/s10888-025-09711-7))
 
 ***
