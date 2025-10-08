@@ -190,6 +190,15 @@ layout: default
 <table>
    <tr>
       <td width="150">
+         <b>29/11/2025</b>
+      </td>
+      <td>
+         <b>Jubiläumssammelband ‘Geisteswissenschaften und Digitale Spiele – Debatten, Data & Desiderata’</b><br>
+         presentation at the online anniversary conference ‘Spielkulturen’ of the AKGWDS
+      </td>
+   </tr>
+   <tr>
+      <td>
          <b>03/10/2025</b>
       </td>
       <td>
