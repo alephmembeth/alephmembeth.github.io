@@ -10,6 +10,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Odo Marquard (2023): _Zeitalter der Weltfremdheit? Drei Essays_, Stuttgart: Reclam.
 + Gregor Betz (2020): _Argumentationsanalyse. Eine Einführung_, Berlin: J.&nbsp;B. Metzler.
 + Adriano Mannino (2021): _Wen rette ich – und wenn ja, wie viele? Über Triage und Verteilungsgerechtigkeit_, Stuttgart: Reclam.
 + Wilhelm Büttemeyer (2014): _Logik zur Einführung_, Hamburg: Junius.
