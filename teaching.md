@@ -9,16 +9,6 @@ layout: default
 <table>
    <tr>
       <td width="150">
-         <b>Summer 2026</b>
-      </td>
-      <td>
-         <b>Einführung in die Experimentelle Philosophie</b><br>
-         <i>University of Oldenburg</i><br>
-         course at bachelor’s level
-      </td>
-   </tr>
-   <tr>
-      <td width="150">
          <b>Winter 2025/2026</b>
       </td>
       <td>
