@@ -179,7 +179,7 @@ layout: default
 <table>
    <tr>
       <td width="150">
-         <b>Winter 2022/2023 <br> Summer 2023 <br> Winter 2023/2024 <br> Summer 2024 <br> Winter 2024/2025 <br> Summer 2025</b>
+         <b>Winter 2022/2023 <br> Summer 2023 <br> Winter 2023/2024 <br> Summer 2024 <br> Winter 2024/2025 <br> Summer 2025 <br> Winter 2025/2026</b>
       </td>
       <td>
          <b>Nach dem Studium promovieren?!</b><br>
