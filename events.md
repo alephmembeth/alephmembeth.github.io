@@ -16,6 +16,14 @@ layout: default
          lecture series; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen
       </td>
    </tr>
+      <td>
+         <b>Summer 2026</b>
+      </td>
+      <td>
+         <b>Wege in den Beruf – Außerschulische Perspektiven für Geistes-, Sprach- und Kulturwissenschaftler*innen</b><br>
+         lecture series; University of Oldenburg; organised jointly with Friederike Nastold
+      </td>
+   </tr>
    <tr>
       <td>
          <b>Summer 2022 <br> Winter 2022/2023 <br> Summer 2023 <br> Winter 2023/2024 <br> Summer 2024 <br> Winter 2024/2025</b>
