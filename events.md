@@ -9,6 +9,15 @@ layout: default
 <table>
    <tr>
       <td width="150">
+         <b>Winter 2026/2027</b>
+      </td>
+      <td>
+         <b>Topics in the Cognitive Sciences of Morality</b><br>
+         lecture series; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen
+      </td>
+   </tr>
+   <tr>
+      <td>
          <b>Summer 2022 <br> Winter 2022/2023 <br> Summer 2023 <br> Winter 2023/2024 <br> Summer 2024 <br> Winter 2024/2025</b>
       </td>
       <td>
