@@ -10,6 +10,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Gordon Nies (2013): _Das Verhältnis von Magie und Religion am Beispiel des Fantasyrollenspiels ‘Das schwarze Auge’_, Munich: Grin.
 + Odo Marquard (2023): _Zeitalter der Weltfremdheit? Drei Essays_, Stuttgart: Reclam.
 + Gregor Betz (2020): _Argumentationsanalyse. Eine Einführung_, Berlin: J.&nbsp;B. Metzler.
 + Adriano Mannino (2021): _Wen rette ich – und wenn ja, wie viele? Über Triage und Verteilungsgerechtigkeit_, Stuttgart: Reclam.
