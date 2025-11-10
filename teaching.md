@@ -222,6 +222,7 @@ layout: default
 
 ## Theses
 
++ Lian, Jessica Xinyi (2025): _Does immortality bring us meaning in life? Criteria for a fulfilling everlasting life with ‘Frieren: Beyond a Journey’s End’ as an example_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
 + Heinks, Ellen (2025): _Aristoteles’ Konzept der Tugendfreundschaft. Eine Analyse anhand des Films ‘Ziemlich beste Freunde’_ (bachelor’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Saylam, Esma (2025): _Die Auseinandersetzung mit dem Tod durch philosophisches Denken. Eine Herangehensweise anhand des Bilderbuchs ‘Von Larven und Libellen’ von Gesa Rensmann_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
 + Jahnel, Niklas (2025): _Nihilismus, Moral und Glaube. Ein interdisziplinärer Ansatz_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
