@@ -194,7 +194,7 @@ layout: default
       </td>
       <td>
          <b>Jubiläumssammelband ‘Geisteswissenschaften und Digitale Spiele – Debatten, Data & Desiderata’</b><br>
-         presentation at the online anniversary conference ‘Spielkulturen’ of the AKGWDS
+         presentation at the online anniversary conference ‘Spielkulturen’ of the AKGWDS; jointly with Lukas Daniel Klausner and Christian Sturm
       </td>
    </tr>
    <tr>
