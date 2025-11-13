@@ -12,7 +12,7 @@ layout: default
 + Bauer, Alexander Max, and Mark Siebel (eds.) (in preparation): _Advances in Experimental Philosophy of Distributive Justice_, London, New York, Oxford, New Delhi, and Sydney: Bloomsbury Academic.
 
 ## Monographs
-+ Bauer, Alexander Max (forthcoming): _Empirical Studies on Questions of Need-Based Distributive Justice_, Paderborn: mentis. ([Link](https://brill.com/display/title/71801)) ([Repository](https://github.com/alephmembeth/need-dissertation))
++ Bauer, Alexander Max (2025): _Empirical Studies on Questions of Need-Based Distributive Justice_, Paderborn: mentis. ([Link](https://brill.com/display/title/71801)) ([Repository](https://github.com/alephmembeth/need-dissertation))
 + Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (2024): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_, Cham: Springer. ([Link](https://link.springer.com/book/9783031580482))
 + Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_, Oldenburg: University of Oldenburg Press. ([Link](https://oops.uni-oldenburg.de/6835)) ([Repository](https://github.com/alephmembeth/need-dissertation))
 
