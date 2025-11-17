@@ -19,8 +19,13 @@ layout: default
 ## Contributions to Monographs With Multiple Authors
 + Bauer, Alexander Max, Stephan Kornmesser, and Henrike Meyer (2024): ‘Constative and Performative Utterances, Χ<sup>2</sup> Tests, and LimeSurvey,’ in: Stephan Kornmesser, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski: _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_, Cham: Springer, 19–88. ([Link](https://link.springer.com/chapter/10.1007/978-3-031-58049-9_2))
 
-## Journals and Special Issues
-+ Bauer, Alexander Max, Sven Ellmers, Anna-Verena Nosthoff, and Aylin Yildirim (eds.) (forthcoming): _Oldenburger Philosophische Studien_. ([Link](https://ojs.uni-oldenburg.de/journals/ojs4/ojs/index.php/ops/de/index))
+## Editorial Roles in Journals
+
+### Positions
++ **Co-Editor-in-Chief (forthcoming):** _Oldenburger Philosophische Studien_. ([Link](https://ojs.uni-oldenburg.de/journals/ojs4/ojs/index.php/ops/de/index))
++ **Section Editor (2025):** _Experimental Philosophy_. ([Link](https://journals.ub.uni-koeln.de/index.php/xphi))
+
+### Special Issues
 + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): ‘Verschwörungserzählungen,’ special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). ([Link](https://www.praktische-philosophie.org/zfpp/issue/view/20/))
 
 ## Contributions to Journals
