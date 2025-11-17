@@ -22,8 +22,8 @@ layout: default
 ## Editorial Roles in Journals
 
 ### Positions
-+ **Co-Editor-in-Chief (forthcoming):** _Oldenburger Philosophische Studien_. ([Link](https://ojs.uni-oldenburg.de/journals/ojs4/ojs/index.php/ops/de/index))
-+ **Section Editor (2025):** _Experimental Philosophy_. ([Link](https://journals.ub.uni-koeln.de/index.php/xphi))
++ **Co-Editor-in-Chief (since 2025):** _Oldenburger Philosophische Studien_. ([Link](https://ojs.uni-oldenburg.de/journals/ojs4/ojs/index.php/ops/de/index))
++ **Section Editor (since 2025):** _Experimental Philosophy_. ([Link](https://journals.ub.uni-koeln.de/index.php/xphi))
 
 ### Special Issues
 + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): ‘Verschwörungserzählungen,’ special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). ([Link](https://www.praktische-philosophie.org/zfpp/issue/view/20/))
