@@ -54,7 +54,30 @@ layout: default
    </tr>
 </table>
 
-## Online Editorships
+## Editorial Roles in Journals
+
+<table>
+   <tr>
+      <td width="150">
+         <b>forthcoming</b>
+      </td>
+      <td>
+         <b>Co-Editor-in-Chief</b><br>
+         <i><a href="Oldenburger Philosophische Studien">Oldenburger Philosophische Studien</a></i><br>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>since 11/2025</b>
+      </td>
+      <td>
+         <b>Section Editor</b><br>
+         <i><a href="https://journals.ub.uni-koeln.de/index.php/xphi">Experimental Philosophy</a></i><br>
+      </td>
+   </tr>
+</table>
+
+## Editorial Roles for Online Platforms
 
 <table>
    <tr>
