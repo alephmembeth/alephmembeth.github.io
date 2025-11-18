@@ -33,6 +33,7 @@ On the internet, there are also some other places where you can find me, includi
 + [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57221999493),
 + [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5771974),
 + [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer),
++ [Web of Science](https://www.webofscience.com/wos/author/record/OVY-1117-2025)
 + [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth), and
 + [X (formerly Twitter)](https://x.com/alephmembeth).
 
