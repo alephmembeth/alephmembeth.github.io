@@ -85,7 +85,7 @@ layout: default
          <b>since 03/2024</b>
       </td>
       <td>
-         <b>Editor of the leaf category “<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>”</b><br>
+         <b>Leaf Category Editor (<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>)</b><br>
          <i><a href="https://philpapers.org/">PhilPapers</a></i><br>
       </td>
    </tr>
