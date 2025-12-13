@@ -18,9 +18,7 @@ Below, you can find a selection of my current projects.
 + a book on the video game _Gothic_
 
 ## Studies and Articles
-+ a study on praise (jointly with Pascale Willemsen and Lucien Baumgartner)
 + a study on need-based distributive justice (jointly with Mark Siebel)
-+ a study on methods used in German-speaking game studies (jointly with Lukas Daniel Klausner and Tobias Unterhuber)
 + a paper on measures of coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
 
 ***
