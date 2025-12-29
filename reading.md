@@ -10,6 +10,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Aldous Huxley (2025): _Zeit der Oligarchen. Über Wissenschaft, Freiheit und Frieden_, trans. by Jürgen Neubauer, Munich: Hanser.
 + Benjamin Beil (2013): _Game Studies. Eine Einführung_, Münster: LIT.
 + Gordon Nies (2013): _Das Verhältnis von Magie und Religion am Beispiel des Fantasyrollenspiels ‘Das schwarze Auge’_, Munich: Grin.
 + Odo Marquard (2023): _Zeitalter der Weltfremdheit? Drei Essays_, Stuttgart: Reclam.
@@ -33,7 +34,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
-+ Philipp Melanchthon (2023): _De miseriis paedagogorum. Über die Leiden der Lehrer_, ed. by Carolin Ritter, Stuttgart: Reclam.
++ Philipp Melanchthon (2023): _De miseriis paedagogorum. Über die Leiden der Lehrer_, trans. and ed. by Carolin Ritter, Stuttgart: Reclam.
 + Thomas Bauer (2018): _Die Vereindeutigung der Welt. Über den Verlust an Mehrdeutigkeit und Vielfalt_, Stuttgart: Reclam.
 + Georg Christoph Lichtenberg (2012): _Aphorismen_, ed. by Friedrich Sengle, Stuttgart: Reclam.
 + Nils Baratella, Ansgar Lorenz, Stefania Maffeis, and Juliane Eva Reichert (2017): _Hannah Arendt_, Paderborn: Wilhelm Fink.
