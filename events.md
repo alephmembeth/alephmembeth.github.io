@@ -16,6 +16,7 @@ layout: default
          lecture series; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen
       </td>
    </tr>
+   <tr>
       <td>
          <b>Summer 2026</b>
       </td>
