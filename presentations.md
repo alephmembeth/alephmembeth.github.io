@@ -190,6 +190,16 @@ layout: default
 <table>
    <tr>
       <td width="150">
+         <b>16/01/2026</b>
+      </td>
+      <td>
+         <b>Moral Self and Socioeconomic Profiles in Middle Childhood – A Cluster-Analytic Study and Links to Self Esteem, Prosocial Behavior, and Aggressive Behavior</b><br>
+         poster presentation at the Moral Research Conference; Ludwig Maximilian University of Munich; jointly with Jamie Gahtan, Neele Bäker, Jule Eilts, and Jessica Wilke
+      </td>
+   </tr>
+   <tr>
+      <td>
+      <td>
          <b>29/11/2025</b>
       </td>
       <td>
