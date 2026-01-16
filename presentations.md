@@ -144,7 +144,7 @@ layout: default
       </td>
       <td>
          <b>Modern Day Ethics Between Empirical Research and Normative Theory</b><br>
-         presentation at the Swedish Congress of Philosophy (Filosofidagarna); Umeå Universitet
+         presentation at the Swedish Congress of Philosophy (‘Filosofidagarna’); Umeå Universitet
       </td>
    </tr>
    <tr>
@@ -194,7 +194,7 @@ layout: default
       </td>
       <td>
          <b>Moral Self and Socioeconomic Profiles in Middle Childhood – A Cluster-Analytic Study and Links to Self Esteem, Prosocial Behavior, and Aggressive Behavior</b><br>
-         poster presentation at the Moral Research Conference; Ludwig Maximilian University of Munich; jointly with Jamie Gahtan, Neele Bäker, Jule Eilts, and Jessica Wilke
+         poster presentation at the Moral Research Conference (‘Tagung der Moralforscher:innen’); Ludwig Maximilian University of Munich; jointly with Jamie Gahtan, Neele Bäker, Jule Eilts, and Jessica Wilke
       </td>
    </tr>
    <tr>
