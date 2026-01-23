@@ -6,6 +6,12 @@ layout: default
 
 Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling a chronological list of (more or less) academic literature I have recently read. I don’t include half-read texts, only those I have read from the very first to the very last page.
 
+## 2026
+
+### Books
+
++ Peter Meier-Hüsing (2022): _Nazis in Tibet. Das Rätsel um die SS-Expedition Ernst Schäfer_, Darmstadt: Wissenschaftliche Buchgesellschaft.
+
 ## 2025
 
 ### Books
