@@ -222,7 +222,7 @@ layout: default
 
 ## Theses
 
-+ Göbbels, Bastian (2025): _Subjekt, Natur, Herrschaft. Zur Genealogie der instrumentellen Vernunft bei Horkheimer im Kontext von Descartes, Fichte und Marx_ (master’s thesis; University of Oldenburg; supervisor: Christine Zunke)
++ Schaaf, Tristan (2026): _Inwiefern lässt sich der Tod als Gegenstand gerechter Verteilung begreifen, und wie gehen unterschiedliche Gerechtigkeitstheorien mit Ungleichheiten von Todesrisiken um?_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Lian, Jessica Xinyi (2025): _Does Immortality Bring Us Meaning in Life? Criteria for a Fulfilling Everlasting Life With ‘Frieren: Beyond a Journey’s End’ as an Example_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
 + Heinks, Ellen (2025): _Aristoteles’ Konzept der Tugendfreundschaft. Eine Analyse anhand des Films ‘Ziemlich beste Freunde’_ (bachelor’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Saylam, Esma (2025): _Die Auseinandersetzung mit dem Tod durch philosophisches Denken. Eine Herangehensweise anhand des Bilderbuchs ‘Von Larven und Libellen’ von Gesa Rensmann_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
