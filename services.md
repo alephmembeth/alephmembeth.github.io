@@ -105,9 +105,9 @@ layout: default
 ### Journals
 
 + Axiomathes (2020, 2021)
++ ‘forsch!’ – Studentisches Online-Journal der Universität Oldenburg (2018, 2023)
 + PLOS ONE (2026)
 + Systems Research and Behavioral Science (2025)
-+ ‘forsch!’ – Studentisches Online-Journal der Universität Oldenburg (2018, 2023)
 + Zeitschrift für Praktische Philosophie (2021)
 
 ### Conferences
