@@ -20,6 +20,7 @@ The great people with whom I have had the pleasure to work or with whom I’m cu
 + [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
 + [Gregor Damschen](https://philosophie.uni-greifswald.de/praktische-philosophie/dr-gregor-damschen/) (University of Greifswald)
 + [Adele Diederich](https://www.researchgate.net/profile/Adele-Diederich/) (University of Oldenburg)
++ [Jule Eilts](https://www.psy.lmu.de/epp/personen/wiss_ma/jule_eilts/index.html) (Ludwig Maximilian University of Munich)
 + [Sven Ellmers](https://uol.de/philosophie/dr-sven-ellmers) (University of Oldenburg)
 + [Paul Engelhardt](https://research-portal.uea.ac.uk/en/persons/paul-engelhardt) (University of East Anglia)
 + [Eugen Fischer](https://research-portal.uea.ac.uk/en/persons/eugen-fischer) (University of East Anglia)
