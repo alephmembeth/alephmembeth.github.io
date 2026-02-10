@@ -16,6 +16,13 @@
    vertical-align: middle;
 }
 
+.pub-label:first-of-type {
+   display: block;
+   width: max-content;
+   margin-top: 8px;
+   margin-left: 0;
+}
+
 .color-1  { background-color: rgba(238, 103, 72, 0.15); color: rgb(238, 103, 72); border-color: rgb(238, 103, 72); }
 .color-2  { background-color: rgba(250, 159, 80, 0.15); color: rgb(250, 159, 80); border-color: rgb(250, 159, 80); }
 .color-3  { background-color: rgba(255, 216, 94, 0.15); color: rgb(215, 170, 0);  border-color: rgb(255, 216, 94); }
