@@ -17,18 +17,15 @@
    vertical-align: middle;
 }
 
-.pub-label:first-of-type {
+.pub-label:first-of-type::before {
+   content: "\200B";
    display: block;
-   width: fit-content;
-   margin-left: 0;
+   height: 0;
+   margin-top: 8px;
 }
 
-.pub-label + .pub-label {
-   display: inline-block;
-   margin-top: -30px;
-   position: relative;
-   top: 15px;
-   left: 0;
+.pub-label:first-of-type {
+   margin-left: 0;
 }
 
 .color-1  { background-color: rgba(238, 103,  72, 0.15); color: rgb(238, 103,  72); border-color: rgb(238, 103,  72); }
