@@ -22,7 +22,7 @@ layout: default
 + Bauer, Alexander Max, Stephan Kornmesser, and Henrike Meyer (2024): ‘Constative and Performative Utterances, Χ<sup>2</sup> Tests, and LimeSurvey,’ in: Stephan Kornmesser, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski: _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_, Cham: Springer, 19–88. <span class="pub-label color-9">[Link](https://link.springer.com/chapter/10.1007/978-3-031-58049-9_2)</span>
 
 ## Special Issues in Journals
-+ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): ‘Verschwörungserzählungen,’ special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). <span class="pub-label color-9">[Link](https://www.praktische-philosophie.org/zfpp/issue/view/20/)</span>
++ Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): ‘Verschwörungserzählungen,’ special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). <span class="pub-label color-5">Open Access</span> <span class="pub-label color-9">[Link](https://www.praktische-philosophie.org/zfpp/issue/view/20/)</span>
 
 ## Contributions to Journals
 + Henne, Paul, Wiktoria Pedryc, Benjamin Deichen, Alexander Max Bauer, Annika Sankner, Saniya Varghese, and Isaiah Moonlight (2025): ‘The Kraemer Effect Reconsidered. Do Probability-Raising Accounts of Intentionality Explain the Kraemer Effect?,’ _New Ideas in Psychology_ 80, 101209. <span class="pub-label color-3">Peer-Reviewed</span> <span class="pub-label color-9">[Link](https://www.sciencedirect.com/science/article/pii/S0732118X25000650)</span>
