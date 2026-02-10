@@ -6,8 +6,8 @@
 .pub-label {
    display: inline-block;
    padding: 1px 8px;
-   margin-top: 10px;
    margin-right: 6px;
+   margin-top: 8px;
    font-size: 0.75rem;
    font-weight: 600;
    border-radius: 12px;
@@ -17,18 +17,15 @@
    vertical-align: middle;
 }
 
-.pub-label:first-of-type {
+.pub-label:first-of-type::before {
+   content: "";
    display: block;
-   clear: both;
-   width: fit-content;
-   margin-left: 0;
-   float: left;
+   height: 0;
+   width: 100%;
 }
 
-li::after {
-   content: "";
-   display: table;
-   clear: both;
+.pub-label:first-of-type {
+   margin-left: 0;
 }
 
 .color-1  { background-color: rgba(238, 103,  72, 0.15); color: rgb(238, 103,  72); border-color: rgb(238, 103,  72); }
