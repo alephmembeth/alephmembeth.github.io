@@ -17,15 +17,15 @@
    vertical-align: middle;
 }
 
-.pub-label:first-of-type::before {
+.pub-label:first-of-type {
+   display: table;
    content: "";
-   display: block;
-   height: 0;
-   width: 100%;
+   clear: both;
+   margin-left: 0;
 }
 
-.pub-label:first-of-type {
-   margin-left: 0;
+.pub-label:first-of-type + .pub-label {
+   display: inline-block;
 }
 
 .color-1  { background-color: rgba(238, 103,  72, 0.15); color: rgb(238, 103,  72); border-color: rgb(238, 103,  72); }
