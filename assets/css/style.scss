@@ -3,13 +3,6 @@
 
 @import "jekyll-theme-minimal";
 
-li {
-   display: flex;
-   flex-direction: column;
-   align-items: flex-start;
-   margin-bottom: 1.5rem;
-}
-
 .pub-label {
    display: inline-block;
    padding: 1px 8px;
@@ -22,6 +15,12 @@ li {
    letter-spacing: 0.5px;
    border: 1px solid;
    vertical-align: middle;
+}
+
+.pub-label:first-of-type::before {
+   content: "";
+   display: block;
+   margin-bottom: 0; 
 }
 
 .pub-label:first-of-type {
