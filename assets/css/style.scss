@@ -3,17 +3,6 @@
 
 @import "jekyll-theme-minimal";
 
-.pub-label:first-of-type::before {
-   content: "";
-   display: block;
-   height: 0;
-}
-
-.pub-label:first-of-type {
-   margin-left: 0;
-   margin-top: 8px;
-}
-
 .pub-label {
    display: inline-block;
    padding: 1px 8px;
@@ -25,6 +14,16 @@
    letter-spacing: 0.5px;
    border: 1px solid;
    vertical-align: middle;
+}
+
+.pub-label:first-of-type {
+   display: table;
+   margin-left: 0;
+   margin-top: 8px;
+}
+
+.pub-label:first-of-type + .pub-label {
+   display: inline-block;
 }
 
 .color-1  { background-color: rgba(238, 103,  72, 0.15); color: rgb(238, 103,  72); border-color: rgb(238, 103,  72); }
