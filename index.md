@@ -31,15 +31,15 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
 
 <dl>
    <dt>Areas of Specialization:</dt>
-      <dd><span class="pub-label color-2">Experimental Philosophy</span>, Need-Based Distributive Justice, Causation</dd>
+      <dd><span class="pub-label color-1">Experimental Philosophy</span> <span class="pub-label color-1">Need-Based Distributive Justice</span> <span class="pub-label color-1">Causation</span></dd>
    <dt>Areas of Competence:</dt>
-      <dd>Game Studies, Distributive Justice, Philosophy of Science, Metaphysics</dd>
+      <dd><span class="pub-label color-2">Game Studies</span> <span class="pub-label color-2">Distributive Justice</span> <span class="pub-label color-2">Philosophy of Science</span> <span class="pub-label color-2">Metaphysics</span></dd>
    <dt>Areas of Interest:</dt>
-      <dd>Digital Humanities, Metaphilosophy, Philosophy of Language</dd>
+      <dd><span class="pub-label color-3">Digital Humanities</span> <span class="pub-label color-3">Metaphilosophy</span> <span class="pub-label color-3">Philosophy of Language</span></dd>
    <dt>Historical Focus:</dt>
-      <dd>Aristotle, Friedrich Nietzsche</dd>
+      <dd><span class="pub-label color-4">Aristotle</span> <span class="pub-label color-4">Friedrich Nietzsche</span></dd>
    <dt>Tools of Choice:</dt>
-      <dd>LaTeX, LimeSurvey, Stata, R, Python</dd>
+      <dd><span class="pub-label color-5">LaTeX</span> <span class="pub-label color-5">LimeSurvey</span> <span class="pub-label color-5">Stata</span> <span class="pub-label color-5">R</span> <span class="pub-label color-5">Python</span></dd>
 </dl>
 
 ***
