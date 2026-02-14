@@ -30,15 +30,15 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
 ## Areas and Tools
 
 <dl>
-   <dt>Areas of Specialization:</dt>
+   <dt>Areas of Specialization</dt>
       <dd><span class="pub-label color-2">Experimental Philosophy</span> <span class="pub-label color-2">Need-Based Distributive Justice</span> <span class="pub-label color-2">Causation</span></dd>
-   <dt>Areas of Competence:</dt>
+   <dt>Areas of Competence</dt>
       <dd><span class="pub-label color-3">Game Studies</span> <span class="pub-label color-3">Distributive Justice</span> <span class="pub-label color-3">Philosophy of Science</span> <span class="pub-label color-3">Metaphysics</span></dd>
-   <dt>Areas of Interest:</dt>
+   <dt>Areas of Interest</dt>
       <dd><span class="pub-label color-4">Digital Humanities</span> <span class="pub-label color-4">Metaphilosophy</span> <span class="pub-label color-4">Philosophy of Language</span></dd>
-   <dt>Historical Focus:</dt>
+   <dt>Historical Focus</dt>
       <dd><span class="pub-label color-5">Aristotle</span> <span class="pub-label color-5">Friedrich Nietzsche</span></dd>
-   <dt>Tools of Choice:</dt>
+   <dt>Tools of Choice</dt>
       <dd><span class="pub-label color-6">LaTeX</span> <span class="pub-label color-6">LimeSurvey</span> <span class="pub-label color-6">Stata</span> <span class="pub-label color-6">R</span> <span class="pub-label color-6">Python</span></dd>
 </dl>
 
