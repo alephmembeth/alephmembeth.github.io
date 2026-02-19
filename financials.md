@@ -31,6 +31,7 @@ My grants, bursaries, and awards total **€28,345.65**. I deeply appreciate eac
 
 ## Awards
 
++ Seal of Excellence (2026; European Commission, Horizon Europe, MSCA Postdoctoral Fellowships; for the proposal ‘Distributive Justice – Reference Points and Evaluations’)
 + Award for Excellence in Teaching in the category ‘Research-Based Learning’ (‘Preis der Lehre’, category ‘Forschendes Lernen’; 2023/2024; University of Oldenburg; €1,000.00; jointly with Stephan Kornmesser) ([Link](https://uol.de/preisderlehre/preistraegerinnen-2024))
 + Germany Scholarship (‘Deutschlandstipendium’; 2015/2016; University of Oldenburg; €3,600.00)
 + Germany Scholarship (‘Deutschlandstipendium’; 2014/2015; University of Oldenburg; €3,600.00)
