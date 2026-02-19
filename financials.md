@@ -4,9 +4,11 @@ layout: default
 
 # Grants, Bursaries, and Awards
 
-My grants, bursaries, and awards total **€28,345.65**. I deeply appreciate each and every instance of support I received.
+My grants, bursaries, and awards total **€30,845.65**. I deeply appreciate each and every instance of support I received.
 
 ## Grants and Bursaries
+
++ Financial support for the lecture series ‘Wege in den Beruf – Außerschulische Perspektiven für Geistes-, Sprach- und Kulturwissenschaftler:innen’ (2026; University of Oldenburg, Study Quality Funds; €2,500.00; jointly with Friederike Nastold)
 + Financial support for the project ‘“Das ist doch (un)fair!” – Verteilungsgerechtigkeit bei Kindern und Jugendlichen’ (2025; EWE Stiftung; €2,000.00; jointly with Neele Bäker and Jessica Wilke)
 + Financial support for the journal ‘Oldenburger Philosophische Studien’ (since 2025; University of Oldenburg, Department of Philosophy; €36.00 one-off plus €36.00 annually, total as of 2025: €72.00; jointly with Sven Ellmers, Anna-Verena Nosthoff, and Aylin Yildirim)
 + Travel grant for the promotion of young researchers (2025; University of Oldenburg, School of Humanities and Social Sciences; €750.00)
