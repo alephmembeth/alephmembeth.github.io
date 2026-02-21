@@ -4,16 +4,16 @@ layout: default
 
 # Check Me, Replicate Me
 
-Everybody makes mistakes. Sometimes, this happens unnoticed. And sometimes, it doesn’t even matter. However, there are some areas where it becomes particularly troublesome when we do so. And science, I think, is one such area. Luckily for us, science (and philosophy, I might add) is a collaborative enterprise. And uncovering mistakes is an integral part of it. In this spirit, I invite you to check and replicate my work. To help you with this, I maintain [repositories](./repositories.md) containing essential files (i.e., primarily data and analysis files) for research projects where I am the first or corresponding author.
+Everybody makes mistakes. Sometimes, this happens unnoticed. And sometimes, it doesn’t even matter. However, there are some areas where it becomes particularly troublesome when we do so. And science, I think, is one such area. Luckily for us, science (and philosophy, I might add) is a collaborative enterprise. And uncovering mistakes is an integral part of it. In this spirit, I invite you to check and replicate my work. To help you with this, I maintain [repositories](./repositories.md) containing essential files (e.g., data and analysis files) for research projects where I am the first or corresponding author.
 
 ## Check My Work
 
 Inspired by Gilad Feldman,[^1] I offer to pay you a bounty for every minor or major error you find in my preprints and published work. Definitions and rules are taken from the websites of Gilad Feldman and Stuart Ritchie.
 
-+ I understand a minor error to be, for example, the incorrect reporting of a numerical result. On the other hand, typos or grammatical errors do not count unless they significantly change the meaning of what is being said. __If you find a minor error in my work, I offer to pay you USD 5.__
-+ I understand a major error to be, for example, a flaw in my method, an error in my code that significantly changes the results, or an erroneously drawn conclusion that is not supported by the data. __If you find a major error in my work, I offer to pay you USD 50.__
++ I understand a minor error to be, for example, the incorrect reporting of a numerical result. On the other hand, typos or grammatical errors do not count unless they significantly change the meaning of what is being said. __If you find a minor error in my work, I offer to pay you 5 €.__
++ I understand a major error to be, for example, a flaw in my method, an error in my code that significantly changes the results, or an erroneously drawn conclusion that is not supported by the data. __If you find a major error in my work, I offer to pay you 50 €.__
 
-As both Gilad Feldman and Stuart Ritchie note, they ‘have to be _objective_ errors – not matters of opinion or interpretation.’ All errors found in my preprints and published work will be collected in a separate section of this website.
+As both Gilad Feldman and Stuart Ritchie note, they »have to be _objective_ errors – not matters of opinion or interpretation.« All errors found in my preprints and published work will be collected in a separate section below.
 
 ## Replicate My Work
 
@@ -27,6 +27,6 @@ Should you be interested in replicating my work, there are a few things I offer 
 
 ## Errata
 
-+ Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): ‘Correction to: Thinking About Need,’ _The Journal of Economic Inequality_. ([Link](https://link.springer.com/article/10.1007/s10888-025-09711-7))
++ Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): »Correction to: Thinking About Need«, _The Journal of Economic Inequality_. ([Link](https://link.springer.com/article/10.1007/s10888-025-09711-7))
 
 ***
