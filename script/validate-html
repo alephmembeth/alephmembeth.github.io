@@ -14,12 +14,12 @@ end
 
 def validate(file)
   puts "Checking #{file}..."
-
+  
   path = File.expand_path "../_site/#{file}", __dir__
   results = validator(file).validate_file(path)
-
+  
   return puts "Valid!" if results.errors.empty?
-
+  
   results.errors.each { |err| puts err.to_s }
   exit 1
 end
