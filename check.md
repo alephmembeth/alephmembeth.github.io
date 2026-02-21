@@ -23,10 +23,10 @@ Should you be interested in replicating my work, there are a few things I offer 
 + If anything is missing from a repository, please don't hesitate to contact me, and I’ll try to add the missing files or information if possible.
 + If you are working on replicating my work, I will be happy to give you feedback and answer any questions you have.
 
-[^1]: [Gilad Feldman](https://mgto.org/check-me-replicate-me/) got the idea from [Stuart Ritchie](https://www.sciencefictions.org/corrections), who himself adapted it from [Ruben Arslan](https://tellmeimwrong.formr.org/), [José Luis Ricón](https://nintil.com/prove-wrong-get-money), and the [Knuth Reward Check](https://en.wikipedia.org/wiki/Knuth_reward_check).
+[^1]: [Gilad Feldman](https://mgto.org/check-me-replicate-me/) got the idea from [Stuart Ritchie](https://www.sciencefictions.org/p/book), who himself adapted it from [Ruben Arslan](https://tellmeimwrong.formr.org/), [José Luis Ricón](https://nintil.com/prove-wrong-get-money), and the [Knuth Reward Check](https://en.wikipedia.org/wiki/Knuth_reward_check).
 
 ## Errata
 
-+ Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): »Correction to: Thinking About Need«, _The Journal of Economic Inequality_. ([Link](https://link.springer.com/article/10.1007/s10888-025-09711-7))
++ Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): »Correction to: Thinking About Need«, _The Journal of Economic Inequality_. <span class = "pub-label color-9">[Link](https://link.springer.com/article/10.1007/s10888-025-09711-7)</span>
 
 ***
