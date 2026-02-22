@@ -14,7 +14,7 @@ layout: default
       <td>
          <b>Doctor of Philosophy (Philosophy)</b><br>
          <i>University of Oldenburg</i><br>
-         cumulative thesis: ‘Empirische Studien zu Fragen der Bedarfsgerechtigkeit’; supervisor: Mark Siebel; second examiner: Markus Tepe; further committee members: Dirk Büsch, Susanne Möbuß, and Mark Schweda
+         cumulative thesis: »Empirische Studien zu Fragen der Bedarfsgerechtigkeit«; supervisor: Mark Siebel; second examiner: Markus Tepe; further committee members: Dirk Büsch, Susanne Möbuß, and Mark Schweda
       </td>
    </tr>
    <tr>
@@ -24,7 +24,7 @@ layout: default
       <td>
          <b>Master of Arts (Philosophy)</b><br>
          <i>University of Oldenburg</i><br>
-         thesis: ‘Monotonie und Monotoniesensitivität als Desiderata für Maße der Bedarfsgerechtigkeit – Zu zwei Aspekten der Grundlegung empirisch informierter Maße der Bedarfsgerechtigkeit zwischen normativer Theorie, formaler Modellierung und empirischer Sozialforschung’; supervisor: Mark Siebel; second examiner: Arne Robert Weiss
+         thesis: »Monotonie und Monotoniesensitivität als Desiderata für Maße der Bedarfsgerechtigkeit – Zu zwei Aspekten der Grundlegung empirisch informierter Maße der Bedarfsgerechtigkeit zwischen normativer Theorie, formaler Modellierung und empirischer Sozialforschung«; supervisor: Mark Siebel; second examiner: Arne Robert Weiss
       </td>
    </tr>
    <tr>
@@ -34,7 +34,7 @@ layout: default
       <td>
          <b>Bachelor of Arts (Politics and Economics; Philosophy)</b><br>
          <i>University of Oldenburg</i><br>
-         thesis: ‘Friedrich Wilhelm Nietzsches Problematisierung von Sprache und Wahrheit in seiner Schrift “Ueber Wahrheit und Lüge im aussermoralischen Sinne”’; supervisor: Johann Kreuzer; second examiner: Ingo Elbe
+         thesis: »Friedrich Wilhelm Nietzsches Problematisierung von Sprache und Wahrheit in seiner Schrift ›Ueber Wahrheit und Lüge im aussermoralischen Sinne‹«; supervisor: Johann Kreuzer; second examiner: Ingo Elbe
       </td>
    </tr>
    <tr>
