@@ -66,7 +66,7 @@ layout: default
       </td>
       <td>
          <b>Workshop der wissenschaftlichen Mitarbeiter</b><br>
-         workshop of the academic assistants of the research group “Need-Based Justice and Distribution Procedures” (FOR 2104) of the German Research Foundation (DFG); Karl-Jaspers-Haus in Oldenburg; organised jointly with Maximilian Lutz, Fabian Paetzel, Nils Springhorn, and Arne Robert Weiss<br>
+         workshop of the academic assistants of the research group »Need-Based Justice and Distribution Procedures« (FOR 2104) of the German Research Foundation (DFG); Karl-Jaspers-Haus in Oldenburg; organised jointly with Maximilian Lutz, Fabian Paetzel, Nils Springhorn, and Arne Robert Weiss<br>
          <br>
          featuring contributions by Meike Benker, Marina Chugunova, Andrew Lawrence Fassett, Jan Philipp Krügel, Sabine Neuhofer, Manuel Schwaninger, Marc Wyszynski, and Patricia Zauchner, as well as a method workshop by Michael Jankowski
       </td>
@@ -77,7 +77,7 @@ layout: default
       </td>
       <td>
          <b>Empirical Research and Normative Theory</b><br>
-         international summer school at the “Oldenburg School for the Social Sciences and the Humanities 2017” of the Graduate School for the Social Sciences and the Humanities (3GO); University of Oldenburg; organised jointly with Malte Ingo Meyerhuber and Rea Kodalle<br>
+         international summer school at the »Oldenburg School for the Social Sciences and the Humanities 2017« of the Graduate School for the Social Sciences and the Humanities (3GO); University of Oldenburg; organised jointly with Malte Ingo Meyerhuber and Rea Kodalle<br>
          <br>
          featuring contributions by Max Agostini, Martijn Boot, Maarten Derksen, Niklas Dworazik, Carlos de Matos Fernandes, Andrea Klonschinski, Jannis Kreienkamp, Marvin Kunz, Bert Musschenga, Elsa Romfeld, Hanno Sauer, Sebastian Schleidgen, Mark Schweda, and Lars Schwettmann, as well as two public lectures by Stefan Müller-Doohm and Philipp Hübl
       </td>
