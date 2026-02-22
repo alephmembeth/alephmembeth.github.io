@@ -4,6 +4,8 @@ layout: default
 
 # Gallery
 
+***
+
 Congratulations, you’ve found my hidden gallery! :)
 
 | <img src="assets/img/amb_4se4gull_1.png" width="225"/>                           | <img src="assets/img/amb_4se4gull_2.jpg" width="225"/>                           |
