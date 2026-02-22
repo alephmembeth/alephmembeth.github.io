@@ -4,7 +4,7 @@ layout: default
 
 ***
 
-Hi there, my name’s Max. I’m a postdoctoral research assistant (‘Wissenschaftlicher Mitarbeiter’) at the University of Oldenburg’s Department of Philosophy, mainly working at the intersection of philosophy and empirical social research in an area known as ‘experimental philosophy’ (or ‘x-phi’ for short). Together with Stephan Kornmesser and Mark Siebel, I founded [The Oldenburg Experimental Philosophy Laboratory](https://uol.de/en/philosophy/research/research-areas/experimental-philosophy). If you want to know what’s happening in the world of x-phi right now, visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain. Besides that, I’m also meddling in ludology (or game studies). If you want to learn more about me, feel free to take a look at my
+Hi there, my name’s Max. I’m a postdoctoral research assistant (»Wissenschaftlicher Mitarbeiter«) at the University of Oldenburg’s Department of Philosophy, mainly working at the intersection of philosophy and empirical social research in an area known as »experimental philosophy« (or »x-phi« for short). Together with Stephan Kornmesser and Mark Siebel, I founded [The Oldenburg Experimental Philosophy Laboratory](https://uol.de/en/philosophy/research/research-areas/experimental-philosophy). If you want to know what’s happening in the world of x-phi right now, visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain. Besides that, I’m also meddling in ludology (or game studies). If you want to learn more about me, feel free to take a look at my
 
 + [publications](./publications.md),
 + [presentations](./presentations.md),
@@ -23,7 +23,7 @@ Most of this information can also be found in my curriculum vitae, which is avai
 + [academic ancestry](./ancestry.md), or
 + [contact details](./contact.md).
 
-Still not enough? Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my empirical work](./check.md). Of course, replies to my theoretical work are equally welcome. And inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I have started compiling a chronological list of [academic literature I have recently read](./reading.md).
+Still not enough? Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my empirical work](./check.md). Of course, replies to my theoretical work are equally welcome. And inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling a chronological list of [academic literature I’ve recently read](./reading.md).
 
 By the way, the portrait to the left (or above, if you’re on a mobile device) was painted by the talented [Liri Runa](https://linktr.ee/liri_runa) in the art style of [Disco Elysium](https://discoelysium.com/).
 
@@ -31,15 +31,15 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
 
 <dl>
    <dt>Areas of Specialization</dt>
-      <dd><span class="label color-2">Experimental Philosophy</span> <span class="label color-2">Need-Based Distributive Justice</span> <span class="label color-2">Causation</span></dd>
+      <dd><span class = "label color-2">Experimental Philosophy</span> <span class = "label color-2">Need-Based Distributive Justice</span> <span class = "label color-2">Causation</span></dd>
    <dt>Areas of Competence</dt>
-      <dd><span class="label color-3">Game Studies</span> <span class="label color-3">Distributive Justice</span> <span class="label color-3">Philosophy of Science</span> <span class="label color-3">Metaphysics</span></dd>
+      <dd><span class = "label color-3">Game Studies</span> <span class = "label color-3">Distributive Justice</span> <span class = "label color-3">Philosophy of Science</span> <span class = "label color-3">Metaphysics</span></dd>
    <dt>Areas of Interest</dt>
-      <dd><span class="label color-4">Digital Humanities</span> <span class="label color-4">Metaphilosophy</span> <span class="label color-4">Philosophy of Language</span></dd>
+      <dd><span class = "label color-4">Digital Humanities</span> <span class = "label color-4">Metaphilosophy</span> <span class = "label color-4">Philosophy of Language</span></dd>
    <dt>Historical Focus</dt>
-      <dd><span class="label color-5">Aristotle</span> <span class="label color-5">Friedrich Nietzsche</span></dd>
+      <dd><span class = "label color-5">Aristotle</span> <span class = "label color-5">Friedrich Nietzsche</span></dd>
    <dt>Tools of Choice</dt>
-      <dd><span class="label color-6">LaTeX</span> <span class="label color-6">LimeSurvey</span> <span class="label color-6">Stata</span> <span class="label color-6">R</span> <span class="label color-6">Python</span></dd>
+      <dd><span class = "label color-6">LaTeX</span> <span class = "label color-6">Zotero</span> <span class = "label color-6">LimeSurvey</span> <span class = "label color-6">Stata</span> <span class = "label color-6">R</span> <span class = "label color-6">Python</span></dd>
 </dl>
 
 ***
