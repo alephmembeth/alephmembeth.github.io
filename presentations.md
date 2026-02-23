@@ -13,7 +13,7 @@ layout: default
       </td>
       <td>
          <b>Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation</b><br>
-         presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki (<a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2024_07.pdf">Slides</a>)
+         presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki <span class = "label color-9"><a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2024_07.pdf">Slides</a></span>
       </td>
    </tr>
    <tr>
