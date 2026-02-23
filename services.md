@@ -8,7 +8,7 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>04/2019 – 04/2020</b>
       </td>
       <td>
@@ -58,12 +58,12 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>forthcoming</b>
       </td>
       <td>
          <b>Co-Editor-in-Chief</b><br>
-         <i><a href="Oldenburger Philosophische Studien">Oldenburger Philosophische Studien</a></i><br>
+         <i><a href = "Oldenburger Philosophische Studien">Oldenburger Philosophische Studien</a></i><br>
       </td>
    </tr>
    <tr>
@@ -72,7 +72,7 @@ layout: default
       </td>
       <td>
          <b>Section Editor</b><br>
-         <i><a href="https://journals.ub.uni-koeln.de/index.php/xphi">Experimental Philosophy</a></i><br>
+         <i><a href = "https://journals.ub.uni-koeln.de/index.php/xphi">Experimental Philosophy</a></i><br>
       </td>
    </tr>
 </table>
@@ -81,12 +81,12 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>since 03/2024</b>
       </td>
       <td>
-         <b>Leaf Category Editor (<a href="https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>)</b><br>
-         <i><a href="https://philpapers.org/">PhilPapers</a></i><br>
+         <b>Leaf Category Editor (<a href = "https://philpapers.org/browse/experimental-philosophy-folk-morality">Experimental Philosophy – Folk Morality</a>)</b><br>
+         <i><a href = "https://philpapers.org/">PhilPapers</a></i><br>
       </td>
    </tr>
    <tr>
@@ -95,7 +95,7 @@ layout: default
       </td>
       <td>
          <b>Editor</b><br>
-         <i><a href="https://xphi.net/">The Experimental Philosophy Blog</a></i><br>
+         <i><a href = "https://xphi.net/">The Experimental Philosophy Blog</a></i><br>
       </td>
    </tr>
 </table>
@@ -105,7 +105,7 @@ layout: default
 ### Journals
 
 + Axiomathes (2020, 2021)
-+ ‘forsch!’ – Studentisches Online-Journal der Universität Oldenburg (2018, 2023)
++ »forsch!« – Studentisches Online-Journal der Universität Oldenburg (2018, 2023)
 + PLOS ONE (2026)
 + Systems Research and Behavioral Science (2025)
 + Zeitschrift für Praktische Philosophie (2021)
@@ -114,7 +114,7 @@ layout: default
 
 + 3rd European Experimental Philosophy Conference (2023)
 
-### Prises
+### Prizes
 
 + Elizabeth-Magie-Preis (2025)
 
