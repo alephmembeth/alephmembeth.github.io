@@ -8,13 +8,13 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>Winter 2025/2026</b>
       </td>
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 2</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser (<a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a>)
+         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
       </td>
    </tr>
    <tr>
@@ -24,7 +24,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 1</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser (<a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a>)
+         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
       </td>
    </tr>
    <tr>
@@ -34,7 +34,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser (<a href="https://github.com/alephmembeth/course-x-phi-2024">Repository</a>)
+         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href="https://github.com/alephmembeth/course-x-phi-2024">Repository</a></span>
       </td>
    </tr>
    <tr>
@@ -52,7 +52,7 @@ layout: default
          <b>Winter 2022/2023 <br> and Summer 2023 <br> Winter 2023/2024 <br> and Summer 2024 <br> Winter 2024/2025 <br> and Summer 2025</b>
       </td>
       <td>
-         <b>Aristoteles’ ‘Metaphysik’</b><br>
+         <b>Aristoteles’ »Metaphysik«</b><br>
          <i>University of Oldenburg</i><br>
          two-semester course at bachelor’s level
       </td>
@@ -153,7 +153,7 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>Summer 2014 <br> Summer 2015</b>
       </td>
       <td>
@@ -178,7 +178,7 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>Winter 2022/2023 <br> Summer 2023 <br> Winter 2023/2024 <br> Summer 2024 <br> Winter 2024/2025 <br> Summer 2025 <br> Winter 2025/2026</b>
       </td>
       <td>
@@ -211,44 +211,44 @@ layout: default
 
 ## Teaching Concepts
 
-+ Bauer, Alexander Max, and Stephan Kornmesser (2025): _Forschungsorientierte Einführung in die Experimentelle Philosophie_, Oldenburg: University of Oldenburg. ([Link](https://lehrkonzepte.uol.de/forschungsorientierte-einfuehrung-in-die-experimentelle-philosophie/))
++ Bauer, Alexander Max, and Stephan Kornmesser (2025): _Forschungsorientierte Einführung in die Experimentelle Philosophie_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](https://lehrkonzepte.uol.de/forschungsorientierte-einfuehrung-in-die-experimentelle-philosophie/))</span>
 
 ## Teaching Materials
 
-+ Bauer, Alexander Max (2025): _Aristoteles’ ‘Metaphysik.’ Tafelbild zu Buch α_, Oldenburg: University of Oldenburg. ([Link](files/2025_bauer_aristoteles_2.pdf))
-+ Bauer, Alexander Max (2025): _Aristoteles’ ‘Metaphysik.’ Tafelbild zu Buch A_, Oldenburg: University of Oldenburg. ([Link](files/2025_bauer_aristoteles_1.pdf))
-+ Runtenberg, Christa, Laura Deepen, Alexander Max Bauer, and Gregor Damschen (2019): _Leitfaden zum wissenschaftlichen Schreiben in den Fächern Philosophie und Werte und Normen_, Oldenburg: University of Oldenburg. ([Link](https://uol.de/philosophie/studienorganisation/leitfaden-zum-wissenschaftlichen-arbeiten))
-+ Bauer, Alexander Max, and Marco Stawinoga (2014): _Skript zur Einführung in das wissenschaftliche Arbeiten für das Philosophiestudium_, Oldenburg: University of Oldenburg. ([Link](files/2014_bauer_stawinoga_skript.pdf))
++ Bauer, Alexander Max (2025): _Aristoteles’ »Metaphysik«. Tafelbild zu Buch α_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](files/2025_bauer_aristoteles_2.pdf)</span>
++ Bauer, Alexander Max (2025): _Aristoteles’ »Metaphysik«. Tafelbild zu Buch A_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](files/2025_bauer_aristoteles_1.pdf)</span>
++ Runtenberg, Christa, Laura Deepen, Alexander Max Bauer, and Gregor Damschen (2019): _Leitfaden zum wissenschaftlichen Schreiben in den Fächern Philosophie und Werte und Normen_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](https://uol.de/philosophie/studienorganisation/leitfaden-zum-wissenschaftlichen-arbeiten)</span>
++ Bauer, Alexander Max, and Marco Stawinoga (2014): _Skript zur Einführung in das wissenschaftliche Arbeiten für das Philosophiestudium_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](files/2014_bauer_stawinoga_skript.pdf)</span>
 
 ## Theses
 
 + Schaaf, Tristan (2026): _Inwiefern lässt sich der Tod als Gegenstand gerechter Verteilung begreifen, und wie gehen unterschiedliche Gerechtigkeitstheorien mit Ungleichheiten von Todesrisiken um?_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
-+ Lian, Jessica Xinyi (2025): _Does Immortality Bring Us Meaning in Life? Criteria for a Fulfilling Everlasting Life With ‘Frieren: Beyond a Journey’s End’ as an Example_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
-+ Heinks, Ellen (2025): _Aristoteles’ Konzept der Tugendfreundschaft. Eine Analyse anhand des Films ‘Ziemlich beste Freunde’_ (bachelor’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
-+ Saylam, Esma (2025): _Die Auseinandersetzung mit dem Tod durch philosophisches Denken. Eine Herangehensweise anhand des Bilderbuchs ‘Von Larven und Libellen’ von Gesa Rensmann_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
++ Lian, Jessica Xinyi (2025): _Does Immortality Bring Us Meaning in Life? Criteria for a Fulfilling Everlasting Life With »Frieren: Beyond a Journey’s End« as an Example_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
++ Heinks, Ellen (2025): _Aristoteles’ Konzept der Tugendfreundschaft. Eine Analyse anhand des Films »Ziemlich beste Freunde«_ (bachelor’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
++ Saylam, Esma (2025): _Die Auseinandersetzung mit dem Tod durch philosophisches Denken. Eine Herangehensweise anhand des Bilderbuchs »Von Larven und Libellen« von Gesa Rensmann_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
 + Jahnel, Niklas (2025): _Nihilismus, Moral und Glaube. Ein interdisziplinärer Ansatz_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
-+ Götting, Larissa Virginia (2025): _Zwischen dem Ideal einer ‘Erziehung nach Auschwitz’ im Sinne Theodor W. Adornos und der ‘Kulturindustrie.’ Darstellung der Veränderung des Erinnerns am Beispiel der Instagram-Kanäle @ichbinsophiescholl und @eva.stories_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
-+ Bockfeld, Falk (2025): _‘Do You Hate Your Meat?’ Eine Untersuchung der Darstellung von Gefahren und Potenzialen postmenschlicher Lebensmodi in ‘Cyberpunk 2077’ nach der Theorie von Nick Bostrom_ (bachelor’s thesis; University of Oldenburg; second examiner: Paul Blattner)
++ Götting, Larissa Virginia (2025): _Zwischen dem Ideal einer »Erziehung nach Auschwitz« im Sinne Theodor W. Adornos und der »Kulturindustrie«. Darstellung der Veränderung des Erinnerns am Beispiel der Instagram-Kanäle @ichbinsophiescholl und @eva.stories_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
++ Bockfeld, Falk (2025): _»Do You Hate Your Meat?« Eine Untersuchung der Darstellung von Gefahren und Potenzialen postmenschlicher Lebensmodi in »Cyberpunk 2077« nach der Theorie von Nick Bostrom_ (bachelor’s thesis; University of Oldenburg; second examiner: Paul Blattner)
 + Gronotte, Finn Ove (2025): _Der Einfluss von Nähe und Distanz auf das Gefühl moralischer Verantwortung. Eine empirische Untersuchung im Kontext von Peter Singers Ethik_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Rode, Mark Phillip (2024): _Das professionelle Selbstverständnis von ambulanten Pflegekräften in Zeiten der Technisierung. Ein Theorie-Empire-Vergleich des Berufsethos ambulanter Pflegekräfte_ (master’s thesis; University of Oldenburg; supervisor: Mark Schweda)
 + Schmidke, Laura (2024): _Antisemitismus als Herausforderung der Bildungsarbeit. Inwieweit kann der Philosophieunterricht als Werkzeug zu seiner Bekämpfung genutzt werden?_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Aktaşci, Elif (2024): _Ethik und Künstliche Intelligenz. Wie soll der Umgang mit ethischen Herausforderungen im Kontext von Künstlicher Intelligenz aussehen?_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Bettels, Tim (2024): _Ausgewählte Theorien des Todes aus einer philosophischen Betrachtung_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Yurt, Delal (2024): _Austragung des Fifa World Cup 2022 in Katar. Ethische Konsequenzen aus menschenrechtlicher Perspektive_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
-+ Döhren, Lando (2023): _Der Begriff des Guten in G. E. Moores ‘Principia Ethica’ und Philippa Foots ‘Natural Goodness’_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
-+ Richtsmeier, Karsten (2023): _Die Institution Schule als ‘ideologischer Staatsapparat’ nach Louis Althusser in Kapitalismus und Sozialismus. Ein Vergleich der ideologisierenden Einflussnahme von Bildungssystemen in BRD und DDR_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
++ Döhren, Lando (2023): _Der Begriff des Guten in G. E. Moores »Principia Ethica« und Philippa Foots »Natural Goodness«_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
++ Richtsmeier, Karsten (2023): _Die Institution Schule als »ideologischer Staatsapparat« nach Louis Althusser in Kapitalismus und Sozialismus. Ein Vergleich der ideologisierenden Einflussnahme von Bildungssystemen in BRD und DDR_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Krüger, Maimouna (2023): _Sarkasmus in der Sprachenlogik. Wie beeinflusst Sarkasmus Gespräche?_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Göbbels, Bastian (2023): _Die Unvereinbarkeit von Positivismus und Kritischer Theorie_ (bachelor’s thesis; University of Oldenburg; supervisor: Myriam Gerhard)
-+ Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema ‘Handlungsutilitarismus’ vor dem Hintergrund des Videospiels ‘Star Wars: Knights of the Old Republic II’_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
++ Roggow, Rafael (2022): _Zum Einsatz von Videospielen im Werte-und-Normen-Unterricht. Ein Unterrichtsentwurf zum Thema »Handlungsutilitarismus« vor dem Hintergrund des Videospiels »Star Wars: Knights of the Old Republic II«_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + de Vries, Peter (2022): _Quantitative und qualitative Perspektiven auf bedarfsgerechte Verteilung_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Berndt, Juliane (2022): _Reichtum verpflichtet. Inwiefern können Mieths Kriterien für positive Pflichten eine Stütze für Neuhäusers Reform- und Änderungsvorschläge hinsichtlich moralisch problematischen Reichtums sein?_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
-+ Steinmetz, Esther Mareike (2021): _Zur unterrichtlichen Implementation sozialer Medien im Themenkomplex ‘Wahrheit und Wirklichkeit’_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
-+ Ostrop, Gero (2021): _Eine Kritik der Kritik Karl Poppers an Platon im Werk ‘Die offene Gesellschaft und ihre Feinde’_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
++ Steinmetz, Esther Mareike (2021): _Zur unterrichtlichen Implementation sozialer Medien im Themenkomplex »Wahrheit und Wirklichkeit«_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
++ Ostrop, Gero (2021): _Eine Kritik der Kritik Karl Poppers an Platon im Werk »Die offene Gesellschaft und ihre Feinde«_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Gründemann, Jonas (2021): _Kompetenzorientierung im Werte-und-Normen-Unterricht an beruflichen Gymnasien in Niedersachsen_ (master’s thesis; University of Oldenburg; supervisor: Christa Runtenberg)
 + Storr, Jana (2021): _Leben, sterben, weiterleben. Über das digitale Nachleben und seine Konsequenzen_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Richtsmeier, Karsten (2021): _Eine ethische Auseinandersetzung mit den Corona-Maßnahmen. Inwiefern lässt sich der staatliche Paternalismus während der Corona-Krise aus der Perspektive des klassischen Utilitarismus rechtfertigen?_ (bachelors’s thesis; University of Oldenburg; second examiner: Tilo Wesche)
-+ Roggow, Rafael (2021): _Ethik in Computerspielen. Zur Repräsentation des Handlungsutilitarismus nach Bentham im Videospiel ‘Star Wars: Knights of the Old Republic II’_ (bachelor’s thesis; University of Oldenburg; second examiner: Christa Runtenberg)
-+ Lutze, Daniela (2020): _‘Die Banalität des Bösen.’ Der Begriff des Bösen in der Philosophie Hannah Arendts und vor dem Hintergrund der sozialpsychologischen Untersuchungen Philip Zimbardos_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
++ Roggow, Rafael (2021): _Ethik in Computerspielen. Zur Repräsentation des Handlungsutilitarismus nach Bentham im Videospiel »Star Wars: Knights of the Old Republic II«_ (bachelor’s thesis; University of Oldenburg; second examiner: Christa Runtenberg)
++ Lutze, Daniela (2020): _»Die Banalität des Bösen«. Der Begriff des Bösen in der Philosophie Hannah Arendts und vor dem Hintergrund der sozialpsychologischen Untersuchungen Philip Zimbardos_ (bachelor’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Lüschen, Hilke (2020): _Versprechen in Politischer Philosophie und Sprachphilosophie_ (master’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Abheiden, Tobias (2019): _Eine kritische Auseinandersetzung mit den anthropologischen Aspekten des Begriffs des Alterns bei Aubrey de Grey_ (bachelor’s thesis; University of Oldenburg; second examiner: Christa Runtenberg)
 
