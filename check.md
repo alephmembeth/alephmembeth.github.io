@@ -6,7 +6,7 @@ layout: default
 
 ***
 
-Everybody makes mistakes. Sometimes, this happens unnoticed. And sometimes, it doesn’t even matter. However, there are some areas where it becomes particularly troublesome when we do so. And science, I think, is one such area. Luckily for us, science (and philosophy, I might add) is a collaborative enterprise. And uncovering mistakes is an integral part of it. In this spirit, I invite you to check and replicate my work. To help you with this, I maintain [repositories](./repositories.md) containing essential files (e.g., data and analysis files) for research projects where I am the first or corresponding author.
+Everybody makes mistakes. Sometimes, this happens unnoticed. And sometimes, it doesn’t even matter. However, there are some areas where it becomes particularly troublesome when we do so. And science, I think, is one such area. Luckily for us, science (and philosophy, I might add) is a collaborative enterprise. And uncovering mistakes is an integral part of it. In this spirit, I invite you to check and replicate my work. To help you with this, I maintain repositories containing essential files (e.g., data and analysis files) for research projects where I am the first or corresponding author (see [publications](./publications.md)).
 
 ## Check My Work
 
