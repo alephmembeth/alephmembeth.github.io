@@ -8,7 +8,7 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>20/07/2024</b>
       </td>
       <td>
@@ -40,7 +40,7 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>12/07/2025</b>
       </td>
       <td>
@@ -189,7 +189,7 @@ layout: default
 
 <table>
    <tr>
-      <td width="150">
+      <td width = "150">
          <b>16/01/2026</b>
       </td>
       <td>
