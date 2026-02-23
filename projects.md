@@ -8,7 +8,7 @@ Below, you can find a selection of my current projects.
 
 ## Funded Projects
 
-+ a project on ideas of distributive justice among children and adolescents (funded by the EWE Stiftung with €2,000.00; jointly with Jessica Wilke and Neele Bäker) ([Link](https://uol.de/sonderpaedagogik/forschung-und-projekte/sonderpaedagogische-psychologie#c758438))
++ a project on ideas of distributive justice among children and adolescents (funded by the EWE Stiftung with 2.000 €; jointly with Jessica Wilke and Neele Bäker)
 
 ## Books and Edited Volumes
 
@@ -18,6 +18,8 @@ Below, you can find a selection of my current projects.
 + a book on the video game _Gothic_
 
 ## Studies and Articles
+
++ a study on blame and praise (jointly with Pauline Maresi Kinzler and Pascale Willemsen)
 + a study on need-based distributive justice (jointly with Mark Siebel)
 + a paper on measures of coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
 
