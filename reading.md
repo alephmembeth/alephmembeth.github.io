@@ -4,7 +4,7 @@ layout: default
 
 # My (More or Less) Academic Reading List
 
-Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling a chronological list of (more or less) academic literature I have recently read. I don’t include half-read texts, only those I have read from the very first to the very last page.
+Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling a chronological list of (more or less) academic literature I’ve read. I don’t include half-read texts, only those I’ve read from the very first to the very last page.
 
 ## 2026
 
@@ -31,10 +31,10 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Articles and Chapters
 
-+ Jan Tønnesvang (2024): ‘Meaning and Psychological Needs,’ _Journal of Theoretical and Philosophical Psychology_ 45 (3), 316–332.
-+ Peter Andre, Teodora Boneva, Felix Chopra, and Armin Falk (2024): ‘Globally Representative Evidence on the Actual and Perceived Support for Climate Action,’ _Nature Climate Change_ 14, 253–259.
-+ Jennifer Cole Wright (2025): ‘The Function of Morality and Folk Metaethics,’ in: Simon Laham (ed.): _Handbook of Ethics and Social Psychology_, Cheltenham and Northampton: Edward Elgar, 33–43.
-+ Rafael Alvear (2023): ‘For a Sociology of Needs,’ _Critical Theory in Berlin_, https://criticaltheoryinberlin.de/en/interventions/for-a-sociology-of-needs/.
++ Jan Tønnesvang (2024): »Meaning and Psychological Needs«, _Journal of Theoretical and Philosophical Psychology_ 45 (3), 316–332.
++ Peter Andre, Teodora Boneva, Felix Chopra, and Armin Falk (2024): »Globally Representative Evidence on the Actual and Perceived Support for Climate Action«, _Nature Climate Change_ 14, 253–259.
++ Jennifer Cole Wright (2025): »The Function of Morality and Folk Metaethics«, in: Simon Laham (ed.): _Handbook of Ethics and Social Psychology_, Cheltenham and Northampton: Edward Elgar, 33–43.
++ Rafael Alvear (2023): »For a Sociology of Needs«, _Critical Theory in Berlin_, https://criticaltheoryinberlin.de/en/interventions/for-a-sociology-of-needs/.
 
 ## 2024
 
@@ -56,8 +56,8 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Articles and Chapters
 
-+ Rainer Grübel (2021): ‘Geschlecht im Gedicht. Vera Pavlovas poetisches Debut und sein Ort in der russischen Literatur,’ in: Vera Pavlova: _Das himmlische Tier. Verse_, trans. by Rainer Grübel, Oldenburg: BIS-Verlag, 7–33.
-+ Silke Schicktanz, Mark Schweda, and Brian Wynne (2012): ‘The Ethics of “Public Understanding of Ethics.” Why and How Bioethics Expertise Should Include Public and Patients’ Voices,’ _Medicine, Health Care and Philosophy_ 15, 129–139.
-+ Sander Greenland, Stephen Senn, Kenneth Rothman, John Carlin, Charles Poole, Steven Goodman, and Douglas Altman (2016): ‘Statistical Tests, p Values, Confidence Intervals, and Power. A Guide to Misinterpretations,’ _European Journal of Epidemiology_ 31, 337–350.
++ Rainer Grübel (2021): »Geschlecht im Gedicht. Vera Pavlovas poetisches Debut und sein Ort in der russischen Literatur«, in: Vera Pavlova: _Das himmlische Tier. Verse_, trans. by Rainer Grübel, Oldenburg: BIS-Verlag, 7–33.
++ Silke Schicktanz, Mark Schweda, and Brian Wynne (2012): »The Ethics of ›Public Understanding of Ethics‹. Why and How Bioethics Expertise Should Include Public and Patients’ Voices«, _Medicine, Health Care and Philosophy_ 15, 129–139.
++ Sander Greenland, Stephen Senn, Kenneth Rothman, John Carlin, Charles Poole, Steven Goodman, and Douglas Altman (2016): »Statistical Tests, p Values, Confidence Intervals, and Power. A Guide to Misinterpretations«, _European Journal of Epidemiology_ 31, 337–350.
 
 ***
