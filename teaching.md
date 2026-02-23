@@ -211,7 +211,7 @@ layout: default
 
 ## Teaching Concepts
 
-+ Bauer, Alexander Max, and Stephan Kornmesser (2025): _Forschungsorientierte Einführung in die Experimentelle Philosophie_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](https://lehrkonzepte.uol.de/forschungsorientierte-einfuehrung-in-die-experimentelle-philosophie/))</span>
++ Bauer, Alexander Max, and Stephan Kornmesser (2025): _Forschungsorientierte Einführung in die Experimentelle Philosophie_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](https://lehrkonzepte.uol.de/forschungsorientierte-einfuehrung-in-die-experimentelle-philosophie/)</span>
 
 ## Teaching Materials
 
