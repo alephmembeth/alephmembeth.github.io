@@ -223,7 +223,7 @@ layout: default
 ## Theses
 
 + Schaaf, Tristan (in progress): _Inwiefern lässt sich der Tod als Gegenstand gerechter Verteilung begreifen, und wie gehen unterschiedliche Gerechtigkeitstheorien mit Ungleichheiten von Todesrisiken um?_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
-+ Joshua Krüger (2026): _Roll for Mortality. Dungeons & Dragons as a Framework for Processing Death. Exploring How Gameplay Encourages Existential Processing_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
++ Joshua Krüger (2026): _Roll for Mortality. »Dungeons & Dragons« as a Framework for Processing Death. Exploring How Gameplay Encourages Existential Processing_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Heinks, Ellen (2026): _Aristoteles’ Konzept der Tugendfreundschaft. Eine Analyse anhand des Films »Ziemlich beste Freunde«_ (bachelor’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Lian, Jessica Xinyi (2026): _Does Immortality Bring Us Meaning in Life? Criteria for a Fulfilling Everlasting Life With »Frieren: Beyond a Journey’s End« as an Example_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
 + Jahnel, Niklas (2026): _Nihilismus, Moral und Glaube. Ein interdisziplinärer Ansatz_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
