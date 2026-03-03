@@ -222,11 +222,12 @@ layout: default
 
 ## Theses
 
-+ Schaaf, Tristan (2026): _Inwiefern lässt sich der Tod als Gegenstand gerechter Verteilung begreifen, und wie gehen unterschiedliche Gerechtigkeitstheorien mit Ungleichheiten von Todesrisiken um?_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
-+ Lian, Jessica Xinyi (2026): _Does Immortality Bring Us Meaning in Life? Criteria for a Fulfilling Everlasting Life With »Frieren: Beyond a Journey’s End« as an Example_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
++ Schaaf, Tristan (in progress): _Inwiefern lässt sich der Tod als Gegenstand gerechter Verteilung begreifen, und wie gehen unterschiedliche Gerechtigkeitstheorien mit Ungleichheiten von Todesrisiken um?_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
++ Joshua Krüger (2026): _Roll for Mortality. Dungeons & Dragons as a Framework for Processing Death. Exploring How Gameplay Encourages Existential Processing_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
 + Heinks, Ellen (2026): _Aristoteles’ Konzept der Tugendfreundschaft. Eine Analyse anhand des Films »Ziemlich beste Freunde«_ (bachelor’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
++ Lian, Jessica Xinyi (2026): _Does Immortality Bring Us Meaning in Life? Criteria for a Fulfilling Everlasting Life With »Frieren: Beyond a Journey’s End« as an Example_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
++ Jahnel, Niklas (2026): _Nihilismus, Moral und Glaube. Ein interdisziplinärer Ansatz_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Saylam, Esma (2026): _Die Auseinandersetzung mit dem Tod durch philosophisches Denken. Eine Herangehensweise anhand des Bilderbuchs »Von Larven und Libellen« von Gesa Rensmann_ (bachelor’s thesis; University of Oldenburg; supervisor: Paul Blattner)
-+ Jahnel, Niklas (2025): _Nihilismus, Moral und Glaube. Ein interdisziplinärer Ansatz_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Götting, Larissa Virginia (2025): _Zwischen dem Ideal einer »Erziehung nach Auschwitz« im Sinne Theodor W. Adornos und der »Kulturindustrie«. Darstellung der Veränderung des Erinnerns am Beispiel der Instagram-Kanäle @ichbinsophiescholl und @eva.stories_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Bockfeld, Falk (2025): _»Do You Hate Your Meat?« Eine Untersuchung der Darstellung von Gefahren und Potenzialen postmenschlicher Lebensmodi in »Cyberpunk 2077« nach der Theorie von Nick Bostrom_ (bachelor’s thesis; University of Oldenburg; second examiner: Paul Blattner)
 + Gronotte, Finn Ove (2025): _Der Einfluss von Nähe und Distanz auf das Gefühl moralischer Verantwortung. Eine empirische Untersuchung im Kontext von Peter Singers Ethik_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
