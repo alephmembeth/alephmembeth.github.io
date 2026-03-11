@@ -4,6 +4,8 @@ layout: default
 
 # My (More or Less) Academic Reading List
 
+Congratulations, you’ve found my hidden reading list! :)
+
 Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling a chronological list of (more or less) academic literature I’ve read. I don’t include half-read texts, only those I’ve read from the very first to the very last page.
 
 ## 2026
