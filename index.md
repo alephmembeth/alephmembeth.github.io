@@ -39,7 +39,7 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
    <dt>Historical Focus</dt>
       <dd><span class = "label color-5">Aristotle</span> <span class = "label color-5">Friedrich Nietzsche</span></dd>
    <dt>Tools of Choice</dt>
-      <dd><span class = "label color-6">LaTeX</span> <span class = "label color-6">Zotero</span> <span class = "label color-6">LimeSurvey</span> <span class = "label color-6">R</span> <span class = "label color-6">Python</span> <span class = "label color-6">Git</span></dd>
+      <dd><span class = "label color-6">LaTeX</span> <span class = "label color-6">Zotero</span> <span class = "label color-6">LimeSurvey</span> <span class = "label color-6">Python</span> <span class = "label color-6">R</span> <span class = "label color-6">Git</span></dd>
 </dl>
 
 ***
