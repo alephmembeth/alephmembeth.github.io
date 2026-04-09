@@ -4,15 +4,19 @@ layout: default
 
 # Publications
 
-## Publications in Preparation or Under Review
+## Publications Under Review
 
-+ Wilke, Jessica, Alexander Max Bauer, Yohita Shraddha Bandaru, Jamie Gahtan, and Neele Bäker (resubmitted to _Current Research in Ecological and Social Psychology_): »Who Deserves What – and Why? A Systematic Review and Meta-Analysis on Distributive Justice Preferences and Low Socioeconomic Backgrounds in Children and Adolescents.«
-+ Gahtan, Jamie, Alexander Max Bauer, Neele Bäker, Jule Eilts, and Jessica Wilke (submitted to _Current Psychology_): »Moral Self and Socioeconomic Profiles in Middle Childhood. Examining the Links to Self-Esteem, Prosocial Behavior, and Aggressive Behavior in a Cluster-Analytic Study.«
++ Wilke, Jessica, Alexander Max Bauer, Yohita Shraddha Bandaru, Jamie Gahtan, and Neele Bäker (resubmitted to _Current Research in Ecological and Social Psychology_): »Who Deserves What – and Why? A Systematic Review and Meta-Analysis on Distributive Justice Preferences and Low Socioeconomic Backgrounds in Children and Adolescents«.
++ Gahtan, Jamie, Alexander Max Bauer, Neele Bäker, Jule Eilts, and Jessica Wilke (submitted to _Current Psychology_): »Moral Self and Socioeconomic Profiles in Middle Childhood. Examining the Links to Self-Esteem, Prosocial Behavior, and Aggressive Behavior in a Cluster-Analytic Study«.
 + Schippers, Michael, Mark Siebel, Alexander Max Bauer, and Stephan Kornmesser (submitted to _Studia Logica_): »So Close and Yet So Far. On the Limits of Divergence and Similarity as Measures of Coherence«.
+
+## Publications in Preparation
+
++ Bauer, Alexander Max, Lukas Daniel Klausner, Alina Menten und Christian Sturm (in preparation for _Paidia – Zeitschrift für Computerspielforschung_): »Baustelle Jubiläumssammelband. Rückblicke und Reflexionen zur Genese des Sammelbands ›Geisteswissenschaften und Digitale Spiele: Debatten, Data & Desiderata‹«.
 + Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (in preparation): »›Einhundert Leute haben wir gefragt …‹ Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum«, in: Alexander Max Bauer, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (eds.): _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_. <span class = "label color-9">[Repository](https://github.com/alephmembeth/survey-game-studies-2025)</span>
 + Bauer, Alexander Max, Simon Hagemann, and Lukas Daniel Klausner (in preparation): »›Menschen, Communitys, Dynamiken beobachten.‹ Ein Gespräch mit Robert Glashüttner über Spielejournalismus zwischen Aufmerksamkeitsökonomie und Kulturkritik«, in: Alexander Max Bauer, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (eds.): _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_.
-+ Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.&nbsp;B. Metzler.
 + Bauer, Alexander Max, and Mark Siebel (eds.) (in preparation): _Advances in Experimental Philosophy of Distributive Justice_, London, New York, Oxford, New Delhi, and Sydney: Bloomsbury Academic.
++ Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.&nbsp;B. Metzler.
 
 ## Monographs
 
