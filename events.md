@@ -24,7 +24,7 @@ layout: default
          <b>Wege in den Beruf – Außerschulische Perspektiven für Geistes-, Sprach- und Kulturwissenschaftler*innen</b><br>
          lecture series; University of Oldenburg; organised jointly with Friederike Nastold<br>
          <br>
-         featuring contributions by Monika Eden, Solveig Elias, Nicole Griese, Holger Leerhoff, Hilke Lüschen, Jonas Schoster, Luisa Maria Schweizer, and Thomas Wachtendorf
+         featuring contributions by Lennert Brinkhoff, Monika Eden, Solveig Elias, Nicole Griese, Holger Leerhoff, Hilke Lüschen, Jonas Schoster, and Thomas Wachtendorf
       </td>
    </tr>
    <tr>
