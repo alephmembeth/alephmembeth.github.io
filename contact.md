@@ -13,7 +13,7 @@ If you would like to get in touch, you can reach me at <alexander.max.bauer@uol.
 Carl von Ossietzky University of Oldenburg<br>
 School of Humanities and Social Sciences<br>
 Department of Philosophy<br>
-Ammerländer Heerstraße 114 – 119<br>
+Ammerländer Heerstraße 114–119<br>
 26129 Oldenburg<br>
 Germany
 
