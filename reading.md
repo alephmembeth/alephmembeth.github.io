@@ -14,6 +14,8 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 + Peter Meier-Hüsing (2022): _Nazis in Tibet. Das Rätsel um die SS-Expedition Ernst Schäfer_, 2nd ed., Darmstadt: Wissenschaftliche Buchgesellschaft.
 
+### Articles and Chapters
+
 ## 2025
 
 ### Books
