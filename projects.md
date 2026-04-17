@@ -21,5 +21,6 @@ Below, you can find a selection of my current projects.
 
 + a study on blame and praise (jointly with Pauline Maresi Kinzler and Pascale Willemsen)
 + a study on need-based distributive justice (jointly with Mark Siebel)
++ a paper on _Planescape: Torment_ (jointly with Lukas Daniel Klausner)
 
 ***
