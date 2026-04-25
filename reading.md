@@ -12,6 +12,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Matthias Bormuth (2025): _Von der Unheimlichkeit der Welt. Denken mit Hannah Arendt_, Berlin: Matthes & Seitz.
 + Peter Meier-Hüsing (2022): _Nazis in Tibet. Das Rätsel um die SS-Expedition Ernst Schäfer_, 2nd ed., Darmstadt: Wissenschaftliche Buchgesellschaft.
 
 ### Articles and Chapters
