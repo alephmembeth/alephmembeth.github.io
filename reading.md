@@ -12,6 +12,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Atto Melani (2013): _Die Geheimnisse der Konklaven und die Laster der Kardinäle_, ed. by Rita Monaldi and Francesco Sorti, trans. by Annette Kopetzki, 2nd ed., Stuttgart: Klett-Cotta.
 + Matthias Bormuth (2025): _Von der Unheimlichkeit der Welt. Denken mit Hannah Arendt_, Berlin: Matthes & Seitz.
 + Peter Meier-Hüsing (2022): _Nazis in Tibet. Das Rätsel um die SS-Expedition Ernst Schäfer_, 2nd ed., Darmstadt: Wissenschaftliche Buchgesellschaft.
 
@@ -47,7 +48,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
-+ Philipp Melanchthon (2023): _De miseriis paedagogorum. Über die Leiden der Lehrer_, trans. and ed. by Carolin Ritter, Stuttgart: Reclam.
++ Philipp Melanchthon (2023): _De miseriis paedagogorum. Über die Leiden der Lehrer_, ed. and trans. by Carolin Ritter, Stuttgart: Reclam.
 + Thomas Bauer (2018): _Die Vereindeutigung der Welt. Über den Verlust an Mehrdeutigkeit und Vielfalt_, Stuttgart: Reclam.
 + Georg Christoph Lichtenberg (2012): _Aphorismen_, ed. by Friedrich Sengle, Stuttgart: Reclam.
 + Nils Baratella, Ansgar Lorenz, Stefania Maffeis, and Juliane Eva Reichert (2017): _Hannah Arendt_, Paderborn: Wilhelm Fink.
