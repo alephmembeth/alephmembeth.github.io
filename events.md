@@ -13,7 +13,7 @@ layout: default
       </td>
       <td>
          <b>Topics in the Cognitive Sciences of Morality</b><br>
-         lecture series; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen
+         lecture series and course on master’s level; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen
       </td>
    </tr>
    <tr>
