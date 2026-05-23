@@ -9,6 +9,16 @@ layout: default
 <table>
    <tr>
       <td width = "150">
+         <b>Winter 2026/2027</b>
+      </td>
+      <td>
+         <b>Topics in the Cognitive Science of Morality</b><br>
+         <i>University of Oldenburg</i><br>
+         lecture series and course at master’s level; jointly with Pascale Willemsen
+      </td>
+   </tr>
+   <tr>
+      <td>
          <b>Winter 2025/2026</b>
       </td>
       <td>
