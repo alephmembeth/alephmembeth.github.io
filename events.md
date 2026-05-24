@@ -13,7 +13,7 @@ layout: default
       </td>
       <td>
          <b>Topics in the Cognitive Sciences of Morality</b><br>
-         lecture series and course at master’s level; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen (also see [teaching](./teaching.md))
+         lecture series and course at master’s level; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen (also see <a href = "https://alephmembeth.github.io/teaching.html">teaching</a>)
       </td>
    </tr>
    <tr>
