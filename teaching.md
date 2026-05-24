@@ -14,7 +14,7 @@ layout: default
       <td>
          <b>Topics in the Cognitive Science of Morality</b><br>
          <i>University of Oldenburg</i><br>
-         lecture series and course at master’s level; jointly with Pascale Willemsen
+         lecture series and course at master’s level; jointly with Pascale Willemsen (also see <a href = "https://alephmembeth.github.io/events.html">events</a>)
       </td>
    </tr>
    <tr>
@@ -24,7 +24,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 2</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
+         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
       </td>
    </tr>
    <tr>
@@ -34,7 +34,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 1</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href="https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
+         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
       </td>
    </tr>
    <tr>
@@ -44,7 +44,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href="https://github.com/alephmembeth/course-x-phi-2024">Repository</a></span>
+         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2024">Repository</a></span>
       </td>
    </tr>
    <tr>
