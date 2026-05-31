@@ -7,22 +7,22 @@ layout: default
 ## Representation
 
 <table>
-   <tr>
-      <td width = "150">
-         <b>04/2019 – 04/2020</b>
-      </td>
-      <td>
-         <b>Representative of Doctoral Candidates</b><br>
-         <i>University of Oldenburg</i><br>
-      </td>
-   </tr>
-   <tr>
+   <td width = "150">
       <td>
          <b>since 04/2019</b>
       </td>
       <td>
          <b>Deputy Representative of Academic Junior Faculty</b><br>
          <i>University of Oldenburg, Department of Philosophy</i><br>
+      </td>
+   </tr>   
+   <tr>
+      <td>
+         <b>04/2019 – 04/2020</b>
+      </td>
+      <td>
+         <b>Representative of Doctoral Candidates</b><br>
+         <i>University of Oldenburg</i><br>
       </td>
    </tr>
    <tr>
