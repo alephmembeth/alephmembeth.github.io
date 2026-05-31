@@ -7,8 +7,8 @@ layout: default
 ## Representation
 
 <table>
-   <td width = "150">
-      <td>
+   <tr>   
+      <td width = "150">
          <b>since 04/2019</b>
       </td>
       <td>
