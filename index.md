@@ -25,7 +25,7 @@ Most of this information can also be found in my curriculum vitae, which is avai
 
 Still not enough? Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my empirical work](./check.md). Of course, replies to my theoretical work are equally welcome.
 
-By the way, the portrait to the left (or above, if you’re on a mobile device) was painted by the talented [parallaks](https://ko-fi.com/parallaks/) in the art style of [Disco Elysium](https://discoelysium.com/).
+By the way, the portrait to the left (or above, if you’re on a mobile device) was painted by the talented [Parallaks](https://ko-fi.com/parallaks/) in the art style of [Disco Elysium](https://discoelysium.com/).
 
 ## Areas and Tools
 
