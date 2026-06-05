@@ -6,7 +6,7 @@ layout: default
 
 ## Publications Under Review
 
-+ Gahtan, Jamie, Alexander Max Bauer, Neele Bäker, Jule Eilts, and Jessica Wilke (submitted to _Current Psychology_): »Moral Self and Socioeconomic Profiles in Middle Childhood. Examining the Links to Self-Esteem, Prosocial Behavior, and Aggressive Behavior in a Cluster-Analytic Study«.
++ Gahtan, Jamie, Alexander Max Bauer, Neele Bäker, Jule Eilts, and Jessica Wilke (in revision for _Current Psychology_): »Moral Self and Socioeconomic Profiles in Middle Childhood. Examining the Links to Self-Esteem, Prosocial Behavior, and Aggressive Behavior in a Cluster-Analytic Study«.
 + Schippers, Michael, Mark Siebel, Alexander Max Bauer, and Stephan Kornmesser (submitted to _Studia Logica_): »So Close and Yet So Far. On the Limits of Divergence and Similarity as Measures of Coherence«.
 + Bauer, Alexander Max, Lukas Daniel Klausner, Alina Menten, and Christian Sturm (submitted to _Paidia – Zeitschrift für Computerspielforschung_): »🚧 Baustelle Jubiläumssammelband 🏗️. Rückblicke und Reflexionen zur Genese des Sammelbands ›Geisteswissenschaften und Digitale Spiele: Debatten, Data & Desiderata‹«.
 
