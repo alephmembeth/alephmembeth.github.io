@@ -24,7 +24,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 2</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
+         course at master’s level; jointly with Stephan Kornmesser<br><span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
       </td>
    </tr>
    <tr>
@@ -34,7 +34,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie – Seminar 1</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
+         course at master’s level; jointly with Stephan Kornmesser<br><span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2025">Repository</a></span>
       </td>
    </tr>
    <tr>
@@ -44,7 +44,7 @@ layout: default
       <td>
          <b>Forschungsorientierte Einführung in die Experimentelle Philosophie</b><br>
          <i>University of Oldenburg</i><br>
-         course at master’s level; jointly with Stephan Kornmesser <span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2024">Repository</a></span>
+         course at master’s level; jointly with Stephan Kornmesser<br><span class = "label color-9"><a href = "https://github.com/alephmembeth/course-x-phi-2024">Repository</a></span>
       </td>
    </tr>
    <tr>
@@ -221,14 +221,14 @@ layout: default
 
 ## Teaching Concepts
 
-+ Bauer, Alexander Max, and Stephan Kornmesser (2025): _Forschungsorientierte Einführung in die Experimentelle Philosophie_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](https://lehrkonzepte.uol.de/forschungsorientierte-einfuehrung-in-die-experimentelle-philosophie/)</span>
++ Bauer, Alexander Max, and Stephan Kornmesser (2025): _Forschungsorientierte Einführung in die Experimentelle Philosophie_, Oldenburg: University of Oldenburg.<br><span class = "label color-9">[Link](https://lehrkonzepte.uol.de/forschungsorientierte-einfuehrung-in-die-experimentelle-philosophie/)</span>
 
 ## Teaching Materials
 
-+ Bauer, Alexander Max (2025): _Aristoteles’ »Metaphysik«. Tafelbild zu Buch α_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](files/2025_bauer_aristoteles_2.pdf)</span>
-+ Bauer, Alexander Max (2025): _Aristoteles’ »Metaphysik«. Tafelbild zu Buch A_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](files/2025_bauer_aristoteles_1.pdf)</span>
-+ Runtenberg, Christa, Laura Deepen, Alexander Max Bauer, and Gregor Damschen (2019): _Leitfaden zum wissenschaftlichen Schreiben in den Fächern Philosophie und Werte und Normen_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](https://uol.de/philosophie/studienorganisation/leitfaden-zum-wissenschaftlichen-arbeiten)</span>
-+ Bauer, Alexander Max, and Marco Stawinoga (2014): _Skript zur Einführung in das wissenschaftliche Arbeiten für das Philosophiestudium_, Oldenburg: University of Oldenburg. <span class = "label color-9">[Link](files/2014_bauer_stawinoga_skript.pdf)</span>
++ Bauer, Alexander Max (2025): _Aristoteles’ »Metaphysik«. Tafelbild zu Buch α_, Oldenburg: University of Oldenburg.<br><span class = "label color-9">[Link](files/2025_bauer_aristoteles_2.pdf)</span>
++ Bauer, Alexander Max (2025): _Aristoteles’ »Metaphysik«. Tafelbild zu Buch A_, Oldenburg: University of Oldenburg.<br><span class = "label color-9">[Link](files/2025_bauer_aristoteles_1.pdf)</span>
++ Runtenberg, Christa, Laura Deepen, Alexander Max Bauer, and Gregor Damschen (2019): _Leitfaden zum wissenschaftlichen Schreiben in den Fächern Philosophie und Werte und Normen_, Oldenburg: University of Oldenburg.<br><span class = "label color-9">[Link](https://uol.de/philosophie/studienorganisation/leitfaden-zum-wissenschaftlichen-arbeiten)</span>
++ Bauer, Alexander Max, and Marco Stawinoga (2014): _Skript zur Einführung in das wissenschaftliche Arbeiten für das Philosophiestudium_, Oldenburg: University of Oldenburg.<br><span class = "label color-9">[Link](files/2014_bauer_stawinoga_skript.pdf)</span>
 
 ## Theses
 
