@@ -13,7 +13,7 @@ layout: default
       </td>
       <td>
          <b>Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation</b><br>
-         presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki <span class = "label color-9"><a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2024_07.pdf">Slides</a></span>
+         presentation at the 2nd meeting of the Society for Philosophy of Causation; University of Göttingen; invited by Tom Wysocki<br><span class = "label color-9"><a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2024_07.pdf">Slides</a></span>
       </td>
    </tr>
    <tr>
@@ -45,7 +45,7 @@ layout: default
       </td>
       <td>
          <b>Empirical Studies on Questions of Need-Based Distributive Justice</b><br>
-         presentation at the 5th European Experimental Philosophy Conference; University of East Anglia <span class = "label color-9"><a href="https://github.com/alephmembeth/need-dissertation/blob/main/need_dissertation_slides_2025_07.pdf">Slides</a></span>
+         presentation at the 5th European Experimental Philosophy Conference; University of East Anglia<br><span class = "label color-9"><a href="https://github.com/alephmembeth/need-dissertation/blob/main/need_dissertation_slides_2025_07.pdf">Slides</a></span>
       </td>
    </tr>
    <tr>
@@ -63,7 +63,7 @@ layout: default
       </td>
       <td>
          <b>Poisoned Babies, Shot Fathers, and Ruined Experiments – Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation</b><br>
-         presentation at the 3rd European Experimental Philosophy Conference; University of Zurich; attended online due to funding problems <span class = "label color-9"><a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2023_09.pdf">Slides</a></span>
+         presentation at the 3rd European Experimental Philosophy Conference; University of Zurich; attended online due to funding problems<br><span class = "label color-9"><a href="https://github.com/alephmembeth/causality-compositionality/blob/main/slides/causality_compositionality_slides_2023_09.pdf">Slides</a></span>
       </td>
    </tr>
    <tr>
@@ -212,7 +212,7 @@ layout: default
       </td>
       <td>
          <b>Distributive Justice and Reference Points Revisited</b><br>
-         presentation at the lab meeting of the Experimental Philosophy Group; University of Zurich <span class = "label color-9"><a href="https://github.com/alephmembeth/need-fulfilment/blob/main/slides/need_fulfilment_slides_2025_10.pdf">Slides</a></span>
+         presentation at the lab meeting of the Experimental Philosophy Group; University of Zurich<br><span class = "label color-9"><a href="https://github.com/alephmembeth/need-fulfilment/blob/main/slides/need_fulfilment_slides_2025_10.pdf">Slides</a></span>
       </td>
    </tr>
    <tr>
@@ -221,7 +221,7 @@ layout: default
       </td>
       <td>
          <b>Distributive Justice and Reference Points</b><br>
-         presentation at the lab meeting of the Experimental Philosophy Group; University of Zurich; attended online <span class = "label color-9"><a href="https://github.com/alephmembeth/need-fulfilment/blob/main/slides/need_fulfilment_slides_2025_06.pdf">Slides</a></span>
+         presentation at the lab meeting of the Experimental Philosophy Group; University of Zurich; attended online<br><span class = "label color-9"><a href="https://github.com/alephmembeth/need-fulfilment/blob/main/slides/need_fulfilment_slides_2025_06.pdf">Slides</a></span>
       </td>
    </tr>
    <tr>
@@ -230,7 +230,7 @@ layout: default
       </td>
       <td>
          <b>Empirische Studien zu Fragen der Bedarfsgerechtigkeit</b><br>
-         doctoral dissertation defence; University of Oldenburg <span class = "label color-9"><a href="https://github.com/alephmembeth/need-dissertation/blob/main/need_dissertation_slides.pdf">Slides</a></span>
+         doctoral dissertation defence; University of Oldenburg<br><span class = "label color-9"><a href="https://github.com/alephmembeth/need-dissertation/blob/main/need_dissertation_slides.pdf">Slides</a></span>
       </td>
    </tr>
    <tr>
