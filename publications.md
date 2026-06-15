@@ -104,6 +104,7 @@ layout: default
 
 ## Public Writing
 
++ Díaz, Rodrigo, Alexander Max Bauer, and Joanna Demaree-Cotton (2026): »What Journals Publish Experimental Philosophy?«, _The Experimental Philosophy Blog_.<br><span class = "label color-9">[Link](https://xphi.net/2026/06/12/what-journals-publish-experimental-philosophy/)</span>
 + Bauer, Alexander Max, Simon Hagemann, and Lukas Daniel Klausner (2026): »›Menschen, Communitys, Dynamiken beobachten‹. Ein Gespräch mit Robert Glashüttner über Spielejournalismus zwischen Aufmerksamkeitsökonomie und Kulturkritik«, _gespielt – Blog des Arbeitskreises Geisteswissenschaften und Digitale Spiele_.<br><span class = "label color-9">[Link](https://gespielt.hypotheses.org/10092)</span>
 + Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (2026): »›Einhundert Leute haben wir gefragt …‹ Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum«, _gespielt – Blog des Arbeitskreises Geisteswissenschaften und Digitale Spiele_.<br><span class = "label color-9">[Link](https://gespielt.hypotheses.org/8965)</span>
 + Bauer, Alexander Max (2025): »Wer soll was bekommen? Wie wir über gerechte Verteilungen denken«, _praefaktisch.de – Ein Philosophieblog_.<br><span class = "label color-9">[Link](https://praefaktisch.de/002e/wer-soll-was-bekommen-wie-wir-ueber-gerechte-verteilungen-denken/)</span>
