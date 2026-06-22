@@ -232,6 +232,7 @@ layout: default
 
 ## Theses
 
++ Maler, Henrik (in progress): _Ästhetik und Existenz. Karl Jaspers’ Ästhetik-Begriff im Lichte von Walter Paters Ästhetizismus_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Reinken, Svea (in progress): _Lügen, Irreführungen und die Frage um die Täuschungsabsicht. Eine Untersuchung mit Mitteln der Experimentellen Philosophie._ (master’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Schaaf, Tristan (in progress): _Inwiefern lässt sich der Tod als Gegenstand gerechter Verteilung begreifen, und wie gehen unterschiedliche Gerechtigkeitstheorien mit Ungleichheiten von Todesrisiken um?_ (bachelor’s thesis; University of Oldenburg; supervisor: Mark Siebel)
 + Joshua Krüger (2026): _Roll for Mortality. »Dungeons & Dragons« as a Framework for Processing Death. Exploring How Gameplay Encourages Existential Processing_ (bachelor’s thesis; University of Oldenburg; second examiner: Mark Siebel)
