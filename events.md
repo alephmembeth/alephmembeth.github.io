@@ -12,6 +12,15 @@ layout: default
          <b>Winter 2026/2027</b>
       </td>
       <td>
+         <b>Greifswald Oldenburg Lectures</b><br>
+         lecture series; University of Greifswald and University of Oldenburg; organised jointly with Gregor Damschen, Stephan Kornmesser, and Mark Siebel
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>Winter 2026/2027</b>
+      </td>
+      <td>
          <b>Topics in the Cognitive Sciences of Morality</b><br>
          lecture series and course at master’s level; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen (also see <a href = "https://alephmembeth.github.io/teaching.html">teaching</a>)
       </td>
