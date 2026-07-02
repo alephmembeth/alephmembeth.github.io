@@ -15,7 +15,7 @@ layout: default
          <b>Greifswald Oldenburg Lectures</b><br>
          lecture series; University of Greifswald and University of Oldenburg; organised jointly with Gregor Damschen and Mark Siebel<br>
          <br>
-         featuring contributions by Eva-Maria Engelen and Pascale Willemsen
+         featuring contributions by Eva-Maria Engelen, Corina Strößner, and Pascale Willemsen
       </td>
    </tr>
    <tr>
