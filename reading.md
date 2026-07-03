@@ -12,6 +12,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Anthony Gottlieb (1997): _Socrates. Philosophy’s Martyr_, London: Weidenfeld & Nicolson.
 + Atto Melani (2013): _Die Geheimnisse der Konklaven und die Laster der Kardinäle_, ed. by Rita Monaldi and Francesco Sorti, trans. by Annette Kopetzki, 2nd ed., Stuttgart: Klett-Cotta.
 + Matthias Bormuth (2025): _Von der Unheimlichkeit der Welt. Denken mit Hannah Arendt_, Berlin: Matthes & Seitz.
 + Peter Meier-Hüsing (2022): _Nazis in Tibet. Das Rätsel um die SS-Expedition Ernst Schäfer_, 2nd ed., Darmstadt: Wissenschaftliche Buchgesellschaft.
