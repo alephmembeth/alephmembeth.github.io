@@ -14,7 +14,7 @@ layout: default
       <td>
          <b>Topics in the Cognitive Sciences of Morality</b><br>
          <i>University of Oldenburg</i><br>
-         lecture series and course at master’s level; jointly with Pascale Willemsen (also see <a href = "https://alephmembeth.github.io/events.html">events</a>)
+         lecture series and course at master’s level (also see <a href = "https://alephmembeth.github.io/events.html">events</a>)
       </td>
    </tr>
    <tr>
