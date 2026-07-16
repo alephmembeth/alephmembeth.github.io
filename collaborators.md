@@ -14,7 +14,7 @@ The great people with whom I have had the pleasure to work or with whom I’m cu
 
 + [Alfano, Mark](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University, Australia)
 + [Allard, Aurélien](https://aurelienallard.netlify.app/) (Nantes University, France)
-+ [Bäker, Neele](https://uol.de/sonderpaedagogik/psychologie/dr-neele-baeker-geb-schipper) (University of Oldenburg, Germany)
++ [Bäker, Neele](https://uol.de/sonderpaedagogik/psychologie/dr-neele-baeker-geb-schipper) (Paderborn University, Germany)
 + [Bandaru, Yohita Shraddha](https://scholar.google.com/citations?user=xFAG3JcAAAAJ&hl=en) (Saint Louis University, United States)
 + [Baratella, Nils](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences, Germany)
 + [Baumgartner, Lucien](https://www.dsi.uzh.ch/en/people/phd-students/phds_2021-2023/lbaumgartner.html) (University of Zurich, Switzerland)
