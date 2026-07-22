@@ -12,6 +12,7 @@ layout: default
 
 ## Publications in Preparation
 
++ Bauer, Alexander Max, Pascale Willemsen, and Pauline Maresi Kinzler (in preparation): »When the Apple Doesn’t Fall Far From the Tree, Blame the Apple! The (Null) Effect of Upbringing on Moral Responsibility«.
 + Bauer, Alexander Max, and Mark Siebel (eds.) (in preparation): _Advances in Experimental Philosophy of Distributive Justice_, London, New York, Oxford, New Delhi, and Sydney: Bloomsbury Academic.
 + Bauer, Alexander Max, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (eds.) (in preparation): _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_, Glückstadt: Verlag Werner Hülsbusch.
 + Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (in preparation): »›Einhundert Leute haben wir gefragt …‹ Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum«, in: Alexander Max Bauer, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (eds.): _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_, Glückstadt: Verlag Werner Hülsbusch.<br><span class = "label color-9">[Repository](https://github.com/alephmembeth/survey-game-studies-2025)</span>
