@@ -232,6 +232,7 @@ layout: default
 
 ## Theses
 
++ Schwartau, Luisa (in progress): _Wie wird das gute Leben in Aristoteles’ »Nikomachischer Ethik« und Michael Endes »Momo« charakterisiert?_ (bachelor’s thesis; University of Oldenburg; second examiner: Thomas Boyken)
 + Wienekamp, Saskia (in progress): _Die Ethik der Künstlichen Intelligenz. Moralische Entscheidungsfindung und Verantwortung in autonomen Systemen_ (master’s thesis; University of Oldenburg; second examiner: Susanne Möbuß)
 + Maler, Henrik (in progress): _Ästhetik und Existenz. Karl Jaspers’ Ästhetik-Begriff im Lichte von Walter Paters Ästhetizismus_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Reinken, Svea (in progress): _Lügen, Irreführungen und die Frage um die Täuschungsabsicht. Eine Untersuchung mit Mitteln der Experimentellen Philosophie_ (master’s thesis; University of Oldenburg; supervisor: Mark Siebel)
