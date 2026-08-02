@@ -7,13 +7,13 @@ layout: default
 ## Publications Under Review
 
 + Gahtan, Jamie, Alexander Max Bauer, Neele Bäker, Jule Eilts, and Jessica Wilke (in revision for _Current Psychology_): »Moral Self and Socioeconomic Profiles in Middle Childhood. Examining the Links to Self-Esteem, Prosocial Behavior, and Aggressive Behavior in a Cluster-Analytic Study«.
++ Bauer, Alexander Max, and Lukas Daniel Klausner (submitted to _Philosophical Psychology_): »›But a Cloak of Letters‹. Exploring Philosophical Dialogues in Digital Games Through Planescape: Torment«.
 + Schippers, Michael, Mark Siebel, Alexander Max Bauer, and Stephan Kornmesser (submitted to _Studia Logica_): »So Close and Yet So Far. On the Limits of Divergence and Similarity as Measures of Coherence«.
 + Bauer, Alexander Max, Lukas Daniel Klausner, Alina Menten, and Christian Sturm (submitted to _Paidia – Zeitschrift für Computerspielforschung_): »Baustelle Jubiläumssammelband. Rückblicke und Reflexionen zur Genese des Sammelbands ›Geisteswissenschaften und Digitale Spiele: Debatten, Data & Desiderata‹«.
 
 ## Publications in Preparation
 
 + Bauer, Alexander Max, Pascale Willemsen, and Pauline Maresi Kinzler (in preparation): »When the Apple Doesn’t Fall Far From the Tree, Blame the Apple! How Laypeople Assign Moral Responsibility to Agents With Morally Problematic Upbringings«.
-+ Bauer, Alexander Max, and Lukas Daniel Klausner (in preparation): »›But a Cloak of Letters‹. Exploring Philosophical Dialogues in Digital Games Through Planescape: Torment«.
 + Bauer, Alexander Max, and Mark Siebel (eds.) (in preparation): _Advances in Experimental Philosophy of Distributive Justice_, London, New York, Oxford, New Delhi, and Sydney: Bloomsbury Academic.
 + Bauer, Alexander Max, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (eds.) (in preparation): _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_, Glückstadt: Verlag Werner Hülsbusch.
 + Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (in preparation): »›Einhundert Leute haben wir gefragt …‹. Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum«, in: Alexander Max Bauer, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (eds.): _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_, Glückstadt: Verlag Werner Hülsbusch.<br><span class = "label color-9">[Repository](https://github.com/alephmembeth/survey-game-studies-2025)</span>
