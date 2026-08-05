@@ -20,6 +20,7 @@ layout: default
 + Bauer, Alexander Max, Simon Hagemann, and Lukas Daniel Klausner (in preparation): »›Menschen, Communitys, Dynamiken beobachten.‹ Ein Gespräch mit Robert Glashüttner über Spielejournalismus zwischen Aufmerksamkeitsökonomie und Kulturkritik«, in: Alexander Max Bauer, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (eds.): _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_, Glückstadt: Verlag Werner Hülsbusch.
 + Bauer, Alexander Max, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (in preparation): »Debatten, Data & Desiderata. Vom Jubiläum zum Sammelband«, in: id. (eds.): _Geisteswissenschaften und Digitale Spiele. Debatten, Data & Desiderata_, Glückstadt: Verlag Werner Hülsbusch.
 + Bauer, Alexander Max, Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (in preparation): _Experimentelle Philosophie. Eine Einführung in Methoden und Werkzeuge_, Berlin: J.&nbsp;B. Metzler.
++ Willemsen, Pascale (in preparation): »Experimentelle Philosophie«, in: Hans-Johann Glock, Christoph Pfisterer, and Stefan Roski (eds.): _Handbuch Analytische Philosophie_, Berlin: J.&nbsp;B. Metzler.
 
 ## Monographs
 
@@ -108,6 +109,7 @@ layout: default
 
 ## Public Writing
 
++ Bauer, Alexander Max, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (2026): »Debatten, Data & Desiderata. Vom Jubiläum zum Sammelband«, _gespielt – Blog des Arbeitskreises Geisteswissenschaften und Digitale Spiele_.<br><span class = "label color-9">[Link](https://gespielt.hypotheses.org/11293)</span>
 + Díaz, Rodrigo, Alexander Max Bauer, and Joanna Demaree-Cotton (2026): »What Journals Publish Experimental Philosophy?«, _The Experimental Philosophy Blog_.<br><span class = "label color-9">[Link](https://xphi.net/2026/06/12/what-journals-publish-experimental-philosophy/)</span>
 + Bauer, Alexander Max, Simon Hagemann, and Lukas Daniel Klausner (2026): »›Menschen, Communitys, Dynamiken beobachten‹. Ein Gespräch mit Robert Glashüttner über Spielejournalismus zwischen Aufmerksamkeitsökonomie und Kulturkritik«, _gespielt – Blog des Arbeitskreises Geisteswissenschaften und Digitale Spiele_.<br><span class = "label color-9">[Link](https://gespielt.hypotheses.org/10092)</span>
 + Bauer, Alexander Max, Lukas Daniel Klausner, and Tobias Unterhuber (2026): »›Einhundert Leute haben wir gefragt …‹ Einblicke in Methodenvielfalt und Interdisziplinarität der Game Studies im deutschsprachigen Raum«, _gespielt – Blog des Arbeitskreises Geisteswissenschaften und Digitale Spiele_.<br><span class = "label color-9">[Link](https://gespielt.hypotheses.org/8965)</span>
