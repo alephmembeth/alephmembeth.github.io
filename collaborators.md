@@ -43,6 +43,7 @@ The great people with whom I have had the pleasure to work or with whom I’m cu
 + [Reuter, Kevin](http://www.kevinreuter.com/) (University of Gothenburg, Sweden)
 + [Romann, Jan](https://github.com/JKRhb) (Koordinierungsstelle für IT-Standards, Germany)
 + [Schippers, Michael](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg, Germany)
++ [Shurakov, Nikolai](https://www.philosophie.uzh.ch/de/seminar/people/research/snf_willemsen/shurakov.html) (University of Zurich, Switzerland)
 + [Siebel, Mark](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg, Germany)
 + [Springhorn, Nils](https://uol.de/philosophie/ehemalige/nils-springhorn) (University of Oldenburg, Germany)
 + [Sturm, Christian](https://www.portal-militaergeschichte.de/content/sturm-christian-med) (RWTH Aachen University, Germany)
