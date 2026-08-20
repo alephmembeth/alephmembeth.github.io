@@ -54,7 +54,7 @@ layout: default
    </tr>
 </table>
 
-## Editorial Roles in Journals
+## Editorial Roles for Journals
 
 <table>
    <tr>
