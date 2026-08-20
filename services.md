@@ -59,7 +59,7 @@ layout: default
 <table>
    <tr>
       <td width = "150">
-         <b>forthcoming</b>
+         <b>since 06/2026</b>
       </td>
       <td>
          <b>Co-Editor-in-Chief</b><br>
