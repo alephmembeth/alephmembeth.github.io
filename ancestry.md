@@ -20,7 +20,7 @@ Interestingly enough, König himself worked for some time in Oldenburg, where �
 
 A concise definition of the Erdős number is given by [Werner Balser](https://www.uni-ulm.de/en/mawi/iaa/members/former/prof-dr-werner-balser/my-erdoes-number/): »One defines by mathematical induction: The Erdös number of famous Paul Erdös is 0. The Erdös number of any other person X is n+1 if there is Y whose Erdös number is n and X and Y have published a common paper, and if in addition no co-author Y of X has Erdös number less than n.«
 
-My Erdős number, calculated with the American Mathematical Society’s [Collaboration Distance](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) tool, is 5:
+My Erdős number is 5:
 
 <object data = "https://alephmembeth.github.io/files/erdoes.pdf" type = "application/pdf" width = "600px" height = "500px">
    <embed src = "https://alephmembeth.github.io/files/erdoes.pdf">
