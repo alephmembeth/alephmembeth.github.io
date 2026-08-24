@@ -11,6 +11,7 @@ layout: default
 + Bauer, Alexander Max, and Lukas Daniel Klausner (submitted to _Philosophical Psychology_): »›But a Cloak of Letters‹. Exploring Philosophical Dialogues in Digital Games Through Planescape: Torment«.
 + Bauer, Alexander Max, Pascale Willemsen, and Pauline Maresi Kinzler (submitted to _Cognition_): »When the Apple Doesn’t Fall Far From the Tree, Blame the Apple! How Laypeople Assign Moral Responsibility to Agents With Morally Problematic Upbringings«.
 + Schippers, Michael, Mark Siebel, Alexander Max Bauer, and Stephan Kornmesser (submitted to _Studia Logica_): »So Close and Yet So Far. On the Limits of Divergence and Similarity as Measures of Coherence«.
++ Bauer, Alexander Max, Jacob Birken, and Lukas Daniel Klausner (submitted): »The Truth Is Out There. How the Grand Theft Auto Series Plays With Conspiracy Narratives«, in: Ann-Kathrin Michelle Günther, Rudolf Thomas Inderst, Leonie Eva Konietzko, and Daniel Meis (eds.): »So … this is what the dream feels like. This is the victory we longed for.« Diskurse, Dynamiken und Dissonanzen in Grand Theft Auto.
 
 ## Publications in Preparation
 
