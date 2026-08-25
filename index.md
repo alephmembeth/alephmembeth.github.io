@@ -27,19 +27,19 @@ Still not enough? Inspired by [Gilad Feldman](https://mgto.org/check-me-replicat
 
 By the way, the portrait to the left (or above, if you’re on a mobile device) was painted by the talented [Parallaks](https://ko-fi.com/parallaks/) in the art style of [Disco Elysium](https://discoelysium.com/).
 
-## Areas and Tools
+## Areas and Tools (In Alphabetical Order )
 
 <dl>
    <dt>Areas of Specialization</dt>
-      <dd><span class = "label color-2">Experimental Philosophy</span> <span class = "label color-2">Need-Based Distributive Justice</span> <span class = "label color-2">Causation</span></dd>
+      <dd><span class = "label color-2">Causation</span> <span class = "label color-2">Experimental Philosophy</span> <span class = "label color-2">Need-Based Distributive Justice</span></dd>
    <dt>Areas of Competence</dt>
-      <dd><span class = "label color-3">Game Studies</span> <span class = "label color-3">Distributive Justice</span> <span class = "label color-3">Philosophy of Science</span> <span class = "label color-3">Metaphysics</span></dd>
+      <dd><span class = "label color-3">Distributive Justice</span> <span class = "label color-3">Game Studies</span> <span class = "label color-3">Metaphysics</span> <span class = "label color-3">Philosophy of Science</span></dd>
    <dt>Areas of Interest</dt>
       <dd><span class = "label color-4">Digital Humanities</span> <span class = "label color-4">Metaphilosophy</span> <span class = "label color-4">Philosophy of Language</span></dd>
    <dt>Historical Focus</dt>
       <dd><span class = "label color-5">Aristotle</span> <span class = "label color-5">Friedrich Nietzsche</span></dd>
    <dt>Tools of Choice</dt>
-      <dd><span class = "label color-6">LaTeX</span> <span class = "label color-6">Zotero</span> <span class = "label color-6">LimeSurvey</span> <span class = "label color-6">Python</span> <span class = "label color-6">R</span> <span class = "label color-6">Git</span></dd>
+      <dd><span class = "label color-6">Git</span> <span class = "label color-6">LaTeX</span> <span class = "label color-6">LimeSurvey</span> <span class = "label color-6">Python</span> <span class = "label color-6">R</span> <span class = "label color-6">Zotero</span></dd>
 </dl>
 
 ***
