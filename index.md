@@ -31,7 +31,7 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
 
 <dl>
    <dt>Areas of Specialization</dt>
-      <dd><span class = "label color-2">Causation</span> <span class = "label color-2">Experimental Philosophy</span> <span class = "label color-2">Need-Based Distributive Justice</span></dd>
+      <dd><span class = "label color-2">Causation</span> <span class = "label color-2">Empirical Justice Research</span> <span class = "label color-2">Experimental Philosophy</span> <span class = "label color-2">Need-Based Distributive Justice</span></dd>
    <dt>Areas of Competence</dt>
       <dd><span class = "label color-3">Distributive Justice</span> <span class = "label color-3">Game Studies</span> <span class = "label color-3">Metaphysics</span> <span class = "label color-3">Philosophy of Science</span></dd>
    <dt>Areas of Interest</dt>
