@@ -12,6 +12,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Kenneth McLeish (2023): _Aristotle. Aristotle’s Poetics_, London: Weidenfeld & Nicolson.
 + Bernard Williams (2023): _Plato. The Invention of Philosophy_, London: Weidenfeld & Nicolson.
 + Anthony Gottlieb (2021): _Socrates. Philosophy’s Martyr_, London: Weidenfeld & Nicolson.
 + Atto Melani (2013): _Die Geheimnisse der Konklaven und die Laster der Kardinäle_, ed. by Rita Monaldi and Francesco Sorti, trans. by Annette Kopetzki, 2nd ed., Stuttgart: Klett-Cotta.
