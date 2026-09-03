@@ -16,11 +16,4 @@ Below, you can find a selection of my current projects.
 + an edited volume on game studies (jointly with David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber)
 + a book on the video game _Gothic_
 
-## Studies and Articles
-
-+ a study on blame and praise (jointly with Pauline Maresi Kinzler and Pascale Willemsen)
-+ a study on need-based distributive justice (jointly with Mark Siebel)
-+ a paper on _Planescape: Torment_ (jointly with Lukas Daniel Klausner)
-+ a paper on the _Grand Theft Auto_ series (jointly with Jacob Birken and Lukas Daniel Klausner)
-
 ***
