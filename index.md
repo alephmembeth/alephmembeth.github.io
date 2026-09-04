@@ -35,7 +35,7 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
    <dt>Areas of Competence</dt>
       <dd><span class = "label color-3">Distributive Justice</span> <span class = "label color-3">Game Studies</span> <span class = "label color-3">Metaphysics</span> <span class = "label color-3">Philosophy of Science</span></dd>
    <dt>Areas of Interest</dt>
-      <dd><span class = "label color-4">Digital Humanities</span> <span class = "label color-4">Metaphilosophy</span> <span class = "label color-4">Philosophy of Language</span></dd>
+      <dd><span class = "label color-4">Conspiracy Narratives</span> <span class = "label color-4">Digital Humanities</span> <span class = "label color-4">Metaphilosophy</span> <span class = "label color-4">Philosophy of Language</span></dd>
    <dt>Historical Focus</dt>
       <dd><span class = "label color-5">Aristotle</span> <span class = "label color-5">Friedrich Nietzsche</span></dd>
    <dt>Tools of Choice</dt>
