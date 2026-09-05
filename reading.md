@@ -21,6 +21,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Articles and Chapters
 
++ John Wills (2021): »›Ain’t the American Dream Grand‹. Satirical Play in Rockstar’s Grand Theft Auto V«, _European Journal of American Studies_, 16 (3).
 + Soraya Murray (2005): »High Art/Low Life. The Art of Playing Grand Theft Auto«, _PAJ – A Journal of Performance and Art_ 27 (2), 91–98.
 + Yotam Harel (2026): »A Methodological Plea. Sampling in Experimental Philosophy«, _Theoria_, e70113.
 + Shane Montgomery Ewegen (2018): »What Is Philosophical Dialogue?«, in: Barry Stocker and Michael Mack (eds.): _The Palgrave Handbook of Philosophy and Literature_, London: Palgrave Macmillan, 41–59.
