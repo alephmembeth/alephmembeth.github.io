@@ -27,8 +27,10 @@ Should you be interested in replicating my work, there are a few things I offer 
 
 [^1]: [Gilad Feldman](https://mgto.org/check-me-replicate-me/) got the idea from [Stuart Ritchie](https://www.sciencefictions.org/p/book), who himself adapted it from [Ruben Arslan](https://tellmeimwrong.formr.org/), [José Luis Ricón](https://nintil.com/prove-wrong-get-money), and the [Knuth Reward Check](https://en.wikipedia.org/wiki/Knuth_reward_check).
 
-## Errata
+## Published Errata
 
 + Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): »Correction to: Thinking About Need«, _The Journal of Economic Inequality_. <span class = "label color-9">[Link](https://link.springer.com/article/10.1007/s10888-025-09711-7)</span>
+
+## Claimed Bounties
 
 ***
