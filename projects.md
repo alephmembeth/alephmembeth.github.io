@@ -13,7 +13,7 @@ Below, you can find a selection of my current projects.
 ## Books and Edited Volumes
 
 + an edited volume on experimental philosophy of distributive justice (to be published with Bloomsbury; jointly with Mark Siebel)
-+ an edited volume on game studies (jointly with David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber)
++ an edited volume on game studies (to be published with Verlag Werner Hülsbusch; jointly with David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber)
 + a book on the video game _Gothic_
 
 ***
