@@ -33,4 +33,6 @@ Should you be interested in replicating my work, there are a few things I offer 
 
 ## Claimed Bounties
 
++ In [Austin in the Lab](https://topling.ukf.sk/index.php/topling/article/view/112), we reported our sample’s mean age as 48.45, but it is actually 48.50. For this, a bounty of 5 € was claimed.
+
 ***
