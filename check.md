@@ -10,12 +10,11 @@ Everybody makes mistakes. Sometimes, this happens unnoticed. And sometimes, it d
 
 ## Check My Work
 
-Inspired by Gilad Feldman,[^1] I offer to pay you a bounty for every minor or major error you find in my preprints and published work. Definitions and rules are taken from the websites of Gilad Feldman and Stuart Ritchie.
+For a long time, inspired by Gilad Feldman,[^1] I offered to pay a bounty for finding errors in my preprints and published work. With the rise of LLMs, Gilad Feldman has discontinued his bounty program in September 2026, writing:
 
-+ I understand a minor error to be, for example, the incorrect reporting of a numerical result. On the other hand, typos or grammatical errors do not count unless they significantly change the meaning of what is being said. __If you find a minor error in my work, I offer to pay you 5 €.__
-+ I understand a major error to be, for example, a flaw in my method, an error in my code that significantly changes the results, or an erroneously drawn conclusion that is not supported by the data. __If you find a major error in my work, I offer to pay you 50 €.__
+> With the introduction of powerful frontier LLMs it’s now easier than ever to check manuscripts. In the last week I received several emails sending me reports of automated checks flagging potential minor errors in my published manuscripts. This is wonderful, truly, and I love it that people are now leveraging LLM models to check previous literature. But it also means that the rewards set in place before are no longer needed, what is needed is for every researcher, me included, to check their prior work with LLMs, and correct the public record.
 
-As both Gilad Feldman and Stuart Ritchie note, they »have to be _objective_ errors – not matters of opinion or interpretation.« All errors found in my preprints and published work will be collected in a separate section below.
+And so, I am following suit. Of course, reports of errors in my work remain very welcome. I collect all errors found in my preprints and published work in a separate section below.
 
 ## Replicate My Work
 
@@ -31,8 +30,15 @@ Should you be interested in replicating my work, there are a few things I offer 
 
 + Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): »Correction to: Thinking About Need«, _The Journal of Economic Inequality_. <span class = "label color-9">[Link](https://link.springer.com/article/10.1007/s10888-025-09711-7)</span>
 
-## Claimed Bounties
+## Further Errors
 
-+ In [Austin in the Lab](https://topling.ukf.sk/index.php/topling/article/view/112), we reported our sample’s mean age as 48.45, but it is actually 48.50. For this, a bounty of 5 € was claimed.
++ In [Austin in the Lab](https://doi.org/10.2478/topling-2023-0008), we reported our sample’s mean age as 48.45; it should be 48.50.
++ In [Poisoned Babies, Shot Fathers, and Ruined Experiments](https://doi.org/10.1017/psa.2023.1), seven numerical errors were found.
+  + GFCI replication, statement (2): the reported 95% CI belongs to a different statement; it should be [3.434, 4.799].
+  + Poisoned Cup, IOC exclusion (2): the running text gives N = 81; it should be N = 89.
+  + Poisoned Cup replication: the analysis file divides by &radic;50 rather than &radic;71; reported r = 1.166 and r = –0.842 should be r = 0.978 and r = –0.706.
+  + GFCI CRC exclusion: the analysis file divides by &radic;50 rather than &radic;67; reported r = 0.917 and r = 0.254 should be r = 0.792 and r = –0.219.
+  + Revolver, simultaneous exclusion: the sample should be 31 males, not 30.
+  + GFCI CRC exclusion: the mean age is 46.269, not 46.267.
 
 ***
