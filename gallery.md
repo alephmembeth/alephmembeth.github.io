@@ -17,5 +17,7 @@ Congratulations, you’ve found my hidden gallery! :)
 | <a href = "https://linktr.ee/liri_runa">Ana Laura Sobico</a> (2025)                | Daniel Schmidt (2025)                                                              |
 | <img src = "assets/img/amb_parallaks.jpeg" width = "225"/>                         | <img src = "assets/img/amb_bojarinzew.jpg" width = "225"/>                         |
 | <a href = "https://ko-fi.com/parallaks">Kris Merola</a> (2026)                     | Vera Bojarinzew (2026)                                                             |
+| <img src = "assets/img/amb_21dps.png" width = "225"/>                              |                                                                                    |
+| <a href = "https://21dps.carrd.co/">Deronde Smith</a> (2026)                       |                                                                                    |
 
 ***
