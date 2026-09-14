@@ -31,15 +31,15 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
 
 <dl>
    <dt>Areas of Specialization</dt>
-      <dd><span class = "label color-2">Causation</span> <span class = "label color-2">Empirical Justice Research</span> <span class = "label color-2">Experimental Philosophy</span> <span class = "label color-2">Need-Based Distributive Justice</span></dd>
+      <dd><span class = "label label-specialization">Causation</span> <span class = "label label-specialization">Empirical Justice Research</span> <span class = "label label-specialization">Experimental Philosophy</span> <span class = "label label-specialization">Need-Based Distributive Justice</span></dd>
    <dt>Areas of Competence</dt>
-      <dd><span class = "label color-3">Distributive Justice</span> <span class = "label color-3">Game Studies</span> <span class = "label color-3">Metaphysics</span> <span class = "label color-3">Philosophy of Science</span></dd>
+      <dd><span class = "label label-competence">Distributive Justice</span> <span class = "label label-competence">Game Studies</span> <span class = "label label-competence">Metaphysics</span> <span class = "label label-competence">Philosophy of Science</span></dd>
    <dt>Areas of Interest</dt>
-      <dd><span class = "label color-4">Conspiracy Narratives</span> <span class = "label color-4">Digital Humanities</span> <span class = "label color-4">Metaphilosophy</span> <span class = "label color-4">Philosophy of Language</span></dd>
+      <dd><span class = "label label-interest">Conspiracy Narratives</span> <span class = "label label-interest">Digital Humanities</span> <span class = "label label-interest">Metaphilosophy</span> <span class = "label label-interest">Philosophy of Language</span></dd>
    <dt>Historical Focus</dt>
-      <dd><span class = "label color-5">Aristotle</span> <span class = "label color-5">Friedrich Nietzsche</span></dd>
+      <dd><span class = "label label-history">Aristotle</span> <span class = "label label-history">Friedrich Nietzsche</span></dd>
    <dt>Tools of Choice</dt>
-      <dd><span class = "label color-6">Git</span> <span class = "label color-6">LaTeX</span> <span class = "label color-6">LimeSurvey</span> <span class = "label color-6">Python</span> <span class = "label color-6">Zotero</span></dd>
+      <dd><span class = "label label-tools">Git</span> <span class = "label label-tools">LaTeX</span> <span class = "label label-tools">LimeSurvey</span> <span class = "label label-tools">Python</span> <span class = "label label-tools">Zotero</span></dd>
 </dl>
 
 ***
