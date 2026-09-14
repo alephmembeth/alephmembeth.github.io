@@ -2,15 +2,15 @@
 @import "rouge-github";
 
 body {
-  background-color: #e5e5e5;
+  background-color: #241A33;
   padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #4c4c4c;
+  color: #D5CEE0;
   font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #222;
+  color: #E3DAEE;
   margin: 0 0 20px;
 }
 
@@ -27,32 +27,34 @@ h1 {
 }
 
 h2 {
-  color: #393939;
-  border-bottom: 2px solid #393939;
+  color: #E3DAEE;
+  border-bottom: 2px solid #4A3A63;
 }
 
 h3, h4, h5, h6 {
-  color: #494949;
+  color: #CFC5DE;
 }
 
 a {
-  color: #267CB9;
-  text-decoration: none;
+  color: #BE9DF5;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
 }
 
 a:hover, a:focus {
-  color: #E69138;
+  color: #F27BB3;
 }
 
 a small {
   font-size: 11px;
-  color: #777;
+  color: #9A90AC;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color: #777;
+  color: #9A90AC;
 }
 
 .wrapper {
@@ -61,7 +63,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left: 1px solid #e5e5e5;
+  border-left: 1px solid #4A3A63;
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
@@ -69,14 +71,14 @@ blockquote {
 
 code, pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color: #333;
+  color: #D5CEE0;
 }
 
 pre {
   padding: 8px 15px;
-  background: #f8f8f8;
+  background: #2E2240;
   border-radius: 5px;
-  border: 1px solid #e5e5e5;
+  border: 1px solid #4A3A63;
   overflow-x: auto;
 }
 
@@ -88,16 +90,16 @@ table {
 th, td {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #3A2D4F;
 }
 
 dt {
-  color: #444;
+  color: #EFE8F7;
   font-weight: 700;
 }
 
 th {
-  color: #444;
+  color: #EFE8F7;
 }
 
 img {
@@ -105,12 +107,12 @@ img {
 }
 
 kbd {
-  background-color: #fafbfc;
-  border: 1px solid #c6cbd1;
-  border-bottom-color: #959da5;
+  background-color: #2E2240;
+  border: 1px solid #4A3A63;
+  border-bottom-color: #6B5A87;
   border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #959da5;
-  color: #444d56;
+  box-shadow: inset 0 -1px 0 #6B5A87;
+  color: #D5CEE0;
   display: inline-block;
   font-size: 11px;
   line-height: 10px;
@@ -170,7 +172,7 @@ ul.downloads {
 }
 
 strong {
-  color: #222;
+  color: #F4EEF9;
   font-weight: 700;
 }
 
@@ -197,7 +199,7 @@ small {
 
 hr {
   border: 0;
-  background: #393939;
+  background: #4A3A63;
   height: 2px;
   margin: 0 0 20px;
 }
@@ -227,7 +229,7 @@ footer {
   }
   
   section {
-    border: 1px solid #e5e5e5;
+    border: 1px solid #3A2D4F;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
@@ -280,6 +282,18 @@ footer {
   body {
     padding: 0.4in;
     font-size: 12pt;
-    color: #444;
+    background-color: #fff;
+    color: #000;
+  }
+
+  h1, h2, h3, h4, h5, h6, dt, th, strong { color: #000; }
+  a { color: #000; }
+  h2 { border-bottom-color: #000; }
+  hr { background: #000; }
+
+  .label {
+    color: #000;
+    background-color: transparent;
+    border-color: #000;
   }
 }
