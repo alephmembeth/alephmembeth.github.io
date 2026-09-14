@@ -4,8 +4,6 @@ layout: default
 
 # Errors
 
-***
-
 ## Published Errata
 
 + Bauer, Alexander Max, Adele Diederich, Stefan Traub, and Arne Robert Weiss (2025): »Correction to: Thinking About Need«, _The Journal of Economic Inequality_. <span class = "label color-9">[Link](https://link.springer.com/article/10.1007/s10888-025-09711-7)</span>
