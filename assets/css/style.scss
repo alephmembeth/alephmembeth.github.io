@@ -27,11 +27,12 @@
    a:hover, a:focus { color: inherit; text-decoration: underline; }
 }
 
-.label-specialization { --label-color: #F27BB3; }
-.label-competence     { --label-color: #D98FEE; }
-.label-interest       { --label-color: #9AA8F2; }
-.label-history        { --label-color: #C3D46B; }
-.label-tools          { --label-color: #7CC4DC; }
-.label-source         { --label-color: #BE9DF5; }
-.label-status         { --label-color: #8FD455; }
-.label-topic          { --label-color: #ADA2C0; }
+.label-specialization { --label-color: #72B2FF; }
+.label-competence     { --label-color: #D397FF; }
+.label-interest       { --label-color: #FF76D2; }
+.label-history        { --label-color: #FF8794; }
+.label-tools          { --label-color: #F6A24F; }
+
+.label-topic          { --label-color: #F6A250; }
+.label-source         { --label-color: #FF76D2; }
+.label-status         { --label-color: #F6A250; }
