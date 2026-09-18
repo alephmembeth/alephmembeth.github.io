@@ -30,7 +30,7 @@ layout: default
 
 ## Contributions to Monographs With Multiple Authors
 
-+ Bauer, Alexander Max, Stephan Kornmesser, and Henrike Meyer (2024): »Constative and Performative Utterances, Χ<sup>2</sup> Tests, and LimeSurvey«, in: Stephan Kornmesser, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski: _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_, Cham: Springer, 19–88.<br><span class = "label label-source">[Link](https://link.springer.com/chapter/10.1007/978-3-031-58049-9_2)</span>
++ Bauer, Alexander Max, Stephan Kornmesser, and Henrike Meyer (2024): »Constative and Performative Utterances, Χ<sup>2</sup> Tests, and LimeSurvey«, in: Stephan Kornmesser, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski: _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_, Cham: Springer, 19–88.<br><span class = "label label-topic">Experimental Philosophy</span><br><span class = "label label-source">[Link](https://link.springer.com/chapter/10.1007/978-3-031-58049-9_2)</span>
 
 ## Special Issues in Journals
 
