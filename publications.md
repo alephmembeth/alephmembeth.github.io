@@ -122,6 +122,6 @@ layout: default
 
 ## Dissertation
 
-+ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_, dissertation, Oldenburg: University of Oldenburg.<br><span class = "label label-source">[Link](http://oops.uni-oldenburg.de/6834/)</span> <span class = "label label-source">[Repository](https://github.com/alephmembeth/need-dissertation)</span> <span class = "label label-status">Open Access</span>
++ Bauer, Alexander Max (2024): _Empirische Studien zu Fragen der Bedarfsgerechtigkeit_, dissertation, Oldenburg: University of Oldenburg.<br><span class = "label label-topic">Distributive Justice</span> <span class = "label label-topic">Experimental Philosophy</span> <span class = "label label-topic">Responsibility</span><br><span class = "label label-status">Open Access</span><br><span class = "label label-source">[Link](http://oops.uni-oldenburg.de/6834/)</span> <span class = "label label-source">[Repository](https://github.com/alephmembeth/need-dissertation)</span>
 
 ***
