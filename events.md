@@ -9,7 +9,7 @@ layout: default
 <table>
    <tr>
       <td width = "150">
-         <b>Winter 2026/2027</b>
+         <b>in preparation</b>
       </td>
       <td>
          <b>Greifswald Oldenburg Lectures</b><br>
