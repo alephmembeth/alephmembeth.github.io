@@ -114,7 +114,7 @@ layout: default
 + Weiss, Arne Robert, Alexander Max Bauer, and Stefan Traub (2017): »Needs as Reference Points. When Marginal Gains to the Poor do not Matter«, _FOR 2104 Working Paper_ 2017-13.<br><span class = "label label-source">[Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-13.pdf)</span>
 + Traub, Stefan, Alexander Max Bauer, Mark Siebel, Nils Springhorn, and Arne Robert Weiss (2017): »On the Measurement of Need-Based Justice«, _FOR 2104 Working Paper_ 2017-12.<br><span class = "label label-source">[Link](https://www.hsu-hh.de/bedarfsgerechtigkeit/wp-content/uploads/sites/857/2021/03/2017-12.pdf)</span>
 
-## Public Writing
+## Blog Entries
 
 + Bauer, Alexander Max, David Betzing, Jacob Birken, Simon Hagemann, Lukas Daniel Klausner, Alina Menten, Christian Sturm, and Tobias Unterhuber (2026): »Debatten, Data & Desiderata. Vom Jubiläum zum Sammelband«, _gespielt – Blog des Arbeitskreises Geisteswissenschaften und Digitale Spiele_.<br><span class = "label label-source">[Link](https://gespielt.hypotheses.org/11293)</span>
 + Díaz, Rodrigo, Alexander Max Bauer, and Joanna Demaree-Cotton (2026): »What Journals Publish Experimental Philosophy?«, _The Experimental Philosophy Blog_.<br><span class = "label label-source">[Link](https://xphi.net/2026/06/12/what-journals-publish-experimental-philosophy/)</span>
