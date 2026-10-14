@@ -9,17 +9,6 @@ layout: default
 <table>
    <tr>
       <td width = "150">
-         <b>in preparation</b>
-      </td>
-      <td>
-         <b>Greifswald Oldenburg Lectures</b><br>
-         lecture series; University of Greifswald and University of Oldenburg; organised jointly with Gregor Damschen and Mark Siebel<br>
-         <br>
-         featuring contributions by Eva-Maria Engelen, Corina Strößner, and Pascale Willemsen
-      </td>
-   </tr>
-   <tr>
-      <td>
          <b>Winter 2026/2027</b>
       </td>
       <td>
