@@ -12,6 +12,7 @@ Inspired by [David Strohmaier](https://dstrohmaier.com/lists/), I’m compiling 
 
 ### Books
 
++ Jonas Pfister and Tobias Zürcher (eds.) (2022): _Gedankenexperimente in der Philosophie_, Ditzingen: Reclam.
 + Kenneth McLeish (2023): _Aristotle. Aristotle’s Poetics_, London: Weidenfeld & Nicolson.
 + Bernard Williams (2023): _Plato. The Invention of Philosophy_, London: Weidenfeld & Nicolson.
 + Anthony Gottlieb (2021): _Socrates. Philosophy’s Martyr_, London: Weidenfeld & Nicolson.
