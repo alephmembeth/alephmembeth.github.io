@@ -9,7 +9,7 @@ layout: default
 <table>
    <tr>   
       <td width = "150">
-         <b>04/2019 – 04/2026</b>
+         <b>04/2019 – 04/2027</b>
       </td>
       <td>
          <b>Deputy Representative of Academic Junior Faculty</b><br>
