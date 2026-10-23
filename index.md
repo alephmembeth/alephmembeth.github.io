@@ -33,7 +33,7 @@ By the way, the portrait to the left (or above, if you’re on a mobile device) 
    <dt>Areas of Specialization</dt>
       <dd><span class = "label label-specialization">Causation</span> <span class = "label label-specialization">Empirical Justice Research</span> <span class = "label label-specialization">Experimental Philosophy</span> <span class = "label label-specialization">Need-Based Distributive Justice</span></dd>
    <dt>Areas of Competence</dt>
-      <dd><span class = "label label-competence">Distributive Justice</span> <span class = "label label-competence">Game Studies</span> <span class = "label label-competence">Metaphysics</span> <span class = "label label-competence">Moral Psychology</span> <span class = "label label-competence">Philosophy of Science</span></dd>
+      <dd><span class = "label label-competence">Distributive Justice</span> <span class = "label label-competence">Game Studies</span> <span class = "label label-competence">Moral Psychology</span> <span class = "label label-competence">Philosophy of Science</span></dd>
    <dt>Areas of Interest</dt>
       <dd><span class = "label label-interest">Conspiracy Narratives</span> <span class = "label label-interest">Digital Humanities</span> <span class = "label label-interest">Metaphilosophy</span> <span class = "label label-interest">Philosophy of Language</span></dd>
    <dt>Historical Focus</dt>
