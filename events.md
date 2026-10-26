@@ -15,7 +15,7 @@ layout: default
          <b>Topics in the Cognitive Science of Morality</b><br>
          lecture series and course at master’s level; University of Zurich and University of Oldenburg; organised jointly with Pascale Willemsen (also see <a href = "https://alephmembeth.github.io/teaching.html">teaching</a>)<br>
          <br>
-         featuring contributions by Sebastian Bernhard, Joanna Demaree-Cotton, Vilius Dranseika, Nicole Gotzner, Dongwoo Kim, Miklós Kürthy, Hyungrae Noh, Kevin Reuter, and Pascale Willemsen
+         featuring contributions by Sebastian Bernhard, Joanna Demaree-Cotton, Vilius Dranseika, Nicole Gotzner, Dongwoo Kim, Miklós Kürthy, Hyungrae Noh, and Kevin Reuter
       </td>
    </tr>
    <tr>
