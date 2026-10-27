@@ -232,6 +232,7 @@ layout: default
 
 ## Theses
 
++ Alicia Lening (in progress): _Wer denkt, wenn wir mit KI denken? Individualität und Selbstbewusstsein im Denken bei Aristoteles und Averroes_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Daniel Nowak (in progress): _Philosophieren mit Kindern über den Tod_ (bachelor’s thesis; University of Oldenburg; supervisor: Tobias Gutmann)
 + Laura Schmidke (in progress): _Sprache, Denken und Ideologie. Eine Rekonstruktion von Victor Klemperers Sprachdenken und ihre Bedeutung für den Philosophieunterricht_ (master’s thesis; University of Oldenburg; supervisor: Susanne Möbuß)
 + Schwartau, Luisa (in progress): _Wie wird das gute Leben in Aristoteles’ »Nikomachischer Ethik« und Michael Endes »Momo« charakterisiert?_ (bachelor’s thesis; University of Oldenburg; second examiner: Thomas Boyken)
