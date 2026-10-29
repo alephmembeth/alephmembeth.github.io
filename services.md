@@ -109,6 +109,7 @@ layout: default
 + _»forsch!« – Studentisches Online-Journal der Universität Oldenburg_ (2018, 2023)
 + _Philosophical Psychology_ (2026)
 + _PLOS ONE_ (2026)
++ _Review of Philosophy and Psychology_ (2026)
 + _Systems Research and Behavioral Science_ (2025)
 + _Zeitschrift für Praktische Philosophie_ (2021)
 
