@@ -3,6 +3,14 @@
 
 @import "jekyll-theme-minimal";
 
+body::before {
+   content: "";
+   position: fixed;
+   inset: 0;
+   z-index: -1;
+   background: linear-gradient(90deg, #473776 0%, #8064AF 55%, #E290C2 100%);
+}
+
 .label {
    display: inline-flex;
    align-items: center;
