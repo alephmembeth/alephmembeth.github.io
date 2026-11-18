@@ -15,15 +15,6 @@ layout: default
          <b>Deputy Representative of Academic Junior Faculty</b><br>
          <i>University of Oldenburg, Department of Philosophy</i><br>
       </td>
-   </tr>   
-   <tr>
-      <td>
-         <b>04/2019 – 04/2020</b>
-      </td>
-      <td>
-         <b>Representative of Doctoral Candidates</b><br>
-         <i>University of Oldenburg</i><br>
-      </td>
    </tr>
    <tr>
       <td>
@@ -32,6 +23,15 @@ layout: default
       <td>
          <b>Representative of Doctoral Candidates</b><br>
          <i>University of Oldenburg, Graduate School for the Social Sciences and the Humanities (3GO)</i><br>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>04/2019 – 04/2020</b>
+      </td>
+      <td>
+         <b>Representative of Doctoral Candidates</b><br>
+         <i>University of Oldenburg</i><br>
       </td>
    </tr>
    <tr>
