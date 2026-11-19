@@ -17,7 +17,7 @@ Hi there, my name’s Max. I’m a postdoctoral research assistant (»Wissenscha
 
 Most of this information can also be found in my curriculum vitae, which is available in its most recent English version [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf). If that’s not enough, you may also be interested in taking a look at my
 
-+ [latest news](./news.md),
++ [latest news and media](./news.md),
 + [current projects](./projects.md),
 + [brilliant collaborators](./collaborators.md),
 + [academic ancestry](./ancestry.md), or
