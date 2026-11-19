@@ -19,7 +19,6 @@ layout: default
 + 25/09/2019: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">»Neuer Sammelband ›Philosophie zwischen Sein und Sollen‹ erschienen«</a> (DFG Research Group FOR 2104)
 + 18/04/2019: <a href="https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250">»Besser schreiben im Tandem«</a> (University of Oldenburg)
 + 08/12/2017: <a href="https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/">»Mind the Gap. Zur Vermittlung normativer Theorie und empirischer Forschung«</a> (Karl-Jaspers-Gesellschaft)
-+ 2016: <a href="https://uol.de/einblicke/61">»Vom Lehnstuhl auf die Straße«</a> (University of Oldenburg)
 + 02/07/2015: <a href="https://www.presse.uni-oldenburg.de/mit/2015/280.html">»Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über ›Zeitbewusstsein und Sinn-Horizonte‹«</a> (University of Oldenburg)
 + 09/06/2015: <a href="https://uol.de/aktuelles/artikel/theorie-der-gerechtigkeit-gesucht-1052">»Theorie der Gerechtigkeit gesucht«</a> (University of Oldenburg)
 + 25/02/2013: <a href="https://www.weser-kurier.de/landkreis-verden/abiturient-fuehrt-die-piraten-an-doc7e4913gfbq08adqf2a1">»Abiturient führt die Piraten an«</a> (_Weser Kurier_)
